@@ -6,6 +6,13 @@ Classification systems that Harvard CID has cleaned, available for you as CSVs, 
 
 Over time at CID, we've come to know and work with a number of product, industry, occupation classification systems. While these are often international standards, there usually are regional variations, historical version differences and other factors that that complicate the life of a researcher. Oftentimes, the format these classification systems are delivered in are unsuitable for computer processing - often just dumped into a table in a website or in a PDF file or word document. We would like to provide to researchers and the general public the results of our efforts to clean this data.
 
+## Available data
+
+type|name|adaptation|localized name|version|description|link
+----|----|----------|--------------|-------|-----------|----
+industry|ISIC|Colombia|CIIU 4 A.C.|4.0|ISIC 4.0, colombian version.|[here](industry/ISIC/Colombia)
+industry|ISIC|Colombia|CIIU 3 A.C.|3.0|ISIC 3.0, colombian version.|[here](industry/ISIC/Colombia)
+
 ## Manifesto
 
 1. Data must be easily accessable and usable. There is no point to data that isn't.
@@ -13,13 +20,6 @@ Over time at CID, we've come to know and work with a number of product, industry
 3. Cleaning methodology (and wherever possible, code) must be provided. The best is to have code that processes the raw inputs directly and produces the cleaned data, in a manner that others can reproduce, or in a manner that you can reproduce 
 4. We're using CSV files because it's the most common and interchangeable format, and does not require proprietary software (MS Access, STATA). We're using quoted string fields whenever necessary.
 5. We're trying to stick to UTF-8 encoding for the files to accomodate , but will provide tools to get rid of non-ascii characters in csv files to support legacy tools such as STATA.
-
-## Available data
-
-type|name|adaptation|localized name|version|description|link
-----|----|----------|--------------|-------|-----------|----
-industry|ISIC|Colombia|CIIU 4 A.C|4.0|ISIC 4.0, colombian version.|[here](industry/ISIC/Colombia)
-industry|ISIC|Colombia|CIIU 3 A.C|3.0|ISIC 3.0, colombian version.|[here](industry/ISIC/Colombia)
 
 ## Directory Structure
 
