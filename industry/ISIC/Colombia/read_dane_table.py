@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 
-import StringIO
+import os.path
 import sys
 
 
@@ -139,12 +139,29 @@ def build_aggregation_table(df, start_level, end_level, hierarchy):
 
 
 if __name__ == "__main__":
-    assert(len(sys.argv) == 2)
-    df = pd.read_table(sys.argv[1], encoding="utf-16")
+    assert(len(sys.argv) == 3)
+
+    file_name = sys.argv[1]
+    new_file_prefix = sys.argv[2]
+
+    df = pd.read_table(file_name, encoding="utf-16")
     df = parse_dane(df)
     df = df[~df.duplicated(["code"])]
     df = set_parents(df, DANE_HIERARCHY)
+
+    file_prefix = os.path.basename(file_name)
+
+    df.columns = ["name", "level", "code", "parent_code"]
+
+    from classification import parent_code_table_to_parent_id_table, Classification, Hierarchy
+    h = Hierarchy(DANE_HIERARCHY)
+    df = parent_code_table_to_parent_id_table(df, h)
+    c = Classification(df, h)
+
+    # weird bug where pandas infer_type was returning mixed instead of string
+    df.code = df.code.astype(str)
+
+    df.to_csv(new_file_prefix + ".csv", encoding="utf-8", index=False)
+    df.to_stata(new_file_prefix + ".dta", encoding="latin-1", write_index=False)
     # agg = build_aggregation_table(df, "section", "class", DANE_HIERARCHY)
-    s = StringIO.StringIO()
-    df.to_csv(s, encoding="utf-8")
-    print s.getvalue()
+    #agg = agg.merge(df.set_index("code")[["name"]], left_on="section", right_index=True)

@@ -1,4 +1,4 @@
 READ_DANE = python2.7 read_dane_table.py
 
-: in/Correlativas3.0vs4_only3.txt |> $(READ_DANE) %f > %o |> out/isic_ac_3.0.csv
-: in/Correlativas3.0vs4_only4.txt |> $(READ_DANE) %f > %o |> out/isic_ac_4.0.csv
+: in/Correlativas3.0vs4_only3.txt |> $(READ_DANE) %f "out/isic_ac_3.0" |> out/isic_ac_3.0.csv out/isic_ac_3.0.dta
+: in/Correlativas3.0vs4_only4.txt |> $(READ_DANE) %f "out/isic_ac_4.0" |> out/isic_ac_4.0.csv out/isic_ac_4.0.dta
