@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 class Reader(object):
     def __init__(self):
@@ -124,9 +125,28 @@ class Classification(object):
         self.levels = levels
 
         assert type(table) is pd.DataFrame
+        self.validate()
 
-        for field in self.REQUIRED_FIELDS:
-            assert field in table.columns
+    def validate(self):
+
+        for field in ["code", "parent_id", "name", "level"]:
+            assert field in self.table.columns
+
+        assert self.table.index.has_duplicates is False
+        assert self.table.index.hasnans is False
+        assert self.table.index.values[0] == 0
+        assert self.table.index.is_monotonic_increasing is True
+
+        assert (self.table[["name", "level", "code"]].isnull()
+                .any().any() == False)
+
+        assert self.table.index.dtype == np.int
+        assert self.table.parent_id.dtype == np.number
+
+        assert self.table.code.dtype == np.object_
+        assert self.table.name.dtype == np.object_
+        assert self.table.level.dtype == np.object_
+
 
     def level(self, level):
         """Return only codes from a specific aggregation level."""
