@@ -55,6 +55,41 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
 
     return df.apply(replace, axis=1)
 
+# TODO: ordered table to parent id table (like DANE)
+
+def repeated_table_to_parent_id_table(df, hierarchy):
+
+    # Check there is a code and name field for every entry in the hierarchy
+    for level in hierarchy:
+        for suffix in ["code", "name"]:
+            field_name = "{}_{}".format(level, suffix)
+            assert field_name in df.columns, "Missing field: {}".format(field_name)
+
+    # Check there are no duplicate codes for the same country + dept + muni
+    # etc.
+    codes = ["{}_code".format(x) for x in hierarchy]
+    assert df[codes].duplicated().any() == False
+
+    new_table = []
+    for idx, row in df.iterrows():
+
+        parent_codes = [None]
+
+        for level in hierarchy:
+            name = row["{}_name".format(level)]
+            code = row["{}_code".format(level)]
+            new_table.append([code, name, level, parent_codes[-1]])
+            parent_codes.append(code)
+
+    new_df = pd.DataFrame(new_table, columns=["code", "name", "level", "parent_code"])
+    new_df = new_df[~new_df.duplicated()]
+    #new_df = new_df.reset_index(drop=True)
+    new_df.level = new_df.level.astype("category")
+    return new_df
+
+
+
+
 import collections
 
 class Hierarchy(collections.Mapping):
