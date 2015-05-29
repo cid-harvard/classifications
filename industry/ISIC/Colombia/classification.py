@@ -55,7 +55,24 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
 
     return df.apply(replace, axis=1)
 
-# TODO: ordered table to parent id table (like DANE)
+
+def ordered_table_to_parent_code_table(df, hierarchy):
+
+    # Mapping of current level -> code
+    hier_index = dict(zip(hierarchy, [None] * 4))
+
+    df["parent_code"] = np.NaN
+
+    def traversal_iteration(x):
+        hier_index[x.level] = x.code
+        parent_level = hierarchy.parent(x.level)
+        if parent_level is not None:
+            x.parent_code = hier_index[parent_level]
+        return x
+
+    df = df.apply(traversal_iteration, axis=1)
+    return df
+
 
 def repeated_table_to_parent_id_table(df, hierarchy):
 
