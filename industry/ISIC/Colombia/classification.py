@@ -1,40 +1,7 @@
 import pandas as pd
 import numpy as np
 
-class Reader(object):
-    def __init__(self):
-        pass
-
-    @staticmethod
-    def read(self):
-        pass
-
-
-class DANEReader(Reader):
-
-    LEVELS = []
-
-    def __init__(self, file_name):
-        pass
-
-    def parse(self):
-        pass
-
-    def get_parent_level(self):
-        pass
-
-    def set_parents(self):
-        pass
-
-
-def hierarchy_get_parent(hierarchy, level):
-    assert level in hierarchy
-
-    parent_index = hierarchy.index(level) - 1
-    if parent_index < 0:
-        return None
-    else:
-        return hierarchy[parent_index]
+import collections
 
 
 def parent_code_table_to_parent_id_table(df, hierarchy):
@@ -100,14 +67,10 @@ def repeated_table_to_parent_id_table(df, hierarchy):
 
     new_df = pd.DataFrame(new_table, columns=["code", "name", "level", "parent_code"])
     new_df = new_df[~new_df.duplicated()]
-    #new_df = new_df.reset_index(drop=True)
+    new_df = new_df.reset_index(drop=True)
     new_df.level = new_df.level.astype("category")
     return new_df
 
-
-
-
-import collections
 
 class Hierarchy(collections.Mapping):
 
