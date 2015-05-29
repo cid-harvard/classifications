@@ -147,6 +147,7 @@ if __name__ == "__main__":
     df = pd.read_table(file_name, encoding="utf-16")
     df = parse_dane(df)
     df = df[~df.duplicated(["code"])]
+    df = df.reset_index(drop=True)
     df = set_parents(df, DANE_HIERARCHY)
 
     file_prefix = os.path.basename(file_name)
@@ -159,9 +160,9 @@ if __name__ == "__main__":
     c = Classification(df, h)
 
     # weird bug where pandas infer_type was returning mixed instead of string
-    df.code = df.code.astype(str)
+    c.table.code = c.table.code.astype(str)
 
-    df.to_csv(new_file_prefix + ".csv", encoding="utf-8", index=False)
-    df.to_stata(new_file_prefix + ".dta", encoding="latin-1", write_index=False)
+    c.table.to_csv(new_file_prefix + ".csv", encoding="utf-8")
+    c.table.to_stata(new_file_prefix + ".dta", encoding="latin-1")
     # agg = build_aggregation_table(df, "section", "class", DANE_HIERARCHY)
     #agg = agg.merge(df.set_index("code")[["name"]], left_on="section", right_index=True)
