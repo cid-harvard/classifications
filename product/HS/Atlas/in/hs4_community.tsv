@@ -1,0 +1,17 @@
+code	hs_2digit	hs_community_name	hs4_community_color	hs4_community_color2
+106	01	Animal & Animal Products	#FFE999	#000000
+116	06	Vegetable Products	#FFC41C	#000000
+126	16	Foodstuffs	#D1FF00	#000000
+206	25	Mineral Products	#330000	#ffffff
+306	28	Chemicals & Allied Industries	#e377c2	#000000
+316	39	Plastics / Rubbers	#f7b6d2	#000000
+406	41	Raw Hides, Skins, Leather, & Furs	#98df8a	#000000
+506	44	Wood & Wood Products	red	#ffffff
+416	50	Textiles	#2ca02c	#ffffff
+426	64	Footwear / Headgear	#3ab11a	#ffffff
+606	68	Stone / Glass	#D66011	#ffffff
+616	72	Metals	#5E1F05	#ffffff
+706	84	Machinery / Electrical	#17becf	#000000
+716	86	Transportation	#9edae5	#000000
+906	90	Miscellaneous	#7f7f7f	#ffffff
+916	98	Service	#c7c7c7	#000000
