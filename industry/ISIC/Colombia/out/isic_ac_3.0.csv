@@ -1,745 +1,745 @@
-name,level,code,parent_id
-"AGRICULTURA, GANADERÍA, CAZA Y SILVICULTURA",section,A,
-"Agricultura, ganadería, caza y actividades de servicios conexas",division,01,0.0
-Producción específicamente agrícola,group,011,1.0
-Producción especializada de café,class,0111,2.0
-Producción especializada de flor de corte bajo cubierta y al aire libre,class,0112,2.0
-Producción especializada de banano,class,0113,2.0
-Producción especializada de caña de azúcar,class,0114,2.0
-Producción especializada de cereales y oleaginosas,class,0115,2.0
-Producción especializada de hortalizas y legumbres,class,0116,2.0
-"Producción especializada de frutas, nueces, plantas bebestibles y especias",class,0117,2.0
-Producción agrícola n.c.p. en unidades especializadas,class,0118,2.0
-Producción agrícola en unidades no especializadas,class,0119,2.0
-Producción específicamente pecuaria,group,012,1.0
-Cría especializada de ganado vacuno,class,0121,12.0
-Cría especializada de ganado porcino,class,0122,12.0
-Cría especializada de aves de corral,class,0123,12.0
-"Cría especializada de ovejas, cabras, caballos, asnos, mulas y burdéganos",class,0124,12.0
-Cría especializada de otros animales n.c.p. y la obtención de sus productos,class,0125,12.0
-Actividad pecuaria no especializada,class,0129,12.0
-Actividad mixta (agrícola y pecuaria),group,013,1.0
-Actividad mixta (agrícola y pecuaria),class,0130,19.0
-"Actividades de servicios, agrícolas y ganaderos, excepto las actividades veterinarias",group,014,1.0
-"Actividades de servicios, agrícolas y ganaderos, excepto las actividades veterinarias",class,0140,21.0
-"Caza ordinaria y mediante trampas y repoblación de animales de caza, incluso actividades de servicios conexas",group,015,1.0
-"Caza ordinaria y mediante trampas y repoblación de animales de caza, incluso actividades de servicios conexas",class,0150,23.0
-"Silvicultura, extracción de madera y actividades de servicios conexas",division,02,0.0
-"Silvicultura, extracción de madera y actividades de servicios conexas",group,020,25.0
-Silvicultura y explotación de la madera,class,0201,26.0
-Actividades de servicios relacionadas con la silvicultura y la extracción de la madera,class,0202,26.0
-No asignada,division,03,0.0
-No asignada,division,04,0.0
-PESCA,section,B,
-"Pesca, producción de peces en criaderos y granjas piscícolas; actividades de servicios relacionadas con la pesca",division,05,31.0
-"Pesca, cultivo de peces en criaderos piscícolas, actividades de servicios relacionadas con la pesca",group,050,32.0
-Pesca y cultivo de peces en criaderos y granjas piscícolas,class,0501,33.0
-Actividades de servicios relacionadas con la pesca,class,0502,33.0
-No asignada,division,06,31.0
-No asignada,division,07,31.0
-No asignada,division,08,31.0
-No asignada,division,09,31.0
-EXPLOTACIÓN DE MINAS Y CANTERAS,section,C,
-"Extracción de carbón, carbón lignítico y turba",division,10,40.0
-Extracción y aglomeración de hulla (carbón de piedra),group,101,41.0
-Extracción y aglomeración de hulla (carbón de piedra),class,1010,42.0
-Extracción y aglomeración de carbón lignítico,group,102,41.0
-Extracción y aglomeración de carbón lignítico,class,1020,44.0
-Extracción y aglomeración de turba,group,103,41.0
-Extracción y aglomeración de turba,class,1030,46.0
-"Extracción de petróleo crudo y de gas natural, actividades de servicios relacionadas con la extracción de petróleo y de gas, excepto las actividades de prospección",division,11,40.0
-Extracción de petróleo crudo y de gas natural,group,111,48.0
-Extracción de petróleo crudo y de gas natural,class,1110,49.0
-"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección",group,112,48.0
-"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección",class,1120,51.0
-Extracción de minerales de uranio y de torio,division,12,40.0
-Extracción de minerales de uranio y de torio,group,120,53.0
-Extracción de minerales de uranio y de torio,class,1200,54.0
-Extracción de minerales metalíferos,division,13,40.0
-Extracción del mineral de hierro,group,131,56.0
-Extracción del mineral de hierro,class,1310,57.0
-Extracción de metales preciosos,group,132,56.0
-Extracción de metales preciosos,class,1320,59.0
-"Extracción de minerales metalíferos no ferrosos, excepto los minerales de uranio y torio y metales preciosos",group,133,56.0
-Extracción de minerales de níquel,class,1331,61.0
-"Extracción de otros minerales metalíferos no ferrosos, excepto níquel",class,1339,61.0
-Explotación de minerales no metálicos,division,14,40.0
-"Extracción de piedra, arena, arcillas, cal, yeso, caolín y bentonitas",group,141,64.0
-"Extracción de piedra, arena y arcillas comunes",class,1411,65.0
-Extracción de yeso y anhidrita,class,1412,65.0
-"Extracción de caolín, arcillas de uso industrial y bentonitas",class,1413,65.0
-Extracción de arenas y gravas silíceas,class,1414,65.0
-Extracción de caliza y dolomita,class,1415,65.0
-Explotación de minerales para la fabricación de abonos y productos químicos; explotación de sal,group,142,64.0
-Extracción de minerales para la fabricación de abonos y productos químicos,class,1421,71.0
-Extracción de halita (sal),class,1422,71.0
-Extracción de piedras preciosas,group,143,64.0
-Extracción de esmeraldas,class,1431,74.0
-Extracción de otras piedras preciosas y semipreciosas,class,1432,74.0
-Extracción de otros minerales no metálicos n.c.p.,group,149,64.0
-Extracción de otros minerales no metálicos n.c.p.,class,1490,77.0
-INDUSTRIAS MANUFACTURERAS,section,D,
-Elaboración de productos alimenticios y de bebidas,division,15,79.0
-"Producción, transformación y conservación de carne y pescado",group,151,80.0
-"Producción, transformación y conservación de carne y de derivados cárnicos",class,1511,81.0
-Transformación y conservación de pescado y de derivados del pescado,class,1512,81.0
-"Elaboración de frutas, legumbres, hortalizas, aceites y grasas",group,152,80.0
-"Elaboración de alimentos compuestos principalmente de frutas, legumbres y hortalizas",class,1521,84.0
-Elaboración de aceites y grasas de origen vegetal y animal,class,1522,84.0
-Elaboración de productos lácteos,group,153,80.0
-Elaboración de productos lácteos,class,1530,87.0
-"Elaboración de productos de molinería, de almidones y productos derivados del almidón y alimentos preparados para animales",group,154,80.0
-Elaboración de productos de molinería,class,1541,89.0
-Elaboración de almidones y de productos derivados del almidón,class,1542,89.0
-Elaboración de alimentos preparados para animales,class,1543,89.0
-"Elaboración de productos de panadería, macarrones, fideos, alcuzcuz y productos farináceos similares",group,155,80.0
-Elaboración de productos de panadería,class,1551,93.0
-"Elaboración de macarrones, fideos, alculcuz y productos farináceos similares",class,1552,93.0
-Elaboración de productos de café,group,156,80.0
-Trilla de café,class,1561,96.0
-Descafeinado,class,1562,96.0
-Tostión y molienda del café,class,1563,96.0
-Elaboración de otros derivados del café,class,1564,96.0
-"Ingenios, refinerías de azúcar y trapiches",group,157,80.0
-Fabricación y refinación de azúcar,class,1571,101.0
-Fabricación de panela,class,1572,101.0
-Elaboración de otros productos alimenticios,group,158,80.0
-"Elaboración de cacao, chocolate y productos de confitería",class,1581,104.0
-Elaboración de otros productos alimenticios n.c.p.,class,1589,104.0
-Elaboración de bebidas,group,159,80.0
-"Destilación, rectificación y mezcla de bebidas alcohólicas, producción de alcohol etílico a partir de sustancias fermentadas",class,1591,107.0
-Elaboración de bebidas fermentadas no destiladas,class,1592,107.0
-"Producción de malta, elaboración de cervezas y otras bebidas malteadas",class,1593,107.0
-Elaboración de bebidas no alcohólicas; producción de aguas minerales,class,1594,107.0
-Fabricación de productos de tabaco,division,16,79.0
-Fabricación de productos de tabaco,group,160,112.0
-Fabricación de productos de tabaco,class,1600,113.0
-Fabricación de productos textiles,division,17,79.0
-Preparación e hilatura de fibras textiles,group,171,115.0
-Preparación e hilatura de fibras textiles,class,1710,116.0
-Tejedura de productos textiles,group,172,115.0
-Tejedura de productos textiles,class,1720,118.0
-Acabado de productos textiles no producidos en la misma unidad de producción,group,173,115.0
-Acabado de productos textiles no producidos en la misma unidad de producción,class,1730,120.0
-Fabricación de otros productos textiles,group,174,115.0
-"Confección de artículos con materiales textiles no producidos en la misma unidad, excepto prendas de vestir",class,1741,122.0
-Fabricación de tapices y alfombras para pisos,class,1742,122.0
-"Fabricación de cuerdas, cordeles, cables, bramantes y redes",class,1743,122.0
-Fabricación de otros artículos textiles n.c.p.,class,1749,122.0
-Fabricación de tejidos y artículos de punto y ganchillo,group,175,115.0
-Fabricación de tejidos y artículos de punto y ganchillo,class,1750,127.0
-Fabricación de prendas de vestir; preparado y teñido de pieles,division,18,79.0
-"Fabricación de prendas de vestir, excepto prendas de piel",group,181,129.0
-"Fabricación de prendas de vestir, excepto prendas de piel",class,1810,130.0
-Preparado y teñido de pieles; fabricación de artículos de piel,group,182,129.0
-Preparado y teñido de pieles; fabricación de artículos de piel,class,1820,132.0
-"Curtido y preparado de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y similares; artículos de talabartería y guarnicionería",division,19,79.0
-Curtido y preparado de cueros,group,191,134.0
-Curtido y preparado de cueros,class,1910,135.0
-Fabricación de calzado,group,192,134.0
-"Fabricación de calzado de cuero y piel; con cualquier tipo de suela, excepto el calzado deportivo",class,1921,137.0
-"Fabricación de calzado de materiales textiles; con cualquier tipo de suela, excepto el calzado deportivo",class,1922,137.0
-"Fabricación de calzado de caucho, excepto el calzado deportivo",class,1923,137.0
-"Fabricación de calzado de plástico, excepto el calzado deportivo",class,1924,137.0
-"Fabricación de calzado deportivo, incluso el moldeado",class,1925,137.0
-Fabricación de partes de calzado,class,1926,137.0
-Fabricación de calzado n.c.p.,class,1929,137.0
-"Fabricación de artículos de viaje, bolsos de mano, y artículos similares; fabricación de artículos de talabartería y guarnicionería",group,193,134.0
-"Fabricación de artículos de viaje, bolsos de mano y artículos similares elaborados en cuero; fabricación de artículos de talabartería y guarnicionería",class,1931,145.0
-"Fabricación de artículos de viaje, bolsos de mano y artículos similares, elaborados en materiales sintéticos, plástico e imitaciones de cuero",class,1932,145.0
-"Fabricación de artículos de viaje, bolsos de mano, y artículos similares elaborados con materiales n.c.p.",class,1939,145.0
-"Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería",division,20,79.0
-"Aserrado, acepillado e impregnación de la madera",group,201,149.0
-"Aserrado, acepillado e impregnación de la madera",class,2010,150.0
-"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",group,202,149.0
-"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",class,2020,152.0
-Fabricación de partes y piezas de carpintería para edificios y construcciones,group,203,149.0
-Fabricación de partes y piezas de carpintería para edificios y construcciones,class,2030,154.0
-Fabricación de recipientes de madera,group,204,149.0
-Fabricación de recipientes de madera,class,2040,156.0
-"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",group,209,149.0
-"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",class,2090,158.0
-"Fabricación de papel, cartón y productos de papel y cartón",division,21,79.0
-"Fabricación de papel, cartón y productos de papel y cartón",group,210,160.0
-Fabricación de pastas celulósicas; papel y cartón,class,2101,161.0
-"Fabricación de papel y cartón ondulado, fabricación de envases, empaques y de embalajes de papel y cartón",class,2102,161.0
-Fabricación de otros artículos de papel y cartón,class,2109,161.0
-Actividades de edición e impresión y reproducción de grabaciones,division,22,79.0
-Actividades de edición,group,221,165.0
-"Edición de libros, folletos, partituras y otras publicaciones",class,2211,166.0
-"Edición de periódicos, revistas y publicaciones periódicas",class,2212,166.0
-Edición de materiales grabados,class,2213,166.0
-Otros trabajos de edición,class,2219,166.0
-Actividades de impresión,group,222,165.0
-Actividades de impresión,class,2220,171.0
-Actividades de servicios relacionadas con las de impresión,group,223,165.0
-"Arte, diseño y composición",class,2231,173.0
-Fotomecánica y análogos,class,2232,173.0
-Encuadernación,class,2233,173.0
-Acabado o recubrimiento,class,2234,173.0
-Otros servicios conexos n.c.p.,class,2239,173.0
-Reproducción de materiales grabados,group,224,165.0
-Reproducción de materiales grabados,class,2240,179.0
-"Coquización, fabricación de productos de la refinación del petróleo y combustible nuclear",division,23,79.0
-Fabricación de productos de hornos de coque,group,231,181.0
-Fabricación de productos de hornos de coque,class,2310,182.0
-Fabricación de productos de la refinación del petróleo,group,232,181.0
-"Fabricación de productos de la refinación del petróleo, elaborados en refinería",class,2321,184.0
-"Elaboración de productos derivados del petróleo, fuera de refinería",class,2322,184.0
-Elaboración de combustible nuclear,group,233,181.0
-Elaboración de combustible nuclear,class,2330,187.0
-Fabricación de sustancias y productos químicos,division,24,79.0
-Fabricación de sustancias químicas básicas,group,241,189.0
-"Fabricación de sustancias químicas básicas, excepto abonos y compuestos inorgánicos nitrogenados",class,2411,190.0
-Fabricación de abonos y compuestos inorgánicos nitrogenados,class,2412,190.0
-Fabricación de plásticos en formas primarias,class,2413,190.0
-Fabricación de caucho sintético en formas primarias,class,2414,190.0
-Fabricación de otros productos químicos,group,242,189.0
-Fabricación de plaguicidas y otros productos químicos de uso agropecuario,class,2421,195.0
-"Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas",class,2422,195.0
-"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos",class,2423,195.0
-"Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador",class,2424,195.0
-Fabricación de otros productos químicos n.c.p.,class,2429,195.0
-Fabricación de fibras sintéticas y artificiales,group,243,189.0
-Fabricación de fibras sintéticas y artificiales,class,2430,201.0
-Fabricación de productos de caucho y de plástico,division,25,79.0
-Fabricación de productos de caucho,group,251,203.0
-Fabricación de llantas y neumáticos de caucho,class,2511,204.0
-Reencauche de llantas usadas,class,2512,204.0
-Fabricación de formas básicas de caucho,class,2513,204.0
-Fabricación de otros productos de caucho n.c.p.,class,2519,204.0
-Fabricación de productos de plástico,group,252,203.0
-Fabricación de formas básicas de plástico,class,2521,209.0
-Fabricación de artículos de plástico n.c.p.,class,2529,209.0
-Fabricación de otros productos minerales no metálicos,division,26,79.0
-Fabricación de vidrio y productos de vidrio,group,261,212.0
-Fabricación de vidrio y productos de vidrio,class,2610,213.0
-Fabricación de productos minerales no metálicos n.c.p.,group,269,212.0
-"Fabricación de productos de cerámica no refractaria, para uso no estructural",class,2691,215.0
-Fabricación de productos de cerámica refractaria,class,2692,215.0
-"Fabricación de productos de arcilla y cerámica no refractaria, para uso estructural",class,2693,215.0
-"Fabricación de cemento, cal y yeso",class,2694,215.0
-"Fabricación de artículos de hormigón, cemento y yeso",class,2695,215.0
-"Corte, tallado y acabado de la piedra",class,2696,215.0
-Fabricación de otros productos minerales no metálicos n.c.p.,class,2699,215.0
-Fabricación de productos metalúrgicos básicos,division,27,79.0
-Industrias básicas de hierro y de acero,group,271,223.0
-Industrias básicas de hierro y de acero,class,2710,224.0
-Industrias básicas de metales preciosos y de metales no ferrosos,group,272,223.0
-Industrias básicas de metales preciosos,class,2721,226.0
-Industrias básicas de otros metales no ferrosos,class,2729,226.0
-Fundición de metales,group,273,223.0
-Fundición de hierro y de acero,class,2731,229.0
-Fundición de metales no ferrosos,class,2732,229.0
-"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",division,28,79.0
-"Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor",group,281,232.0
-Fabricación de productos metálicos para uso estructural,class,2811,233.0
-"Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para envase o transporte de mercancías",class,2812,233.0
-"Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central",class,2813,233.0
-Fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales,group,289,232.0
-"Forja, prensado, estampado y laminado de metal; pulvimetalurgia",class,2891,237.0
-Tratamiento y revestimiento de metales; trabajos de ingeniería mecánica en general realizados a cambio de una retribución o por contrata,class,2892,237.0
-"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",class,2893,237.0
-Fabricación de otros productos elaborados de metal n.c.p.,class,2899,237.0
-Fabricación de maquinaria y equipo n.c.p.,division,29,79.0
-Fabricación de maquinaria de uso general,group,291,242.0
-"Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas",class,2911,243.0
-"Fabricación de bombas, compresores, grifos y válvulas",class,2912,243.0
-"Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión",class,2913,243.0
-"Fabricación de hornos, hogares y quemadores industriales",class,2914,243.0
-Fabricación de equipo de elevación y manipulación,class,2915,243.0
-Fabricación de otros tipos de maquinaria de uso general n.c.p.,class,2919,243.0
-Fabricación de maquinaria de uso especial,group,292,242.0
-Fabricación de maquinaria agropecuaria y forestal,class,2921,250.0
-Fabricación de máquinas herramienta,class,2922,250.0
-Fabricación de maquinaria para la metalurgia,class,2923,250.0
-Fabricación de maquinaria para la explotación de minas y canteras y para la construcción,class,2924,250.0
-"Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",class,2925,250.0
-"Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",class,2926,250.0
-Fabricación de armas y municiones,class,2927,250.0
-Fabricación de otros tipos de maquinaria de uso especial n.c.p.,class,2929,250.0
-Fabricación de aparatos de uso doméstico n.c.p.,group,293,242.0
-Fabricación de aparatos de uso doméstico n.c.p.,class,2930,259.0
-"Fabricación de maquinaria de oficina, contabilidad e informática",division,30,79.0
-"Fabricación de maquinaria de oficina, contabilidad e informática",group,300,261.0
-"Fabricación de maquinaria de oficina, contabilidad e informática",class,3000,262.0
-Fabricación de maquinaria y aparatos eléctricos n.c.p.,division,31,79.0
-"Fabricación de motores, generadores y transformadores eléctricos",group,311,264.0
-"Fabricación de motores, generadores y transformadores eléctricos",class,3110,265.0
-Fabricación de aparatos de distribución y control de la energía eléctrica,group,312,264.0
-Fabricación de aparatos de distribución y control de la energía eléctrica,class,3120,267.0
-Fabricación de hilos y cables aislados,group,313,264.0
-Fabricación de hilos y cables aislados,class,3130,269.0
-Fabricación de acumuladores y de pilas eléctricas,group,314,264.0
-Fabricación de acumuladores y de pilas eléctricas,class,3140,271.0
-Fabricación de lámparas eléctricas y equipo de iluminación,group,315,264.0
-Fabricación de lámparas eléctricas y equipo de iluminación,class,3150,273.0
-Fabricación de otros tipos de equipo eléctrico n.c.p.,group,319,264.0
-Fabricación de otros tipos de equipo eléctrico n.c.p.,class,3190,275.0
-"Fabricación de equipo y aparatos de radio, televisión y comunicaciones",division,32,79.0
-Fabricación de tubos y válvulas electrónicas y de otros componentes electrónicos,group,321,277.0
-Fabricación de tubos y válvulas electrónicas y de otros componentes electrónicos,class,3210,278.0
-Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía,group,322,277.0
-Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía,class,3220,280.0
-"Fabricación de receptores de radio y televisión, de aparatos de grabación y de reproducción del sonido o de la imagen, y de productos conexos",group,323,277.0
-"Fabricación de receptores de radio y televisión, de aparatos de grabación y de reproducción del sonido o de la imagen, y de productos conexos",class,3230,282.0
-"Fabricación de instrumentos médicos, ópticos y de precisión y fabricación de relojes",division,33,79.0
-"Fabricación de aparatos e instrumentos médicos y de aparatos para medir, verificar, ensayar, navegar y otros fines, excepto instrumentos de óptica",group,331,284.0
-Fabricación de equipo médico y quirúrgico y de aparatos ortésicos y protésicos,class,3311,285.0
-"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, excepto equipo de control de procesos industriales",class,3312,285.0
-Fabricación de equipo de control de procesos industriales,class,3313,285.0
-Fabricación de instrumentos ópticos y de equipo fotográfico,group,332,284.0
-Fabricación de instrumentos ópticos y de equipo fotográfico,class,3320,289.0
-Fabricación de relojes,group,333,284.0
-Fabricación de relojes,class,3330,291.0
-"Fabricación de vehículos automotores, remolques y semirremolques",division,34,79.0
-Fabricación de vehículos automotores y sus motores,group,341,293.0
-Fabricación de vehículos automotores y sus motores,class,3410,294.0
-Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,group,342,293.0
-Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,class,3420,296.0
-"Fabricación de partes, piezas (autopartes), accesorios (lujos) para vehículos automotores y para sus motores",group,343,293.0
-"Fabricación de partes, piezas (autopartes), accesorios (lujos) para vehículos automotores y para sus motores",class,3430,298.0
-Fabricación de otros tipos de equipo de transporte,division,35,79.0
-Construcción y reparación de buques y de otras embarcaciones,group,351,300.0
-Construcción y reparación de buques,class,3511,301.0
-Construcción y reparación de embarcaciones de recreo y de deporte,class,3512,301.0
-Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,group,352,300.0
-Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,class,3520,304.0
-Fabricación de aeronaves y de naves espaciales,group,353,300.0
-Fabricación de aeronaves y de naves espaciales,class,3530,306.0
-Fabricación de otros tipos de equipo de transporte n.c.p.,group,359,300.0
-Fabricación de motocicletas,class,3591,308.0
-Fabricación de bicicletas y de sillones de ruedas para discapacitados,class,3592,308.0
-Fabricación de otros tipos de equipo de transporte n.c.p.,class,3599,308.0
-Fabricación de muebles; industrias manufactureras n.c.p.,division,36,79.0
-Fabricación de muebles,group,361,312.0
-Fabricación de muebles para el hogar,class,3611,313.0
-Fabricación de muebles para oficina,class,3612,313.0
-Fabricación de muebles para comercio y servicios,class,3613,313.0
-Fabricación de colchones y somieres,class,3614,313.0
-Fabricación de otros muebles n.c.p.,class,3619,313.0
-Industrias manufactureras n.c.p.,group,369,312.0
-Fabricación de joyas y de artículos conexos,class,3691,319.0
-Fabricación de instrumentos musicales,class,3692,319.0
-Fabricación de artículos deportivos,class,3693,319.0
-Fabricación de juegos y juguetes,class,3694,319.0
-Otras industrias manufactureras n.c.p.,class,3699,319.0
-Reciclaje,division,37,79.0
-Reciclaje de desperdicios y de desechos metálicos,group,371,325.0
-Reciclaje de desperdicios y de desechos metálicos,class,3710,326.0
-Reciclaje de desperdicios y de desechos no metálicos,group,372,325.0
-Reciclaje de desperdicios y de desechos no metálicos,class,3720,328.0
-No asignada,division,38,79.0
-No asignada,division,39,79.0
-"SUMINISTRO DE ELECTRICIDAD, GAS Y AGUA",section,E,
-"Suministro de electricidad, gas, vapor y agua caliente",division,40,332.0
-"Generación, captación, transmisión y distribución de energía eléctrica",group,401,333.0
-"Generación, captación, transmisión y distribución de energía eléctrica",class,4010,334.0
-Fabricación de gas; distribución de combustibles gaseosos por tuberías,group,402,333.0
-Fabricación de gas; distribución de combustibles gaseosos por tuberías,class,4020,336.0
-Suministro de vapor y agua caliente,group,403,333.0
-Suministro de vapor y agua caliente,class,4030,338.0
-"Captación, depuración y distribución de agua",division,41,332.0
-"Captación, depuración y distribución de agua",group,410,340.0
-"Captación, depuración y distribución de agua",class,4100,341.0
-No Asignada,division,42,332.0
-No Asignada,division,43,332.0
-No Asignada,division,44,332.0
-CONSTRUCCIÓN,section,F,
-Construcción,division,45,346.0
-Preparación del terreno,group,451,347.0
-Trabajos de demolición y preparación de terrenos para la construcción de edificaciones,class,4511,348.0
-Trabajos de preparación de terrenos para obras civiles,class,4512,348.0
-Construcción de edificaciones completas y de partes de edificaciones,group,452,347.0
-Construcción de edificaciones para uso residencial,class,4521,351.0
-Construcción de edificaciones para uso no residencial,class,4522,351.0
-Construcción de obras de ingeniería civil,group,453,347.0
-Construcción de obras de ingeniería civil,class,4530,354.0
-Acondicionamiento de edificaciones y de obras civiles,group,454,347.0
-Instalaciones hidráulicas y trabajos conexos,class,4541,356.0
-Trabajos de electricidad,class,4542,356.0
-Trabajos de instalación de equipos,class,4543,356.0
-Otros trabajos de acondicionamiento,class,4549,356.0
-Terminación y acabado de edificaciones y de obras civiles,group,455,347.0
-Instalación de vidrios y ventanas,class,4551,361.0
-Trabajos de pintura y terminación de muros y pisos,class,4552,361.0
-Otros trabajos de terminación y acabado,class,4559,361.0
-Alquiler de equipo para construcción y demolición dotado de operarios,group,456,347.0
-Alquiler de equipo para construcción y demolición dotado de operarios,class,4560,365.0
-No Asignada,division,46,346.0
-No Asignada,division,47,346.0
-No Asignada,division,48,346.0
-No Asignada,division,49,346.0
-"COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES, MOTOCICLETAS, EFECTOS PERSONALES Y ENSERES DOMÉSTICOS",section,G,
-"Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios; comercio al por menor de combustibles y lubricantes para vehículos automotores",division,50,371.0
-Comercio de vehículos automotores,group,501,372.0
-Comercio de vehículos automotores nuevos,class,5011,373.0
-Comercio de vehículos automotores usados,class,5012,373.0
-Mantenimiento y reparación de vehículos automotores,group,502,372.0
-Mantenimiento y reparación de vehículos automotores,class,5020,376.0
-"Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",group,503,372.0
-"Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",class,5030,378.0
-"Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",group,504,372.0
-"Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",class,5040,380.0
-"Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores",group,505,372.0
-Comercio al por menor de combustible para automotores,class,5051,382.0
-"Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores",class,5052,382.0
-"Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas; mantenimiento y reparación de maquinaria y equipo",division,51,371.0
-Comercio al por mayor a cambio de una retribución o por contrata,group,511,385.0
-"Comercio al por mayor a cambio de una retribución o por contrata de productos agrícolas (excepto café), silvícolas y de animales vivos y sus productos",class,5111,386.0
-Comercio al por mayor a cambio de una retribución o por contrata de café pergamino,class,5112,386.0
-Comercio al por mayor a cambio de una retribución o por contrata de productos manufacturados,class,5113,386.0
-Comercio al por mayor a cambio de una retribución o por contrata de productos n.c.p.,class,5119,386.0
-"Comercio al por mayor de materias primas agropecuarias; animales vivos; alimentos, bebidas y tabaco",group,512,385.0
-"Comercio al por mayor de materias primas, productos agrícolas y pecuarios, excepto café y flores",class,5121,391.0
-Comercio al por mayor de café pergamino,class,5122,391.0
-Comercio al por mayor de flores y plantas ornamentales,class,5123,391.0
-Comercio al por mayor de materias primas pecuarias y de animales vivos y sus productos,class,5124,391.0
-"Comercio al por mayor de productos alimenticios, excepto café trillado",class,5125,391.0
-Comercio al por mayor de café trillado,class,5126,391.0
-Comercio al por mayor de bebidas y productos del tabaco,class,5127,391.0
-Comercio al por mayor de productos de uso doméstico,group,513,385.0
-Comercio al por mayor de productos textiles y productos confeccionados para uso doméstico,class,5131,399.0
-"Comercio al por mayor de prendas de vestir, accesorios de prendas de vestir y artículos elaborados en piel",class,5132,399.0
-Comercio al por mayor de calzado,class,5133,399.0
-"Comercio al por mayor de aparatos, artículos y equipo de uso doméstico",class,5134,399.0
-"Comercio al por mayor de productos farmacéuticos, medicinales, cosméticos y de tocador",class,5135,399.0
-Comercio al por mayor de equipos médicos y quirúrgicos y de aparatos ortésicos y protésicos,class,5136,399.0
-Comercio al por mayor de papel y cartón; productos de papel y cartón,class,5137,399.0
-Comercio al por mayor de otros productos de consumo n.c.p.,class,5139,399.0
-"Comercio al por mayor de materiales de construcción, vidrio, equipo y materiales de fontanería",group,514,385.0
-"Comercio al por mayor de materiales de construcción, ferretería y vidrio",class,5141,408.0
-Comercio al por mayor de pinturas y productos conexos,class,5142,408.0
-"Comercio al por mayor de productos intermedios no agropecuarios, desperdicios y desechos",group,515,385.0
-"Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y productos conexos",class,5151,411.0
-Comercio al por mayor de metales y minerales metalíferos en formas primarias,class,5152,411.0
-"Comercio al por mayor de productos químicos básicos, plásticos y caucho en formas primarias y productos químicos de uso agropecuario",class,5153,411.0
-Comercio al por mayor de fibras textiles,class,5154,411.0
-Comercio al por mayor de desperdicios o desechos industriales y material para reciclaje,class,5155,411.0
-Comercio al por mayor de otros productos intermedios n.c.p.,class,5159,411.0
-"Comercio al por mayor de todo tipo de maquinaria y equipo, excepto comercio de vehículos automotores",group,516,385.0
-"Comercio al por mayor de maquinaria y equipo para la agricultura, minería, construcción y la industria",class,5161,418.0
-"Comercio al por mayor de equipo de transporte, excepto vehículos automotores y motocicletas",class,5162,418.0
-"Comercio al por mayor de maquinaria para oficina, contabilidad e informática",class,5163,418.0
-Comercio al por mayor de maquinaria y equipo n.c.p.,class,5169,418.0
-Mantenimiento y reparación de maquinaria y equipo,group,517,385.0
-Mantenimiento y reparación de maquinaria y equipo,class,5170,423.0
-Comercio al por mayor de productos diversos n.c.p.,group,519,385.0
-Comercio al por mayor de productos diversos n.c.p.,class,5190,425.0
-"Comercio al por menor, excepto el comercio de vehículos automotores y motocicletas; reparación de efectos personales y enseres domésticos",division,52,371.0
-Comercio al por menor en establecimientos no especializados,group,521,427.0
-"Comercio al por menor, en establecimientos no especializados, con surtido compuesto principalmente de alimentos (víveres en general), bebidas y tabaco",class,5211,428.0
-"Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), bebidas y tabaco",class,5219,428.0
-"Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",group,522,427.0
-"Comercio al por menor de frutas y verduras, en establecimientos especializados",class,5221,431.0
-"Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados",class,5222,431.0
-"Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados",class,5223,431.0
-"Comercio al por menor de productos de confitería, en establecimientos especializados",class,5224,431.0
-"Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados",class,5225,431.0
-"Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados",class,5229,431.0
-"Comercio al por menor de productos nuevos de consumo doméstico, en establecimientos especializados",group,523,427.0
-"Comercio al por menor de productos farmacéuticos, medicinales y odontológicos; artículos de perfumería, cosméticos y de tocador, en establecimientos especializados",class,5231,438.0
-"Comercio al por menor de productos textiles, en establecimientos especializados",class,5232,438.0
-"Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel), en establecimientos especializados",class,5233,438.0
-"Comercio al por menor de todo tipo de calzado, artículos de cuero y sucedáneos del cuero, en establecimientos especializados",class,5234,438.0
-"Comercio al por menor de electrodomésticos, en establecimientos especializados",class,5235,438.0
-"Comercio al por menor de muebles para el hogar, en establecimientos especializados",class,5236,438.0
-"Comercio al por menor de equipo y artículos de uso doméstico diferentes de electrodomésticos y muebles para el hogar, en establecimientos especializados",class,5237,438.0
-"Comercio al por menor de productos nuevos de consumo doméstico n.c.p., en establecimientos especializados",class,5239,438.0
-"Comercio al por menor de otros nuevos productos de consumo, en establecimientos especializados",group,524,427.0
-"Comercio al por menor de materiales de construcción, artículos de ferretería, cerrajería y productos de vidrio, excepto pinturas, en establecimientos especializados",class,5241,447.0
-"Comercio al por menor de pinturas, en establecimientos especializados",class,5242,447.0
-"Comercio al por menor de muebles para oficina, maquinaria y equipo de oficina, computadores y programas de computador, en establecimientos especializados",class,5243,447.0
-"Comercio al por menor de libros, periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados",class,5244,447.0
-"Comercio al por menor de equipo fotográfico, en establecimientos especializados",class,5245,447.0
-"Comercio al por menor de equipo óptico y de precisión, en establecimientos especializados",class,5246,447.0
-"Comercio al por menor de otros nuevos productos de consumo n.c.p., en establecimientos especializados",class,5249,447.0
-Comercio al por menor de artículos usados y actividades de compraventa en establecimientos especializados,group,525,427.0
-"Comercio al por menor de artículos usados, en establecimientos especializados",class,5251,455.0
-Actividades comerciales de las casas de empeño o compraventas,class,5252,455.0
-Comercio al por menor no realizado en establecimientos,group,526,427.0
-Comercio al por menor a través de casas de venta por correo,class,5261,458.0
-Comercio al por menor en puestos móviles,class,5262,458.0
-Otros tipos de comercio al por menor no realizado en establecimientos,class,5269,458.0
-Reparación de efectos personales y enseres domésticos,group,527,427.0
-Reparación de efectos personales,class,5271,462.0
-Reparación de enseres domésticos,class,5272,462.0
-No asignada,division,53,371.0
-No asignada,division,54,371.0
-HOTELES Y RESTAURANTES,section,H,
-"Hoteles, restaurantes, bares y similares",division,55,467.0
-"Alojamiento en hoteles, campamentos y otros tipos de hospedaje no permanente",group,551,468.0
-"Alojamiento en hoteles, hostales y apartahoteles",class,5511,469.0
-"Alojamiento en residencias, moteles y amoblados",class,5512,469.0
-Alojamiento en centros vacacionales y zonas de camping,class,5513,469.0
-Otros tipos de alojamiento n.c.p.,class,5519,469.0
-Expendio de alimentos preparados en el sitio de venta,group,552,468.0
-Expendio a la mesa de comidas preparadas en restaurantes,class,5521,474.0
-Expendio a la mesa de comidas preparadas en cafeterías,class,5522,474.0
-Expendio por autoservicio de comidas preparadas en restaurantes,class,5523,474.0
-Expendio por autoservicio de comidas preparadas en cafeterías,class,5524,474.0
-Otros tipos de expendio n.c.p. de alimentos preparados,class,5529,474.0
-Expendio de bebidas alcohólicas para el consumo dentro del establecimiento,group,553,468.0
-Expendio de bebidas alcohólicas para el consumo dentro del establecimiento,class,5530,480.0
-No asignada,division,56,467.0
-No asignada,division,57,467.0
-No asignada,division,58,467.0
-No asignada,division,59,467.0
-"TRANSPORTE, ALMACENAMIENTO Y COMUNICACIONES",section,I,
-Transporte por vía terrestre; transporte por tuberías,division,60,486.0
-Transporte por vía férrea,group,601,487.0
-Transporte por vía férrea,class,6010,488.0
-Transporte colectivo regular de pasajeros por vía terrestre,group,602,487.0
-Transporte urbano colectivo regular de pasajeros,class,6021,490.0
-Transporte intermunicipal colectivo regular de pasajeros,class,6022,490.0
-Transporte internacional colectivo regular de pasajeros,class,6023,490.0
-Transporte no regular de pasajeros por vía terrestre,group,603,487.0
-Transporte no regular individual de pasajeros,class,6031,494.0
-Transporte colectivo no regular de pasajeros,class,6032,494.0
-Otros tipos de transporte no regular de pasajeros n.c.p,class,6039,494.0
-Transporte de carga por carretera,group,604,487.0
-"Transporte municipal de carga, por carretera",class,6041,498.0
-"Transporte intermunicipal de carga, por carretera",class,6042,498.0
-"Transporte internacional de carga, por carretera",class,6043,498.0
-Alquiler de vehículos de carga con conductor,class,6044,498.0
-Transporte por tuberías,group,605,487.0
-Transporte por tuberías,class,6050,503.0
-Transporte por vía acuática,division,61,486.0
-Transporte marítimo y de cabotaje,group,611,505.0
-Transporte marítimo internacional,class,6111,506.0
-Transporte marítimo de cabotaje,class,6112,506.0
-Transporte fluvial,group,612,505.0
-Transporte fluvial,class,6120,509.0
-Transporte por vía aérea,division,62,486.0
-Transporte regular por vía aérea,group,621,511.0
-"Transporte regular nacional de pasajeros, por vía aérea",class,6211,512.0
-"Transporte regular nacional de carga, por vía aérea",class,6212,512.0
-"Transporte regular internacional de pasajeros, por vía aérea",class,6213,512.0
-"Transporte regular internacional de carga, por vía aérea",class,6214,512.0
-"Transporte no regular, por vía aérea",group,622,511.0
-"Transporte no regular, por vía aérea",class,6220,517.0
-Actividades complementarias y auxiliares al transporte; actividades de agencias de viajes,division,63,486.0
-Manipulación de carga,group,631,519.0
-Manipulación de carga,class,6310,520.0
-Almacenamiento y depósito,group,632,519.0
-Almacenamiento y depósito,class,6320,522.0
-Actividades de las estaciones de transporte,group,633,519.0
-Actividades de estaciones de transporte terrestre,class,6331,524.0
-Actividades de estaciones de transporte acuático,class,6332,524.0
-Actividades de aeropuertos,class,6333,524.0
-Otras actividades complementarias del transporte,class,6339,524.0
-Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas n.c.p,group,634,519.0
-Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas n.c.p,class,6340,529.0
-Actividades de otras agencias de transporte,group,639,519.0
-Actividades de otras agencias de transporte,class,6390,531.0
-Correo y telecomunicaciones,division,64,486.0
-Actividades postales y de correo,group,641,533.0
-Actividades postales nacionales,class,6411,534.0
-Actividades de correo distintas de las actividades postales nacionales,class,6412,534.0
-Telecomunicaciones,group,642,533.0
-Servicios telefónicos,class,6421,537.0
-Servicios de transmisión de datos a través de redes,class,6422,537.0
-Servicios de transmisión de programas de radio y televisión,class,6423,537.0
-Servicios de transmisión por cable,class,6424,537.0
-Otros servicios de telecomunicaciones,class,6425,537.0
-Servicios relacionados con las telecomunicaciones,class,6426,537.0
-INTERMEDIACIÓN FINANCIERA,section,J,
-"Intermediación financiera, excepto los seguros y los fondos de pensiones y cesantías",division,65,544.0
-Intermediación monetaria,group,651,545.0
-Banca central,class,6511,546.0
-Actividades de los bancos diferentes del banco central,class,6512,546.0
-Actividades de las corporaciones de ahorro y vivienda,class,6513,546.0
-Actividades de las corporaciones financieras,class,6514,546.0
-Actividades de las compañías de financiamiento comercial,class,6515,546.0
-Actividades de las cooperativas de grado superior de carácter financiero,class,6516,546.0
-Otros tipos de intermediación monetaria n.c.p.,class,6519,546.0
-Otros tipos de intermediación financiera,group,659,545.0
-Arrendamiento financiero (Leasing),class,6591,554.0
-Actividades de las sociedades de fiducia,class,6592,554.0
-Actividades de las cooperativas financieras y fondos de empleados,class,6593,554.0
-Actividades de las sociedades de capitalización,class,6594,554.0
-Actividades de compra de cartera (factoring),class,6595,554.0
-Otros tipos de crédito,class,6596,554.0
-Otros tipos de intermediación financiera n.c.p.,class,6599,554.0
-"Financiación de planes de seguros y pensiones, excepto la seguridad social de afiliación obligatoria",division,66,544.0
-"Seguros y fondos de pensiones y cesantías, excepto la seguridad social de afiliación obligatoria",group,660,562.0
-Planes de seguros generales,class,6601,563.0
-Planes de seguros de vida,class,6602,563.0
-Planes de reaseguros,class,6603,563.0
-Planes de pensiones y cesantías,class,6604,563.0
-Actividades auxiliares de la intermediación financiera,division,67,544.0
-"Actividades auxiliares de la intermediación financiera, excepto los seguros y los fondos de pensiones y cesantías",group,671,568.0
-Administración de mercados financieros,class,6711,569.0
-Actividades de las bolsas de valores,class,6712,569.0
-Actividades de comisionistas y corredores de valores,class,6713,569.0
-Otras actividades relacionadas con el mercado de valores,class,6714,569.0
-Actividades de las casas de cambio,class,6715,569.0
-Actividades de los profesionales de compra y venta de divisas,class,6716,569.0
-Actividades auxiliares de la intermediación financiera n.c.p.,class,6719,569.0
-Actividades auxiliares de los seguros y de los fondos de pensiones y cesantías,group,672,568.0
-Actividades auxiliares de los seguros,class,6721,577.0
-Actividades auxiliares de los fondos de pensiones y cesantías,class,6722,577.0
-No asignada,division,68,544.0
-No asignada,division,69,544.0
-"ACTIVIDADES INMOBILIARIAS, EMPRESARIALES Y DE ALQUILER",section,K,
-Actividades inmobiliarias,division,70,582.0
-Actividades inmobiliarias realizadas con bienes propios o arrendados,group,701,583.0
-Actividades inmobiliarias realizadas con bienes propios o arrendados,class,7010,584.0
-Actividades inmobiliarias realizadas a cambio de una retribución o por contrata,group,702,583.0
-Actividades inmobiliarias realizadas a cambio de una retribución o por contrata,class,7020,586.0
-Alquiler de maquinaria y equipo sin operarios y de efectos personales y enseres domésticos,division,71,582.0
-Alquiler de equipo de transporte,group,711,588.0
-Alquiler de equipo de transporte terrestre,class,7111,589.0
-Alquiler de equipo de transporte acuático,class,7112,589.0
-Alquiler de equipo de transporte aéreo,class,7113,589.0
-Alquiler de otros tipos de maquinaria y equipo,group,712,588.0
-Alquiler de maquinaria y equipo agropecuario,class,7121,593.0
-Alquiler de maquinaria y equipo de construcción y de ingeniería civil,class,7122,593.0
-Alquiler de maquinaria y equipo de oficina (incluso computadoras),class,7123,593.0
-Alquiler de otros tipos de maquinaria y equipo n.c.p.,class,7129,593.0
-Alquiler de efectos personales y enseres domésticos n.c.p.,group,713,588.0
-Alquiler de efectos personales y enseres domésticos n.c.p.,class,7130,598.0
-Informática y actividades conexas,division,72,582.0
-Consultores en equipo de informática,group,721,600.0
-Consultores en equipo de informática,class,7210,601.0
-Consultores en programas de informática y suministro de programas de informática,group,722,600.0
-Consultores en programas de informática y suministro de programas de informática,class,7220,603.0
-Procesamiento de datos,group,723,600.0
-Procesamiento de datos,class,7230,605.0
-Actividades relacionadas con bases de datos,group,724,600.0
-Actividades relacionadas con bases de datos,class,7240,607.0
-"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",group,725,600.0
-"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",class,7250,609.0
-Otras actividades de informática,group,729,600.0
-Otras actividades de informática,class,7290,611.0
-Investigación y desarrollo,division,73,582.0
-Investigación y desarrollo experimental en el campo de las ciencias naturales y la ingeniería,group,731,613.0
-Investigación y desarrollo experimental en el campo de las ciencias naturales y la ingeniería,class,7310,614.0
-Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades,group,732,613.0
-Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades,class,7320,616.0
-Otras actividades empresariales,division,74,582.0
-"Actividades jurídicas y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudio de mercados y realización de encuestas de opinión publica; asesoramiento empresarial y en materia de gestión",group,741,618.0
-Actividades jurídicas,class,7411,619.0
-"Actividades de contabilidad, teneduría de libros y auditoria; asesoramiento en materia de impuestos",class,7412,619.0
-Investigación de mercados y realización de encuestas de opinión publica,class,7413,619.0
-Actividades de asesoramiento empresarial y en materia de gestión,class,7414,619.0
-Actividades de arquitectura e ingeniería y otras actividades técnicas,group,742,618.0
-Actividades de arquitectura e ingeniería y actividades conexas de asesoramiento técnico,class,7421,624.0
-Ensayos y análisis técnicos,class,7422,624.0
-Publicidad,group,743,618.0
-Publicidad,class,7430,627.0
-Actividades empresariales n.c.p.,group,749,618.0
-Obtención y suministro de personal,class,7491,629.0
-Actividades de investigación y seguridad,class,7492,629.0
-Actividades de limpieza de edificios,class,7493,629.0
-Actividades de fotografía,class,7494,629.0
-Actividades de envase y empaque,class,7495,629.0
-Otras actividades empresariales n.c.p.,class,7499,629.0
-ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA,section,L,
-Administración pública y defensa; seguridad social de afiliación obligatoria,division,75,636.0
-Administración del Estado y aplicación de la política económica y social de la comunidad,group,751,637.0
-Actividades legislativas de la administración pública en general,class,7511,638.0
-Actividades ejecutivas de la administración pública en general,class,7512,638.0
-"Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social",class,7513,638.0
-Actividades reguladoras y facilitadoras de la actividad económica,class,7514,638.0
-Actividades auxiliares de servicios para la administración pública en general,class,7515,638.0
-Prestación de servicios a la comunidad en general,group,752,637.0
-Relaciones exteriores,class,7521,644.0
-Actividades de defensa,class,7522,644.0
-Actividades de la justicia,class,7523,644.0
-Actividades de la policía y protección civil,class,7524,644.0
-Actividades de seguridad social de afiliación obligatoria,group,753,637.0
-Actividades de seguridad social de afiliación obligatoria,class,7530,649.0
-No asignada,division,76,636.0
-No asignada,division,77,636.0
-No asignada,division,78,636.0
-No asignada,division,79,636.0
-EDUCACIÓN,section,M,
-Educación,division,80,655.0
-Educación preescolar y primaria,group,801,656.0
-Educación preescolar,class,8011,657.0
-Educación básica primaria,class,8012,657.0
-Educación secundaria,group,802,656.0
-Educación básica secundaria,class,8021,660.0
-Educación media,class,8022,660.0
-Servicio de educación laboral especial,group,803,656.0
-Servicio de educación laboral especial,class,8030,663.0
-Establecimientos que combinan diferentes niveles de educación,group,804,656.0
-Establecimientos que prestan el servicio de educación preescolar y básica primaria,class,8041,665.0
-Establecimientos que prestan el servicio de educación preescolar y básica (básica primaria y básica secundaria),class,8042,665.0
-"Establecimientos que prestan el servicio de educación preescolar, básica (básica primaria y básica secundaria) y media",class,8043,665.0
-Establecimientos que prestan el servicio de educación básica (básica primaria y básica secundaria),class,8044,665.0
-Establecimientos que prestan el servicio de educación básica (básica primaria y básica secundaria) y media,class,8045,665.0
-Establecimientos que prestan el servicio de educación básica secundaria y media,class,8046,665.0
-Educación superior,group,805,656.0
-Educación superior,class,8050,672.0
-Educación no formal,group,806,656.0
-Educación no formal,class,8060,674.0
-No asignada,division,81,655.0
-No asignada,division,82,655.0
-No asignada,division,83,655.0
-No asignada,division,84,655.0
-SERVICIOS SOCIALES Y DE SALUD,section,N,
-Servicios sociales y de salud,division,85,680.0
-Actividades relacionadas con la salud humana,group,851,681.0
-"Actividades de las instituciones prestadoras de servicios de salud, con internación",class,8511,682.0
-Actividades de la práctica médica,class,8512,682.0
-Actividades de la práctica odontológica,class,8513,682.0
-Actividades de apoyo diagnóstico,class,8514,682.0
-Actividades de apoyo terapéutico,class,8515,682.0
-Otras actividades relacionadas con la salud humana,class,8519,682.0
-Actividades veterinarias,group,852,681.0
-Actividades veterinarias,class,8520,689.0
-Actividades de servicios sociales,group,853,681.0
-Servicios sociales con alojamiento,class,8531,691.0
-Servicios sociales sin alojamiento,class,8532,691.0
-No asignada,division,86,680.0
-No asignada,division,87,680.0
-No asignada,division,88,680.0
-No asignada,division,89,680.0
-"OTRAS ACTIVIDADES DE SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES",section,O,
-"Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares",division,90,698.0
-"Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares",group,900,699.0
-"Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares",class,9000,700.0
-Actividades de asociaciones n.c.p.,division,91,698.0
-"Actividades de organizaciones empresariales, profesionales y de empleadores",group,911,702.0
-Actividades de organizaciones empresariales y de empleadores,class,9111,703.0
-Actividades de organizaciones profesionales,class,9112,703.0
-Actividades de sindicatos,group,912,702.0
-Actividades de sindicatos,class,9120,706.0
-Actividades de otras asociaciones,group,919,702.0
-Actividades de organizaciones religiosas,class,9191,708.0
-Actividades de organizaciones políticas,class,9192,708.0
-Actividades de otras organizaciones n.c.p.,class,9199,708.0
-Actividades de esparcimiento y actividades culturales y deportivas,division,92,698.0
-"Actividades de cinematografía, radio y televisión y otras actividades de entretenimiento",group,921,712.0
-Producción y distribución de filmes y videocintas,class,9211,713.0
-Exhibición de filmes y videocintas,class,9212,713.0
-Actividades de radio y televisión,class,9213,713.0
-Actividades teatrales y musicales y otras actividades artísticas,class,9214,713.0
-Otras actividades de entretenimiento n.c.p.,class,9219,713.0
-Actividades de agencias de noticias,group,922,712.0
-Actividades de agencias de noticias,class,9220,719.0
-"Actividades de bibliotecas, archivos y museos y otras actividades culturales",group,923,712.0
-Actividades de bibliotecas y archivos,class,9231,721.0
-Actividades de museos y preservación de lugares y edificios históricos,class,9232,721.0
-Actividades de jardines botánicos y zoológicos y de parques nacionales,class,9233,721.0
-Actividades deportivas y otras actividades de esparcimiento,group,924,712.0
-Actividades deportivas,class,9241,725.0
-Actividades de juegos de azar,class,9242,725.0
-Otras actividades de esparcimiento,class,9249,725.0
-Otras actividades de servicios,division,93,698.0
-Otras actividades de servicios,group,930,729.0
-"Lavado y limpieza de prendas de tela y de piel, incluso la limpieza en seco",class,9301,730.0
-Peluquería y otros tratamientos de belleza,class,9302,730.0
-Pompas fúnebres y actividades conexas,class,9303,730.0
-Otras actividades de servicios n.c.p.,class,9309,730.0
-No asignada,division,94,698.0
-HOGARES PRIVADOS CON SERVICIO DOMÉSTICO,section,P,
-Hogares privados con servicio doméstico,division,95,736.0
-Hogares privados con servicio doméstico,group,950,737.0
-Hogares privados con servicio doméstico,class,9500,738.0
-ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES,section,Q,
-Organizaciones y órganos extraterritoriales,division,99,740.0
-Organizaciones y órganos extraterritoriales,group,990,741.0
-Organizaciones y órganos extraterritoriales,class,9900,742.0
+,name,level,code,parent_id
+0,"AGRICULTURA, GANADERÍA, CAZA Y SILVICULTURA",section,A,
+1,"Agricultura, ganadería, caza y actividades de servicios conexas",division,01,0.0
+2,Producción específicamente agrícola,group,011,1.0
+3,Producción especializada de café,class,0111,2.0
+4,Producción especializada de flor de corte bajo cubierta y al aire libre,class,0112,2.0
+5,Producción especializada de banano,class,0113,2.0
+6,Producción especializada de caña de azúcar,class,0114,2.0
+7,Producción especializada de cereales y oleaginosas,class,0115,2.0
+8,Producción especializada de hortalizas y legumbres,class,0116,2.0
+9,"Producción especializada de frutas, nueces, plantas bebestibles y especias",class,0117,2.0
+10,Producción agrícola n.c.p. en unidades especializadas,class,0118,2.0
+11,Producción agrícola en unidades no especializadas,class,0119,2.0
+12,Producción específicamente pecuaria,group,012,1.0
+13,Cría especializada de ganado vacuno,class,0121,12.0
+14,Cría especializada de ganado porcino,class,0122,12.0
+15,Cría especializada de aves de corral,class,0123,12.0
+16,"Cría especializada de ovejas, cabras, caballos, asnos, mulas y burdéganos",class,0124,12.0
+17,Cría especializada de otros animales n.c.p. y la obtención de sus productos,class,0125,12.0
+18,Actividad pecuaria no especializada,class,0129,12.0
+19,Actividad mixta (agrícola y pecuaria),group,013,1.0
+20,Actividad mixta (agrícola y pecuaria),class,0130,19.0
+21,"Actividades de servicios, agrícolas y ganaderos, excepto las actividades veterinarias",group,014,1.0
+22,"Actividades de servicios, agrícolas y ganaderos, excepto las actividades veterinarias",class,0140,21.0
+23,"Caza ordinaria y mediante trampas y repoblación de animales de caza, incluso actividades de servicios conexas",group,015,1.0
+24,"Caza ordinaria y mediante trampas y repoblación de animales de caza, incluso actividades de servicios conexas",class,0150,23.0
+25,"Silvicultura, extracción de madera y actividades de servicios conexas",division,02,0.0
+26,"Silvicultura, extracción de madera y actividades de servicios conexas",group,020,25.0
+27,Silvicultura y explotación de la madera,class,0201,26.0
+28,Actividades de servicios relacionadas con la silvicultura y la extracción de la madera,class,0202,26.0
+29,No asignada,division,03,0.0
+30,No asignada,division,04,0.0
+31,PESCA,section,B,
+32,"Pesca, producción de peces en criaderos y granjas piscícolas; actividades de servicios relacionadas con la pesca",division,05,31.0
+33,"Pesca, cultivo de peces en criaderos piscícolas, actividades de servicios relacionadas con la pesca",group,050,32.0
+34,Pesca y cultivo de peces en criaderos y granjas piscícolas,class,0501,33.0
+35,Actividades de servicios relacionadas con la pesca,class,0502,33.0
+36,No asignada,division,06,31.0
+37,No asignada,division,07,31.0
+38,No asignada,division,08,31.0
+39,No asignada,division,09,31.0
+40,EXPLOTACIÓN DE MINAS Y CANTERAS,section,C,
+41,"Extracción de carbón, carbón lignítico y turba",division,10,40.0
+42,Extracción y aglomeración de hulla (carbón de piedra),group,101,41.0
+43,Extracción y aglomeración de hulla (carbón de piedra),class,1010,42.0
+44,Extracción y aglomeración de carbón lignítico,group,102,41.0
+45,Extracción y aglomeración de carbón lignítico,class,1020,44.0
+46,Extracción y aglomeración de turba,group,103,41.0
+47,Extracción y aglomeración de turba,class,1030,46.0
+48,"Extracción de petróleo crudo y de gas natural, actividades de servicios relacionadas con la extracción de petróleo y de gas, excepto las actividades de prospección",division,11,40.0
+49,Extracción de petróleo crudo y de gas natural,group,111,48.0
+50,Extracción de petróleo crudo y de gas natural,class,1110,49.0
+51,"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección",group,112,48.0
+52,"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección",class,1120,51.0
+53,Extracción de minerales de uranio y de torio,division,12,40.0
+54,Extracción de minerales de uranio y de torio,group,120,53.0
+55,Extracción de minerales de uranio y de torio,class,1200,54.0
+56,Extracción de minerales metalíferos,division,13,40.0
+57,Extracción del mineral de hierro,group,131,56.0
+58,Extracción del mineral de hierro,class,1310,57.0
+59,Extracción de metales preciosos,group,132,56.0
+60,Extracción de metales preciosos,class,1320,59.0
+61,"Extracción de minerales metalíferos no ferrosos, excepto los minerales de uranio y torio y metales preciosos",group,133,56.0
+62,Extracción de minerales de níquel,class,1331,61.0
+63,"Extracción de otros minerales metalíferos no ferrosos, excepto níquel",class,1339,61.0
+64,Explotación de minerales no metálicos,division,14,40.0
+65,"Extracción de piedra, arena, arcillas, cal, yeso, caolín y bentonitas",group,141,64.0
+66,"Extracción de piedra, arena y arcillas comunes",class,1411,65.0
+67,Extracción de yeso y anhidrita,class,1412,65.0
+68,"Extracción de caolín, arcillas de uso industrial y bentonitas",class,1413,65.0
+69,Extracción de arenas y gravas silíceas,class,1414,65.0
+70,Extracción de caliza y dolomita,class,1415,65.0
+71,Explotación de minerales para la fabricación de abonos y productos químicos; explotación de sal,group,142,64.0
+72,Extracción de minerales para la fabricación de abonos y productos químicos,class,1421,71.0
+73,Extracción de halita (sal),class,1422,71.0
+74,Extracción de piedras preciosas,group,143,64.0
+75,Extracción de esmeraldas,class,1431,74.0
+76,Extracción de otras piedras preciosas y semipreciosas,class,1432,74.0
+77,Extracción de otros minerales no metálicos n.c.p.,group,149,64.0
+78,Extracción de otros minerales no metálicos n.c.p.,class,1490,77.0
+79,INDUSTRIAS MANUFACTURERAS,section,D,
+80,Elaboración de productos alimenticios y de bebidas,division,15,79.0
+81,"Producción, transformación y conservación de carne y pescado",group,151,80.0
+82,"Producción, transformación y conservación de carne y de derivados cárnicos",class,1511,81.0
+83,Transformación y conservación de pescado y de derivados del pescado,class,1512,81.0
+84,"Elaboración de frutas, legumbres, hortalizas, aceites y grasas",group,152,80.0
+85,"Elaboración de alimentos compuestos principalmente de frutas, legumbres y hortalizas",class,1521,84.0
+86,Elaboración de aceites y grasas de origen vegetal y animal,class,1522,84.0
+87,Elaboración de productos lácteos,group,153,80.0
+88,Elaboración de productos lácteos,class,1530,87.0
+89,"Elaboración de productos de molinería, de almidones y productos derivados del almidón y alimentos preparados para animales",group,154,80.0
+90,Elaboración de productos de molinería,class,1541,89.0
+91,Elaboración de almidones y de productos derivados del almidón,class,1542,89.0
+92,Elaboración de alimentos preparados para animales,class,1543,89.0
+93,"Elaboración de productos de panadería, macarrones, fideos, alcuzcuz y productos farináceos similares",group,155,80.0
+94,Elaboración de productos de panadería,class,1551,93.0
+95,"Elaboración de macarrones, fideos, alculcuz y productos farináceos similares",class,1552,93.0
+96,Elaboración de productos de café,group,156,80.0
+97,Trilla de café,class,1561,96.0
+98,Descafeinado,class,1562,96.0
+99,Tostión y molienda del café,class,1563,96.0
+100,Elaboración de otros derivados del café,class,1564,96.0
+101,"Ingenios, refinerías de azúcar y trapiches",group,157,80.0
+102,Fabricación y refinación de azúcar,class,1571,101.0
+103,Fabricación de panela,class,1572,101.0
+104,Elaboración de otros productos alimenticios,group,158,80.0
+105,"Elaboración de cacao, chocolate y productos de confitería",class,1581,104.0
+106,Elaboración de otros productos alimenticios n.c.p.,class,1589,104.0
+107,Elaboración de bebidas,group,159,80.0
+108,"Destilación, rectificación y mezcla de bebidas alcohólicas, producción de alcohol etílico a partir de sustancias fermentadas",class,1591,107.0
+109,Elaboración de bebidas fermentadas no destiladas,class,1592,107.0
+110,"Producción de malta, elaboración de cervezas y otras bebidas malteadas",class,1593,107.0
+111,Elaboración de bebidas no alcohólicas; producción de aguas minerales,class,1594,107.0
+112,Fabricación de productos de tabaco,division,16,79.0
+113,Fabricación de productos de tabaco,group,160,112.0
+114,Fabricación de productos de tabaco,class,1600,113.0
+115,Fabricación de productos textiles,division,17,79.0
+116,Preparación e hilatura de fibras textiles,group,171,115.0
+117,Preparación e hilatura de fibras textiles,class,1710,116.0
+118,Tejedura de productos textiles,group,172,115.0
+119,Tejedura de productos textiles,class,1720,118.0
+120,Acabado de productos textiles no producidos en la misma unidad de producción,group,173,115.0
+121,Acabado de productos textiles no producidos en la misma unidad de producción,class,1730,120.0
+122,Fabricación de otros productos textiles,group,174,115.0
+123,"Confección de artículos con materiales textiles no producidos en la misma unidad, excepto prendas de vestir",class,1741,122.0
+124,Fabricación de tapices y alfombras para pisos,class,1742,122.0
+125,"Fabricación de cuerdas, cordeles, cables, bramantes y redes",class,1743,122.0
+126,Fabricación de otros artículos textiles n.c.p.,class,1749,122.0
+127,Fabricación de tejidos y artículos de punto y ganchillo,group,175,115.0
+128,Fabricación de tejidos y artículos de punto y ganchillo,class,1750,127.0
+129,Fabricación de prendas de vestir; preparado y teñido de pieles,division,18,79.0
+130,"Fabricación de prendas de vestir, excepto prendas de piel",group,181,129.0
+131,"Fabricación de prendas de vestir, excepto prendas de piel",class,1810,130.0
+132,Preparado y teñido de pieles; fabricación de artículos de piel,group,182,129.0
+133,Preparado y teñido de pieles; fabricación de artículos de piel,class,1820,132.0
+134,"Curtido y preparado de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y similares; artículos de talabartería y guarnicionería",division,19,79.0
+135,Curtido y preparado de cueros,group,191,134.0
+136,Curtido y preparado de cueros,class,1910,135.0
+137,Fabricación de calzado,group,192,134.0
+138,"Fabricación de calzado de cuero y piel; con cualquier tipo de suela, excepto el calzado deportivo",class,1921,137.0
+139,"Fabricación de calzado de materiales textiles; con cualquier tipo de suela, excepto el calzado deportivo",class,1922,137.0
+140,"Fabricación de calzado de caucho, excepto el calzado deportivo",class,1923,137.0
+141,"Fabricación de calzado de plástico, excepto el calzado deportivo",class,1924,137.0
+142,"Fabricación de calzado deportivo, incluso el moldeado",class,1925,137.0
+143,Fabricación de partes de calzado,class,1926,137.0
+144,Fabricación de calzado n.c.p.,class,1929,137.0
+145,"Fabricación de artículos de viaje, bolsos de mano, y artículos similares; fabricación de artículos de talabartería y guarnicionería",group,193,134.0
+146,"Fabricación de artículos de viaje, bolsos de mano y artículos similares elaborados en cuero; fabricación de artículos de talabartería y guarnicionería",class,1931,145.0
+147,"Fabricación de artículos de viaje, bolsos de mano y artículos similares, elaborados en materiales sintéticos, plástico e imitaciones de cuero",class,1932,145.0
+148,"Fabricación de artículos de viaje, bolsos de mano, y artículos similares elaborados con materiales n.c.p.",class,1939,145.0
+149,"Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería",division,20,79.0
+150,"Aserrado, acepillado e impregnación de la madera",group,201,149.0
+151,"Aserrado, acepillado e impregnación de la madera",class,2010,150.0
+152,"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",group,202,149.0
+153,"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",class,2020,152.0
+154,Fabricación de partes y piezas de carpintería para edificios y construcciones,group,203,149.0
+155,Fabricación de partes y piezas de carpintería para edificios y construcciones,class,2030,154.0
+156,Fabricación de recipientes de madera,group,204,149.0
+157,Fabricación de recipientes de madera,class,2040,156.0
+158,"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",group,209,149.0
+159,"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",class,2090,158.0
+160,"Fabricación de papel, cartón y productos de papel y cartón",division,21,79.0
+161,"Fabricación de papel, cartón y productos de papel y cartón",group,210,160.0
+162,Fabricación de pastas celulósicas; papel y cartón,class,2101,161.0
+163,"Fabricación de papel y cartón ondulado, fabricación de envases, empaques y de embalajes de papel y cartón",class,2102,161.0
+164,Fabricación de otros artículos de papel y cartón,class,2109,161.0
+165,Actividades de edición e impresión y reproducción de grabaciones,division,22,79.0
+166,Actividades de edición,group,221,165.0
+167,"Edición de libros, folletos, partituras y otras publicaciones",class,2211,166.0
+168,"Edición de periódicos, revistas y publicaciones periódicas",class,2212,166.0
+169,Edición de materiales grabados,class,2213,166.0
+170,Otros trabajos de edición,class,2219,166.0
+171,Actividades de impresión,group,222,165.0
+172,Actividades de impresión,class,2220,171.0
+173,Actividades de servicios relacionadas con las de impresión,group,223,165.0
+174,"Arte, diseño y composición",class,2231,173.0
+175,Fotomecánica y análogos,class,2232,173.0
+176,Encuadernación,class,2233,173.0
+177,Acabado o recubrimiento,class,2234,173.0
+178,Otros servicios conexos n.c.p.,class,2239,173.0
+179,Reproducción de materiales grabados,group,224,165.0
+180,Reproducción de materiales grabados,class,2240,179.0
+181,"Coquización, fabricación de productos de la refinación del petróleo y combustible nuclear",division,23,79.0
+182,Fabricación de productos de hornos de coque,group,231,181.0
+183,Fabricación de productos de hornos de coque,class,2310,182.0
+184,Fabricación de productos de la refinación del petróleo,group,232,181.0
+185,"Fabricación de productos de la refinación del petróleo, elaborados en refinería",class,2321,184.0
+186,"Elaboración de productos derivados del petróleo, fuera de refinería",class,2322,184.0
+187,Elaboración de combustible nuclear,group,233,181.0
+188,Elaboración de combustible nuclear,class,2330,187.0
+189,Fabricación de sustancias y productos químicos,division,24,79.0
+190,Fabricación de sustancias químicas básicas,group,241,189.0
+191,"Fabricación de sustancias químicas básicas, excepto abonos y compuestos inorgánicos nitrogenados",class,2411,190.0
+192,Fabricación de abonos y compuestos inorgánicos nitrogenados,class,2412,190.0
+193,Fabricación de plásticos en formas primarias,class,2413,190.0
+194,Fabricación de caucho sintético en formas primarias,class,2414,190.0
+195,Fabricación de otros productos químicos,group,242,189.0
+196,Fabricación de plaguicidas y otros productos químicos de uso agropecuario,class,2421,195.0
+197,"Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas",class,2422,195.0
+198,"Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos",class,2423,195.0
+199,"Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador",class,2424,195.0
+200,Fabricación de otros productos químicos n.c.p.,class,2429,195.0
+201,Fabricación de fibras sintéticas y artificiales,group,243,189.0
+202,Fabricación de fibras sintéticas y artificiales,class,2430,201.0
+203,Fabricación de productos de caucho y de plástico,division,25,79.0
+204,Fabricación de productos de caucho,group,251,203.0
+205,Fabricación de llantas y neumáticos de caucho,class,2511,204.0
+206,Reencauche de llantas usadas,class,2512,204.0
+207,Fabricación de formas básicas de caucho,class,2513,204.0
+208,Fabricación de otros productos de caucho n.c.p.,class,2519,204.0
+209,Fabricación de productos de plástico,group,252,203.0
+210,Fabricación de formas básicas de plástico,class,2521,209.0
+211,Fabricación de artículos de plástico n.c.p.,class,2529,209.0
+212,Fabricación de otros productos minerales no metálicos,division,26,79.0
+213,Fabricación de vidrio y productos de vidrio,group,261,212.0
+214,Fabricación de vidrio y productos de vidrio,class,2610,213.0
+215,Fabricación de productos minerales no metálicos n.c.p.,group,269,212.0
+216,"Fabricación de productos de cerámica no refractaria, para uso no estructural",class,2691,215.0
+217,Fabricación de productos de cerámica refractaria,class,2692,215.0
+218,"Fabricación de productos de arcilla y cerámica no refractaria, para uso estructural",class,2693,215.0
+219,"Fabricación de cemento, cal y yeso",class,2694,215.0
+220,"Fabricación de artículos de hormigón, cemento y yeso",class,2695,215.0
+221,"Corte, tallado y acabado de la piedra",class,2696,215.0
+222,Fabricación de otros productos minerales no metálicos n.c.p.,class,2699,215.0
+223,Fabricación de productos metalúrgicos básicos,division,27,79.0
+224,Industrias básicas de hierro y de acero,group,271,223.0
+225,Industrias básicas de hierro y de acero,class,2710,224.0
+226,Industrias básicas de metales preciosos y de metales no ferrosos,group,272,223.0
+227,Industrias básicas de metales preciosos,class,2721,226.0
+228,Industrias básicas de otros metales no ferrosos,class,2729,226.0
+229,Fundición de metales,group,273,223.0
+230,Fundición de hierro y de acero,class,2731,229.0
+231,Fundición de metales no ferrosos,class,2732,229.0
+232,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",division,28,79.0
+233,"Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor",group,281,232.0
+234,Fabricación de productos metálicos para uso estructural,class,2811,233.0
+235,"Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para envase o transporte de mercancías",class,2812,233.0
+236,"Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central",class,2813,233.0
+237,Fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales,group,289,232.0
+238,"Forja, prensado, estampado y laminado de metal; pulvimetalurgia",class,2891,237.0
+239,Tratamiento y revestimiento de metales; trabajos de ingeniería mecánica en general realizados a cambio de una retribución o por contrata,class,2892,237.0
+240,"Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",class,2893,237.0
+241,Fabricación de otros productos elaborados de metal n.c.p.,class,2899,237.0
+242,Fabricación de maquinaria y equipo n.c.p.,division,29,79.0
+243,Fabricación de maquinaria de uso general,group,291,242.0
+244,"Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas",class,2911,243.0
+245,"Fabricación de bombas, compresores, grifos y válvulas",class,2912,243.0
+246,"Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión",class,2913,243.0
+247,"Fabricación de hornos, hogares y quemadores industriales",class,2914,243.0
+248,Fabricación de equipo de elevación y manipulación,class,2915,243.0
+249,Fabricación de otros tipos de maquinaria de uso general n.c.p.,class,2919,243.0
+250,Fabricación de maquinaria de uso especial,group,292,242.0
+251,Fabricación de maquinaria agropecuaria y forestal,class,2921,250.0
+252,Fabricación de máquinas herramienta,class,2922,250.0
+253,Fabricación de maquinaria para la metalurgia,class,2923,250.0
+254,Fabricación de maquinaria para la explotación de minas y canteras y para la construcción,class,2924,250.0
+255,"Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",class,2925,250.0
+256,"Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",class,2926,250.0
+257,Fabricación de armas y municiones,class,2927,250.0
+258,Fabricación de otros tipos de maquinaria de uso especial n.c.p.,class,2929,250.0
+259,Fabricación de aparatos de uso doméstico n.c.p.,group,293,242.0
+260,Fabricación de aparatos de uso doméstico n.c.p.,class,2930,259.0
+261,"Fabricación de maquinaria de oficina, contabilidad e informática",division,30,79.0
+262,"Fabricación de maquinaria de oficina, contabilidad e informática",group,300,261.0
+263,"Fabricación de maquinaria de oficina, contabilidad e informática",class,3000,262.0
+264,Fabricación de maquinaria y aparatos eléctricos n.c.p.,division,31,79.0
+265,"Fabricación de motores, generadores y transformadores eléctricos",group,311,264.0
+266,"Fabricación de motores, generadores y transformadores eléctricos",class,3110,265.0
+267,Fabricación de aparatos de distribución y control de la energía eléctrica,group,312,264.0
+268,Fabricación de aparatos de distribución y control de la energía eléctrica,class,3120,267.0
+269,Fabricación de hilos y cables aislados,group,313,264.0
+270,Fabricación de hilos y cables aislados,class,3130,269.0
+271,Fabricación de acumuladores y de pilas eléctricas,group,314,264.0
+272,Fabricación de acumuladores y de pilas eléctricas,class,3140,271.0
+273,Fabricación de lámparas eléctricas y equipo de iluminación,group,315,264.0
+274,Fabricación de lámparas eléctricas y equipo de iluminación,class,3150,273.0
+275,Fabricación de otros tipos de equipo eléctrico n.c.p.,group,319,264.0
+276,Fabricación de otros tipos de equipo eléctrico n.c.p.,class,3190,275.0
+277,"Fabricación de equipo y aparatos de radio, televisión y comunicaciones",division,32,79.0
+278,Fabricación de tubos y válvulas electrónicas y de otros componentes electrónicos,group,321,277.0
+279,Fabricación de tubos y válvulas electrónicas y de otros componentes electrónicos,class,3210,278.0
+280,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía,group,322,277.0
+281,Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía,class,3220,280.0
+282,"Fabricación de receptores de radio y televisión, de aparatos de grabación y de reproducción del sonido o de la imagen, y de productos conexos",group,323,277.0
+283,"Fabricación de receptores de radio y televisión, de aparatos de grabación y de reproducción del sonido o de la imagen, y de productos conexos",class,3230,282.0
+284,"Fabricación de instrumentos médicos, ópticos y de precisión y fabricación de relojes",division,33,79.0
+285,"Fabricación de aparatos e instrumentos médicos y de aparatos para medir, verificar, ensayar, navegar y otros fines, excepto instrumentos de óptica",group,331,284.0
+286,Fabricación de equipo médico y quirúrgico y de aparatos ortésicos y protésicos,class,3311,285.0
+287,"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, excepto equipo de control de procesos industriales",class,3312,285.0
+288,Fabricación de equipo de control de procesos industriales,class,3313,285.0
+289,Fabricación de instrumentos ópticos y de equipo fotográfico,group,332,284.0
+290,Fabricación de instrumentos ópticos y de equipo fotográfico,class,3320,289.0
+291,Fabricación de relojes,group,333,284.0
+292,Fabricación de relojes,class,3330,291.0
+293,"Fabricación de vehículos automotores, remolques y semirremolques",division,34,79.0
+294,Fabricación de vehículos automotores y sus motores,group,341,293.0
+295,Fabricación de vehículos automotores y sus motores,class,3410,294.0
+296,Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,group,342,293.0
+297,Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques,class,3420,296.0
+298,"Fabricación de partes, piezas (autopartes), accesorios (lujos) para vehículos automotores y para sus motores",group,343,293.0
+299,"Fabricación de partes, piezas (autopartes), accesorios (lujos) para vehículos automotores y para sus motores",class,3430,298.0
+300,Fabricación de otros tipos de equipo de transporte,division,35,79.0
+301,Construcción y reparación de buques y de otras embarcaciones,group,351,300.0
+302,Construcción y reparación de buques,class,3511,301.0
+303,Construcción y reparación de embarcaciones de recreo y de deporte,class,3512,301.0
+304,Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,group,352,300.0
+305,Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías,class,3520,304.0
+306,Fabricación de aeronaves y de naves espaciales,group,353,300.0
+307,Fabricación de aeronaves y de naves espaciales,class,3530,306.0
+308,Fabricación de otros tipos de equipo de transporte n.c.p.,group,359,300.0
+309,Fabricación de motocicletas,class,3591,308.0
+310,Fabricación de bicicletas y de sillones de ruedas para discapacitados,class,3592,308.0
+311,Fabricación de otros tipos de equipo de transporte n.c.p.,class,3599,308.0
+312,Fabricación de muebles; industrias manufactureras n.c.p.,division,36,79.0
+313,Fabricación de muebles,group,361,312.0
+314,Fabricación de muebles para el hogar,class,3611,313.0
+315,Fabricación de muebles para oficina,class,3612,313.0
+316,Fabricación de muebles para comercio y servicios,class,3613,313.0
+317,Fabricación de colchones y somieres,class,3614,313.0
+318,Fabricación de otros muebles n.c.p.,class,3619,313.0
+319,Industrias manufactureras n.c.p.,group,369,312.0
+320,Fabricación de joyas y de artículos conexos,class,3691,319.0
+321,Fabricación de instrumentos musicales,class,3692,319.0
+322,Fabricación de artículos deportivos,class,3693,319.0
+323,Fabricación de juegos y juguetes,class,3694,319.0
+324,Otras industrias manufactureras n.c.p.,class,3699,319.0
+325,Reciclaje,division,37,79.0
+326,Reciclaje de desperdicios y de desechos metálicos,group,371,325.0
+327,Reciclaje de desperdicios y de desechos metálicos,class,3710,326.0
+328,Reciclaje de desperdicios y de desechos no metálicos,group,372,325.0
+329,Reciclaje de desperdicios y de desechos no metálicos,class,3720,328.0
+330,No asignada,division,38,79.0
+331,No asignada,division,39,79.0
+332,"SUMINISTRO DE ELECTRICIDAD, GAS Y AGUA",section,E,
+333,"Suministro de electricidad, gas, vapor y agua caliente",division,40,332.0
+334,"Generación, captación, transmisión y distribución de energía eléctrica",group,401,333.0
+335,"Generación, captación, transmisión y distribución de energía eléctrica",class,4010,334.0
+336,Fabricación de gas; distribución de combustibles gaseosos por tuberías,group,402,333.0
+337,Fabricación de gas; distribución de combustibles gaseosos por tuberías,class,4020,336.0
+338,Suministro de vapor y agua caliente,group,403,333.0
+339,Suministro de vapor y agua caliente,class,4030,338.0
+340,"Captación, depuración y distribución de agua",division,41,332.0
+341,"Captación, depuración y distribución de agua",group,410,340.0
+342,"Captación, depuración y distribución de agua",class,4100,341.0
+343,No Asignada,division,42,332.0
+344,No Asignada,division,43,332.0
+345,No Asignada,division,44,332.0
+346,CONSTRUCCIÓN,section,F,
+347,Construcción,division,45,346.0
+348,Preparación del terreno,group,451,347.0
+349,Trabajos de demolición y preparación de terrenos para la construcción de edificaciones,class,4511,348.0
+350,Trabajos de preparación de terrenos para obras civiles,class,4512,348.0
+351,Construcción de edificaciones completas y de partes de edificaciones,group,452,347.0
+352,Construcción de edificaciones para uso residencial,class,4521,351.0
+353,Construcción de edificaciones para uso no residencial,class,4522,351.0
+354,Construcción de obras de ingeniería civil,group,453,347.0
+355,Construcción de obras de ingeniería civil,class,4530,354.0
+356,Acondicionamiento de edificaciones y de obras civiles,group,454,347.0
+357,Instalaciones hidráulicas y trabajos conexos,class,4541,356.0
+358,Trabajos de electricidad,class,4542,356.0
+359,Trabajos de instalación de equipos,class,4543,356.0
+360,Otros trabajos de acondicionamiento,class,4549,356.0
+361,Terminación y acabado de edificaciones y de obras civiles,group,455,347.0
+362,Instalación de vidrios y ventanas,class,4551,361.0
+363,Trabajos de pintura y terminación de muros y pisos,class,4552,361.0
+364,Otros trabajos de terminación y acabado,class,4559,361.0
+365,Alquiler de equipo para construcción y demolición dotado de operarios,group,456,347.0
+366,Alquiler de equipo para construcción y demolición dotado de operarios,class,4560,365.0
+367,No Asignada,division,46,346.0
+368,No Asignada,division,47,346.0
+369,No Asignada,division,48,346.0
+370,No Asignada,division,49,346.0
+371,"COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES, MOTOCICLETAS, EFECTOS PERSONALES Y ENSERES DOMÉSTICOS",section,G,
+372,"Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios; comercio al por menor de combustibles y lubricantes para vehículos automotores",division,50,371.0
+373,Comercio de vehículos automotores,group,501,372.0
+374,Comercio de vehículos automotores nuevos,class,5011,373.0
+375,Comercio de vehículos automotores usados,class,5012,373.0
+376,Mantenimiento y reparación de vehículos automotores,group,502,372.0
+377,Mantenimiento y reparación de vehículos automotores,class,5020,376.0
+378,"Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",group,503,372.0
+379,"Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",class,5030,378.0
+380,"Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",group,504,372.0
+381,"Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",class,5040,380.0
+382,"Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores",group,505,372.0
+383,Comercio al por menor de combustible para automotores,class,5051,382.0
+384,"Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores",class,5052,382.0
+385,"Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas; mantenimiento y reparación de maquinaria y equipo",division,51,371.0
+386,Comercio al por mayor a cambio de una retribución o por contrata,group,511,385.0
+387,"Comercio al por mayor a cambio de una retribución o por contrata de productos agrícolas (excepto café), silvícolas y de animales vivos y sus productos",class,5111,386.0
+388,Comercio al por mayor a cambio de una retribución o por contrata de café pergamino,class,5112,386.0
+389,Comercio al por mayor a cambio de una retribución o por contrata de productos manufacturados,class,5113,386.0
+390,Comercio al por mayor a cambio de una retribución o por contrata de productos n.c.p.,class,5119,386.0
+391,"Comercio al por mayor de materias primas agropecuarias; animales vivos; alimentos, bebidas y tabaco",group,512,385.0
+392,"Comercio al por mayor de materias primas, productos agrícolas y pecuarios, excepto café y flores",class,5121,391.0
+393,Comercio al por mayor de café pergamino,class,5122,391.0
+394,Comercio al por mayor de flores y plantas ornamentales,class,5123,391.0
+395,Comercio al por mayor de materias primas pecuarias y de animales vivos y sus productos,class,5124,391.0
+396,"Comercio al por mayor de productos alimenticios, excepto café trillado",class,5125,391.0
+397,Comercio al por mayor de café trillado,class,5126,391.0
+398,Comercio al por mayor de bebidas y productos del tabaco,class,5127,391.0
+399,Comercio al por mayor de productos de uso doméstico,group,513,385.0
+400,Comercio al por mayor de productos textiles y productos confeccionados para uso doméstico,class,5131,399.0
+401,"Comercio al por mayor de prendas de vestir, accesorios de prendas de vestir y artículos elaborados en piel",class,5132,399.0
+402,Comercio al por mayor de calzado,class,5133,399.0
+403,"Comercio al por mayor de aparatos, artículos y equipo de uso doméstico",class,5134,399.0
+404,"Comercio al por mayor de productos farmacéuticos, medicinales, cosméticos y de tocador",class,5135,399.0
+405,Comercio al por mayor de equipos médicos y quirúrgicos y de aparatos ortésicos y protésicos,class,5136,399.0
+406,Comercio al por mayor de papel y cartón; productos de papel y cartón,class,5137,399.0
+407,Comercio al por mayor de otros productos de consumo n.c.p.,class,5139,399.0
+408,"Comercio al por mayor de materiales de construcción, vidrio, equipo y materiales de fontanería",group,514,385.0
+409,"Comercio al por mayor de materiales de construcción, ferretería y vidrio",class,5141,408.0
+410,Comercio al por mayor de pinturas y productos conexos,class,5142,408.0
+411,"Comercio al por mayor de productos intermedios no agropecuarios, desperdicios y desechos",group,515,385.0
+412,"Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y productos conexos",class,5151,411.0
+413,Comercio al por mayor de metales y minerales metalíferos en formas primarias,class,5152,411.0
+414,"Comercio al por mayor de productos químicos básicos, plásticos y caucho en formas primarias y productos químicos de uso agropecuario",class,5153,411.0
+415,Comercio al por mayor de fibras textiles,class,5154,411.0
+416,Comercio al por mayor de desperdicios o desechos industriales y material para reciclaje,class,5155,411.0
+417,Comercio al por mayor de otros productos intermedios n.c.p.,class,5159,411.0
+418,"Comercio al por mayor de todo tipo de maquinaria y equipo, excepto comercio de vehículos automotores",group,516,385.0
+419,"Comercio al por mayor de maquinaria y equipo para la agricultura, minería, construcción y la industria",class,5161,418.0
+420,"Comercio al por mayor de equipo de transporte, excepto vehículos automotores y motocicletas",class,5162,418.0
+421,"Comercio al por mayor de maquinaria para oficina, contabilidad e informática",class,5163,418.0
+422,Comercio al por mayor de maquinaria y equipo n.c.p.,class,5169,418.0
+423,Mantenimiento y reparación de maquinaria y equipo,group,517,385.0
+424,Mantenimiento y reparación de maquinaria y equipo,class,5170,423.0
+425,Comercio al por mayor de productos diversos n.c.p.,group,519,385.0
+426,Comercio al por mayor de productos diversos n.c.p.,class,5190,425.0
+427,"Comercio al por menor, excepto el comercio de vehículos automotores y motocicletas; reparación de efectos personales y enseres domésticos",division,52,371.0
+428,Comercio al por menor en establecimientos no especializados,group,521,427.0
+429,"Comercio al por menor, en establecimientos no especializados, con surtido compuesto principalmente de alimentos (víveres en general), bebidas y tabaco",class,5211,428.0
+430,"Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), bebidas y tabaco",class,5219,428.0
+431,"Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",group,522,427.0
+432,"Comercio al por menor de frutas y verduras, en establecimientos especializados",class,5221,431.0
+433,"Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados",class,5222,431.0
+434,"Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados",class,5223,431.0
+435,"Comercio al por menor de productos de confitería, en establecimientos especializados",class,5224,431.0
+436,"Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados",class,5225,431.0
+437,"Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados",class,5229,431.0
+438,"Comercio al por menor de productos nuevos de consumo doméstico, en establecimientos especializados",group,523,427.0
+439,"Comercio al por menor de productos farmacéuticos, medicinales y odontológicos; artículos de perfumería, cosméticos y de tocador, en establecimientos especializados",class,5231,438.0
+440,"Comercio al por menor de productos textiles, en establecimientos especializados",class,5232,438.0
+441,"Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel), en establecimientos especializados",class,5233,438.0
+442,"Comercio al por menor de todo tipo de calzado, artículos de cuero y sucedáneos del cuero, en establecimientos especializados",class,5234,438.0
+443,"Comercio al por menor de electrodomésticos, en establecimientos especializados",class,5235,438.0
+444,"Comercio al por menor de muebles para el hogar, en establecimientos especializados",class,5236,438.0
+445,"Comercio al por menor de equipo y artículos de uso doméstico diferentes de electrodomésticos y muebles para el hogar, en establecimientos especializados",class,5237,438.0
+446,"Comercio al por menor de productos nuevos de consumo doméstico n.c.p., en establecimientos especializados",class,5239,438.0
+447,"Comercio al por menor de otros nuevos productos de consumo, en establecimientos especializados",group,524,427.0
+448,"Comercio al por menor de materiales de construcción, artículos de ferretería, cerrajería y productos de vidrio, excepto pinturas, en establecimientos especializados",class,5241,447.0
+449,"Comercio al por menor de pinturas, en establecimientos especializados",class,5242,447.0
+450,"Comercio al por menor de muebles para oficina, maquinaria y equipo de oficina, computadores y programas de computador, en establecimientos especializados",class,5243,447.0
+451,"Comercio al por menor de libros, periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados",class,5244,447.0
+452,"Comercio al por menor de equipo fotográfico, en establecimientos especializados",class,5245,447.0
+453,"Comercio al por menor de equipo óptico y de precisión, en establecimientos especializados",class,5246,447.0
+454,"Comercio al por menor de otros nuevos productos de consumo n.c.p., en establecimientos especializados",class,5249,447.0
+455,Comercio al por menor de artículos usados y actividades de compraventa en establecimientos especializados,group,525,427.0
+456,"Comercio al por menor de artículos usados, en establecimientos especializados",class,5251,455.0
+457,Actividades comerciales de las casas de empeño o compraventas,class,5252,455.0
+458,Comercio al por menor no realizado en establecimientos,group,526,427.0
+459,Comercio al por menor a través de casas de venta por correo,class,5261,458.0
+460,Comercio al por menor en puestos móviles,class,5262,458.0
+461,Otros tipos de comercio al por menor no realizado en establecimientos,class,5269,458.0
+462,Reparación de efectos personales y enseres domésticos,group,527,427.0
+463,Reparación de efectos personales,class,5271,462.0
+464,Reparación de enseres domésticos,class,5272,462.0
+465,No asignada,division,53,371.0
+466,No asignada,division,54,371.0
+467,HOTELES Y RESTAURANTES,section,H,
+468,"Hoteles, restaurantes, bares y similares",division,55,467.0
+469,"Alojamiento en hoteles, campamentos y otros tipos de hospedaje no permanente",group,551,468.0
+470,"Alojamiento en hoteles, hostales y apartahoteles",class,5511,469.0
+471,"Alojamiento en residencias, moteles y amoblados",class,5512,469.0
+472,Alojamiento en centros vacacionales y zonas de camping,class,5513,469.0
+473,Otros tipos de alojamiento n.c.p.,class,5519,469.0
+474,Expendio de alimentos preparados en el sitio de venta,group,552,468.0
+475,Expendio a la mesa de comidas preparadas en restaurantes,class,5521,474.0
+476,Expendio a la mesa de comidas preparadas en cafeterías,class,5522,474.0
+477,Expendio por autoservicio de comidas preparadas en restaurantes,class,5523,474.0
+478,Expendio por autoservicio de comidas preparadas en cafeterías,class,5524,474.0
+479,Otros tipos de expendio n.c.p. de alimentos preparados,class,5529,474.0
+480,Expendio de bebidas alcohólicas para el consumo dentro del establecimiento,group,553,468.0
+481,Expendio de bebidas alcohólicas para el consumo dentro del establecimiento,class,5530,480.0
+482,No asignada,division,56,467.0
+483,No asignada,division,57,467.0
+484,No asignada,division,58,467.0
+485,No asignada,division,59,467.0
+486,"TRANSPORTE, ALMACENAMIENTO Y COMUNICACIONES",section,I,
+487,Transporte por vía terrestre; transporte por tuberías,division,60,486.0
+488,Transporte por vía férrea,group,601,487.0
+489,Transporte por vía férrea,class,6010,488.0
+490,Transporte colectivo regular de pasajeros por vía terrestre,group,602,487.0
+491,Transporte urbano colectivo regular de pasajeros,class,6021,490.0
+492,Transporte intermunicipal colectivo regular de pasajeros,class,6022,490.0
+493,Transporte internacional colectivo regular de pasajeros,class,6023,490.0
+494,Transporte no regular de pasajeros por vía terrestre,group,603,487.0
+495,Transporte no regular individual de pasajeros,class,6031,494.0
+496,Transporte colectivo no regular de pasajeros,class,6032,494.0
+497,Otros tipos de transporte no regular de pasajeros n.c.p,class,6039,494.0
+498,Transporte de carga por carretera,group,604,487.0
+499,"Transporte municipal de carga, por carretera",class,6041,498.0
+500,"Transporte intermunicipal de carga, por carretera",class,6042,498.0
+501,"Transporte internacional de carga, por carretera",class,6043,498.0
+502,Alquiler de vehículos de carga con conductor,class,6044,498.0
+503,Transporte por tuberías,group,605,487.0
+504,Transporte por tuberías,class,6050,503.0
+505,Transporte por vía acuática,division,61,486.0
+506,Transporte marítimo y de cabotaje,group,611,505.0
+507,Transporte marítimo internacional,class,6111,506.0
+508,Transporte marítimo de cabotaje,class,6112,506.0
+509,Transporte fluvial,group,612,505.0
+510,Transporte fluvial,class,6120,509.0
+511,Transporte por vía aérea,division,62,486.0
+512,Transporte regular por vía aérea,group,621,511.0
+513,"Transporte regular nacional de pasajeros, por vía aérea",class,6211,512.0
+514,"Transporte regular nacional de carga, por vía aérea",class,6212,512.0
+515,"Transporte regular internacional de pasajeros, por vía aérea",class,6213,512.0
+516,"Transporte regular internacional de carga, por vía aérea",class,6214,512.0
+517,"Transporte no regular, por vía aérea",group,622,511.0
+518,"Transporte no regular, por vía aérea",class,6220,517.0
+519,Actividades complementarias y auxiliares al transporte; actividades de agencias de viajes,division,63,486.0
+520,Manipulación de carga,group,631,519.0
+521,Manipulación de carga,class,6310,520.0
+522,Almacenamiento y depósito,group,632,519.0
+523,Almacenamiento y depósito,class,6320,522.0
+524,Actividades de las estaciones de transporte,group,633,519.0
+525,Actividades de estaciones de transporte terrestre,class,6331,524.0
+526,Actividades de estaciones de transporte acuático,class,6332,524.0
+527,Actividades de aeropuertos,class,6333,524.0
+528,Otras actividades complementarias del transporte,class,6339,524.0
+529,Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas n.c.p,group,634,519.0
+530,Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas n.c.p,class,6340,529.0
+531,Actividades de otras agencias de transporte,group,639,519.0
+532,Actividades de otras agencias de transporte,class,6390,531.0
+533,Correo y telecomunicaciones,division,64,486.0
+534,Actividades postales y de correo,group,641,533.0
+535,Actividades postales nacionales,class,6411,534.0
+536,Actividades de correo distintas de las actividades postales nacionales,class,6412,534.0
+537,Telecomunicaciones,group,642,533.0
+538,Servicios telefónicos,class,6421,537.0
+539,Servicios de transmisión de datos a través de redes,class,6422,537.0
+540,Servicios de transmisión de programas de radio y televisión,class,6423,537.0
+541,Servicios de transmisión por cable,class,6424,537.0
+542,Otros servicios de telecomunicaciones,class,6425,537.0
+543,Servicios relacionados con las telecomunicaciones,class,6426,537.0
+544,INTERMEDIACIÓN FINANCIERA,section,J,
+545,"Intermediación financiera, excepto los seguros y los fondos de pensiones y cesantías",division,65,544.0
+546,Intermediación monetaria,group,651,545.0
+547,Banca central,class,6511,546.0
+548,Actividades de los bancos diferentes del banco central,class,6512,546.0
+549,Actividades de las corporaciones de ahorro y vivienda,class,6513,546.0
+550,Actividades de las corporaciones financieras,class,6514,546.0
+551,Actividades de las compañías de financiamiento comercial,class,6515,546.0
+552,Actividades de las cooperativas de grado superior de carácter financiero,class,6516,546.0
+553,Otros tipos de intermediación monetaria n.c.p.,class,6519,546.0
+554,Otros tipos de intermediación financiera,group,659,545.0
+555,Arrendamiento financiero (Leasing),class,6591,554.0
+556,Actividades de las sociedades de fiducia,class,6592,554.0
+557,Actividades de las cooperativas financieras y fondos de empleados,class,6593,554.0
+558,Actividades de las sociedades de capitalización,class,6594,554.0
+559,Actividades de compra de cartera (factoring),class,6595,554.0
+560,Otros tipos de crédito,class,6596,554.0
+561,Otros tipos de intermediación financiera n.c.p.,class,6599,554.0
+562,"Financiación de planes de seguros y pensiones, excepto la seguridad social de afiliación obligatoria",division,66,544.0
+563,"Seguros y fondos de pensiones y cesantías, excepto la seguridad social de afiliación obligatoria",group,660,562.0
+564,Planes de seguros generales,class,6601,563.0
+565,Planes de seguros de vida,class,6602,563.0
+566,Planes de reaseguros,class,6603,563.0
+567,Planes de pensiones y cesantías,class,6604,563.0
+568,Actividades auxiliares de la intermediación financiera,division,67,544.0
+569,"Actividades auxiliares de la intermediación financiera, excepto los seguros y los fondos de pensiones y cesantías",group,671,568.0
+570,Administración de mercados financieros,class,6711,569.0
+571,Actividades de las bolsas de valores,class,6712,569.0
+572,Actividades de comisionistas y corredores de valores,class,6713,569.0
+573,Otras actividades relacionadas con el mercado de valores,class,6714,569.0
+574,Actividades de las casas de cambio,class,6715,569.0
+575,Actividades de los profesionales de compra y venta de divisas,class,6716,569.0
+576,Actividades auxiliares de la intermediación financiera n.c.p.,class,6719,569.0
+577,Actividades auxiliares de los seguros y de los fondos de pensiones y cesantías,group,672,568.0
+578,Actividades auxiliares de los seguros,class,6721,577.0
+579,Actividades auxiliares de los fondos de pensiones y cesantías,class,6722,577.0
+580,No asignada,division,68,544.0
+581,No asignada,division,69,544.0
+582,"ACTIVIDADES INMOBILIARIAS, EMPRESARIALES Y DE ALQUILER",section,K,
+583,Actividades inmobiliarias,division,70,582.0
+584,Actividades inmobiliarias realizadas con bienes propios o arrendados,group,701,583.0
+585,Actividades inmobiliarias realizadas con bienes propios o arrendados,class,7010,584.0
+586,Actividades inmobiliarias realizadas a cambio de una retribución o por contrata,group,702,583.0
+587,Actividades inmobiliarias realizadas a cambio de una retribución o por contrata,class,7020,586.0
+588,Alquiler de maquinaria y equipo sin operarios y de efectos personales y enseres domésticos,division,71,582.0
+589,Alquiler de equipo de transporte,group,711,588.0
+590,Alquiler de equipo de transporte terrestre,class,7111,589.0
+591,Alquiler de equipo de transporte acuático,class,7112,589.0
+592,Alquiler de equipo de transporte aéreo,class,7113,589.0
+593,Alquiler de otros tipos de maquinaria y equipo,group,712,588.0
+594,Alquiler de maquinaria y equipo agropecuario,class,7121,593.0
+595,Alquiler de maquinaria y equipo de construcción y de ingeniería civil,class,7122,593.0
+596,Alquiler de maquinaria y equipo de oficina (incluso computadoras),class,7123,593.0
+597,Alquiler de otros tipos de maquinaria y equipo n.c.p.,class,7129,593.0
+598,Alquiler de efectos personales y enseres domésticos n.c.p.,group,713,588.0
+599,Alquiler de efectos personales y enseres domésticos n.c.p.,class,7130,598.0
+600,Informática y actividades conexas,division,72,582.0
+601,Consultores en equipo de informática,group,721,600.0
+602,Consultores en equipo de informática,class,7210,601.0
+603,Consultores en programas de informática y suministro de programas de informática,group,722,600.0
+604,Consultores en programas de informática y suministro de programas de informática,class,7220,603.0
+605,Procesamiento de datos,group,723,600.0
+606,Procesamiento de datos,class,7230,605.0
+607,Actividades relacionadas con bases de datos,group,724,600.0
+608,Actividades relacionadas con bases de datos,class,7240,607.0
+609,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",group,725,600.0
+610,"Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática",class,7250,609.0
+611,Otras actividades de informática,group,729,600.0
+612,Otras actividades de informática,class,7290,611.0
+613,Investigación y desarrollo,division,73,582.0
+614,Investigación y desarrollo experimental en el campo de las ciencias naturales y la ingeniería,group,731,613.0
+615,Investigación y desarrollo experimental en el campo de las ciencias naturales y la ingeniería,class,7310,614.0
+616,Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades,group,732,613.0
+617,Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades,class,7320,616.0
+618,Otras actividades empresariales,division,74,582.0
+619,"Actividades jurídicas y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudio de mercados y realización de encuestas de opinión publica; asesoramiento empresarial y en materia de gestión",group,741,618.0
+620,Actividades jurídicas,class,7411,619.0
+621,"Actividades de contabilidad, teneduría de libros y auditoria; asesoramiento en materia de impuestos",class,7412,619.0
+622,Investigación de mercados y realización de encuestas de opinión publica,class,7413,619.0
+623,Actividades de asesoramiento empresarial y en materia de gestión,class,7414,619.0
+624,Actividades de arquitectura e ingeniería y otras actividades técnicas,group,742,618.0
+625,Actividades de arquitectura e ingeniería y actividades conexas de asesoramiento técnico,class,7421,624.0
+626,Ensayos y análisis técnicos,class,7422,624.0
+627,Publicidad,group,743,618.0
+628,Publicidad,class,7430,627.0
+629,Actividades empresariales n.c.p.,group,749,618.0
+630,Obtención y suministro de personal,class,7491,629.0
+631,Actividades de investigación y seguridad,class,7492,629.0
+632,Actividades de limpieza de edificios,class,7493,629.0
+633,Actividades de fotografía,class,7494,629.0
+634,Actividades de envase y empaque,class,7495,629.0
+635,Otras actividades empresariales n.c.p.,class,7499,629.0
+636,ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA,section,L,
+637,Administración pública y defensa; seguridad social de afiliación obligatoria,division,75,636.0
+638,Administración del Estado y aplicación de la política económica y social de la comunidad,group,751,637.0
+639,Actividades legislativas de la administración pública en general,class,7511,638.0
+640,Actividades ejecutivas de la administración pública en general,class,7512,638.0
+641,"Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social",class,7513,638.0
+642,Actividades reguladoras y facilitadoras de la actividad económica,class,7514,638.0
+643,Actividades auxiliares de servicios para la administración pública en general,class,7515,638.0
+644,Prestación de servicios a la comunidad en general,group,752,637.0
+645,Relaciones exteriores,class,7521,644.0
+646,Actividades de defensa,class,7522,644.0
+647,Actividades de la justicia,class,7523,644.0
+648,Actividades de la policía y protección civil,class,7524,644.0
+649,Actividades de seguridad social de afiliación obligatoria,group,753,637.0
+650,Actividades de seguridad social de afiliación obligatoria,class,7530,649.0
+651,No asignada,division,76,636.0
+652,No asignada,division,77,636.0
+653,No asignada,division,78,636.0
+654,No asignada,division,79,636.0
+655,EDUCACIÓN,section,M,
+656,Educación,division,80,655.0
+657,Educación preescolar y primaria,group,801,656.0
+658,Educación preescolar,class,8011,657.0
+659,Educación básica primaria,class,8012,657.0
+660,Educación secundaria,group,802,656.0
+661,Educación básica secundaria,class,8021,660.0
+662,Educación media,class,8022,660.0
+663,Servicio de educación laboral especial,group,803,656.0
+664,Servicio de educación laboral especial,class,8030,663.0
+665,Establecimientos que combinan diferentes niveles de educación,group,804,656.0
+666,Establecimientos que prestan el servicio de educación preescolar y básica primaria,class,8041,665.0
+667,Establecimientos que prestan el servicio de educación preescolar y básica (básica primaria y básica secundaria),class,8042,665.0
+668,"Establecimientos que prestan el servicio de educación preescolar, básica (básica primaria y básica secundaria) y media",class,8043,665.0
+669,Establecimientos que prestan el servicio de educación básica (básica primaria y básica secundaria),class,8044,665.0
+670,Establecimientos que prestan el servicio de educación básica (básica primaria y básica secundaria) y media,class,8045,665.0
+671,Establecimientos que prestan el servicio de educación básica secundaria y media,class,8046,665.0
+672,Educación superior,group,805,656.0
+673,Educación superior,class,8050,672.0
+674,Educación no formal,group,806,656.0
+675,Educación no formal,class,8060,674.0
+676,No asignada,division,81,655.0
+677,No asignada,division,82,655.0
+678,No asignada,division,83,655.0
+679,No asignada,division,84,655.0
+680,SERVICIOS SOCIALES Y DE SALUD,section,N,
+681,Servicios sociales y de salud,division,85,680.0
+682,Actividades relacionadas con la salud humana,group,851,681.0
+683,"Actividades de las instituciones prestadoras de servicios de salud, con internación",class,8511,682.0
+684,Actividades de la práctica médica,class,8512,682.0
+685,Actividades de la práctica odontológica,class,8513,682.0
+686,Actividades de apoyo diagnóstico,class,8514,682.0
+687,Actividades de apoyo terapéutico,class,8515,682.0
+688,Otras actividades relacionadas con la salud humana,class,8519,682.0
+689,Actividades veterinarias,group,852,681.0
+690,Actividades veterinarias,class,8520,689.0
+691,Actividades de servicios sociales,group,853,681.0
+692,Servicios sociales con alojamiento,class,8531,691.0
+693,Servicios sociales sin alojamiento,class,8532,691.0
+694,No asignada,division,86,680.0
+695,No asignada,division,87,680.0
+696,No asignada,division,88,680.0
+697,No asignada,division,89,680.0
+698,"OTRAS ACTIVIDADES DE SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES",section,O,
+699,"Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares",division,90,698.0
+700,"Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares",group,900,699.0
+701,"Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares",class,9000,700.0
+702,Actividades de asociaciones n.c.p.,division,91,698.0
+703,"Actividades de organizaciones empresariales, profesionales y de empleadores",group,911,702.0
+704,Actividades de organizaciones empresariales y de empleadores,class,9111,703.0
+705,Actividades de organizaciones profesionales,class,9112,703.0
+706,Actividades de sindicatos,group,912,702.0
+707,Actividades de sindicatos,class,9120,706.0
+708,Actividades de otras asociaciones,group,919,702.0
+709,Actividades de organizaciones religiosas,class,9191,708.0
+710,Actividades de organizaciones políticas,class,9192,708.0
+711,Actividades de otras organizaciones n.c.p.,class,9199,708.0
+712,Actividades de esparcimiento y actividades culturales y deportivas,division,92,698.0
+713,"Actividades de cinematografía, radio y televisión y otras actividades de entretenimiento",group,921,712.0
+714,Producción y distribución de filmes y videocintas,class,9211,713.0
+715,Exhibición de filmes y videocintas,class,9212,713.0
+716,Actividades de radio y televisión,class,9213,713.0
+717,Actividades teatrales y musicales y otras actividades artísticas,class,9214,713.0
+718,Otras actividades de entretenimiento n.c.p.,class,9219,713.0
+719,Actividades de agencias de noticias,group,922,712.0
+720,Actividades de agencias de noticias,class,9220,719.0
+721,"Actividades de bibliotecas, archivos y museos y otras actividades culturales",group,923,712.0
+722,Actividades de bibliotecas y archivos,class,9231,721.0
+723,Actividades de museos y preservación de lugares y edificios históricos,class,9232,721.0
+724,Actividades de jardines botánicos y zoológicos y de parques nacionales,class,9233,721.0
+725,Actividades deportivas y otras actividades de esparcimiento,group,924,712.0
+726,Actividades deportivas,class,9241,725.0
+727,Actividades de juegos de azar,class,9242,725.0
+728,Otras actividades de esparcimiento,class,9249,725.0
+729,Otras actividades de servicios,division,93,698.0
+730,Otras actividades de servicios,group,930,729.0
+731,"Lavado y limpieza de prendas de tela y de piel, incluso la limpieza en seco",class,9301,730.0
+732,Peluquería y otros tratamientos de belleza,class,9302,730.0
+733,Pompas fúnebres y actividades conexas,class,9303,730.0
+734,Otras actividades de servicios n.c.p.,class,9309,730.0
+735,No asignada,division,94,698.0
+736,HOGARES PRIVADOS CON SERVICIO DOMÉSTICO,section,P,
+737,Hogares privados con servicio doméstico,division,95,736.0
+738,Hogares privados con servicio doméstico,group,950,737.0
+739,Hogares privados con servicio doméstico,class,9500,738.0
+740,ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES,section,Q,
+741,Organizaciones y órganos extraterritoriales,division,99,740.0
+742,Organizaciones y órganos extraterritoriales,group,990,741.0
+743,Organizaciones y órganos extraterritoriales,class,9900,742.0
