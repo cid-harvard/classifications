@@ -170,7 +170,12 @@ class Classification(object):
         assert self.table.index.has_duplicates is False
         assert self.table.index.hasnans is False
         assert self.table.index.values[0] == 0
-        assert self.table.index.is_monotonic_increasing is True
+
+        # Use gauss's trick to check that the index is 0,1,2,3 ... n
+        index_size = self.table.index.size
+        sum_guess = (index_size - 1) * (index_size) / 2
+        actual_sum = sum(self.table.index)
+        assert sum_guess == actual_sum
 
         assert (self.table[["name", "level", "code"]].isnull()
                 .any().any() == False)
