@@ -12,14 +12,15 @@ type|name|adaptation|localized name|version|description|link
 ----|----|----------|--------------|-------|-----------|----
 industry|ISIC|Colombia|CIIU 4 A.C.|4.0|ISIC 4.0, colombian version.|[here](industry/ISIC/Colombia)
 industry|ISIC|Colombia|CIIU 3 A.C.|3.0|ISIC 3.0, colombian version.|[here](industry/ISIC/Colombia)
+product|HS|International|Harmonized System|1992|Harmonized system, as used by the Atlas of Economic Complexity.|[here](product/HS/Atlas)
 
-## Manifesto
+## Guidelines
 
-1. Data must be easily accessable and usable. There is no point to data that isn't. We're trying to help with this.
+1. Data must be easily accessible and usable. There is no point to data that isn't. We're trying to help with this.
 2. Provenance must be clear whenever possible. The original source must be cited and linked. Data without a source cannot be considered reliable and might as well not exist. Data that has a clear source that is difficult to access is still bad. 
 3. Cleaning methodology (and wherever possible, code) must be provided. The best is to have code that processes the raw inputs directly and produces the cleaned data, in a manner that others can reproduce, or in a manner that, when there is a change or update to the original source, you can repeat.
 4. We're using CSV files because it's the most common and interchangeable format, and does not require proprietary software (MS Access, STATA). We're using quoted string fields whenever necessary.
-5. We're trying to stick to UTF-8 encoding for the files to accomodate different languages, but will provide tools to get rid of non-ascii characters in csv files to support a wider variety of software.
+5. We're trying to stick to UTF-8 encoding for the files to accommodate different languages, but will provide tools to get rid of non-ascii characters in csv files to support a wider variety of software.
 
 ## Directory Structure
 
