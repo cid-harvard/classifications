@@ -2,6 +2,14 @@ import pandas as pd
 import numpy as np
 
 import collections
+import os.path
+
+import csv
+
+
+def load(path):
+    path = os.path.join(os.path.dirname(__file__), path)
+    return Classification.from_csv(path)
 
 
 def parent_code_table_to_parent_id_table(df, hierarchy):
@@ -206,3 +214,12 @@ class Classification(object):
         parents.index.name = from_level
 
         return parents
+
+    @staticmethod
+    def from_csv(path):
+        df = pd.read_csv(path, dtype={"code": "str"}, index_col=0)
+        h = Hierarchy(df.level.unique())
+        return Classification(df, h)
+
+    def to_csv(self, path):
+        self.table.to_csv(path, encoding="utf-8", quoting=csv.QUOTE_NONNUMERIC)

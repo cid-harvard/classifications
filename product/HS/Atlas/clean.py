@@ -41,4 +41,4 @@ if __name__ == "__main__":
     # weird bug where pandas infer_type was returning mixed instead of string
     c.table.code = c.table.code.astype(str)
 
-    c.table.to_csv("out/hs92_atlas.csv", encoding="utf-8")
+    c.to_csv("out/hs92_atlas.csv")
