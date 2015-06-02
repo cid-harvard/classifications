@@ -4,7 +4,7 @@ Classification systems that Harvard CID has cleaned, available for you as CSVs, 
 
 ## Background
 
-Over time at CID, we've come to know and work with a number of product, industry, occupation classification systems. While these are often international standards, there usually are regional variations, historical version differences and other factors that that complicate the life of a researcher. Oftentimes, the format these classification systems are delivered in are unsuitable for computer processing - often just dumped into a table in a website or in a PDF file or word document. We would like to provide to researchers and the general public the results of our efforts to clean this data.
+Over time at CID, we've come to know and work with a number of product, industry, occupation and location classification systems. While these are often international standards, there usually are regional variations, historical version differences and other factors that that complicate the life of a researcher. Oftentimes, the format these classification systems are delivered in are unsuitable for computer processing - often just dumped into a table in a website or in a PDF file or word document. We would like to provide to researchers and the general public the results of our efforts to clean this data.
 
 ## Available data
 
@@ -13,6 +13,7 @@ type|name|adaptation|localized name|version|description|link
 industry|ISIC|Colombia|CIIU 4 A.C.|4.0|ISIC 4.0, colombian version.|[here](industry/ISIC/Colombia)
 industry|ISIC|Colombia|CIIU 3 A.C.|3.0|ISIC 3.0, colombian version.|[here](industry/ISIC/Colombia)
 product|HS|International|Harmonized System|1992|Harmonized system, as used by the Atlas of Economic Complexity.|[here](product/HS/Atlas)
+location|DANE Divipola |||2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/DANE)
 
 ## Guidelines
 
