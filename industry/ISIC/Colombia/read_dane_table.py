@@ -79,6 +79,8 @@ if __name__ == "__main__":
     df = df.reset_index(drop=True)
     df.columns = ["name", "level", "code"]
 
+    df.name = df.name.str.title()
+
     from classification import (parent_code_table_to_parent_id_table,
                                 Classification, Hierarchy,
                                 ordered_table_to_parent_code_table)
