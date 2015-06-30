@@ -83,7 +83,7 @@ def repeated_table_to_parent_id_table(df, hierarchy):
 class Hierarchy(collections.Mapping):
 
     def __init__(self, items):
-        self.items = items
+        self.items = list(items)
 
     def __contains__(self, item):
         return item in self.items
