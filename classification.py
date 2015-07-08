@@ -16,20 +16,11 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
     """From a classification that has parent_code, go to one that has
     parent_id."""
 
-    def replace(x):
-        parent_level = hierarchy.parent(x.level)
+    code_table = df[["code"]].reset_index()
+    code_table.columns = ["parent_id", "parent_code"]
 
-        if parent_level is None:
-            x["parent_id"] = None
-        else:
-            parent_rows = df[(df.code == x.parent_code)
-                             & (df.level == parent_level)]
-            x["parent_id"] = parent_rows.index[0]
-
-        return x.drop("parent_code")
-
-    return df.apply(replace, axis=1)
-
+    return df.merge(code_table, on="parent_code", how="left")\
+        .drop("parent_code", axis=1)
 
 def ordered_table_to_parent_code_table(df, hierarchy):
 
