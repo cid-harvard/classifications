@@ -1,0 +1,2085 @@
+"","code","name","level","parent_id"
+0,"11","Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza","twodigit",""
+1,"111","Agricultura","threedigit",0.0
+2,"1111","Cultivo de semillas oleaginosas, leguminosas y cereales","fourdigit",1.0
+3,"11111","Cultivo de soya","fivedigit",2.0
+4,"111110","Cultivo de soya","sixdigit",3.0
+5,"11112","Cultivo de semillas oleaginosas, excepto soya","fivedigit",2.0
+6,"111121","Cultivo de cártamo","sixdigit",5.0
+7,"111122","Cultivo de girasol","sixdigit",5.0
+8,"111129","Cultivo anual de otras semillas oleaginosas","sixdigit",5.0
+9,"11113","Cultivo de leguminosas","fivedigit",2.0
+10,"111131","Cultivo de frijol grano","sixdigit",9.0
+11,"111132","Cultivo de garbanzo grano","sixdigit",9.0
+12,"111139","Cultivo de otras leguminosas","sixdigit",9.0
+13,"11114","Cultivo de trigo","fivedigit",2.0
+14,"111140","Cultivo de trigo","sixdigit",13.0
+15,"11115","Cultivo de maíz","fivedigit",2.0
+16,"111151","Cultivo de maíz grano","sixdigit",15.0
+17,"111152","Cultivo de maíz forrajero","sixdigit",15.0
+18,"11116","Cultivo de arroz","fivedigit",2.0
+19,"111160","Cultivo de arroz","sixdigit",18.0
+20,"11119","Cultivo de otros cereales","fivedigit",2.0
+21,"111191","Cultivo de sorgo grano","sixdigit",20.0
+22,"111192","Cultivo de avena grano","sixdigit",20.0
+23,"111193","Cultivo de cebada grano","sixdigit",20.0
+24,"111194","Cultivo de sorgo forrajero","sixdigit",20.0
+25,"111195","Cultivo de avena forrajera","sixdigit",20.0
+26,"111199","Cultivo de otros cereales","sixdigit",20.0
+27,"1112","Cultivo de hortalizas","fourdigit",1.0
+28,"11121","Cultivo de hortalizas","fivedigit",27.0
+29,"111211","Cultivo de jitomate o tomate rojo","sixdigit",28.0
+30,"111212","Cultivo de chile","sixdigit",28.0
+31,"111213","Cultivo de cebolla","sixdigit",28.0
+32,"111214","Cultivo de melón o sandía","sixdigit",28.0
+33,"111215","Cultivo de tomate verde","sixdigit",28.0
+34,"111216","Cultivo de papa","sixdigit",28.0
+35,"111217","Cultivo de calabaza","sixdigit",28.0
+36,"111219","Cultivo de otras hortalizas","sixdigit",28.0
+37,"1113","Cultivo de frutales y nueces","fourdigit",1.0
+38,"11131","Cultivo de naranja","fivedigit",37.0
+39,"111310","Cultivo de naranja","sixdigit",38.0
+40,"11132","Cultivo de otros cítricos","fivedigit",37.0
+41,"111321","Cultivo de limón","sixdigit",40.0
+42,"111329","Cultivo de otros cítricos","sixdigit",40.0
+43,"11133","Cultivo de frutales no cítricos y nueces","fivedigit",37.0
+44,"111331","Cultivo de café","sixdigit",43.0
+45,"111332","Cultivo de plátano","sixdigit",43.0
+46,"111333","Cultivo de mango","sixdigit",43.0
+47,"111334","Cultivo de aguacate","sixdigit",43.0
+48,"111335","Cultivo de uva","sixdigit",43.0
+49,"111336","Cultivo de manzana","sixdigit",43.0
+50,"111337","Cultivo de cacao","sixdigit",43.0
+51,"111338","Cultivo de coco","sixdigit",43.0
+52,"111339","Cultivo de otros frutales no cítricos y de nueces","sixdigit",43.0
+53,"1114","Cultivo en invernaderos y viveros, y floricultura","fourdigit",1.0
+54,"11141","Cultivo de productos alimenticios en invernaderos","fivedigit",53.0
+55,"111410","Cultivo de productos alimenticios en invernaderos","sixdigit",54.0
+56,"11142","Floricultura, y otros cultivos de productos no alimenticios en invernaderos y viveros","fivedigit",53.0
+57,"111421","Floricultura a cielo abierto","sixdigit",56.0
+58,"111422","Floricultura en invernaderos","sixdigit",56.0
+59,"111423","Cultivo de árboles de ciclo productivo de 10 años o menos","sixdigit",56.0
+60,"111429","Otros cultivos no alimenticios en invernaderos y viveros","sixdigit",56.0
+61,"1119","Otros cultivos","fourdigit",1.0
+62,"11191","Cultivo de tabaco","fivedigit",61.0
+63,"111910","Cultivo de tabaco","sixdigit",62.0
+64,"11192","Cultivo de algodón","fivedigit",61.0
+65,"111920","Cultivo de algodón","sixdigit",64.0
+66,"11193","Cultivo de caña de azúcar","fivedigit",61.0
+67,"111930","Cultivo de caña de azúcar","sixdigit",66.0
+68,"11194","Cultivo de alfalfa y pastos","fivedigit",61.0
+69,"111941","Cultivo de alfalfa","sixdigit",68.0
+70,"111942","Cultivo de pastos y zacates","sixdigit",68.0
+71,"11199","Otros cultivos","fivedigit",61.0
+72,"111991","Cultivo de agaves alcoholeros","sixdigit",71.0
+73,"111992","Cultivo de cacahuate","sixdigit",71.0
+74,"111993","Actividades agrícolas combinadas con explotación de animales","sixdigit",71.0
+75,"111994","Actividades agrícolas combinadas con aprovechamiento forestal","sixdigit",71.0
+76,"111995","Actividades agrícolas combinadas con explotación de animales y aprovechamiento forestal","sixdigit",71.0
+77,"111999","Otros cultivos","sixdigit",71.0
+78,"112","Cría y explotación de animales","threedigit",0.0
+79,"1121","Explotación de bovinos","fourdigit",78.0
+80,"11211","Explotación de bovinos para la producción de carne","fivedigit",79.0
+81,"112110","Explotación de bovinos para la producción de carne","sixdigit",80.0
+82,"11212","Explotación de bovinos para la producción de leche","fivedigit",79.0
+83,"112120","Explotación de bovinos para la producción de leche","sixdigit",82.0
+84,"11213","Explotación de bovinos sin especialización y para otros propósitos","fivedigit",79.0
+85,"112131","Explotación de bovinos para la producción conjunta de leche y carne","sixdigit",84.0
+86,"112139","Explotación de bovinos para otros propósitos","sixdigit",84.0
+87,"1122","Explotación de porcinos","fourdigit",78.0
+88,"11221","Explotación de porcinos","fivedigit",87.0
+89,"112211","Explotación de porcinos en granja","sixdigit",88.0
+90,"112212","Explotación de porcinos en traspatio","sixdigit",88.0
+91,"1123","Explotación avícola","fourdigit",78.0
+92,"11231","Explotación de gallinas para la producción de huevo","fivedigit",91.0
+93,"112311","Explotación de gallinas para la producción de huevo fértil","sixdigit",92.0
+94,"112312","Explotación de gallinas para la producción de huevo para plato","sixdigit",92.0
+95,"11232","Explotación de pollos para la producción de carne","fivedigit",91.0
+96,"112320","Explotación de pollos para la producción de carne","sixdigit",95.0
+97,"11233","Explotación de guajolotes o pavos","fivedigit",91.0
+98,"112330","Explotación de guajolotes o pavos","sixdigit",97.0
+99,"11234","Producción de aves en incubadora","fivedigit",91.0
+100,"112340","Producción de aves en incubadora","sixdigit",99.0
+101,"11239","Explotación de otras aves para producción de carne y huevo","fivedigit",91.0
+102,"112390","Explotación de otras aves para producción de carne y huevo","sixdigit",101.0
+103,"1124","Explotación de ovinos y caprinos","fourdigit",78.0
+104,"11241","Explotación de ovinos","fivedigit",103.0
+105,"112410","Explotación de ovinos","sixdigit",104.0
+106,"11242","Explotación de caprinos","fivedigit",103.0
+107,"112420","Explotación de caprinos","sixdigit",106.0
+108,"1125","Acuicultura","fourdigit",78.0
+109,"11251","Acuicultura","fivedigit",108.0
+110,"112511","Camaronicultura","sixdigit",109.0
+111,"112512","Piscicultura y otra acuicultura, excepto camaronicultura","sixdigit",109.0
+112,"1129","Explotación de otros animales","fourdigit",78.0
+113,"11291","Apicultura","fivedigit",112.0
+114,"112910","Apicultura","sixdigit",113.0
+115,"11292","Explotación de équidos","fivedigit",112.0
+116,"112920","Explotación de équidos","sixdigit",115.0
+117,"11293","Cunicultura y explotación de animales con pelaje fino","fivedigit",112.0
+118,"112930","Cunicultura y explotación de animales con pelaje fino","sixdigit",117.0
+119,"11299","Explotación de otros animales","fivedigit",112.0
+120,"112991","Explotación de animales combinada con aprovechamiento forestal","sixdigit",119.0
+121,"112999","Explotación de otros animales","sixdigit",119.0
+122,"113","Aprovechamiento forestal","threedigit",0.0
+123,"1131","Silvicultura","fourdigit",122.0
+124,"11311","Silvicultura","fivedigit",123.0
+125,"113110","Silvicultura","sixdigit",124.0
+126,"1132","Viveros forestales y recolección de productos forestales","fourdigit",122.0
+127,"11321","Viveros forestales y recolección de productos forestales","fivedigit",126.0
+128,"113211","Viveros forestales","sixdigit",127.0
+129,"113212","Recolección de productos forestales","sixdigit",127.0
+130,"1133","Tala de árboles","fourdigit",122.0
+131,"11331","Tala de árboles","fivedigit",130.0
+132,"113310","Tala de árboles","sixdigit",131.0
+133,"114","Pesca, caza y captura","threedigit",0.0
+134,"1141","Pesca","fourdigit",133.0
+135,"11411","Pesca","fivedigit",134.0
+136,"114111","Pesca de camarón","sixdigit",135.0
+137,"114112","Pesca de túnidos","sixdigit",135.0
+138,"114113","Pesca de sardina y anchoveta","sixdigit",135.0
+139,"114119","Pesca y captura de peces, crustáceos, moluscos y otras especies","sixdigit",135.0
+140,"1142","Caza y captura","fourdigit",133.0
+141,"11421","Caza y captura","fivedigit",140.0
+142,"114210","Caza y captura","sixdigit",141.0
+143,"115","Servicios relacionados con las actividades agropecuarias y forestales","threedigit",0.0
+144,"1151","Servicios relacionados con la agricultura","fourdigit",143.0
+145,"11511","Servicios relacionados con la agricultura","fivedigit",144.0
+146,"115111","Servicios de fumigación agrícola","sixdigit",145.0
+147,"115112","Despepite de algodón","sixdigit",145.0
+148,"115113","Beneficio de productos agrícolas","sixdigit",145.0
+149,"115119","Otros servicios relacionados con la agricultura","sixdigit",145.0
+150,"1152","Servicios relacionados con la cría y explotación de animales","fourdigit",143.0
+151,"11521","Servicios relacionados con la cría y explotación de animales","fivedigit",150.0
+152,"115210","Servicios relacionados con la cría y explotación de animales","sixdigit",151.0
+153,"1153","Servicios relacionados con el aprovechamiento forestal","fourdigit",143.0
+154,"11531","Servicios relacionados con el aprovechamiento forestal","fivedigit",153.0
+155,"115310","Servicios relacionados con el aprovechamiento forestal","sixdigit",154.0
+156,"21","Minería","twodigit",""
+157,"211","Extracción de petróleo y gas","threedigit",156.0
+158,"2111","Extracción de petróleo y gas","fourdigit",157.0
+159,"21111","Extracción de petróleo y gas","fivedigit",158.0
+160,"211110","Extracción de petróleo y gas","sixdigit",159.0
+161,"212","Minería de minerales metálicos y no metálicos, excepto petróleo y gas","threedigit",156.0
+162,"2121","Minería de carbón mineral","fourdigit",161.0
+163,"21211","Minería de carbón mineral","fivedigit",162.0
+164,"212110","Minería de carbón mineral","sixdigit",163.0
+165,"2122","Minería de minerales metálicos","fourdigit",161.0
+166,"21221","Minería de hierro","fivedigit",165.0
+167,"212210","Minería de hierro","sixdigit",166.0
+168,"21222","Minería de oro y plata","fivedigit",165.0
+169,"212221","Minería de oro","sixdigit",168.0
+170,"212222","Minería de plata","sixdigit",168.0
+171,"21223","Minería de cobre, plomo y zinc","fivedigit",165.0
+172,"212231","Minería de cobre","sixdigit",171.0
+173,"212232","Minería de plomo y zinc","sixdigit",171.0
+174,"21229","Minería de otros minerales metálicos","fivedigit",165.0
+175,"212291","Minería de manganeso","sixdigit",174.0
+176,"212292","Minería de mercurio y antimonio","sixdigit",174.0
+177,"212293","Minería de uranio y minerales radiactivos","sixdigit",174.0
+178,"212299","Minería de otros minerales metálicos","sixdigit",174.0
+179,"2123","Minería de minerales no metálicos","fourdigit",161.0
+180,"21231","Minería de piedra caliza, mármol y otras piedras dimensionadas","fivedigit",179.0
+181,"212311","Minería de piedra caliza","sixdigit",180.0
+182,"212312","Minería de mármol","sixdigit",180.0
+183,"212319","Minería de otras piedras dimensionadas","sixdigit",180.0
+184,"21232","Minería de arena, grava, tezontle, tepetate, arcillas y de otros minerales refractarios","fivedigit",179.0
+185,"212321","Minería de arena y grava para la construcción","sixdigit",184.0
+186,"212322","Minería de tezontle y tepetate","sixdigit",184.0
+187,"212323","Minería de feldespato","sixdigit",184.0
+188,"212324","Minería de sílice","sixdigit",184.0
+189,"212325","Minería de caolín","sixdigit",184.0
+190,"212329","Minería de otras arcillas y de otros minerales refractarios","sixdigit",184.0
+191,"21239","Minería de otros minerales no metálicos","fivedigit",179.0
+192,"212391","Minería de sal","sixdigit",191.0
+193,"212392","Minería de piedra de yeso","sixdigit",191.0
+194,"212393","Minería de barita","sixdigit",191.0
+195,"212394","Minería de roca fosfórica","sixdigit",191.0
+196,"212395","Minería de fluorita","sixdigit",191.0
+197,"212396","Minería de grafito","sixdigit",191.0
+198,"212397","Minería de azufre","sixdigit",191.0
+199,"212398","Minería de minerales no metálicos para productos químicos","sixdigit",191.0
+200,"212399","Minería de otros minerales no metálicos","sixdigit",191.0
+201,"213","Servicios relacionados con la minería","threedigit",156.0
+202,"2131","Servicios relacionados con la minería","fourdigit",201.0
+203,"21311","Servicios relacionados con la minería","fivedigit",202.0
+204,"213111","Perforación de pozos petroleros y de gas","sixdigit",203.0
+205,"213119","Otros servicios relacionados con la minería","sixdigit",203.0
+206,"22","Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final","twodigit",""
+207,"221","Generación, transmisión y distribución de energía eléctrica","threedigit",206.0
+208,"2211","Generación, transmisión y distribución de energía eléctrica","fourdigit",207.0
+209,"22111","Generación, transmisión y distribución de energía eléctrica","fivedigit",208.0
+210,"221110","Generación, transmisión y distribución de energía eléctrica","sixdigit",209.0
+211,"22112","Transmisión y distribución de energía eléctrica","fivedigit",208.0
+212,"221120","Transmisión y distribución de energía eléctrica","sixdigit",211.0
+213,"222","Suministro de agua y suministro de gas por ductos al consumidor final","threedigit",206.0
+214,"2221","Captación, tratamiento y suministro de agua","fourdigit",213.0
+215,"22211","Captación, tratamiento y suministro de agua","fivedigit",214.0
+216,"222111","Captación, tratamiento y suministro de agua realizados por el sector público","sixdigit",215.0
+217,"222112","Captación, tratamiento y suministro de agua realizados por el sector privado","sixdigit",215.0
+218,"2222","Suministro de gas por ductos al consumidor final","fourdigit",213.0
+219,"22221","Suministro de gas por ductos al consumidor final","fivedigit",218.0
+220,"222210","Suministro de gas por ductos al consumidor final","sixdigit",219.0
+221,"23","Construcción","twodigit",""
+222,"236","Edificación","threedigit",221.0
+223,"2361","Edificación residencial","fourdigit",222.0
+224,"23611","Edificación residencial","fivedigit",223.0
+225,"236111","Edificación de vivienda unifamiliar","sixdigit",224.0
+226,"236112","Edificación de vivienda multifamiliar","sixdigit",224.0
+227,"236113","Supervisión de edificación residencial","sixdigit",224.0
+228,"2362","Edificación no residencial","fourdigit",222.0
+229,"23621","Edificación de naves y plantas industriales","fivedigit",228.0
+230,"236211","Edificación de naves y plantas industriales, excepto la supervisión","sixdigit",229.0
+231,"236212","Supervisión de edificación de naves y plantas industriales","sixdigit",229.0
+232,"23622","Edificación de inmuebles comerciales y de servicios","fivedigit",228.0
+233,"236221","Edificación de inmuebles comerciales y de servicios, excepto la supervisión","sixdigit",232.0
+234,"236222","Supervisión de edificación de inmuebles comerciales y de servicios","sixdigit",232.0
+235,"237","Construcción de obras de ingeniería civil","threedigit",221.0
+236,"2371","Construcción de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicaciones","fourdigit",235.0
+237,"23711","Construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riego","fivedigit",236.0
+238,"237111","Construcción de obras para el tratamiento, distribución y suministro de agua y drenaje","sixdigit",237.0
+239,"237112","Construcción de sistemas de riego agrícola","sixdigit",237.0
+240,"237113","Supervisión de construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riego","sixdigit",237.0
+241,"23712","Construcción de obras para petróleo y gas","fivedigit",236.0
+242,"237121","Construcción de sistemas de distribución de petróleo y gas","sixdigit",241.0
+243,"237122","Construcción de plantas de refinería y petroquímica","sixdigit",241.0
+244,"237123","Supervisión de construcción de obras para petróleo y gas","sixdigit",241.0
+245,"23713","Construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicaciones","fivedigit",236.0
+246,"237131","Construcción de obras de generación y conducción de energía eléctrica","sixdigit",245.0
+247,"237132","Construcción de obras para telecomunicaciones","sixdigit",245.0
+248,"237133","Supervisión de construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicaciones","sixdigit",245.0
+249,"2372","División de terrenos y construcción de obras de urbanización","fourdigit",235.0
+250,"23721","División de terrenos y construcción de obras de urbanización","fivedigit",249.0
+251,"237211","División de terrenos","sixdigit",250.0
+252,"237212","Construcción de obras de urbanización","sixdigit",250.0
+253,"237213","Supervisión de división de terrenos y de construcción de obras de urbanización","sixdigit",250.0
+254,"2373","Construcción de vías de comunicación","fourdigit",235.0
+255,"23731","Construcción de vías de comunicación","fivedigit",254.0
+256,"237311","Instalación de señalamientos y protecciones en obras viales","sixdigit",255.0
+257,"237312","Construcción de carreteras, puentes y similares","sixdigit",255.0
+258,"237313","Supervisión de construcción de vías de comunicación","sixdigit",255.0
+259,"2379","Otras construcciones de ingeniería civil","fourdigit",235.0
+260,"23799","Otras construcciones de ingeniería civil ","fivedigit",259.0
+261,"237991","Construcción de presas y represas","sixdigit",260.0
+262,"237992","Construcción de obras marítimas, fluviales y subacuáticas","sixdigit",260.0
+263,"237993","Construcción de obras para transporte eléctrico y ferroviario","sixdigit",260.0
+264,"237994","Supervisión de construcción de otras obras de ingeniería civil","sixdigit",260.0
+265,"237999","Otras construcciones de ingeniería civil","sixdigit",260.0
+266,"238","Trabajos especializados para la construcción","threedigit",221.0
+267,"2381","Cimentaciones, montaje de estructuras prefabricadas y trabajos en exteriores","fourdigit",266.0
+268,"23811","Trabajos de cimentaciones","fivedigit",267.0
+269,"238110","Trabajos de cimentaciones","sixdigit",268.0
+270,"23812","Montaje de estructuras prefabricadas","fivedigit",267.0
+271,"238121","Montaje de estructuras de concreto prefabricadas","sixdigit",270.0
+272,"238122","Montaje de estructuras de acero prefabricadas","sixdigit",270.0
+273,"23813","Trabajos de albañilería","fivedigit",267.0
+274,"238130","Trabajos de albañilería","sixdigit",273.0
+275,"23819","Otros trabajos en exteriores","fivedigit",267.0
+276,"238190","Otros trabajos en exteriores","sixdigit",275.0
+277,"2382","Instalaciones y equipamiento en construcciones","fourdigit",266.0
+278,"23821","Instalaciones eléctricas en construcciones","fivedigit",277.0
+279,"238210","Instalaciones eléctricas en construcciones","sixdigit",278.0
+280,"23822","Instalaciones hidrosanitarias, de gas, sistemas centrales de aire acondicionado y calefacción","fivedigit",277.0
+281,"238221","Instalaciones hidrosanitarias y de gas","sixdigit",280.0
+282,"238222","Instalaciones de sistemas centrales de aire acondicionado y calefacción","sixdigit",280.0
+283,"23829","Otras instalaciones y equipamiento en construcciones","fivedigit",277.0
+284,"238290","Otras instalaciones y equipamiento en construcciones","sixdigit",283.0
+285,"2383","Trabajos de acabados en edificaciones","fourdigit",266.0
+286,"23831","Colocación de muros falsos, aislamiento y enyesado","fivedigit",285.0
+287,"238311","Colocación de muros falsos y aislamiento","sixdigit",286.0
+288,"238312","Trabajos de enyesado, empastado y tiroleado","sixdigit",286.0
+289,"23832","Trabajos de pintura y otros cubrimientos de paredes","fivedigit",285.0
+290,"238320","Trabajos de pintura y otros cubrimientos de paredes","sixdigit",289.0
+291,"23833","Colocación de pisos flexibles y de madera","fivedigit",285.0
+292,"238330","Colocación de pisos flexibles y de madera","sixdigit",291.0
+293,"23834","Colocación de pisos cerámicos y azulejos","fivedigit",285.0
+294,"238340","Colocación de pisos cerámicos y azulejos","sixdigit",293.0
+295,"23835","Realización de trabajos de carpintería en el lugar de la construcción","fivedigit",285.0
+296,"238350","Realización de trabajos de carpintería en el lugar de la construcción","sixdigit",295.0
+297,"23839","Otros trabajos de acabados en edificaciones","fivedigit",285.0
+298,"238390","Otros trabajos de acabados en edificaciones","sixdigit",297.0
+299,"2389","Otros trabajos especializados para la construcción","fourdigit",266.0
+300,"23891","Preparación de terrenos para la construcción","fivedigit",299.0
+301,"238910","Preparación de terrenos para la construcción","sixdigit",300.0
+302,"23899","Otros trabajos especializados para la construcción","fivedigit",299.0
+303,"238990","Otros trabajos especializados para la construcción","sixdigit",302.0
+304,"31-33 ","Industrias manufactureras","sixdigit",302.0
+305,"311","Industria alimentaria","threedigit",221.0
+306,"3111","Elaboración de alimentos para animales","fourdigit",305.0
+307,"31111","Elaboración de alimentos para animales","fivedigit",306.0
+308,"311110","Elaboración de alimentos para animales","sixdigit",307.0
+309,"3112","Molienda de granos y de semillas y obtención de aceites y grasas","fourdigit",305.0
+310,"31121","Beneficio del arroz, elaboración de productos de molinería, y de malta","fivedigit",309.0
+311,"311211","Beneficio del arroz","sixdigit",310.0
+312,"311212","Elaboración de harina de trigo","sixdigit",310.0
+313,"311213","Elaboración de harina de maíz","sixdigit",310.0
+314,"311214","Elaboración de harina de otros productos agrícolas","sixdigit",310.0
+315,"311215","Elaboración de malta","sixdigit",310.0
+316,"31122","Elaboración de almidones, aceites y grasas vegetales comestibles","fivedigit",309.0
+317,"311221","Elaboración de féculas y otros almidones y sus derivados","sixdigit",316.0
+318,"311222","Elaboración de aceites y grasas vegetales comestibles","sixdigit",316.0
+319,"31123","Elaboración de cereales para el desayuno","fivedigit",309.0
+320,"311230","Elaboración de cereales para el desayuno","sixdigit",319.0
+321,"3113","Elaboración de azúcares, chocolates, dulces y similares","fourdigit",305.0
+322,"31131","Elaboración de azúcares","fivedigit",321.0
+323,"311311","Elaboración de azúcar de caña","sixdigit",322.0
+324,"311319","Elaboración de otros azúcares","sixdigit",322.0
+325,"31132","Elaboración de chocolate y productos de chocolate a partir de cacao","fivedigit",321.0
+326,"311320","Elaboración de chocolate y productos de chocolate a partir de cacao","sixdigit",325.0
+327,"31133","Elaboración de productos de chocolate a partir de chocolate","fivedigit",321.0
+328,"311330","Elaboración de productos de chocolate a partir de chocolate","sixdigit",327.0
+329,"31134","Elaboración de dulces, chicles y productos de confitería que no sean de chocolate","fivedigit",321.0
+330,"311340","Elaboración de dulces, chicles y productos de confitería que no sean de chocolate","sixdigit",329.0
+331,"3114","Conservación de frutas, verduras y alimentos preparados","fourdigit",305.0
+332,"31141","Congelación de frutas, verduras y alimentos preparados","fivedigit",331.0
+333,"311411","Congelación de frutas y verduras","sixdigit",332.0
+334,"311412","Congelación de alimentos preparados","sixdigit",332.0
+335,"31142","Conservación de frutas, verduras y alimentos preparados por procesos distintos a la congelación","fivedigit",331.0
+336,"311421","Deshidratación de frutas y verduras","sixdigit",335.0
+337,"311422","Conservación de frutas y verduras por procesos distintos a la congelación y la deshidratación","sixdigit",335.0
+338,"311423","Conservación de alimentos preparados por procesos distintos a la congelación","sixdigit",335.0
+339,"3115","Elaboración de productos lácteos","fourdigit",305.0
+340,"31151","Elaboración de leche y derivados lácteos","fivedigit",339.0
+341,"311511","Elaboración de leche líquida","sixdigit",340.0
+342,"311512","Elaboración de leche en polvo, condensada y evaporada","sixdigit",340.0
+343,"311513","Elaboración de derivados y fermentos lácteos","sixdigit",340.0
+344,"31152","Elaboración de helados y paletas","fivedigit",339.0
+345,"311520","Elaboración de helados y paletas","sixdigit",344.0
+346,"3116","Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles","fourdigit",305.0
+347,"31161","Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles","fivedigit",346.0
+348,"311611","Matanza de ganado, aves y otros animales comestibles","sixdigit",347.0
+349,"311612","Corte y empacado de carne de ganado, aves y otros animales comestibles","sixdigit",347.0
+350,"311613","Preparación de embutidos y otras conservas de carne de ganado, aves y otros animales comestibles","sixdigit",347.0
+351,"311614","Elaboración de manteca y otras grasas animales comestibles","sixdigit",347.0
+352,"3117","Preparación y envasado de pescados y mariscos","fourdigit",305.0
+353,"31171","Preparación y envasado de pescados y mariscos","fivedigit",352.0
+354,"311710","Preparación y envasado de pescados y mariscos","sixdigit",353.0
+355,"3118","Elaboración de productos de panadería y tortillas","fourdigit",305.0
+356,"31181","Elaboración de pan y otros productos de panadería","fivedigit",355.0
+357,"311811","Panificación industrial","sixdigit",356.0
+358,"311812","Panificación tradicional","sixdigit",356.0
+359,"31182","Elaboración de galletas y pastas para sopa","fivedigit",355.0
+360,"311820","Elaboración de galletas y pastas para sopa","sixdigit",359.0
+361,"31183","Elaboración de tortillas de maíz y molienda de nixtamal","fivedigit",355.0
+362,"311830","Elaboración de tortillas de maíz y molienda de nixtamal","sixdigit",361.0
+363,"3119","Otras industrias alimentarias","fourdigit",305.0
+364,"31191","Elaboración de botanas","fivedigit",363.0
+365,"311910","Elaboración de botanas","sixdigit",364.0
+366,"31192","Industrias del café y del té","fivedigit",363.0
+367,"311921","Beneficio del café","sixdigit",366.0
+368,"311922","Elaboración de café tostado y molido","sixdigit",366.0
+369,"311923","Elaboración de café instantáneo","sixdigit",366.0
+370,"311924","Preparación y envasado de té","sixdigit",366.0
+371,"31193","Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas","fivedigit",363.0
+372,"311930","Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas","sixdigit",371.0
+373,"31194","Elaboración de condimentos y aderezos","fivedigit",363.0
+374,"311940","Elaboración de condimentos y aderezos","sixdigit",373.0
+375,"31199","Elaboración de otros alimentos","fivedigit",363.0
+376,"311991","Elaboración de gelatinas y otros postres en polvo","sixdigit",375.0
+377,"311992","Elaboración de levadura","sixdigit",375.0
+378,"311993","Elaboración de alimentos frescos para consumo inmediato","sixdigit",375.0
+379,"311999","Elaboración de otros alimentos","sixdigit",375.0
+380,"312","Industria de las bebidas y del tabaco","threedigit",221.0
+381,"3121","Industria de las bebidas","fourdigit",380.0
+382,"31211","Elaboración de refrescos, hielo y otras bebidas no alcohólicas, y purificación y embotellado de agua","fivedigit",381.0
+383,"312111","Elaboración de refrescos y otras bebidas no alcohólicas","sixdigit",382.0
+384,"312112","Purificación y embotellado de agua","sixdigit",382.0
+385,"312113","Elaboración de hielo","sixdigit",382.0
+386,"31212","Elaboración de cerveza","fivedigit",381.0
+387,"312120","Elaboración de cerveza","sixdigit",386.0
+388,"31213","Elaboración de bebidas alcohólicas a base de uva y bebidas fermentadas, excepto cerveza","fivedigit",381.0
+389,"312131","Elaboración de bebidas alcohólicas a base de uva","sixdigit",388.0
+390,"312132","Elaboración de pulque","sixdigit",388.0
+391,"312139","Elaboración de sidra y otras bebidas fermentadas","sixdigit",388.0
+392,"31214","Elaboración de bebidas destiladas, excepto de uva","fivedigit",381.0
+393,"312141","Elaboración de ron y otras bebidas destiladas de caña","sixdigit",392.0
+394,"312142","Elaboración de bebidas destiladas de agave","sixdigit",392.0
+395,"312143","Obtención de alcohol etílico potable","sixdigit",392.0
+396,"312149","Elaboración de otras bebidas destiladas","sixdigit",392.0
+397,"3122","Industria del tabaco","fourdigit",380.0
+398,"31221","Beneficio del tabaco","fivedigit",397.0
+399,"312210","Beneficio del tabaco","sixdigit",398.0
+400,"31222","Elaboración de productos de tabaco","fivedigit",397.0
+401,"312221","Elaboración de cigarros","sixdigit",400.0
+402,"312222","Elaboración de puros y otros productos de tabaco","sixdigit",400.0
+403,"313","Fabricación de insumos textiles y acabado de textiles","threedigit",221.0
+404,"3131","Preparación e hilado de fibras textiles, y fabricación de hilos","fourdigit",403.0
+405,"31311","Preparación e hilado de fibras textiles, y fabricación de hilos","fivedigit",404.0
+406,"313111","Preparación e hilado de fibras duras naturales","sixdigit",405.0
+407,"313112","Preparación e hilado de fibras blandas naturales","sixdigit",405.0
+408,"313113","Fabricación de hilos para coser y bordar","sixdigit",405.0
+409,"3132","Fabricación de telas","fourdigit",403.0
+410,"31321","Fabricación de telas anchas de trama","fivedigit",409.0
+411,"313210","Fabricación de telas anchas de trama","sixdigit",410.0
+412,"31322","Fabricación de telas angostas de trama y pasamanería","fivedigit",409.0
+413,"313220","Fabricación de telas angostas de trama y pasamanería","sixdigit",412.0
+414,"31323","Fabricación de telas no tejidas (comprimidas)","fivedigit",409.0
+415,"313230","Fabricación de telas no tejidas (comprimidas)","sixdigit",414.0
+416,"31324","Fabricación de telas de punto","fivedigit",409.0
+417,"313240","Fabricación de telas de punto","sixdigit",416.0
+418,"3133","Acabado de productos textiles y fabricación de telas recubiertas","fourdigit",403.0
+419,"31331","Acabado de productos textiles","fivedigit",418.0
+420,"313310","Acabado de productos textiles","sixdigit",419.0
+421,"31332","Fabricación de telas recubiertas","fivedigit",418.0
+422,"313320","Fabricación de telas recubiertas","sixdigit",421.0
+423,"314","Fabricación de productos textiles, excepto prendas de vestir","threedigit",221.0
+424,"3141","Confección de alfombras, blancos y similares","fourdigit",423.0
+425,"31411","Fabricación de alfombras y tapetes","fivedigit",424.0
+426,"314110","Fabricación de alfombras y tapetes","sixdigit",425.0
+427,"31412","Confección de cortinas, blancos y similares","fivedigit",424.0
+428,"314120","Confección de cortinas, blancos y similares","sixdigit",427.0
+429,"3149","Fabricación de otros productos textiles, excepto prendas de vestir","fourdigit",423.0
+430,"31491","Confección de costales y productos de textiles recubiertos y de materiales sucedáneos","fivedigit",429.0
+431,"314911","Confección de costales","sixdigit",430.0
+432,"314912","Confección de productos de textiles recubiertos y de materiales sucedáneos","sixdigit",430.0
+433,"31499","Fabricación de otros productos textiles no clasificados en otra parte","fivedigit",429.0
+434,"314991","Confección, bordado y deshilado de productos textiles","sixdigit",433.0
+435,"314992","Fabricación de redes y otros productos de cordelería","sixdigit",433.0
+436,"314993","Fabricación de productos textiles reciclados","sixdigit",433.0
+437,"314999","Fabricación de banderas y otros productos textiles no clasificados en otra parte","sixdigit",433.0
+438,"315","Fabricación de prendas de vestir","threedigit",221.0
+439,"3151","Fabricación de prendas de vestir de punto","fourdigit",438.0
+440,"31511","Fabricación de calcetines y medias de punto","fivedigit",439.0
+441,"315110","Fabricación de calcetines y medias de punto","sixdigit",440.0
+442,"31519","Fabricación de otras prendas de vestir de punto","fivedigit",439.0
+443,"315191","Fabricación de ropa interior de punto","sixdigit",442.0
+444,"315192","Fabricación de ropa exterior de punto","sixdigit",442.0
+445,"3152","Confección de prendas de vestir","fourdigit",438.0
+446,"31521","Confección de prendas de vestir de cuero, piel y materiales sucedáneos","fivedigit",445.0
+447,"315210","Confección de prendas de vestir de cuero, piel y de materiales sucedáneos","sixdigit",446.0
+448,"31522","Confección de prendas de vestir de materiales textiles","fivedigit",445.0
+449,"315221","Confección en serie de ropa interior y de dormir","sixdigit",448.0
+450,"315222","Confección en serie de camisas","sixdigit",448.0
+451,"315223","Confección en serie de uniformes","sixdigit",448.0
+452,"315224","Confección en serie de disfraces y trajes típicos","sixdigit",448.0
+453,"315225","Confección de prendas de vestir sobre medida","sixdigit",448.0
+454,"315229","Confección en serie de otra ropa exterior de materiales textiles","sixdigit",448.0
+455,"3159","Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte","fourdigit",438.0
+456,"31599","Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte","fivedigit",455.0
+457,"315991","Confección de sombreros y gorras","sixdigit",456.0
+458,"315999","Confección de otros accesorios y prendas de vestir no clasificados en otra parte","sixdigit",456.0
+459,"316","Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos","threedigit",221.0
+460,"3161","Curtido y acabado de cuero y piel","fourdigit",459.0
+461,"31611","Curtido y acabado de cuero y piel","fivedigit",460.0
+462,"316110","Curtido y acabado de cuero y piel","sixdigit",461.0
+463,"3162","Fabricación de calzado","fourdigit",459.0
+464,"31621","Fabricación de calzado","fivedigit",463.0
+465,"316211","Fabricación de calzado con corte de piel y cuero","sixdigit",464.0
+466,"316212","Fabricación de calzado con corte de tela","sixdigit",464.0
+467,"316213","Fabricación de calzado de plástico","sixdigit",464.0
+468,"316214","Fabricación de calzado de hule","sixdigit",464.0
+469,"316219","Fabricación de huaraches y calzado de otro tipo de materiales","sixdigit",464.0
+470,"3169","Fabricación de otros productos de cuero, piel y materiales sucedáneos","fourdigit",459.0
+471,"31699","Fabricación de otros productos de cuero, piel y materiales sucedáneos","fivedigit",470.0
+472,"316991","Fabricación de bolsos de mano, maletas y similares","sixdigit",471.0
+473,"316999","Fabricación de otros productos de cuero, piel y materiales sucedáneos","sixdigit",471.0
+474,"321","Industria de la madera","threedigit",221.0
+475,"3211","Aserrado y conservación de la madera","fourdigit",474.0
+476,"32111","Aserrado y conservación de la madera","fivedigit",475.0
+477,"321111","Aserraderos integrados","sixdigit",476.0
+478,"321112","Aserrado de tablas y tablones","sixdigit",476.0
+479,"321113","Tratamiento de la madera y fabricación de postes y durmientes","sixdigit",476.0
+480,"3212","Fabricación de laminados y aglutinados de madera","fourdigit",474.0
+481,"32121","Fabricación de laminados y aglutinados de madera","fivedigit",480.0
+482,"321210","Fabricación de laminados y aglutinados de madera","sixdigit",481.0
+483,"3219","Fabricación de otros productos de madera","fourdigit",474.0
+484,"32191","Fabricación de productos de madera para la construcción","fivedigit",483.0
+485,"321910","Fabricación de productos de madera para la construcción","sixdigit",484.0
+486,"32192","Fabricación de productos para embalaje y envases de madera","fivedigit",483.0
+487,"321920","Fabricación de productos para embalaje y envases de madera","sixdigit",486.0
+488,"32199","Fabricación de otros productos de madera y de materiales trenzables, excepto palma","fivedigit",483.0
+489,"321991","Fabricación de productos de materiales trenzables, excepto palma","sixdigit",488.0
+490,"321992","Fabricación de artículos y utensilios de madera para el hogar","sixdigit",488.0
+491,"321993","Fabricación de productos de madera de uso industrial","sixdigit",488.0
+492,"321999","Fabricación de otros productos de madera","sixdigit",488.0
+493,"322","Industria del papel","threedigit",221.0
+494,"3221","Fabricación de pulpa, papel y cartón","fourdigit",493.0
+495,"32211","Fabricación de pulpa","fivedigit",494.0
+496,"322110","Fabricación de pulpa","sixdigit",495.0
+497,"32212","Fabricación de papel","fivedigit",494.0
+498,"322121","Fabricación de papel en plantas integradas","sixdigit",497.0
+499,"322122","Fabricación de papel a partir de pulpa","sixdigit",497.0
+500,"32213","Fabricación de cartón","fivedigit",494.0
+501,"322131","Fabricación de cartón en plantas integradas","sixdigit",500.0
+502,"322132","Fabricación de cartón y cartoncillo a partir de pulpa","sixdigit",500.0
+503,"3222","Fabricación de productos de cartón y papel","fourdigit",493.0
+504,"32221","Fabricación de envases de cartón","fivedigit",503.0
+505,"322210","Fabricación de envases de cartón","sixdigit",504.0
+506,"32222","Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados","fivedigit",503.0
+507,"322220","Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados","sixdigit",506.0
+508,"32223","Fabricación de productos de papelería","fivedigit",503.0
+509,"322230","Fabricación de productos de papelería","sixdigit",508.0
+510,"32229","Fabricación de otros productos de cartón y papel","fivedigit",503.0
+511,"322291","Fabricación de pañales desechables y productos sanitarios","sixdigit",510.0
+512,"322299","Fabricación de otros productos de cartón y papel","sixdigit",510.0
+513,"323","Impresión e industrias conexas","threedigit",221.0
+514,"3231","Impresión e industrias conexas","fourdigit",513.0
+515,"32311","Impresión","fivedigit",514.0
+516,"323111","Impresión de libros, periódicos y revistas","sixdigit",515.0
+517,"323119","Impresión de formas continuas y otros impresos","sixdigit",515.0
+518,"32312","Industrias conexas a la impresión","fivedigit",514.0
+519,"323120","Industrias conexas a la impresión","sixdigit",518.0
+520,"324","Fabricación de productos derivados del petróleo y del carbón","threedigit",221.0
+521,"3241","Fabricación de productos derivados del petróleo y del carbón","fourdigit",520.0
+522,"32411","Refinación de petróleo","fivedigit",521.0
+523,"324110","Refinación de petróleo","sixdigit",522.0
+524,"32412","Fabricación de productos de asfalto","fivedigit",521.0
+525,"324120","Fabricación de productos de asfalto","sixdigit",524.0
+526,"32419","Fabricación de otros productos derivados del petróleo refinado y del carbón mineral","fivedigit",521.0
+527,"324191","Fabricación de aceites y grasas lubricantes","sixdigit",526.0
+528,"324199","Fabricación de coque y otros productos derivados del petróleo refinado y del carbón mineral","sixdigit",526.0
+529,"325","Industria química","threedigit",221.0
+530,"3251","Fabricación de productos químicos básicos","fourdigit",529.0
+531,"32511","Fabricación de petroquímicos básicos del gas natural y del petróleo refinado","fivedigit",530.0
+532,"325110","Fabricación de petroquímicos básicos del gas natural y del petróleo refinado","sixdigit",531.0
+533,"32512","Fabricación de gases industriales","fivedigit",530.0
+534,"325120","Fabricación de gases industriales","sixdigit",533.0
+535,"32513","Fabricación de pigmentos y colorantes sintéticos","fivedigit",530.0
+536,"325130","Fabricación de pigmentos y colorantes sintéticos","sixdigit",535.0
+537,"32518","Fabricación de otros productos químicos básicos inorgánicos","fivedigit",530.0
+538,"325180","Fabricación de otros productos químicos básicos inorgánicos","sixdigit",537.0
+539,"32519","Fabricación de otros productos químicos básicos orgánicos","fivedigit",530.0
+540,"325190","Fabricación de otros productos químicos básicos orgánicos","sixdigit",539.0
+541,"3252","Fabricación de resinas y hules sintéticos, y fibras químicas","fourdigit",529.0
+542,"32521","Fabricación de resinas y hules sintéticos","fivedigit",541.0
+543,"325211","Fabricación de resinas sintéticas","sixdigit",542.0
+544,"325212","Fabricación de hules sintéticos","sixdigit",542.0
+545,"32522","Fabricación de fibras químicas","fivedigit",541.0
+546,"325220","Fabricación de fibras químicas","sixdigit",545.0
+547,"3253","Fabricación de fertilizantes, pesticidas y otros agroquímicos","fourdigit",529.0
+548,"32531","Fabricación de fertilizantes","fivedigit",547.0
+549,"325310","Fabricación de fertilizantes","sixdigit",548.0
+550,"32532","Fabricación de pesticidas y otros agroquímicos, excepto fertilizantes","fivedigit",547.0
+551,"325320","Fabricación de pesticidas y otros agroquímicos, excepto fertilizantes","sixdigit",550.0
+552,"3254","Fabricación de productos farmacéuticos","fourdigit",529.0
+553,"32541","Fabricación de productos farmacéuticos","fivedigit",552.0
+554,"325411","Fabricación de materias primas para la industria farmacéutica","sixdigit",553.0
+555,"325412","Fabricación de preparaciones farmacéuticas","sixdigit",553.0
+556,"3255","Fabricación de pinturas, recubrimientos y adhesivos","fourdigit",529.0
+557,"32551","Fabricación de pinturas y recubrimientos","fivedigit",556.0
+558,"325510","Fabricación de pinturas y recubrimientos","sixdigit",557.0
+559,"32552","Fabricación de adhesivos","fivedigit",556.0
+560,"325520","Fabricación de adhesivos","sixdigit",559.0
+561,"3256","Fabricación de jabones, limpiadores y preparaciones de tocador","fourdigit",529.0
+562,"32561","Fabricación de jabones, limpiadores y dentífricos","fivedigit",561.0
+563,"325610","Fabricación de jabones, limpiadores y dentífricos","sixdigit",562.0
+564,"32562","Fabricación de cosméticos, perfumes y otras preparaciones de tocador","fivedigit",561.0
+565,"325620","Fabricación de cosméticos, perfumes y otras preparaciones de tocador","sixdigit",564.0
+566,"3259","Fabricación de otros productos químicos","fourdigit",529.0
+567,"32591","Fabricación de tintas para impresión","fivedigit",566.0
+568,"325910","Fabricación de tintas para impresión","sixdigit",567.0
+569,"32592","Fabricación de explosivos","fivedigit",566.0
+570,"325920","Fabricación de explosivos","sixdigit",569.0
+571,"32599","Fabricación de otros productos químicos","fivedigit",566.0
+572,"325991","Fabricación de cerillos","sixdigit",571.0
+573,"325992","Fabricación de películas, placas y papel fotosensible para fotografía","sixdigit",571.0
+574,"325993","Fabricación de resinas de plásticos reciclados","sixdigit",571.0
+575,"325999","Fabricación de otros productos químicos","sixdigit",571.0
+576,"326","Industria del plástico y del hule","threedigit",221.0
+577,"3261","Fabricación de productos de plástico","fourdigit",576.0
+578,"32611","Fabricación de bolsas y películas de plástico flexible","fivedigit",577.0
+579,"326110","Fabricación de bolsas y películas de plástico flexible","sixdigit",578.0
+580,"32612","Fabricación de tubería y conexiones, y tubos para embalaje","fivedigit",577.0
+581,"326120","Fabricación de tubería y conexiones, y tubos para embalaje","sixdigit",580.0
+582,"32613","Fabricación de laminados de plástico rígido","fivedigit",577.0
+583,"326130","Fabricación de laminados de plástico rígido","sixdigit",582.0
+584,"32614","Fabricación de espumas y productos de poliestireno","fivedigit",577.0
+585,"326140","Fabricación de espumas y productos de poliestireno","sixdigit",584.0
+586,"32615","Fabricación de espumas y productos de uretano","fivedigit",577.0
+587,"326150","Fabricación de espumas y productos de uretano","sixdigit",586.0
+588,"32616","Fabricación de botellas de plástico","fivedigit",577.0
+589,"326160","Fabricación de botellas de plástico","sixdigit",588.0
+590,"32619","Fabricación de otros productos de plástico","fivedigit",577.0
+591,"326191","Fabricación de productos de plástico para el hogar con y sin reforzamiento","sixdigit",590.0
+592,"326192","Fabricación de autopartes de plástico con y sin reforzamiento","sixdigit",590.0
+593,"326193","Fabricación de envases y contenedores de plástico para embalaje con y sin reforzamiento","sixdigit",590.0
+594,"326194","Fabricación de otros productos de plástico de uso industrial sin reforzamiento","sixdigit",590.0
+595,"326198","Fabricación de otros productos de plástico con reforzamiento","sixdigit",590.0
+596,"326199","Fabricación de otros productos de plástico sin reforzamiento","sixdigit",590.0
+597,"3262","Fabricación de productos de hule","fourdigit",576.0
+598,"32621","Fabricación y revitalización de llantas","fivedigit",597.0
+599,"326211","Fabricación de llantas y cámaras","sixdigit",598.0
+600,"326212","Revitalización de llantas","sixdigit",598.0
+601,"32622","Fabricación de bandas y mangueras de hule y de plástico","fivedigit",597.0
+602,"326220","Fabricación de bandas y mangueras de hule y de plástico","sixdigit",601.0
+603,"32629","Fabricación de otros productos de hule","fivedigit",597.0
+604,"326290","Fabricación de otros productos de hule","sixdigit",603.0
+605,"327","Fabricación de productos a base de minerales no metálicos","threedigit",221.0
+606,"3271","Fabricación de productos a base de arcillas y minerales refractarios","fourdigit",605.0
+607,"32711","Fabricación de artículos de alfarería, porcelana, loza y muebles de baño","fivedigit",606.0
+608,"327111","Fabricación de artículos de alfarería, porcelana y loza","sixdigit",607.0
+609,"327112","Fabricación de muebles de baño","sixdigit",607.0
+610,"32712","Fabricación de productos a base de arcilla para la construcción","fivedigit",606.0
+611,"327121","Fabricación de ladrillos no refractarios","sixdigit",610.0
+612,"327122","Fabricación de azulejos y losetas no refractarias","sixdigit",610.0
+613,"327123","Fabricación de productos refractarios","sixdigit",610.0
+614,"3272","Fabricación de vidrio y productos de vidrio","fourdigit",605.0
+615,"32721","Fabricación de vidrio y productos de vidrio","fivedigit",614.0
+616,"327211","Fabricación de vidrio","sixdigit",615.0
+617,"327212","Fabricación de espejos","sixdigit",615.0
+618,"327213","Fabricación de envases y ampolletas de vidrio","sixdigit",615.0
+619,"327214","Fabricación de fibra de vidrio","sixdigit",615.0
+620,"327215","Fabricación de artículos de vidrio de uso doméstico","sixdigit",615.0
+621,"327216","Fabricación de artículos de vidrio de uso industrial y comercial","sixdigit",615.0
+622,"327219","Fabricación de otros productos de vidrio","sixdigit",615.0
+623,"3273","Fabricación de cemento y productos de concreto","fourdigit",605.0
+624,"32731","Fabricación de cemento y productos a base de cemento en plantas integradas","fivedigit",623.0
+625,"327310","Fabricación de cemento y productos a base de cemento en plantas integradas","sixdigit",624.0
+626,"32732","Fabricación de concreto","fivedigit",623.0
+627,"327320","Fabricación de concreto","sixdigit",626.0
+628,"32733","Fabricación de tubos y bloques de cemento y concreto","fivedigit",623.0
+629,"327330","Fabricación de tubos y bloques de cemento y concreto","sixdigit",628.0
+630,"32739","Fabricación de otros productos de cemento y concreto","fivedigit",623.0
+631,"327391","Fabricación de productos preesforzados de concreto","sixdigit",630.0
+632,"327399","Fabricación de otros productos de cemento y concreto","sixdigit",630.0
+633,"3274","Fabricación de cal, yeso y productos de yeso","fourdigit",605.0
+634,"32741","Fabricación de cal","fivedigit",633.0
+635,"327410","Fabricación de cal","sixdigit",634.0
+636,"32742","Fabricación de yeso y productos de yeso","fivedigit",633.0
+637,"327420","Fabricación de yeso y productos de yeso","sixdigit",636.0
+638,"3279","Fabricación de otros productos a base de minerales no metálicos","fourdigit",605.0
+639,"32791","Fabricación de productos abrasivos","fivedigit",638.0
+640,"327910","Fabricación de productos abrasivos","sixdigit",639.0
+641,"32799","Fabricación de otros productos a base de minerales no metálicos","fivedigit",638.0
+642,"327991","Fabricación de productos a base de piedras de cantera","sixdigit",641.0
+643,"327999","Fabricación de otros productos a base de minerales no metálicos","sixdigit",641.0
+644,"331","Industrias metálicas básicas","threedigit",221.0
+645,"3311","Industria básica del hierro y del acero","fourdigit",644.0
+646,"33111","Industria básica del hierro y del acero","fivedigit",645.0
+647,"331111","Complejos siderúrgicos","sixdigit",646.0
+648,"331112","Fabricación de desbastes primarios y ferroaleaciones","sixdigit",646.0
+649,"3312","Fabricación de productos de hierro y acero","fourdigit",644.0
+650,"33121","Fabricación de tubos y postes de hierro y acero","fivedigit",649.0
+651,"331210","Fabricación de tubos y postes de hierro y acero","sixdigit",650.0
+652,"33122","Fabricación de otros productos de hierro y acero","fivedigit",649.0
+653,"331220","Fabricación de otros productos de hierro y acero","sixdigit",652.0
+654,"3313","Industria básica del aluminio","fourdigit",644.0
+655,"33131","Industria básica del aluminio","fivedigit",654.0
+656,"331310","Industria básica del aluminio","sixdigit",655.0
+657,"3314","Industrias de metales no ferrosos, excepto aluminio","fourdigit",644.0
+658,"33141","Fundición y refinación de cobre, metales preciosos y de otros metales no ferrosos","fivedigit",657.0
+659,"331411","Fundición y refinación de cobre","sixdigit",658.0
+660,"331412","Fundición y refinación de metales preciosos","sixdigit",658.0
+661,"331419","Fundición y refinación de otros metales no ferrosos","sixdigit",658.0
+662,"33142","Laminación secundaria de cobre","fivedigit",657.0
+663,"331420","Laminación secundaria de cobre","sixdigit",662.0
+664,"33149","Laminación secundaria de otros metales no ferrosos","fivedigit",657.0
+665,"331490","Laminación secundaria de otros metales no ferrosos","sixdigit",664.0
+666,"3315","Moldeo por fundición de piezas metálicas","fourdigit",644.0
+667,"33151","Moldeo por fundición de piezas de hierro y acero","fivedigit",666.0
+668,"331510","Moldeo por fundición de piezas de hierro y acero","sixdigit",667.0
+669,"33152","Moldeo por fundición de piezas metálicas no ferrosas","fivedigit",666.0
+670,"331520","Moldeo por fundición de piezas metálicas no ferrosas","sixdigit",669.0
+671,"332","Fabricación de productos metálicos","threedigit",221.0
+672,"3321","Fabricación de productos metálicos forjados y troquelados","fourdigit",671.0
+673,"33211","Fabricación de productos metálicos forjados y troquelados","fivedigit",672.0
+674,"332110","Fabricación de productos metálicos forjados y troquelados","sixdigit",673.0
+675,"3322","Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos","fourdigit",671.0
+676,"33221","Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos","fivedigit",675.0
+677,"332211","Fabricación de herramientas de mano metálicas sin motor","sixdigit",676.0
+678,"332212","Fabricación de utensilios de cocina metálicos","sixdigit",676.0
+679,"3323","Fabricación de estructuras metálicas y productos de herrería","fourdigit",671.0
+680,"33231","Fabricación de estructuras metálicas","fivedigit",679.0
+681,"332310","Fabricación de estructuras metálicas","sixdigit",680.0
+682,"33232","Fabricación de productos de herrería","fivedigit",679.0
+683,"332320","Fabricación de productos de herrería","sixdigit",682.0
+684,"3324","Fabricación de calderas, tanques y envases metálicos","fourdigit",671.0
+685,"33241","Fabricación de calderas industriales","fivedigit",684.0
+686,"332410","Fabricación de calderas industriales","sixdigit",685.0
+687,"33242","Fabricación de tanques metálicos de calibre grueso","fivedigit",684.0
+688,"332420","Fabricación de tanques metálicos de calibre grueso","sixdigit",687.0
+689,"33243","Fabricación de envases metálicos de calibre ligero","fivedigit",684.0
+690,"332430","Fabricación de envases metálicos de calibre ligero","sixdigit",689.0
+691,"3325","Fabricación de herrajes y cerraduras","fourdigit",671.0
+692,"33251","Fabricación de herrajes y cerraduras","fivedigit",691.0
+693,"332510","Fabricación de herrajes y cerraduras","sixdigit",692.0
+694,"3326","Fabricación de alambre, productos de alambre y resortes","fourdigit",671.0
+695,"33261","Fabricación de alambre, productos de alambre y resortes","fivedigit",694.0
+696,"332610","Fabricación de alambre, productos de alambre y resortes","sixdigit",695.0
+697,"3327","Maquinado de piezas metálicas y fabricación de tornillos","fourdigit",671.0
+698,"33271","Maquinado de piezas metálicas para maquinaria y equipo en general","fivedigit",697.0
+699,"332710","Maquinado de piezas metálicas para maquinaria y equipo en general","sixdigit",698.0
+700,"33272","Fabricación de tornillos, tuercas, remaches y similares","fivedigit",697.0
+701,"332720","Fabricación de tornillos, tuercas, remaches y similares","sixdigit",700.0
+702,"3328","Recubrimientos y terminados metálicos","fourdigit",671.0
+703,"33281","Recubrimientos y terminados metálicos","fivedigit",702.0
+704,"332810","Recubrimientos y terminados metálicos","sixdigit",703.0
+705,"3329","Fabricación de otros productos metálicos","fourdigit",671.0
+706,"33291","Fabricación de válvulas metálicas","fivedigit",705.0
+707,"332910","Fabricación de válvulas metálicas","sixdigit",706.0
+708,"33299","Fabricación de otros productos metálicos","fivedigit",705.0
+709,"332991","Fabricación de baleros y rodamientos","sixdigit",708.0
+710,"332999","Fabricación de otros productos metálicos","sixdigit",708.0
+711,"333","Fabricación de maquinaria y equipo","threedigit",221.0
+712,"3331","Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva","fourdigit",711.0
+713,"33311","Fabricación de maquinaria y equipo agropecuario","fivedigit",712.0
+714,"333111","Fabricación de maquinaria y equipo agrícola","sixdigit",713.0
+715,"333112","Fabricación de maquinaria y equipo pecuario","sixdigit",713.0
+716,"33312","Fabricación de maquinaria y equipo para la construcción","fivedigit",712.0
+717,"333120","Fabricación de maquinaria y equipo para la construcción","sixdigit",716.0
+718,"33313","Fabricación de maquinaria y equipo para la industria extractiva","fivedigit",712.0
+719,"333130","Fabricación de maquinaria y equipo para la industria extractiva","sixdigit",718.0
+720,"3332","Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica","fourdigit",711.0
+721,"33321","Fabricación de maquinaria y equipo para la industria de la madera","fivedigit",720.0
+722,"333210","Fabricación de maquinaria y equipo para la industria de la madera","sixdigit",721.0
+723,"33322","Fabricación de maquinaria y equipo para la industria del hule y del plástico","fivedigit",720.0
+724,"333220","Fabricación de maquinaria y equipo para la industria del hule y del plástico","sixdigit",723.0
+725,"33329","Fabricación de maquinaria y equipo para otras industrias manufactureras","fivedigit",720.0
+726,"333291","Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas","sixdigit",725.0
+727,"333292","Fabricación de maquinaria y equipo para la industria textil","sixdigit",725.0
+728,"333293","Fabricación de maquinaria y equipo para la industria de la impresión","sixdigit",725.0
+729,"333294","Fabricación de maquinaria y equipo para la industria del vidrio y otros minerales no metálicos","sixdigit",725.0
+730,"333299","Fabricación de maquinaria y equipo para otras industrias manufactureras","sixdigit",725.0
+731,"3333","Fabricación de maquinaria y equipo para el comercio y los servicios","fourdigit",711.0
+732,"33331","Fabricación de maquinaria y equipo para el comercio y los servicios","fivedigit",731.0
+733,"333311","Fabricación de aparatos fotográficos","sixdigit",732.0
+734,"333312","Fabricación de máquinas fotocopiadoras","sixdigit",732.0
+735,"333319","Fabricación de otra maquinaria y equipo para el comercio y los servicios","sixdigit",732.0
+736,"3334","Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial","fourdigit",711.0
+737,"33341","Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial","fivedigit",736.0
+738,"333411","Fabricación de equipo de aire acondicionado y calefacción","sixdigit",737.0
+739,"333412","Fabricación de equipo de refrigeración industrial y comercial","sixdigit",737.0
+740,"3335","Fabricación de maquinaria y equipo para la industria metalmecánica","fourdigit",711.0
+741,"33351","Fabricación de maquinaria y equipo para la industria metalmecánica","fivedigit",740.0
+742,"333510","Fabricación de maquinaria y equipo para la industria metalmecánica","sixdigit",741.0
+743,"3336","Fabricación de motores de combustión interna, turbinas y transmisiones","fourdigit",711.0
+744,"33361","Fabricación de motores de combustión interna, turbinas y transmisiones","fivedigit",743.0
+745,"333610","Fabricación de motores de combustión interna, turbinas y transmisiones","sixdigit",744.0
+746,"3339","Fabricación de otra maquinaria y equipo para la industria en general","fourdigit",711.0
+747,"33391","Fabricación de bombas y sistemas de bombeo","fivedigit",746.0
+748,"333910","Fabricación de bombas y sistemas de bombeo","sixdigit",747.0
+749,"33392","Fabricación de maquinaria y equipo para levantar y trasladar","fivedigit",746.0
+750,"333920","Fabricación de maquinaria y equipo para levantar y trasladar","sixdigit",749.0
+751,"33399","Fabricación de otra maquinaria y equipo para la industria en general","fivedigit",746.0
+752,"333991","Fabricación de equipo para soldar y soldaduras","sixdigit",751.0
+753,"333992","Fabricación de maquinaria y equipo para envasar y empacar","sixdigit",751.0
+754,"333993","Fabricación de aparatos e instrumentos para pesar","sixdigit",751.0
+755,"333999","Fabricación de otra maquinaria y equipo para la industria en general","sixdigit",751.0
+756,"334","Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos","threedigit",221.0
+757,"3341","Fabricación de computadoras y equipo periférico","fourdigit",756.0
+758,"33411","Fabricación de computadoras y equipo periférico","fivedigit",757.0
+759,"334110","Fabricación de computadoras y equipo periférico","sixdigit",758.0
+760,"3342","Fabricación de equipo de comunicación","fourdigit",756.0
+761,"33421","Fabricación de equipo telefónico","fivedigit",760.0
+762,"334210","Fabricación de equipo telefónico","sixdigit",761.0
+763,"33422","Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico","fivedigit",760.0
+764,"334220","Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico","sixdigit",763.0
+765,"33429","Fabricación de otros equipos de comunicación","fivedigit",760.0
+766,"334290","Fabricación de otros equipos de comunicación","sixdigit",765.0
+767,"3343","Fabricación de equipo de audio y de video","fourdigit",756.0
+768,"33431","Fabricación de equipo de audio y de video","fivedigit",767.0
+769,"334310","Fabricación de equipo de audio y de video","sixdigit",768.0
+770,"3344","Fabricación de componentes electrónicos","fourdigit",756.0
+771,"33441","Fabricación de componentes electrónicos","fivedigit",770.0
+772,"334410","Fabricación de componentes electrónicos","sixdigit",771.0
+773,"3345","Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico","fourdigit",756.0
+774,"33451","Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico","fivedigit",773.0
+775,"334511","Fabricación de relojes","sixdigit",774.0
+776,"334519","Fabricación de otros instrumentos de medición, control, navegación, y equipo médico electrónico","sixdigit",774.0
+777,"3346","Fabricación y reproducción de medios magnéticos y ópticos","fourdigit",756.0
+778,"33461","Fabricación y reproducción de medios magnéticos y ópticos","fivedigit",777.0
+779,"334610","Fabricación y reproducción de medios magnéticos y ópticos","sixdigit",778.0
+780,"335","Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica","threedigit",221.0
+781,"3351","Fabricación de accesorios de iluminación","fourdigit",780.0
+782,"33511","Fabricación de focos","fivedigit",781.0
+783,"335110","Fabricación de focos","sixdigit",782.0
+784,"33512","Fabricación de lámparas ornamentales","fivedigit",781.0
+785,"335120","Fabricación de lámparas ornamentales","sixdigit",784.0
+786,"3352","Fabricación de aparatos eléctricos de uso doméstico","fourdigit",780.0
+787,"33521","Fabricación de enseres electrodomésticos menores","fivedigit",786.0
+788,"335210","Fabricación de enseres electrodomésticos menores","sixdigit",787.0
+789,"33522","Fabricación de aparatos de línea blanca","fivedigit",786.0
+790,"335220","Fabricación de aparatos de línea blanca","sixdigit",789.0
+791,"3353","Fabricación de equipo de generación y distribución de energía eléctrica","fourdigit",780.0
+792,"33531","Fabricación de equipo de generación y distribución de energía eléctrica","fivedigit",791.0
+793,"335311","Fabricación de motores y generadores eléctricos","sixdigit",792.0
+794,"335312","Fabricación de equipo y aparatos de distribución de energía eléctrica","sixdigit",792.0
+795,"3359","Fabricación de otros equipos y accesorios eléctricos","fourdigit",780.0
+796,"33591","Fabricación de acumuladores y pilas","fivedigit",795.0
+797,"335910","Fabricación de acumuladores y pilas","sixdigit",796.0
+798,"33592","Fabricación de cables de conducción eléctrica","fivedigit",795.0
+799,"335920","Fabricación de cables de conducción eléctrica","sixdigit",798.0
+800,"33593","Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas","fivedigit",795.0
+801,"335930","Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas","sixdigit",800.0
+802,"33599","Fabricación de otros productos eléctricos","fivedigit",795.0
+803,"335991","Fabricación de productos eléctricos de carbón y grafito","sixdigit",802.0
+804,"335999","Fabricación de otros productos eléctricos","sixdigit",802.0
+805,"336","Fabricación de equipo de transporte","threedigit",221.0
+806,"3361","Fabricación de automóviles y camiones","fourdigit",805.0
+807,"33611","Fabricación de automóviles y camionetas","fivedigit",806.0
+808,"336110","Fabricación de automóviles y camionetas","sixdigit",807.0
+809,"33612","Fabricación de camiones y tractocamiones","fivedigit",806.0
+810,"336120","Fabricación de camiones y tractocamiones","sixdigit",809.0
+811,"3362","Fabricación de carrocerías y remolques","fourdigit",805.0
+812,"33621","Fabricación de carrocerías y remolques","fivedigit",811.0
+813,"336210","Fabricación de carrocerías y remolques","sixdigit",812.0
+814,"3363","Fabricación de partes para vehículos automotores","fourdigit",805.0
+815,"33631","Fabricación de motores de gasolina y sus partes para vehículos automotrices","fivedigit",814.0
+816,"336310","Fabricación de motores de gasolina y sus partes para vehículos automotrices","sixdigit",815.0
+817,"33632","Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores","fivedigit",814.0
+818,"336320","Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores","sixdigit",817.0
+819,"33633","Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices","fivedigit",814.0
+820,"336330","Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices","sixdigit",819.0
+821,"33634","Fabricación de partes de sistemas de frenos para vehículos automotrices","fivedigit",814.0
+822,"336340","Fabricación de partes de sistemas de frenos para vehículos automotrices","sixdigit",821.0
+823,"33635","Fabricación de partes de sistemas de transmisión para vehículos automotores","fivedigit",814.0
+824,"336350","Fabricación de partes de sistemas de transmisión para vehículos automotores","sixdigit",823.0
+825,"33636","Fabricación de asientos y accesorios interiores para vehículos automotores","fivedigit",814.0
+826,"336360","Fabricación de asientos y accesorios interiores para vehículos automotores","sixdigit",825.0
+827,"33637","Fabricación de piezas metálicas troqueladas para vehículos automotrices","fivedigit",814.0
+828,"336370","Fabricación de piezas metálicas troqueladas para vehículos automotrices","sixdigit",827.0
+829,"33639","Fabricación de otras partes para vehículos automotrices","fivedigit",814.0
+830,"336390","Fabricación de otras partes para vehículos automotrices","sixdigit",829.0
+831,"3364","Fabricación de equipo aeroespacial","fourdigit",805.0
+832,"33641","Fabricación de equipo aeroespacial","fivedigit",831.0
+833,"336410","Fabricación de equipo aeroespacial","sixdigit",832.0
+834,"3365","Fabricación de equipo ferroviario","fourdigit",805.0
+835,"33651","Fabricación de equipo ferroviario","fivedigit",834.0
+836,"336510","Fabricación de equipo ferroviario","sixdigit",835.0
+837,"3366","Fabricación de embarcaciones","fourdigit",805.0
+838,"33661","Fabricación de embarcaciones","fivedigit",837.0
+839,"336610","Fabricación de embarcaciones","sixdigit",838.0
+840,"3369","Fabricación de otro equipo de transporte","fourdigit",805.0
+841,"33699","Fabricación de otro equipo de transporte","fivedigit",840.0
+842,"336991","Fabricación de motocicletas","sixdigit",841.0
+843,"336992","Fabricación de bicicletas y triciclos","sixdigit",841.0
+844,"336999","Fabricación de otro equipo de transporte","sixdigit",841.0
+845,"337","Fabricación de muebles, colchones y persianas","threedigit",221.0
+846,"3371","Fabricación de muebles, excepto de oficina y estantería","fourdigit",845.0
+847,"33711","Fabricación de cocinas integrales y muebles modulares de baño","fivedigit",846.0
+848,"337110","Fabricación de cocinas integrales y muebles modulares de baño","sixdigit",847.0
+849,"33712","Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería","fivedigit",846.0
+850,"337120","Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería","sixdigit",849.0
+851,"3372","Fabricación de muebles de oficina y estantería","fourdigit",845.0
+852,"33721","Fabricación de muebles de oficina y estantería","fivedigit",851.0
+853,"337210","Fabricación de muebles de oficina y estantería","sixdigit",852.0
+854,"3379","Fabricación de colchones, persianas y cortineros","fourdigit",845.0
+855,"33791","Fabricación de colchones","fivedigit",854.0
+856,"337910","Fabricación de colchones","sixdigit",855.0
+857,"33792","Fabricación de persianas y cortineros","fivedigit",854.0
+858,"337920","Fabricación de persianas y cortineros","sixdigit",857.0
+859,"339","Otras industrias manufactureras","threedigit",221.0
+860,"3391","Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos","fourdigit",859.0
+861,"33911","Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos","fivedigit",860.0
+862,"339111","Fabricación de equipo no electrónico para uso médico, dental y para laboratorio","sixdigit",861.0
+863,"339112","Fabricación de material desechable de uso médico","sixdigit",861.0
+864,"339113","Fabricación de artículos oftálmicos","sixdigit",861.0
+865,"3399","Otras industrias manufactureras","fourdigit",859.0
+866,"33991","Metalistería y joyería","fivedigit",865.0
+867,"339911","Acuñación e impresión de monedas","sixdigit",866.0
+868,"339912","Orfebrería y joyería de metales y piedras preciosos","sixdigit",866.0
+869,"339913","Joyería de metales y piedras no preciosos y de otros materiales","sixdigit",866.0
+870,"339914","Metalistería de metales no preciosos","sixdigit",866.0
+871,"33992","Fabricación de artículos deportivos","fivedigit",865.0
+872,"339920","Fabricación de artículos deportivos","sixdigit",871.0
+873,"33993","Fabricación de juguetes","fivedigit",865.0
+874,"339930","Fabricación de juguetes","sixdigit",873.0
+875,"33994","Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina","fivedigit",865.0
+876,"339940","Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina","sixdigit",875.0
+877,"33995","Fabricación de anuncios y señalamientos","fivedigit",865.0
+878,"339950","Fabricación de anuncios y señalamientos","sixdigit",877.0
+879,"33999","Otras industrias manufactureras","fivedigit",865.0
+880,"339991","Fabricación de instrumentos musicales","sixdigit",879.0
+881,"339992","Fabricación de cierres, botones y agujas","sixdigit",879.0
+882,"339993","Fabricación de escobas, cepillos y similares","sixdigit",879.0
+883,"339994","Fabricación de velas y veladoras","sixdigit",879.0
+884,"339995","Fabricación de ataúdes","sixdigit",879.0
+885,"339999","Otras industrias manufactureras","sixdigit",879.0
+886,"43","Comercio al por mayor","twodigit",""
+887,"431","Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco","threedigit",886.0
+888,"4311","Comercio al por mayor de abarrotes y alimentos","fourdigit",887.0
+889,"43111","Comercio al por mayor de abarrotes","fivedigit",888.0
+890,"431110","Comercio al por mayor de abarrotes","sixdigit",889.0
+891,"43112","Comercio al por mayor de carnes","fivedigit",888.0
+892,"431121","Comercio al por mayor de carnes rojas","sixdigit",891.0
+893,"431122","Comercio al por mayor de carne de aves","sixdigit",891.0
+894,"431123","Comercio al por mayor de pescados y mariscos","sixdigit",891.0
+895,"43113","Comercio al por mayor de frutas y verduras frescas","fivedigit",888.0
+896,"431130","Comercio al por mayor de frutas y verduras frescas","sixdigit",895.0
+897,"43114","Comercio al por mayor de huevo","fivedigit",888.0
+898,"431140","Comercio al por mayor de huevo","sixdigit",897.0
+899,"43115","Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos","fivedigit",888.0
+900,"431150","Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos","sixdigit",899.0
+901,"43116","Comercio al por mayor de leche y otros productos lácteos","fivedigit",888.0
+902,"431160","Comercio al por mayor de leche y otros productos lácteos","sixdigit",901.0
+903,"43117","Comercio al por mayor de embutidos","fivedigit",888.0
+904,"431170","Comercio al por mayor de embutidos","sixdigit",903.0
+905,"43118","Comercio al por mayor de dulces y materias primas para repostería","fivedigit",888.0
+906,"431180","Comercio al por mayor de dulces y materias primas para repostería","sixdigit",905.0
+907,"43119","Comercio al por mayor de otros alimentos","fivedigit",888.0
+908,"431191","Comercio al por mayor de pan y pasteles","sixdigit",907.0
+909,"431192","Comercio al por mayor de botanas y frituras","sixdigit",907.0
+910,"431193","Comercio al por mayor de conservas alimenticias","sixdigit",907.0
+911,"431194","Comercio al por mayor de miel","sixdigit",907.0
+912,"431199","Comercio al por mayor de otros alimentos","sixdigit",907.0
+913,"4312","Comercio al por mayor de bebidas, hielo y tabaco","fourdigit",887.0
+914,"43121","Comercio al por mayor de bebidas y hielo","fivedigit",913.0
+915,"431211","Comercio al por mayor de bebidas no alcohólicas y hielo","sixdigit",914.0
+916,"431212","Comercio al por mayor de vinos y licores","sixdigit",914.0
+917,"431213","Comercio al por mayor de cerveza","sixdigit",914.0
+918,"43122","Comercio al por mayor de cigarros, puros y tabaco","fivedigit",913.0
+919,"431220","Comercio al por mayor de cigarros, puros y tabaco","sixdigit",918.0
+920,"432","Comercio al por mayor de productos textiles y calzado","threedigit",886.0
+921,"4321","Comercio al por mayor de productos textiles y calzado","fourdigit",920.0
+922,"43211","Comercio al por mayor de productos textiles, excepto ropa","fivedigit",921.0
+923,"432111","Comercio al por mayor de fibras, hilos y telas","sixdigit",922.0
+924,"432112","Comercio al por mayor de blancos","sixdigit",922.0
+925,"432113","Comercio al por mayor de cueros y pieles","sixdigit",922.0
+926,"432119","Comercio al por mayor de otros productos textiles","sixdigit",922.0
+927,"43212","Comercio al por mayor de ropa, bisutería y accesorios de vestir","fivedigit",921.0
+928,"432120","Comercio al por mayor de ropa, bisutería y accesorios de vestir","sixdigit",927.0
+929,"43213","Comercio al por mayor de calzado","fivedigit",921.0
+930,"432130","Comercio al por mayor de calzado","sixdigit",929.0
+931,"433","Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca","threedigit",886.0
+932,"4331","Comercio al por mayor de productos farmacéuticos","fourdigit",931.0
+933,"43311","Comercio al por mayor de productos farmacéuticos","fivedigit",932.0
+934,"433110","Comercio al por mayor de productos farmacéuticos","sixdigit",933.0
+935,"4332","Comercio al por mayor de artículos de perfumería, cosméticos y joyería","fourdigit",931.0
+936,"43321","Comercio al por mayor de artículos de perfumería y cosméticos","fivedigit",935.0
+937,"433210","Comercio al por mayor de artículos de perfumería y cosméticos","sixdigit",936.0
+938,"43322","Comercio al por mayor de artículos de joyería y relojes","fivedigit",935.0
+939,"433220","Comercio al por mayor de artículos de joyería y relojes","sixdigit",938.0
+940,"4333","Comercio al por mayor de discos, juguetes y artículos deportivos","fourdigit",931.0
+941,"43331","Comercio al por mayor de discos, juguetes y artículos deportivos","fivedigit",940.0
+942,"433311","Comercio al por mayor de discos y casetes","sixdigit",941.0
+943,"433312","Comercio al por mayor de juguetes y bicicletas","sixdigit",941.0
+944,"433313","Comercio al por mayor de artículos y aparatos deportivos","sixdigit",941.0
+945,"4334","Comercio al por mayor de artículos de papelería, libros, revistas y periódicos","fourdigit",931.0
+946,"43341","Comercio al por mayor de artículos de papelería","fivedigit",945.0
+947,"433410","Comercio al por mayor de artículos de papelería","sixdigit",946.0
+948,"43342","Comercio al por mayor de libros","fivedigit",945.0
+949,"433420","Comercio al por mayor de libros","sixdigit",948.0
+950,"43343","Comercio al por mayor de revistas y periódicos","fivedigit",945.0
+951,"433430","Comercio al por mayor de revistas y periódicos","sixdigit",950.0
+952,"4335","Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca","fourdigit",931.0
+953,"43351","Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca","fivedigit",952.0
+954,"433510","Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca","sixdigit",953.0
+955,"434","Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho","threedigit",886.0
+956,"4341","Comercio al por mayor de materias primas agropecuarias y forestales","fourdigit",955.0
+957,"43411","Comercio al por mayor de materias primas agropecuarias y forestales","fivedigit",956.0
+958,"434111","Comercio al por mayor de fertilizantes, plaguicidas y semillas para siembra","sixdigit",957.0
+959,"434112","Comercio al por mayor de medicamentos veterinarios y alimentos para animales, excepto mascotas","sixdigit",957.0
+960,"4342","Comercio al por mayor de materias primas para la industria","fourdigit",955.0
+961,"43421","Comercio al por mayor de materiales para la construcción, excepto de madera y metálicos","fivedigit",960.0
+962,"434211","Comercio al por mayor de cemento, tabique y grava","sixdigit",961.0
+963,"434219","Comercio al por mayor de otros materiales para la construcción, excepto de madera y metálicos","sixdigit",961.0
+964,"43422","Comercio al por mayor de otros materiales para la construcción y materias primas para otras industrias","fivedigit",960.0
+965,"434221","Comercio al por mayor de materiales metálicos para la construcción y la manufactura","sixdigit",964.0
+966,"434222","Comercio al por mayor de productos químicos para la industria farmacéutica y para otro uso industrial","sixdigit",964.0
+967,"434223","Comercio al por mayor de envases en general, papel y cartón para la industria","sixdigit",964.0
+968,"434224","Comercio al por mayor de madera para la construcción y la industria","sixdigit",964.0
+969,"434225","Comercio al por mayor de equipo y material eléctrico","sixdigit",964.0
+970,"434226","Comercio al por mayor de pintura","sixdigit",964.0
+971,"434227","Comercio al por mayor de vidrios y espejos","sixdigit",964.0
+972,"434228","Comercio al por mayor de ganado y aves en pie","sixdigit",964.0
+973,"434229","Comercio al por mayor de otras materias primas para otras industrias","sixdigit",964.0
+974,"43423","Comercio al por mayor de combustibles de uso industrial","fivedigit",960.0
+975,"434230","Comercio al por mayor de combustibles de uso industrial","sixdigit",974.0
+976,"43424","Comercio al por mayor de artículos desechables","fivedigit",960.0
+977,"434240","Comercio al por mayor de artículos desechables","sixdigit",976.0
+978,"4343","Comercio al por mayor de materiales de desecho","fourdigit",955.0
+979,"43431","Comercio al por mayor de materiales de desecho","fivedigit",978.0
+980,"434311","Comercio al por mayor de desechos metálicos","sixdigit",979.0
+981,"434312","Comercio al por mayor de desechos de papel y de cartón","sixdigit",979.0
+982,"434313","Comercio al por mayor de desechos de vidrio","sixdigit",979.0
+983,"434314","Comercio al por mayor de desechos de plástico","sixdigit",979.0
+984,"434319","Comercio al por mayor de otros materiales de desecho","sixdigit",979.0
+985,"435","Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general","threedigit",886.0
+986,"4351","Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca","fourdigit",985.0
+987,"43511","Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca","fivedigit",986.0
+988,"435110","Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca","sixdigit",987.0
+989,"4352","Comercio al por mayor de maquinaria y equipo para la industria","fourdigit",985.0
+990,"43521","Comercio al por mayor de maquinaria y equipo para la construcción y la minería","fivedigit",989.0
+991,"435210","Comercio al por mayor de maquinaria y equipo para la construcción y la minería","sixdigit",990.0
+992,"43522","Comercio al por mayor de maquinaria y equipo para la industria manufacturera","fivedigit",989.0
+993,"435220","Comercio al por mayor de maquinaria y equipo para la industria manufacturera","sixdigit",992.0
+994,"4353","Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales","fourdigit",985.0
+995,"43531","Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales","fivedigit",994.0
+996,"435311","Comercio al por mayor de equipo de telecomunicaciones, fotografía y cinematografía","sixdigit",995.0
+997,"435312","Comercio al por mayor de artículos y accesorios para diseño y pintura artística","sixdigit",995.0
+998,"435313","Comercio al por mayor de mobiliario, equipo e instrumental médico y de laboratorio","sixdigit",995.0
+999,"435319","Comercio al por mayor de maquinaria y equipo para otros servicios y para actividades comerciales","sixdigit",995.0
+1000,"4354","Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general","fourdigit",985.0
+1001,"43541","Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general","fivedigit",1000.0
+1002,"435411","Comercio al por mayor de mobiliario, equipo, y accesorios de cómputo","sixdigit",1001.0
+1003,"435412","Comercio al por mayor de mobiliario y equipo de oficina","sixdigit",1001.0
+1004,"435419","Comercio al por mayor de otra maquinaria y equipo de uso general","sixdigit",1001.0
+1005,"436","Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones","threedigit",886.0
+1006,"4361","Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones","fourdigit",1005.0
+1007,"43611","Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones","fivedigit",1006.0
+1008,"436111","Comercio al por mayor de camiones","sixdigit",1007.0
+1009,"436112","Comercio al por mayor de partes y refacciones nuevas para automóviles, camionetas y camiones","sixdigit",1007.0
+1010,"437","Intermediación de comercio al por mayor","threedigit",886.0
+1011,"4371","Intermediación de comercio al por mayor, excepto a través de Internet y de otros medios electrónicos","fourdigit",1010.0
+1012,"43711","Intermediación de comercio al por mayor, excepto a través de Internet y de otros medios electrónicos","fivedigit",1011.0
+1013,"437111","Intermediación de comercio al por mayor de productos agropecuarios, excepto a través de Internet y de otros medios electrónicos","sixdigit",1012.0
+1014,"437112","Intermediación de comercio al por mayor de productos para la industria, el comercio y los servicios, excepto a través de Internet y de otros medios electrónicos","sixdigit",1012.0
+1015,"437113","Intermediación de comercio al por mayor para productos de uso doméstico y personal, excepto a través de Internet y de otros medios electrónicos","sixdigit",1012.0
+1016,"4372","Intermediación de comercio al por mayor exclusivamente a través de Internet y otros medios electrónicos","fourdigit",1010.0
+1017,"43721","Intermediación de comercio al por mayor exclusivamente a través de Internet y otros medios electrónicos","fivedigit",1016.0
+1018,"437210","Intermediación de comercio al por mayor exclusivamente a través de Internet y otros medios electrónicos","sixdigit",1017.0
+1019,"46","Comercio al por menor","twodigit",""
+1020,"461","Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco","threedigit",1019.0
+1021,"4611","Comercio al por menor de abarrotes y alimentos","fourdigit",1020.0
+1022,"46111","Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas","fivedigit",1021.0
+1023,"461110","Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas","sixdigit",1022.0
+1024,"46112","Comercio al por menor de carnes","fivedigit",1021.0
+1025,"461121","Comercio al por menor de carnes rojas","sixdigit",1024.0
+1026,"461122","Comercio al por menor de carne de aves","sixdigit",1024.0
+1027,"461123","Comercio al por menor de pescados y mariscos","sixdigit",1024.0
+1028,"46113","Comercio al por menor de frutas y verduras frescas","fivedigit",1021.0
+1029,"461130","Comercio al por menor de frutas y verduras frescas","sixdigit",1028.0
+1030,"46114","Comercio al por menor de semillas y granos alimenticios, especias y chiles secos","fivedigit",1021.0
+1031,"461140","Comercio al por menor de semillas y granos alimenticios, especias y chiles secos","sixdigit",1030.0
+1032,"46115","Comercio al por menor de leche, otros productos lácteos y embutidos","fivedigit",1021.0
+1033,"461150","Comercio al por menor de leche, otros productos lácteos y embutidos","sixdigit",1032.0
+1034,"46116","Comercio al por menor de dulces y materias primas para repostería","fivedigit",1021.0
+1035,"461160","Comercio al por menor de dulces y materias primas para repostería","sixdigit",1034.0
+1036,"46117","Comercio al por menor de paletas de hielo y helados","fivedigit",1021.0
+1037,"461170","Comercio al por menor de paletas de hielo y helados","sixdigit",1036.0
+1038,"46119","Comercio al por menor de otros alimentos","fivedigit",1021.0
+1039,"461190","Comercio al por menor de otros alimentos","sixdigit",1038.0
+1040,"4612","Comercio al por menor de bebidas, hielo y tabaco","fourdigit",1020.0
+1041,"46121","Comercio al por menor de bebidas y hielo","fivedigit",1040.0
+1042,"461211","Comercio al por menor de vinos y licores","sixdigit",1041.0
+1043,"461212","Comercio al por menor de cerveza","sixdigit",1041.0
+1044,"461213","Comercio al por menor de bebidas no alcohólicas y hielo","sixdigit",1041.0
+1045,"46122","Comercio al por menor de cigarros, puros y tabaco","fivedigit",1040.0
+1046,"461220","Comercio al por menor de cigarros, puros y tabaco","sixdigit",1045.0
+1047,"462","Comercio al por menor en tiendas de autoservicio y departamentales","threedigit",1019.0
+1048,"4621","Comercio al por menor en tiendas de autoservicio","fourdigit",1047.0
+1049,"46211","Comercio al por menor en tiendas de autoservicio","fivedigit",1048.0
+1050,"462111","Comercio al por menor en supermercados","sixdigit",1049.0
+1051,"462112","Comercio al por menor en minisupers","sixdigit",1049.0
+1052,"4622","Comercio al por menor en tiendas departamentales","fourdigit",1047.0
+1053,"46221","Comercio al por menor en tiendas departamentales","fivedigit",1052.0
+1054,"462210","Comercio al por menor en tiendas departamentales","sixdigit",1053.0
+1055,"463","Comercio al por menor de productos textiles, bisutería, accesorios de vestir y calzado","threedigit",1019.0
+1056,"4631","Comercio al por menor de productos textiles, excepto ropa","fourdigit",1055.0
+1057,"46311","Comercio al por menor de productos textiles, excepto ropa","fivedigit",1056.0
+1058,"463111","Comercio al por menor de telas","sixdigit",1057.0
+1059,"463112","Comercio al por menor de blancos","sixdigit",1057.0
+1060,"463113","Comercio al por menor de artículos de mercería y bonetería","sixdigit",1057.0
+1061,"4632","Comercio al por menor de ropa, bisutería y accesorios de vestir","fourdigit",1055.0
+1062,"46321","Comercio al por menor de ropa, bisutería y accesorios de vestir","fivedigit",1061.0
+1063,"463211","Comercio al por menor de ropa, excepto de bebé y lencería","sixdigit",1062.0
+1064,"463212","Comercio al por menor de ropa de bebé","sixdigit",1062.0
+1065,"463213","Comercio al por menor de lencería","sixdigit",1062.0
+1066,"463214","Comercio al por menor de disfraces, vestimenta regional y vestidos de novia","sixdigit",1062.0
+1067,"463215","Comercio al por menor de bisutería y accesorios de vestir","sixdigit",1062.0
+1068,"463216","Comercio al por menor de ropa de cuero y piel y de otros artículos de estos materiales","sixdigit",1062.0
+1069,"463217","Comercio al por menor de pañales desechables","sixdigit",1062.0
+1070,"463218","Comercio al por menor de sombreros","sixdigit",1062.0
+1071,"4633","Comercio al por menor de calzado","fourdigit",1055.0
+1072,"46331","Comercio al por menor de calzado","fivedigit",1071.0
+1073,"463310","Comercio al por menor de calzado","sixdigit",1072.0
+1074,"464","Comercio al por menor de artículos para el cuidado de la salud","threedigit",1019.0
+1075,"4641","Comercio al por menor de artículos para el cuidado de la salud","fourdigit",1074.0
+1076,"46411","Comercio al por menor de productos farmacéuticos y naturistas","fivedigit",1075.0
+1077,"464111","Farmacias sin minisúper","sixdigit",1076.0
+1078,"464112","Farmacias con minisúper","sixdigit",1076.0
+1079,"464113","Comercio al por menor de productos naturistas, medicamentos homeopáticos y de complementos alimenticios","sixdigit",1076.0
+1080,"46412","Comercio al por menor de lentes y artículos ortopédicos","fivedigit",1075.0
+1081,"464121","Comercio al por menor de lentes","sixdigit",1080.0
+1082,"464122","Comercio al por menor de artículos ortopédicos","sixdigit",1080.0
+1083,"465","Comercio al por menor de artículos de papelería, para el esparcimiento y otros artículos de uso personal","threedigit",1019.0
+1084,"4651","Comercio al por menor de artículos de perfumería y joyería","fourdigit",1083.0
+1085,"46511","Comercio al por menor de artículos de perfumería y joyería","fivedigit",1084.0
+1086,"465111","Comercio al por menor de artículos de perfumería y cosméticos","sixdigit",1085.0
+1087,"465112","Comercio al por menor de artículos de joyería y relojes","sixdigit",1085.0
+1088,"4652","Comercio al por menor de artículos para el esparcimiento","fourdigit",1083.0
+1089,"46521","Comercio al por menor de artículos para el esparcimiento","fivedigit",1088.0
+1090,"465211","Comercio al por menor de discos y casetes","sixdigit",1089.0
+1091,"465212","Comercio al por menor de juguetes","sixdigit",1089.0
+1092,"465213","Comercio al por menor de bicicletas","sixdigit",1089.0
+1093,"465214","Comercio al por menor de equipo y material fotográfico","sixdigit",1089.0
+1094,"465215","Comercio al por menor de artículos y aparatos deportivos","sixdigit",1089.0
+1095,"465216","Comercio al por menor de instrumentos musicales","sixdigit",1089.0
+1096,"4653","Comercio al por menor de artículos de papelería, libros, revistas y periódicos","fourdigit",1083.0
+1097,"46531","Comercio al por menor de artículos de papelería, libros, revistas y periódicos","fivedigit",1096.0
+1098,"465311","Comercio al por menor de artículos de papelería","sixdigit",1097.0
+1099,"465312","Comercio al por menor de libros","sixdigit",1097.0
+1100,"465313","Comercio al por menor de revistas y periódicos","sixdigit",1097.0
+1101,"4659","Comercio al por menor de mascotas, regalos, artículos religiosos, desechables y otros artículos de uso personal","fourdigit",1083.0
+1102,"46591","Comercio al por menor de mascotas, regalos, artículos religiosos, desechables y otros artículos de uso personal","fivedigit",1101.0
+1103,"465911","Comercio al por menor de mascotas","sixdigit",1102.0
+1104,"465912","Comercio al por menor de regalos","sixdigit",1102.0
+1105,"465913","Comercio al por menor de artículos religiosos","sixdigit",1102.0
+1106,"465914","Comercio al por menor de artículos desechables","sixdigit",1102.0
+1107,"465919","Comercio al por menor de otros artículos de uso personal","sixdigit",1102.0
+1108,"466","Comercio al por menor de enseres domésticos, computadoras, artículos para la decoración de interiores y artículos usados","threedigit",1019.0
+1109,"4661","Comercio al por menor de muebles para el hogar y otros enseres domésticos","fourdigit",1108.0
+1110,"46611","Comercio al por menor de muebles para el hogar y otros enseres domésticos","fivedigit",1109.0
+1111,"466111","Comercio al por menor de muebles para el hogar","sixdigit",1110.0
+1112,"466112","Comercio al por menor de electrodomésticos menores y aparatos de línea blanca","sixdigit",1110.0
+1113,"466113","Comercio al por menor de muebles para jardín","sixdigit",1110.0
+1114,"466114","Comercio al por menor de cristalería, loza y utensilios de cocina","sixdigit",1110.0
+1115,"4662","Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación","fourdigit",1108.0
+1116,"46621","Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación","fivedigit",1115.0
+1117,"466211","Comercio al por menor de mobiliario, equipo y accesorios de cómputo","sixdigit",1116.0
+1118,"466212","Comercio al por menor de teléfonos y otros aparatos de comunicación","sixdigit",1116.0
+1119,"4663","Comercio al por menor de artículos para la decoración de interiores","fourdigit",1108.0
+1120,"46631","Comercio al por menor de artículos para la decoración de interiores","fivedigit",1119.0
+1121,"466311","Comercio al por menor de alfombras, cortinas, tapices y similares","sixdigit",1120.0
+1122,"466312","Comercio al por menor de plantas y flores naturales","sixdigit",1120.0
+1123,"466313","Comercio al por menor de antigüedades y obras de arte","sixdigit",1120.0
+1124,"466314","Comercio al por menor de lámparas ornamentales y candiles","sixdigit",1120.0
+1125,"466319","Comercio al por menor de otros artículos para la decoración de interiores","sixdigit",1120.0
+1126,"4664","Comercio al por menor de artículos usados","fourdigit",1108.0
+1127,"46641","Comercio al por menor de artículos usados","fivedigit",1126.0
+1128,"466410","Comercio al por menor de artículos usados","sixdigit",1127.0
+1129,"467","Comercio al por menor de artículos de ferretería, tlapalería y vidrios","threedigit",1019.0
+1130,"4671","Comercio al por menor de artículos de ferretería, tlapalería y vidrios","fourdigit",1129.0
+1131,"46711","Comercio al por menor de artículos de ferretería, tlapalería y vidrios","fivedigit",1130.0
+1132,"467111","Comercio al por menor en ferreterías y tlapalerías","sixdigit",1131.0
+1133,"467112","Comercio al por menor de pisos y recubrimientos cerámicos","sixdigit",1131.0
+1134,"467113","Comercio al por menor de pintura","sixdigit",1131.0
+1135,"467114","Comercio al por menor de vidrios y espejos","sixdigit",1131.0
+1136,"467115","Comercio al por menor de artículos para la limpieza","sixdigit",1131.0
+1137,"467116","Comercio al por menor de materiales para la construcción en tiendas de autoservicio especializadas","sixdigit",1131.0
+1138,"467117","Comercio al por menor de artículos para albercas y otros artículos","sixdigit",1131.0
+1139,"468","Comercio al por menor de vehículos de motor, refacciones, combustibles y lubricantes","threedigit",1019.0
+1140,"4681","Comercio al por menor de automóviles y camionetas","fourdigit",1139.0
+1141,"46811","Comercio al por menor de automóviles y camionetas","fivedigit",1140.0
+1142,"468111","Comercio al por menor de automóviles y camionetas nuevos","sixdigit",1141.0
+1143,"468112","Comercio al por menor de automóviles y camionetas usados","sixdigit",1141.0
+1144,"4682","Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones","fourdigit",1139.0
+1145,"46821","Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones","fivedigit",1144.0
+1146,"468211","Comercio al por menor de partes y refacciones nuevas para automóviles, camionetas y camiones","sixdigit",1145.0
+1147,"468212","Comercio al por menor de partes y refacciones usadas para automóviles, camionetas y camiones","sixdigit",1145.0
+1148,"468213","Comercio al por menor de llantas y cámaras para automóviles, camionetas y camiones","sixdigit",1145.0
+1149,"4683","Comercio al por menor de motocicletas y otros vehículos de motor","fourdigit",1139.0
+1150,"46831","Comercio al por menor de motocicletas y otros vehículos de motor","fivedigit",1149.0
+1151,"468311","Comercio al por menor de motocicletas","sixdigit",1150.0
+1152,"468319","Comercio al por menor de otros vehículos de motor","sixdigit",1150.0
+1153,"4684","Comercio al por menor de combustibles, aceites y grasas lubricantes","fourdigit",1139.0
+1154,"46841","Comercio al por menor de combustibles","fivedigit",1153.0
+1155,"468411","Comercio al por menor de gasolina y diesel","sixdigit",1154.0
+1156,"468412","Comercio al por menor de gas L. P. en cilindros y para tanques estacionarios","sixdigit",1154.0
+1157,"468413","Comercio al por menor de gas L. P. en estaciones de carburación","sixdigit",1154.0
+1158,"468419","Comercio al por menor de otros combustibles","sixdigit",1154.0
+1159,"46842","Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor","fivedigit",1153.0
+1160,"468420","Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor","sixdigit",1159.0
+1161,"469","Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares","threedigit",1019.0
+1162,"4691","Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares","fourdigit",1161.0
+1163,"46911","Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares","fivedigit",1162.0
+1164,"469110","Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares","sixdigit",1163.0
+1165,"48-49 ","Transportes, correos y almacenamiento","sixdigit",1163.0
+1166,"481","Transporte aéreo","threedigit",1019.0
+1167,"4811","Transporte aéreo regular","fourdigit",1166.0
+1168,"48111","Transporte aéreo regular","fivedigit",1167.0
+1169,"481111","Transporte aéreo regular en líneas aéreas nacionales","sixdigit",1168.0
+1170,"481112","Transporte aéreo regular en líneas aéreas extranjeras","sixdigit",1168.0
+1171,"4812","Transporte aéreo no regular","fourdigit",1166.0
+1172,"48121","Transporte aéreo no regular","fivedigit",1171.0
+1173,"481210","Transporte aéreo no regular","sixdigit",1172.0
+1174,"482","Transporte por ferrocarril","threedigit",1019.0
+1175,"4821","Transporte por ferrocarril","fourdigit",1174.0
+1176,"48211","Transporte por ferrocarril","fivedigit",1175.0
+1177,"482110","Transporte por ferrocarril","sixdigit",1176.0
+1178,"483","Transporte por agua","threedigit",1019.0
+1179,"4831","Transporte marítimo","fourdigit",1178.0
+1180,"48311","Transporte marítimo","fivedigit",1179.0
+1181,"483111","Transporte marítimo de altura, excepto de petróleo y gas natural","sixdigit",1180.0
+1182,"483112","Transporte marítimo de cabotaje, excepto de petróleo y gas natural","sixdigit",1180.0
+1183,"483113","Transporte marítimo de petróleo y gas natural","sixdigit",1180.0
+1184,"4832","Transporte por aguas interiores","fourdigit",1178.0
+1185,"48321","Transporte por aguas interiores","fivedigit",1184.0
+1186,"483210","Transporte por aguas interiores","sixdigit",1185.0
+1187,"484","Autotransporte de carga","threedigit",1019.0
+1188,"4841","Autotransporte de carga general","fourdigit",1187.0
+1189,"48411","Autotransporte local de carga general","fivedigit",1188.0
+1190,"484111","Autotransporte local de productos agrícolas sin refrigeración","sixdigit",1189.0
+1191,"484119","Otro autotransporte local de carga general","sixdigit",1189.0
+1192,"48412","Autotransporte foráneo de carga general","fivedigit",1188.0
+1193,"484121","Autotransporte foráneo de productos agrícolas sin refrigeración","sixdigit",1192.0
+1194,"484129","Otro autotransporte foráneo de carga general","sixdigit",1192.0
+1195,"4842","Autotransporte de carga especializado","fourdigit",1187.0
+1196,"48421","Servicios de mudanzas","fivedigit",1195.0
+1197,"484210","Servicios de mudanzas","sixdigit",1196.0
+1198,"48422","Autotransporte local de carga especializado, excepto mudanzas","fivedigit",1195.0
+1199,"484221","Autotransporte local de materiales para la construcción","sixdigit",1198.0
+1200,"484222","Autotransporte local de materiales y residuos peligrosos","sixdigit",1198.0
+1201,"484223","Autotransporte local con refrigeración","sixdigit",1198.0
+1202,"484224","Autotransporte local de madera","sixdigit",1198.0
+1203,"484229","Otro autotransporte local de carga especializado","sixdigit",1198.0
+1204,"48423","Autotransporte foráneo de carga especializado, excepto mudanzas","fivedigit",1195.0
+1205,"484231","Autotransporte foráneo de materiales para la construcción","sixdigit",1204.0
+1206,"484232","Autotransporte foráneo de materiales y residuos peligrosos","sixdigit",1204.0
+1207,"484233","Autotransporte foráneo con refrigeración","sixdigit",1204.0
+1208,"484234","Autotransporte foráneo de madera","sixdigit",1204.0
+1209,"484239","Otro autotransporte foráneo de carga especializado","sixdigit",1204.0
+1210,"485","Transporte terrestre de pasajeros, excepto por ferrocarril","threedigit",1019.0
+1211,"4851","Transporte colectivo urbano y suburbano de pasajeros de ruta fija","fourdigit",1210.0
+1212,"48511","Transporte colectivo urbano y suburbano de pasajeros de ruta fija","fivedigit",1211.0
+1213,"485111","Transporte colectivo urbano y suburbano de pasajeros en autobuses de ruta fija","sixdigit",1212.0
+1214,"485112","Transporte colectivo urbano y suburbano de pasajeros en automóviles de ruta fija","sixdigit",1212.0
+1215,"485113","Transporte colectivo urbano y suburbano de pasajeros en trolebuses y trenes ligeros","sixdigit",1212.0
+1216,"485114","Transporte colectivo urbano y suburbano de pasajeros en metro","sixdigit",1212.0
+1217,"4852","Transporte colectivo foráneo de pasajeros de ruta fija","fourdigit",1210.0
+1218,"48521","Transporte colectivo foráneo de pasajeros de ruta fija","fivedigit",1217.0
+1219,"485210","Transporte colectivo foráneo de pasajeros de ruta fija","sixdigit",1218.0
+1220,"4853","Servicio de taxis y limusinas","fourdigit",1210.0
+1221,"48531","Servicio de taxis","fivedigit",1220.0
+1222,"485311","Transporte de pasajeros en taxis de sitio","sixdigit",1221.0
+1223,"485312","Transporte de pasajeros en taxis de ruleteo","sixdigit",1221.0
+1224,"48532","Alquiler de automóviles con chofer","fivedigit",1220.0
+1225,"485320","Alquiler de automóviles con chofer","sixdigit",1224.0
+1226,"4854","Transporte escolar y de personal","fourdigit",1210.0
+1227,"48541","Transporte escolar y de personal","fivedigit",1226.0
+1228,"485410","Transporte escolar y de personal","sixdigit",1227.0
+1229,"4855","Alquiler de autobuses con chofer","fourdigit",1210.0
+1230,"48551","Alquiler de autobuses con chofer","fivedigit",1229.0
+1231,"485510","Alquiler de autobuses con chofer","sixdigit",1230.0
+1232,"4859","Otro transporte terrestre de pasajeros","fourdigit",1210.0
+1233,"48599","Otro transporte terrestre de pasajeros","fivedigit",1232.0
+1234,"485990","Otro transporte terrestre de pasajeros","sixdigit",1233.0
+1235,"486","Transporte por ductos","threedigit",1019.0
+1236,"4861","Transporte de petróleo crudo por ductos","fourdigit",1235.0
+1237,"48611","Transporte de petróleo crudo por ductos","fivedigit",1236.0
+1238,"486110","Transporte de petróleo crudo por ductos","sixdigit",1237.0
+1239,"4862","Transporte de gas natural por ductos","fourdigit",1235.0
+1240,"48621","Transporte de gas natural por ductos","fivedigit",1239.0
+1241,"486210","Transporte de gas natural por ductos","sixdigit",1240.0
+1242,"4869","Transporte por ductos de otros productos","fourdigit",1235.0
+1243,"48691","Transporte por ductos de productos refinados del petróleo","fivedigit",1242.0
+1244,"486910","Transporte por ductos de productos refinados del petróleo","sixdigit",1243.0
+1245,"48699","Transporte por ductos de otros productos, excepto de productos refinados del petróleo","fivedigit",1242.0
+1246,"486990","Transporte por ductos de otros productos, excepto de productos refinados del petróleo","sixdigit",1245.0
+1247,"487","Transporte turístico","threedigit",1019.0
+1248,"4871","Transporte turístico por tierra","fourdigit",1247.0
+1249,"48711","Transporte turístico por tierra","fivedigit",1248.0
+1250,"487110","Transporte turístico por tierra","sixdigit",1249.0
+1251,"4872","Transporte turístico por agua","fourdigit",1247.0
+1252,"48721","Transporte turístico por agua","fivedigit",1251.0
+1253,"487210","Transporte turístico por agua","sixdigit",1252.0
+1254,"4879","Otro transporte turístico","fourdigit",1247.0
+1255,"48799","Otro transporte turístico","fivedigit",1254.0
+1256,"487990","Otro transporte turístico","sixdigit",1255.0
+1257,"488","Servicios relacionados con el transporte","threedigit",1019.0
+1258,"4881","Servicios relacionados con el transporte aéreo","fourdigit",1257.0
+1259,"48811","Operaciones aeroportuarias","fivedigit",1258.0
+1260,"488111","Servicios a la navegación aérea","sixdigit",1259.0
+1261,"488112","Administración de aeropuertos y helipuertos","sixdigit",1259.0
+1262,"48819","Otros servicios relacionados con el transporte aéreo","fivedigit",1258.0
+1263,"488190","Otros servicios relacionados con el transporte aéreo","sixdigit",1262.0
+1264,"4882","Servicios relacionados con el transporte por ferrocarril","fourdigit",1257.0
+1265,"48821","Servicios relacionados con el transporte por ferrocarril","fivedigit",1264.0
+1266,"488210","Servicios relacionados con el transporte por ferrocarril","sixdigit",1265.0
+1267,"4883","Servicios relacionados con el transporte por agua","fourdigit",1257.0
+1268,"48831","Administración de puertos y muelles","fivedigit",1267.0
+1269,"488310","Administración de puertos y muelles","sixdigit",1268.0
+1270,"48832","Servicios de carga y descarga para el transporte por agua","fivedigit",1267.0
+1271,"488320","Servicios de carga y descarga para el transporte por agua","sixdigit",1270.0
+1272,"48833","Servicios para la navegación por agua","fivedigit",1267.0
+1273,"488330","Servicios para la navegación por agua","sixdigit",1272.0
+1274,"48839","Otros servicios relacionados con el transporte por agua","fivedigit",1267.0
+1275,"488390","Otros servicios relacionados con el transporte por agua","sixdigit",1274.0
+1276,"4884","Servicios relacionados con el transporte por carretera","fourdigit",1257.0
+1277,"48841","Servicios de grúa","fivedigit",1276.0
+1278,"488410","Servicios de grúa","sixdigit",1277.0
+1279,"48849","Otros servicios relacionados con el transporte por carretera","fivedigit",1276.0
+1280,"488491","Servicios de administración de centrales camioneras","sixdigit",1279.0
+1281,"488492","Servicios de administración de carreteras, puentes y servicios auxiliares","sixdigit",1279.0
+1282,"488493","Servicios de báscula para el transporte y otros servicios relacionados con el transporte por carretera","sixdigit",1279.0
+1283,"4885","Servicios de intermediación para el transporte de carga","fourdigit",1257.0
+1284,"48851","Servicios de intermediación para el transporte de carga","fivedigit",1283.0
+1285,"488511","Servicios de agencias aduanales","sixdigit",1284.0
+1286,"488519","Otros servicios de intermediación para el transporte de carga","sixdigit",1284.0
+1287,"4889","Otros servicios relacionados con el transporte","fourdigit",1257.0
+1288,"48899","Otros servicios relacionados con el transporte","fivedigit",1287.0
+1289,"488990","Otros servicios relacionados con el transporte","sixdigit",1288.0
+1290,"491","Servicios postales","threedigit",1019.0
+1291,"4911","Servicios postales","fourdigit",1290.0
+1292,"49111","Servicios postales","fivedigit",1291.0
+1293,"491110","Servicios postales","sixdigit",1292.0
+1294,"492","Servicios de mensajería y paquetería","threedigit",1019.0
+1295,"4921","Servicios de mensajería y paquetería foránea","fourdigit",1294.0
+1296,"49211","Servicios de mensajería y paquetería foránea","fivedigit",1295.0
+1297,"492110","Servicios de mensajería y paquetería foránea","sixdigit",1296.0
+1298,"4922","Servicios de mensajería y paquetería local","fourdigit",1294.0
+1299,"49221","Servicios de mensajería y paquetería local","fivedigit",1298.0
+1300,"492210","Servicios de mensajería y paquetería local","sixdigit",1299.0
+1301,"493","Servicios de almacenamiento","threedigit",1019.0
+1302,"4931","Servicios de almacenamiento","fourdigit",1301.0
+1303,"49311","Almacenes generales de depósito y otros servicios de almacenamiento general sin instalaciones especializadas","fivedigit",1302.0
+1304,"493111","Almacenes generales de depósito","sixdigit",1303.0
+1305,"493119","Otros servicios de almacenamiento general sin instalaciones especializadas","sixdigit",1303.0
+1306,"49312","Almacenamiento con refrigeración","fivedigit",1302.0
+1307,"493120","Almacenamiento con refrigeración","sixdigit",1306.0
+1308,"49313","Almacenamiento de productos agrícolas que no requieren refrigeración","fivedigit",1302.0
+1309,"493130","Almacenamiento de productos agrícolas que no requieren refrigeración","sixdigit",1308.0
+1310,"49319","Otros servicios de almacenamiento con instalaciones especializadas","fivedigit",1302.0
+1311,"493190","Otros servicios de almacenamiento con instalaciones especializadas","sixdigit",1310.0
+1312,"51","Información en medios masivos","twodigit",""
+1313,"511","Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión","threedigit",1312.0
+1314,"5111","Edición de periódicos, revistas, libros y similares, y edición de estas publicaciones integrada con la impresión","fourdigit",1313.0
+1315,"51111","Edición de periódicos y edición de estas publicaciones integrada con la impresión","fivedigit",1314.0
+1316,"511111","Edición de periódicos","sixdigit",1315.0
+1317,"511112","Edición de periódicos integrada con la impresión","sixdigit",1315.0
+1318,"51112","Edición de revistas y otras publicaciones periódicas y edición de estas publicaciones integrada con la impresión","fivedigit",1314.0
+1319,"511121","Edición de revistas y otras publicaciones periódicas","sixdigit",1318.0
+1320,"511122","Edición de revistas y otras publicaciones periódicas integrada con la impresión","sixdigit",1318.0
+1321,"51113","Edición de libros y edición de estas publicaciones integrada con la impresión","fivedigit",1314.0
+1322,"511131","Edición de libros","sixdigit",1321.0
+1323,"511132","Edición de libros integrada con la impresión","sixdigit",1321.0
+1324,"51114","Edición de directorios y de listas de correo, y edición de estas publicaciones integrada con la impresión","fivedigit",1314.0
+1325,"511141","Edición de directorios y de listas de correo","sixdigit",1324.0
+1326,"511142","Edición de directorios y de listas de correo integrada con la impresión","sixdigit",1324.0
+1327,"51119","Edición de otros materiales y edición de estas publicaciones integrada con la impresión","fivedigit",1314.0
+1328,"511191","Edición de otros materiales","sixdigit",1327.0
+1329,"511192","Edición de otros materiales integrada con la impresión","sixdigit",1327.0
+1330,"5112","Edición de software y edición de software integrada con la reproducción","fourdigit",1313.0
+1331,"51121","Edición de software y edición de software integrada con la reproducción","fivedigit",1330.0
+1332,"511210","Edición de software y edición de software integrada con la reproducción","sixdigit",1331.0
+1333,"512","Industria fílmica y del video, e industria del sonido","threedigit",1312.0
+1334,"5121","Industria fílmica y del video","fourdigit",1333.0
+1335,"51211","Producción de películas, programas para la televisión y otros materiales audiovisuales","fivedigit",1334.0
+1336,"512111","Producción de películas","sixdigit",1335.0
+1337,"512112","Producción de programas para la televisión","sixdigit",1335.0
+1338,"512113","Producción de videoclips, comerciales y otros materiales audiovisuales","sixdigit",1335.0
+1339,"51212","Distribución de películas y de otros materiales audiovisuales","fivedigit",1334.0
+1340,"512120","Distribución de películas y de otros materiales audiovisuales","sixdigit",1339.0
+1341,"51213","Exhibición de películas y otros materiales audiovisuales","fivedigit",1334.0
+1342,"512130","Exhibición de películas y otros materiales audiovisuales","sixdigit",1341.0
+1343,"51219","Servicios de postproducción y otros servicios para la industria fílmica y del video","fivedigit",1334.0
+1344,"512190","Servicios de postproducción y otros servicios para la industria fílmica y del video","sixdigit",1343.0
+1345,"5122","Industria del sonido","fourdigit",1333.0
+1346,"51221","Productoras discográficas","fivedigit",1345.0
+1347,"512210","Productoras discográficas","sixdigit",1346.0
+1348,"51222","Producción de material discográfico integrada con su reproducción y distribución","fivedigit",1345.0
+1349,"512220","Producción de material discográfico integrada con su reproducción y distribución","sixdigit",1348.0
+1350,"51223","Editoras de música","fivedigit",1345.0
+1351,"512230","Editoras de música","sixdigit",1350.0
+1352,"51224","Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales","fivedigit",1345.0
+1353,"512240","Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales","sixdigit",1352.0
+1354,"51229","Otros servicios de grabación del sonido","fivedigit",1345.0
+1355,"512290","Otros servicios de grabación del sonido","sixdigit",1354.0
+1356,"515","Radio y televisión","threedigit",1312.0
+1357,"5151","Transmisión de programas de radio y televisión","fourdigit",1356.0
+1358,"51511","Transmisión de programas de radio","fivedigit",1357.0
+1359,"515110","Transmisión de programas de radio","sixdigit",1358.0
+1360,"51512","Transmisión de programas de televisión","fivedigit",1357.0
+1361,"515120","Transmisión de programas de televisión","sixdigit",1360.0
+1362,"5152","Producción de programación de canales para sistemas de televisión por cable o satelitales","fourdigit",1356.0
+1363,"51521","Producción de programación de canales para sistemas de televisión por cable o satelitales","fivedigit",1362.0
+1364,"515210","Producción de programación de canales para sistemas de televisión por cable o satelitales","sixdigit",1363.0
+1365,"517","Otras telecomunicaciones","threedigit",1312.0
+1366,"5171","Operadores de telecomunicaciones alámbricas","fourdigit",1365.0
+1367,"51711","Operadores de telecomunicaciones alámbricas","fivedigit",1366.0
+1368,"517111","Operadores de telecomunicaciones alámbricas, excepto por suscripción","sixdigit",1367.0
+1369,"517112","Operadores de telecomunicaciones alámbricas por suscripción","sixdigit",1367.0
+1370,"5172","Operadores de telecomunicaciones inalámbricas, excepto servicios de satélite","fourdigit",1365.0
+1371,"51721","Operadores de telecomunicaciones inalámbricas, excepto servicios de satélite","fivedigit",1370.0
+1372,"517210","Operadores de telecomunicaciones inalámbricas, excepto servicios de satélite","sixdigit",1371.0
+1373,"5174","Servicios de telecomunicaciones por satélite","fourdigit",1365.0
+1374,"51741","Servicios de telecomunicaciones por satélite","fivedigit",1373.0
+1375,"517410","Servicios de telecomunicaciones por satélite","sixdigit",1374.0
+1376,"5179","Otros servicios de telecomunicaciones","fourdigit",1365.0
+1377,"51791","Otros servicios de telecomunicaciones","fivedigit",1376.0
+1378,"517910","Otros servicios de telecomunicaciones","sixdigit",1377.0
+1379,"518","Procesamiento electrónico de información, hospedaje y otros servicios relacionados","threedigit",1312.0
+1380,"5182","Procesamiento electrónico de información, hospedaje y otros servicios relacionados","fourdigit",1379.0
+1381,"51821","Procesamiento electrónico de información, hospedaje y otros servicios relacionados","fivedigit",1380.0
+1382,"518210","Procesamiento electrónico de información, hospedaje y otros servicios relacionados","sixdigit",1381.0
+1383,"519","Otros servicios de información","threedigit",1312.0
+1384,"5191","Otros servicios de información","fourdigit",1383.0
+1385,"51911","Agencias noticiosas","fivedigit",1384.0
+1386,"519110","Agencias noticiosas","sixdigit",1385.0
+1387,"51912","Bibliotecas y archivos","fivedigit",1384.0
+1388,"519121","Bibliotecas y archivos del sector privado","sixdigit",1387.0
+1389,"519122","Bibliotecas y archivos del sector público","sixdigit",1387.0
+1390,"51913","Edición y difusión de contenido exclusivamente a través de Internet y servicios de búsqueda en la red","fivedigit",1384.0
+1391,"519130","Edición y difusión de contenido exclusivamente a través de Internet y servicios de búsqueda en la red","sixdigit",1390.0
+1392,"51919","Otros servicios de suministro de información","fivedigit",1384.0
+1393,"519190","Otros servicios de suministro de información","sixdigit",1392.0
+1394,"52","Servicios financieros y de seguros","twodigit",""
+1395,"521","Banca central","threedigit",1394.0
+1396,"5211","Banca central","fourdigit",1395.0
+1397,"52111","Banca central","fivedigit",1396.0
+1398,"521110","Banca central","sixdigit",1397.0
+1399,"522","Instituciones de intermediación crediticia y financiera no bursátil","threedigit",1394.0
+1400,"5221","Banca múltiple","fourdigit",1399.0
+1401,"52211","Banca múltiple","fivedigit",1400.0
+1402,"522110","Banca múltiple","sixdigit",1401.0
+1403,"5222","Instituciones financieras de fomento económico","fourdigit",1399.0
+1404,"52221","Banca de desarrollo","fivedigit",1403.0
+1405,"522210","Banca de desarrollo","sixdigit",1404.0
+1406,"52222","Fondos y fideicomisos financieros","fivedigit",1403.0
+1407,"522220","Fondos y fideicomisos financieros","sixdigit",1406.0
+1408,"5223","Uniones de crédito e instituciones de ahorro","fourdigit",1399.0
+1409,"52231","Uniones de crédito","fivedigit",1408.0
+1410,"522310","Uniones de crédito","sixdigit",1409.0
+1411,"52232","Cajas de ahorro popular","fivedigit",1408.0
+1412,"522320","Cajas de ahorro popular","sixdigit",1411.0
+1413,"52239","Otras instituciones de ahorro y préstamo","fivedigit",1408.0
+1414,"522390","Otras instituciones de ahorro y préstamo","sixdigit",1413.0
+1415,"5224","Otras instituciones de intermediación crediticia y financiera no bursátil","fourdigit",1399.0
+1416,"52241","Arrendadoras financieras","fivedigit",1415.0
+1417,"522410","Arrendadoras financieras","sixdigit",1416.0
+1418,"52242","Compañías de factoraje financiero","fivedigit",1415.0
+1419,"522420","Compañías de factoraje financiero","sixdigit",1418.0
+1420,"52243","Sociedades financieras de objeto limitado","fivedigit",1415.0
+1421,"522430","Sociedades financieras de objeto limitado","sixdigit",1420.0
+1422,"52244","Compañías de autofinanciamiento","fivedigit",1415.0
+1423,"522440","Compañías de autofinanciamiento","sixdigit",1422.0
+1424,"52245","Montepíos y casas de empeño","fivedigit",1415.0
+1425,"522451","Montepíos","sixdigit",1424.0
+1426,"522452","Casas de empeño","sixdigit",1424.0
+1427,"52249","Otras instituciones de intermediación crediticia y financiera no bursátil","fivedigit",1415.0
+1428,"522490","Otras instituciones de intermediación crediticia y financiera no bursátil","sixdigit",1427.0
+1429,"5225","Servicios relacionados con la intermediación crediticia no bursátil","fourdigit",1399.0
+1430,"52251","Servicios relacionados con la intermediación crediticia no bursátil","fivedigit",1429.0
+1431,"522510","Servicios relacionados con la intermediación crediticia no bursátil","sixdigit",1430.0
+1432,"523","Actividades bursátiles, cambiarias y de inversión financiera","threedigit",1394.0
+1433,"5231","Casas de bolsa, casas de cambio y centros cambiarios","fourdigit",1432.0
+1434,"52311","Casas de bolsa","fivedigit",1433.0
+1435,"523110","Casas de bolsa","sixdigit",1434.0
+1436,"52312","Casas de cambio y centros cambiarios","fivedigit",1433.0
+1437,"523121","Casas de cambio","sixdigit",1436.0
+1438,"523122","Centros cambiarios","sixdigit",1436.0
+1439,"5232","Bolsa de valores","fourdigit",1432.0
+1440,"52321","Bolsa de valores","fivedigit",1439.0
+1441,"523210","Bolsa de valores","sixdigit",1440.0
+1442,"5239","Asesoría en inversiones y otros servicios relacionados con la intermediación bursátil","fourdigit",1432.0
+1443,"52391","Asesoría en inversiones","fivedigit",1442.0
+1444,"523910","Asesoría en inversiones","sixdigit",1443.0
+1445,"52399","Otros servicios relacionados con la intermediación bursátil","fivedigit",1442.0
+1446,"523990","Otros servicios relacionados con la intermediación bursátil","sixdigit",1445.0
+1447,"524","Compañías de fianzas, seguros y pensiones","threedigit",1394.0
+1448,"5241","Instituciones de seguros y fianzas","fourdigit",1447.0
+1449,"52411","Compañías de seguros","fivedigit",1448.0
+1450,"524110","Compañías de seguros","sixdigit",1449.0
+1451,"52412","Fondos de aseguramiento campesino","fivedigit",1448.0
+1452,"524120","Fondos de aseguramiento campesino","sixdigit",1451.0
+1453,"52413","Compañías afianzadoras","fivedigit",1448.0
+1454,"524130","Compañías afianzadoras","sixdigit",1453.0
+1455,"5242","Servicios relacionados con los seguros y las fianzas","fourdigit",1447.0
+1456,"52421","Agentes, ajustadores y gestores de seguros y fianzas","fivedigit",1455.0
+1457,"524210","Agentes, ajustadores y gestores de seguros y fianzas","sixdigit",1456.0
+1458,"52422","Administración de cajas de pensión y de seguros independientes","fivedigit",1455.0
+1459,"524220","Administración de cajas de pensión y de seguros independientes","sixdigit",1458.0
+1460,"53","Servicios inmobiliarios y de alquiler de bienes muebles e intangibles","twodigit",""
+1461,"531","Servicios inmobiliarios","threedigit",1460.0
+1462,"5311","Alquiler sin intermediación de bienes raíces","fourdigit",1461.0
+1463,"53111","Alquiler sin intermediación de bienes raíces","fivedigit",1462.0
+1464,"531111","Alquiler sin intermediación de viviendas amuebladas","sixdigit",1463.0
+1465,"531112","Alquiler sin intermediación de viviendas no amuebladas","sixdigit",1463.0
+1466,"531113","Alquiler sin intermediación de salones para fiestas y convenciones","sixdigit",1463.0
+1467,"531114","Alquiler sin intermediación de oficinas y locales comerciales","sixdigit",1463.0
+1468,"531115","Alquiler sin intermediación de teatros, estadios, auditorios y similares","sixdigit",1463.0
+1469,"531119","Alquiler sin intermediación de otros bienes raíces","sixdigit",1463.0
+1470,"5312","Inmobiliarias y corredores de bienes raíces","fourdigit",1461.0
+1471,"53121","Inmobiliarias y corredores de bienes raíces","fivedigit",1470.0
+1472,"531210","Inmobiliarias y corredores de bienes raíces ","sixdigit",1471.0
+1473,"5313","Servicios relacionados con los servicios inmobiliarios","fourdigit",1461.0
+1474,"53131","Servicios relacionados con los servicios inmobiliarios","fivedigit",1473.0
+1475,"531311","Servicios de administración de bienes raíces","sixdigit",1474.0
+1476,"531319","Otros servicios relacionados con los servicios inmobiliarios","sixdigit",1474.0
+1477,"532","Servicios de alquiler de bienes muebles","threedigit",1460.0
+1478,"5321","Alquiler de automóviles, camiones y otros transportes terrestres","fourdigit",1477.0
+1479,"53211","Alquiler de automóviles sin chofer","fivedigit",1478.0
+1480,"532110","Alquiler de automóviles sin chofer","sixdigit",1479.0
+1481,"53212","Alquiler de camiones de carga, autobuses, minibuses y remolques sin chofer","fivedigit",1478.0
+1482,"532121","Alquiler de camiones de carga sin chofer","sixdigit",1481.0
+1483,"532122","Alquiler de autobuses, minibuses y remolques sin chofer","sixdigit",1481.0
+1484,"5322","Alquiler de artículos para el hogar y personales","fourdigit",1477.0
+1485,"53221","Alquiler de aparatos eléctricos y electrónicos para el hogar y personales","fivedigit",1484.0
+1486,"532210","Alquiler de aparatos eléctricos y electrónicos para el hogar y personales","sixdigit",1485.0
+1487,"53222","Alquiler de prendas de vestir","fivedigit",1484.0
+1488,"532220","Alquiler de prendas de vestir","sixdigit",1487.0
+1489,"53223","Alquiler de videocasetes y discos","fivedigit",1484.0
+1490,"532230","Alquiler de videocasetes y discos","sixdigit",1489.0
+1491,"53229","Alquiler de otros artículos para el hogar y personales","fivedigit",1484.0
+1492,"532291","Alquiler de mesas, sillas, vajillas y similares","sixdigit",1491.0
+1493,"532292","Alquiler de instrumentos musicales","sixdigit",1491.0
+1494,"532299","Alquiler de otros artículos para el hogar y personales","sixdigit",1491.0
+1495,"5323","Centros generales de alquiler","fourdigit",1477.0
+1496,"53231","Centros generales de alquiler","fivedigit",1495.0
+1497,"532310","Centros generales de alquiler","sixdigit",1496.0
+1498,"5324","Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de servicios","fourdigit",1477.0
+1499,"53241","Alquiler de maquinaria y equipo para construcción, minería, actividades forestales y transporte, excepto terrestre","fivedigit",1498.0
+1500,"532411","Alquiler de maquinaria y equipo para construcción, minería y actividades forestales","sixdigit",1499.0
+1501,"532412","Alquiler de equipo de transporte, excepto terrestre","sixdigit",1499.0
+1502,"53242","Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina","fivedigit",1498.0
+1503,"532420","Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina","sixdigit",1502.0
+1504,"53249","Alquiler de otra maquinaria y equipo agropecuario, pesquero, para la industria manufacturera, comercial y de servicios","fivedigit",1498.0
+1505,"532491","Alquiler de maquinaria y equipo agropecuario, pesquero y para la industria manufacturera","sixdigit",1504.0
+1506,"532492","Alquiler de maquinaria y equipo para mover, levantar y acomodar materiales","sixdigit",1504.0
+1507,"532493","Alquiler de maquinaria y equipo comercial y de servicios","sixdigit",1504.0
+1508,"533","Servicios de alquiler de marcas registradas, patentes y franquicias","threedigit",1460.0
+1509,"5331","Servicios de alquiler de marcas registradas, patentes y franquicias","fourdigit",1508.0
+1510,"53311","Servicios de alquiler de marcas registradas, patentes y franquicias","fivedigit",1509.0
+1511,"533110","Servicios de alquiler de marcas registradas, patentes y franquicias","sixdigit",1510.0
+1512,"54","Servicios profesionales, científicos y técnicos","twodigit",""
+1513,"541","Servicios profesionales, científicos y técnicos","threedigit",1512.0
+1514,"5411","Servicios legales","fourdigit",1513.0
+1515,"54111","Bufetes jurídicos","fivedigit",1514.0
+1516,"541110","Bufetes jurídicos","sixdigit",1515.0
+1517,"54112","Notarías públicas","fivedigit",1514.0
+1518,"541120","Notarías públicas","sixdigit",1517.0
+1519,"54119","Servicios de apoyo para efectuar trámites legales","fivedigit",1514.0
+1520,"541190","Servicios de apoyo para efectuar trámites legales","sixdigit",1519.0
+1521,"5412","Servicios de contabilidad, auditoría y servicios relacionados","fourdigit",1513.0
+1522,"54121","Servicios de contabilidad, auditoría y servicios relacionados","fivedigit",1521.0
+1523,"541211","Servicios de contabilidad y auditoría","sixdigit",1522.0
+1524,"541219","Otros servicios relacionados con la contabilidad","sixdigit",1522.0
+1525,"5413","Servicios de arquitectura, ingeniería y actividades relacionadas","fourdigit",1513.0
+1526,"54131","Servicios de arquitectura","fivedigit",1525.0
+1527,"541310","Servicios de arquitectura","sixdigit",1526.0
+1528,"54132","Servicios de arquitectura de paisaje y urbanismo","fivedigit",1525.0
+1529,"541320","Servicios de arquitectura de paisaje y urbanismo","sixdigit",1528.0
+1530,"54133","Servicios de ingeniería","fivedigit",1525.0
+1531,"541330","Servicios de ingeniería","sixdigit",1530.0
+1532,"54134","Servicios de dibujo","fivedigit",1525.0
+1533,"541340","Servicios de dibujo","sixdigit",1532.0
+1534,"54135","Servicios de inspección de edificios","fivedigit",1525.0
+1535,"541350","Servicios de inspección de edificios","sixdigit",1534.0
+1536,"54136","Servicios de levantamiento geofísico","fivedigit",1525.0
+1537,"541360","Servicios de levantamiento geofísico","sixdigit",1536.0
+1538,"54137","Servicios de elaboración de mapas","fivedigit",1525.0
+1539,"541370","Servicios de elaboración de mapas","sixdigit",1538.0
+1540,"54138","Laboratorios de pruebas","fivedigit",1525.0
+1541,"541380","Laboratorios de pruebas","sixdigit",1540.0
+1542,"5414","Diseño especializado","fourdigit",1513.0
+1543,"54141","Diseño y decoración de interiores","fivedigit",1542.0
+1544,"541410","Diseño y decoración de interiores","sixdigit",1543.0
+1545,"54142","Diseño industrial","fivedigit",1542.0
+1546,"541420","Diseño industrial","sixdigit",1545.0
+1547,"54143","Diseño gráfico","fivedigit",1542.0
+1548,"541430","Diseño gráfico","sixdigit",1547.0
+1549,"54149","Diseño de modas y otros diseños especializados","fivedigit",1542.0
+1550,"541490","Diseño de modas y otros diseños especializados","sixdigit",1549.0
+1551,"5415","Servicios de diseño de sistemas de cómputo y servicios relacionados","fourdigit",1513.0
+1552,"54151","Servicios de diseño de sistemas de cómputo y servicios relacionados","fivedigit",1551.0
+1553,"541510","Servicios de diseño de sistemas de cómputo y servicios relacionados","sixdigit",1552.0
+1554,"5416","Servicios de consultoría administrativa, científica y técnica","fourdigit",1513.0
+1555,"54161","Servicios de consultoría en administración","fivedigit",1554.0
+1556,"541610","Servicios de consultoría en administración","sixdigit",1555.0
+1557,"54162","Servicios de consultoría en medio ambiente","fivedigit",1554.0
+1558,"541620","Servicios de consultoría en medio ambiente","sixdigit",1557.0
+1559,"54169","Otros servicios de consultoría científica y técnica","fivedigit",1554.0
+1560,"541690","Otros servicios de consultoría científica y técnica","sixdigit",1559.0
+1561,"5417","Servicios de investigación científica y desarrollo","fourdigit",1513.0
+1562,"54171","Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida","fivedigit",1561.0
+1563,"541711","Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector privado","sixdigit",1562.0
+1564,"541712","Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector público","sixdigit",1562.0
+1565,"54172","Servicios de investigación científica y desarrollo en ciencias sociales y humanidades","fivedigit",1561.0
+1566,"541721","Servicios de investigación científica y desarrollo en ciencias sociales y humanidades, prestados por el sector privado","sixdigit",1565.0
+1567,"541722","Servicios de investigación científica y desarrollo en ciencias sociales y humanidades, prestados por el sector público","sixdigit",1565.0
+1568,"5418","Servicios de publicidad y actividades relacionadas","fourdigit",1513.0
+1569,"54181","Agencias de publicidad","fivedigit",1568.0
+1570,"541810","Agencias de publicidad","sixdigit",1569.0
+1571,"54182","Agencias de relaciones públicas","fivedigit",1568.0
+1572,"541820","Agencias de relaciones públicas","sixdigit",1571.0
+1573,"54183","Agencias de compra de medios a petición del cliente","fivedigit",1568.0
+1574,"541830","Agencias de compra de medios a petición del cliente","sixdigit",1573.0
+1575,"54184","Agencias de representación de medios","fivedigit",1568.0
+1576,"541840","Agencias de representación de medios","sixdigit",1575.0
+1577,"54185","Agencias de anuncios publicitarios","fivedigit",1568.0
+1578,"541850","Agencias de anuncios publicitarios","sixdigit",1577.0
+1579,"54186","Agencias de correo directo","fivedigit",1568.0
+1580,"541860","Agencias de correo directo","sixdigit",1579.0
+1581,"54187","Distribución de material publicitario","fivedigit",1568.0
+1582,"541870","Distribución de material publicitario","sixdigit",1581.0
+1583,"54189","Servicios de rotulación y otros servicios de publicidad","fivedigit",1568.0
+1584,"541890","Servicios de rotulación y otros servicios de publicidad","sixdigit",1583.0
+1585,"5419","Otros servicios profesionales, científicos y técnicos","fourdigit",1513.0
+1586,"54191","Servicios de investigación de mercados y encuestas de opinión pública","fivedigit",1585.0
+1587,"541910","Servicios de investigación de mercados y encuestas de opinión pública","sixdigit",1586.0
+1588,"54192","Servicios de fotografía y videograbación","fivedigit",1585.0
+1589,"541920","Servicios de fotografía y videograbación","sixdigit",1588.0
+1590,"54193","Servicios de traducción e interpretación","fivedigit",1585.0
+1591,"541930","Servicios de traducción e interpretación","sixdigit",1590.0
+1592,"54194","Servicios veterinarios","fivedigit",1585.0
+1593,"541941","Servicios veterinarios para mascotas prestados por el sector privado","sixdigit",1592.0
+1594,"541942","Servicios veterinarios para mascotas prestados por el sector público","sixdigit",1592.0
+1595,"541943","Servicios veterinarios para la ganadería prestados por el sector privado","sixdigit",1592.0
+1596,"541944","Servicios veterinarios para la ganadería prestados por el sector público","sixdigit",1592.0
+1597,"54199","Otros servicios profesionales, científicos y técnicos","fivedigit",1585.0
+1598,"541990","Otros servicios profesionales, científicos y técnicos","sixdigit",1597.0
+1599,"55","Corporativos","twodigit",""
+1600,"551","Corporativos","threedigit",1599.0
+1601,"5511","Corporativos","fourdigit",1600.0
+1602,"55111","Corporativos","fivedigit",1601.0
+1603,"551111","Corporativos","sixdigit",1602.0
+1604,"551112","Tenedoras de acciones","sixdigit",1602.0
+1605,"56","Servicios de apoyo a los negocios y manejo de desechos y servicios de remediación","twodigit",""
+1606,"561","Servicios de apoyo a los negocios","threedigit",1605.0
+1607,"5611","Servicios de administración de negocios","fourdigit",1606.0
+1608,"56111","Servicios de administración de negocios","fivedigit",1607.0
+1609,"561110","Servicios de administración de negocios","sixdigit",1608.0
+1610,"5612","Servicios combinados de apoyo en instalaciones","fourdigit",1606.0
+1611,"56121","Servicios combinados de apoyo en instalaciones","fivedigit",1610.0
+1612,"561210","Servicios combinados de apoyo en instalaciones","sixdigit",1611.0
+1613,"5613","Servicios de empleo","fourdigit",1606.0
+1614,"56131","Agencias de colocación","fivedigit",1613.0
+1615,"561310","Agencias de colocación","sixdigit",1614.0
+1616,"56132","Agencias de empleo temporal","fivedigit",1613.0
+1617,"561320","Agencias de empleo temporal","sixdigit",1616.0
+1618,"56133","Suministro de personal permanente","fivedigit",1613.0
+1619,"561330","Suministro de personal permanente","sixdigit",1618.0
+1620,"5614","Servicio de apoyo secretarial, fotocopiado, cobranza, investigación crediticia y similares","fourdigit",1606.0
+1621,"56141","Servicios de preparación de documentos","fivedigit",1620.0
+1622,"561410","Servicios de preparación de documentos","sixdigit",1621.0
+1623,"56142","Servicios de casetas telefónicas, recepción de llamadas y promoción por teléfono","fivedigit",1620.0
+1624,"561421","Servicios de casetas telefónicas","sixdigit",1623.0
+1625,"561422","Servicios de recepción de llamadas telefónicas y promoción por teléfono","sixdigit",1623.0
+1626,"56143","Servicios de fotocopiado, fax, acceso a computadoras y afines","fivedigit",1620.0
+1627,"561431","Servicios de fotocopiado, fax y afines","sixdigit",1626.0
+1628,"561432","Servicios de acceso a computadoras","sixdigit",1626.0
+1629,"56144","Agencias de cobranza","fivedigit",1620.0
+1630,"561440","Agencias de cobranza","sixdigit",1629.0
+1631,"56145","Despachos de investigación de solvencia financiera","fivedigit",1620.0
+1632,"561450","Despachos de investigación de solvencia financiera","sixdigit",1631.0
+1633,"56149","Otros servicios de apoyo secretarial y similares","fivedigit",1620.0
+1634,"561490","Otros servicios de apoyo secretarial y similares","sixdigit",1633.0
+1635,"5615","Agencias de viajes y servicios de reservaciones","fourdigit",1606.0
+1636,"56151","Agencias de viajes","fivedigit",1635.0
+1637,"561510","Agencias de viajes","sixdigit",1636.0
+1638,"56152","Organización de excursiones y paquetes turísticos para agencias de viajes","fivedigit",1635.0
+1639,"561520","Organización de excursiones y paquetes turísticos para agencias de viajes","sixdigit",1638.0
+1640,"56159","Otros servicios de reservaciones","fivedigit",1635.0
+1641,"561590","Otros servicios de reservaciones","sixdigit",1640.0
+1642,"5616","Servicios de investigación, protección y seguridad","fourdigit",1606.0
+1643,"56161","Servicios de investigación y de protección y custodia, excepto mediante monitoreo","fivedigit",1642.0
+1644,"561610","Servicios de investigación y de protección y custodia, excepto mediante monitoreo","sixdigit",1643.0
+1645,"56162","Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad","fivedigit",1642.0
+1646,"561620","Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad","sixdigit",1645.0
+1647,"5617","Servicios de limpieza","fourdigit",1606.0
+1648,"56171","Servicios de control y exterminación de plagas","fivedigit",1647.0
+1649,"561710","Servicios de control y exterminación de plagas","sixdigit",1648.0
+1650,"56172","Servicios de limpieza de inmuebles","fivedigit",1647.0
+1651,"561720","Servicios de limpieza de inmuebles","sixdigit",1650.0
+1652,"56173","Servicios de instalación y mantenimiento de áreas verdes","fivedigit",1647.0
+1653,"561730","Servicios de instalación y mantenimiento de áreas verdes","sixdigit",1652.0
+1654,"56174","Servicios de limpieza de tapicería, alfombras y muebles","fivedigit",1647.0
+1655,"561740","Servicios de limpieza de tapicería, alfombras y muebles","sixdigit",1654.0
+1656,"56179","Otros servicios de limpieza","fivedigit",1647.0
+1657,"561790","Otros servicios de limpieza","sixdigit",1656.0
+1658,"5619","Otros servicios de apoyo a los negocios","fourdigit",1606.0
+1659,"56191","Servicios de empacado y etiquetado","fivedigit",1658.0
+1660,"561910","Servicios de empacado y etiquetado","sixdigit",1659.0
+1661,"56192","Organizadores de convenciones y ferias comerciales e industriales","fivedigit",1658.0
+1662,"561920","Organizadores de convenciones y ferias comerciales e industriales","sixdigit",1661.0
+1663,"56199","Otros servicios de apoyo a los negocios","fivedigit",1658.0
+1664,"561990","Otros servicios de apoyo a los negocios","sixdigit",1663.0
+1665,"562","Manejo de desechos y servicios de remediación","threedigit",1605.0
+1666,"5621","Manejo de desechos y servicios de remediación","fourdigit",1665.0
+1667,"56211","Manejo de residuos y desechos, y servicios de remediación","fivedigit",1666.0
+1668,"562111","Manejo de residuos peligrosos y servicios de remediación a zonas dañadas por materiales o residuos peligrosos","sixdigit",1667.0
+1669,"562112","Manejo de desechos no peligrosos y servicios de remediación a zonas dañadas por desechos no peligrosos","sixdigit",1667.0
+1670,"61","Servicios educativos","twodigit",""
+1671,"611","Servicios educativos","threedigit",1670.0
+1672,"6111","Escuelas de educación básica, media y para necesidades especiales","fourdigit",1671.0
+1673,"61111","Escuelas de educación preescolar","fivedigit",1672.0
+1674,"611111","Escuelas de educación preescolar del sector privado","sixdigit",1673.0
+1675,"611112","Escuelas de educación preescolar del sector público","sixdigit",1673.0
+1676,"61112","Escuelas de educación primaria","fivedigit",1672.0
+1677,"611121","Escuelas de educación primaria del sector privado","sixdigit",1676.0
+1678,"611122","Escuelas de educación primaria del sector público","sixdigit",1676.0
+1679,"61113","Escuelas de educación secundaria general","fivedigit",1672.0
+1680,"611131","Escuelas de educación secundaria general del sector privado","sixdigit",1679.0
+1681,"611132","Escuelas de educación secundaria general del sector público","sixdigit",1679.0
+1682,"61114","Escuelas de educación secundaria técnica","fivedigit",1672.0
+1683,"611141","Escuelas de educación secundaria técnica del sector privado","sixdigit",1682.0
+1684,"611142","Escuelas de educación secundaria técnica del sector público","sixdigit",1682.0
+1685,"61115","Escuelas de educación media técnica terminal","fivedigit",1672.0
+1686,"611151","Escuelas de educación media técnica terminal del sector privado","sixdigit",1685.0
+1687,"611152","Escuelas de educación media técnica terminal del sector público","sixdigit",1685.0
+1688,"61116","Escuelas de educación media superior","fivedigit",1672.0
+1689,"611161","Escuelas de educación media superior del sector privado","sixdigit",1688.0
+1690,"611162","Escuelas de educación media superior del sector público","sixdigit",1688.0
+1691,"61117","Escuelas que combinan diversos niveles de educación","fivedigit",1672.0
+1692,"611171","Escuelas del sector privado que combinan diversos niveles de educación","sixdigit",1691.0
+1693,"611172","Escuelas del sector público que combinan diversos niveles de educación","sixdigit",1691.0
+1694,"61118","Escuelas de educación para necesidades especiales","fivedigit",1672.0
+1695,"611181","Escuelas del sector privado de educación para necesidades especiales","sixdigit",1694.0
+1696,"611182","Escuelas del sector público de educación para necesidades especiales","sixdigit",1694.0
+1697,"6112","Escuelas de educación postbachillerato ","fourdigit",1671.0
+1698,"61121","Escuelas de educación postbachillerato ","fivedigit",1697.0
+1699,"611211","Escuelas de educación postbachillerato del sector privado","sixdigit",1698.0
+1700,"611212","Escuelas de educación postbachillerato del sector público","sixdigit",1698.0
+1701,"6113","Escuelas de educación superior","fourdigit",1671.0
+1702,"61131","Escuelas de educación superior","fivedigit",1701.0
+1703,"611311","Escuelas de educación superior del sector privado","sixdigit",1702.0
+1704,"611312","Escuelas de educación superior del sector público","sixdigit",1702.0
+1705,"6114","Escuelas comerciales, de computación y de capacitación para ejecutivos","fourdigit",1671.0
+1706,"61141","Escuelas comerciales y secretariales","fivedigit",1705.0
+1707,"611411","Escuelas comerciales y secretariales del sector privado","sixdigit",1706.0
+1708,"611412","Escuelas comerciales y secretariales del sector público","sixdigit",1706.0
+1709,"61142","Escuelas de computación","fivedigit",1705.0
+1710,"611421","Escuelas de computación del sector privado","sixdigit",1709.0
+1711,"611422","Escuelas de computación del sector público","sixdigit",1709.0
+1712,"61143","Escuelas para la capacitación de ejecutivos","fivedigit",1705.0
+1713,"611431","Escuelas para la capacitación de ejecutivos del sector privado","sixdigit",1712.0
+1714,"611432","Escuelas para la capacitación de ejecutivos del sector público","sixdigit",1712.0
+1715,"6115","Escuelas de oficios","fourdigit",1671.0
+1716,"61151","Escuelas de oficios","fivedigit",1715.0
+1717,"611511","Escuelas del sector privado dedicadas a la enseñanza de oficios","sixdigit",1716.0
+1718,"611512","Escuelas del sector público dedicadas a la enseñanza de oficios","sixdigit",1716.0
+1719,"6116","Otros servicios educativos","fourdigit",1671.0
+1720,"61161","Escuelas de arte","fivedigit",1719.0
+1721,"611611","Escuelas de arte del sector privado","sixdigit",1720.0
+1722,"611612","Escuelas de arte del sector público","sixdigit",1720.0
+1723,"61162","Escuelas de deporte","fivedigit",1719.0
+1724,"611621","Escuelas de deporte del sector privado","sixdigit",1723.0
+1725,"611622","Escuelas de deporte del sector público","sixdigit",1723.0
+1726,"61163","Escuelas de idiomas","fivedigit",1719.0
+1727,"611631","Escuelas de idiomas del sector privado","sixdigit",1726.0
+1728,"611632","Escuelas de idiomas del sector público","sixdigit",1726.0
+1729,"61169","Otros servicios educativos","fivedigit",1719.0
+1730,"611691","Servicios de profesores particulares","sixdigit",1729.0
+1731,"611698","Otros servicios educativos proporcionados por el sector privado","sixdigit",1729.0
+1732,"611699","Otros servicios educativos proporcionados por el sector público","sixdigit",1729.0
+1733,"6117","Servicios de apoyo a la educación","fourdigit",1671.0
+1734,"61171","Servicios de apoyo a la educación","fivedigit",1733.0
+1735,"611710","Servicios de apoyo a la educación","sixdigit",1734.0
+1736,"62","Servicios de salud y de asistencia social","twodigit",""
+1737,"621","Servicios médicos de consulta externa y servicios relacionados","threedigit",1736.0
+1738,"6211","Consultorios médicos","fourdigit",1737.0
+1739,"62111","Consultorios médicos","fivedigit",1738.0
+1740,"621111","Consultorios de medicina general del sector privado","sixdigit",1739.0
+1741,"621112","Consultorios de medicina general del sector público","sixdigit",1739.0
+1742,"621113","Consultorios de medicina especializada del sector privado","sixdigit",1739.0
+1743,"621114","Consultorios de medicina especializada del sector público","sixdigit",1739.0
+1744,"6212","Consultorios dentales","fourdigit",1737.0
+1745,"62121","Consultorios dentales","fivedigit",1744.0
+1746,"621211","Consultorios dentales del sector privado","sixdigit",1745.0
+1747,"621212","Consultorios dentales del sector público","sixdigit",1745.0
+1748,"6213","Otros consultorios para el cuidado de la salud","fourdigit",1737.0
+1749,"62131","Consultorios de quiropráctica","fivedigit",1748.0
+1750,"621311","Consultorios de quiropráctica del sector privado","sixdigit",1749.0
+1751,"621312","Consultorios de quiropráctica del sector público","sixdigit",1749.0
+1752,"62132","Consultorios de optometría","fivedigit",1748.0
+1753,"621320","Consultorios de optometría","sixdigit",1752.0
+1754,"62133","Consultorios de psicología","fivedigit",1748.0
+1755,"621331","Consultorios de psicología del sector privado","sixdigit",1754.0
+1756,"621332","Consultorios de psicología del sector público","sixdigit",1754.0
+1757,"62134","Consultorios de audiología y de terapia ocupacional, física y del lenguaje","fivedigit",1748.0
+1758,"621341","Consultorios del sector privado de audiología y de terapia ocupacional, física y del lenguaje","sixdigit",1757.0
+1759,"621342","Consultorios del sector público de audiología y de terapia ocupacional, física y del lenguaje","sixdigit",1757.0
+1760,"62139","Otros consultorios para el cuidado de la salud","fivedigit",1748.0
+1761,"621391","Consultorios de nutriólogos y dietistas del sector privado","sixdigit",1760.0
+1762,"621392","Consultorios de nutriólogos y dietistas del sector público","sixdigit",1760.0
+1763,"621398","Otros consultorios del sector privado para el cuidado de la salud","sixdigit",1760.0
+1764,"621399","Otros consultorios del sector público para el cuidado de la salud","sixdigit",1760.0
+1765,"6214","Centros para la atención de pacientes que no requieren hospitalización","fourdigit",1737.0
+1766,"62141","Centros de planificación familiar","fivedigit",1765.0
+1767,"621411","Centros de planificación familiar del sector privado","sixdigit",1766.0
+1768,"621412","Centros de planificación familiar del sector público","sixdigit",1766.0
+1769,"62142","Centros de atención médica externa para enfermos mentales y adictos","fivedigit",1765.0
+1770,"621421","Centros del sector privado de atención médica externa para enfermos mentales y adictos","sixdigit",1769.0
+1771,"621422","Centros del sector público de atención médica externa para enfermos mentales y adictos","sixdigit",1769.0
+1772,"62149","Otros centros para la atención de pacientes que no requieren hospitalización","fivedigit",1765.0
+1773,"621491","Otros centros del sector privado para la atención de pacientes que no requieren hospitalización","sixdigit",1772.0
+1774,"621492","Otros centros del sector público para la atención de pacientes que no requieren hospitalización","sixdigit",1772.0
+1775,"6215","Laboratorios médicos y de diagnóstico","fourdigit",1737.0
+1776,"62151","Laboratorios médicos y de diagnóstico","fivedigit",1775.0
+1777,"621511","Laboratorios médicos y de diagnóstico del sector privado","sixdigit",1776.0
+1778,"621512","Laboratorios médicos y de diagnóstico del sector público","sixdigit",1776.0
+1779,"6216","Servicios de enfermería a domicilio","fourdigit",1737.0
+1780,"62161","Servicios de enfermería a domicilio","fivedigit",1779.0
+1781,"621610","Servicios de enfermería a domicilio","sixdigit",1780.0
+1782,"6219","Servicios de ambulancias, de bancos de órganos y otros servicios auxiliares al tratamiento médico","fourdigit",1737.0
+1783,"62191","Servicios de ambulancias","fivedigit",1782.0
+1784,"621910","Servicios de ambulancias","sixdigit",1783.0
+1785,"62199","Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico","fivedigit",1782.0
+1786,"621991","Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico prestados por el sector privado","sixdigit",1785.0
+1787,"621992","Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico prestados por el sector público","sixdigit",1785.0
+1788,"622","Hospitales","threedigit",1736.0
+1789,"6221","Hospitales generales","fourdigit",1788.0
+1790,"62211","Hospitales generales","fivedigit",1789.0
+1791,"622111","Hospitales generales del sector privado","sixdigit",1790.0
+1792,"622112","Hospitales generales del sector público","sixdigit",1790.0
+1793,"6222","Hospitales psiquiátricos y para el tratamiento por adicción","fourdigit",1788.0
+1794,"62221","Hospitales psiquiátricos y para el tratamiento por adicción","fivedigit",1793.0
+1795,"622211","Hospitales psiquiátricos y para el tratamiento por adicción del sector privado","sixdigit",1794.0
+1796,"622212","Hospitales psiquiátricos y para el tratamiento por adicción del sector público","sixdigit",1794.0
+1797,"6223","Hospitales de otras especialidades médicas","fourdigit",1788.0
+1798,"62231","Hospitales de otras especialidades médicas","fivedigit",1797.0
+1799,"622311","Hospitales del sector privado de otras especialidades médicas","sixdigit",1798.0
+1800,"622312","Hospitales del sector público de otras especialidades médicas","sixdigit",1798.0
+1801,"623","Residencias de asistencia social y para el cuidado de la salud","threedigit",1736.0
+1802,"6231","Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales","fourdigit",1801.0
+1803,"62311","Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales","fivedigit",1802.0
+1804,"623111","Residencias del sector privado con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales","sixdigit",1803.0
+1805,"623112","Residencias del sector público con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales","sixdigit",1803.0
+1806,"6232","Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adicciones","fourdigit",1801.0
+1807,"62321","Residencias para el cuidado de personas con problemas de retardo mental","fivedigit",1806.0
+1808,"623211","Residencias del sector privado para el cuidado de personas con problemas de retardo mental","sixdigit",1807.0
+1809,"623212","Residencias del sector público para el cuidado de personas con problemas de retardo mental","sixdigit",1807.0
+1810,"62322","Residencias para el cuidado de personas con problemas de trastorno mental y adicción","fivedigit",1806.0
+1811,"623221","Residencias del sector privado para el cuidado de personas con problemas de trastorno mental y adicción","sixdigit",1810.0
+1812,"623222","Residencias del sector público para el cuidado de personas con problemas de trastorno mental y adicción","sixdigit",1810.0
+1813,"6233","Asilos y otras residencias para el cuidado de ancianos","fourdigit",1801.0
+1814,"62331","Asilos y otras residencias para el cuidado de ancianos","fivedigit",1813.0
+1815,"623311","Asilos y otras residencias del sector privado para el cuidado de ancianos","sixdigit",1814.0
+1816,"623312","Asilos y otras residencias del sector público para el cuidado de ancianos","sixdigit",1814.0
+1817,"6239","Orfanatos y otras residencias de asistencia social","fourdigit",1801.0
+1818,"62399","Orfanatos y otras residencias de asistencia social","fivedigit",1817.0
+1819,"623991","Orfanatos y otras residencias de asistencia social del sector privado","sixdigit",1818.0
+1820,"623992","Orfanatos y otras residencias de asistencia social del sector público","sixdigit",1818.0
+1821,"624","Otros servicios de asistencia social","threedigit",1736.0
+1822,"6241","Servicios de orientación y trabajo social","fourdigit",1821.0
+1823,"62411","Servicios de orientación y trabajo social para la niñez y la juventud","fivedigit",1822.0
+1824,"624111","Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector privado","sixdigit",1823.0
+1825,"624112","Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector público","sixdigit",1823.0
+1826,"62412","Centros de atención y cuidado diurno de ancianos y discapacitados","fivedigit",1822.0
+1827,"624121","Centros del sector privado dedicados a la atención y cuidado diurno de ancianos y discapacitados","sixdigit",1826.0
+1828,"624122","Centros del sector público dedicados a la atención y cuidado diurno de ancianos y discapacitados","sixdigit",1826.0
+1829,"62419","Otros servicios de orientación y trabajo social","fivedigit",1822.0
+1830,"624191","Agrupaciones de autoayuda para alcohólicos y personas con otras adicciones","sixdigit",1829.0
+1831,"624198","Otros servicios de orientación y trabajo social prestados por el sector privado","sixdigit",1829.0
+1832,"624199","Otros servicios de orientación y trabajo social prestados por el sector público","sixdigit",1829.0
+1833,"6242","Servicios comunitarios de alimentación, refugio y emergencia","fourdigit",1821.0
+1834,"62421","Servicios de alimentación comunitarios","fivedigit",1833.0
+1835,"624211","Servicios de alimentación comunitarios prestados por el sector privado","sixdigit",1834.0
+1836,"624212","Servicios de alimentación comunitarios prestados por el sector público","sixdigit",1834.0
+1837,"62422","Refugios temporales comunitarios","fivedigit",1833.0
+1838,"624221","Refugios temporales comunitarios del sector privado","sixdigit",1837.0
+1839,"624222","Refugios temporales comunitarios del sector público","sixdigit",1837.0
+1840,"62423","Servicios de emergencia comunitarios","fivedigit",1833.0
+1841,"624231","Servicios de emergencia comunitarios prestados por el sector privado","sixdigit",1840.0
+1842,"624232","Servicios de emergencia comunitarios prestados por el sector público","sixdigit",1840.0
+1843,"6243","Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o discapacitadas","fourdigit",1821.0
+1844,"62431","Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o discapacitadas","fivedigit",1843.0
+1845,"624311","Servicios de capacitación para el trabajo prestados por el sector privado para personas desempleadas, subempleadas o discapacitadas","sixdigit",1844.0
+1846,"624312","Servicios de capacitación para el trabajo prestados por el sector público para personas desempleadas, subempleadas o discapacitadas","sixdigit",1844.0
+1847,"6244","Guarderías","fourdigit",1821.0
+1848,"62441","Guarderías","fivedigit",1847.0
+1849,"624411","Guarderías del sector privado","sixdigit",1848.0
+1850,"624412","Guarderías del sector público","sixdigit",1848.0
+1851,"71","Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos","twodigit",""
+1852,"711","Servicios artísticos, culturales y deportivos, y otros servicios relacionados","threedigit",1851.0
+1853,"7111","Compañías y grupos de espectáculos artísticos y culturales","fourdigit",1852.0
+1854,"71111","Compañías de teatro","fivedigit",1853.0
+1855,"711111","Compañías de teatro del sector privado","sixdigit",1854.0
+1856,"711112","Compañías de teatro del sector público","sixdigit",1854.0
+1857,"71112","Compañías de danza","fivedigit",1853.0
+1858,"711121","Compañías de danza del sector privado","sixdigit",1857.0
+1859,"711122","Compañías de danza del sector público","sixdigit",1857.0
+1860,"71113","Cantantes y grupos musicales","fivedigit",1853.0
+1861,"711131","Cantantes y grupos musicales del sector privado","sixdigit",1860.0
+1862,"711132","Grupos musicales del sector público","sixdigit",1860.0
+1863,"71119","Otras compañías y grupos de espectáculos artísticos","fivedigit",1853.0
+1864,"711191","Otras compañías y grupos de espectáculos artísticos del sector privado","sixdigit",1863.0
+1865,"711192","Otras compañías y grupos de espectáculos artísticos del sector público","sixdigit",1863.0
+1866,"7112","Deportistas y equipos deportivos profesionales","fourdigit",1852.0
+1867,"71121","Deportistas y equipos deportivos profesionales","fivedigit",1866.0
+1868,"711211","Deportistas profesionales","sixdigit",1867.0
+1869,"711212","Equipos deportivos profesionales","sixdigit",1867.0
+1870,"7113","Promotores de espectáculos artísticos, culturales, deportivos y similares","fourdigit",1852.0
+1871,"71131","Promotores de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos","fivedigit",1870.0
+1872,"711311","Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos","sixdigit",1871.0
+1873,"711312","Promotores del sector público de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos","sixdigit",1871.0
+1874,"71132","Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos","fivedigit",1870.0
+1875,"711320","Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos","sixdigit",1874.0
+1876,"7114","Agentes y representantes de artistas, deportistas y similares","fourdigit",1852.0
+1877,"71141","Agentes y representantes de artistas, deportistas y similares","fivedigit",1876.0
+1878,"711410","Agentes y representantes de artistas, deportistas y similares","sixdigit",1877.0
+1879,"7115","Artistas, escritores y técnicos independientes","fourdigit",1852.0
+1880,"71151","Artistas, escritores y técnicos independientes","fivedigit",1879.0
+1881,"711510","Artistas, escritores y técnicos independientes","sixdigit",1880.0
+1882,"712","Museos, sitios históricos, zoológicos y similares","threedigit",1851.0
+1883,"7121","Museos, sitios históricos, zoológicos y similares","fourdigit",1882.0
+1884,"71211","Museos","fivedigit",1883.0
+1885,"712111","Museos del sector privado","sixdigit",1884.0
+1886,"712112","Museos del sector público","sixdigit",1884.0
+1887,"71212","Sitios históricos","fivedigit",1883.0
+1888,"712120","Sitios históricos","sixdigit",1887.0
+1889,"71213","Jardines botánicos y zoológicos","fivedigit",1883.0
+1890,"712131","Jardines botánicos y zoológicos del sector privado","sixdigit",1889.0
+1891,"712132","Jardines botánicos y zoológicos del sector público","sixdigit",1889.0
+1892,"71219","Grutas, parques naturales y otros sitios del patrimonio cultural de la nación","fivedigit",1883.0
+1893,"712190","Grutas, parques naturales y otros sitios del patrimonio cultural de la nación","sixdigit",1892.0
+1894,"713","Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos","threedigit",1851.0
+1895,"7131","Parques con instalaciones recreativas y casas de juegos electrónicos","fourdigit",1894.0
+1896,"71311","Parques con instalaciones recreativas","fivedigit",1895.0
+1897,"713111","Parques de diversiones y temáticos del sector privado","sixdigit",1896.0
+1898,"713112","Parques de diversiones y temáticos del sector público","sixdigit",1896.0
+1899,"713113","Parques acuáticos y balnearios del sector privado","sixdigit",1896.0
+1900,"713114","Parques acuáticos y balnearios del sector público","sixdigit",1896.0
+1901,"71312","Casas de juegos electrónicos","fivedigit",1895.0
+1902,"713120","Casas de juegos electrónicos","sixdigit",1901.0
+1903,"7132","Casinos, loterías y otros juegos de azar","fourdigit",1894.0
+1904,"71321","Casinos","fivedigit",1903.0
+1905,"713210","Casinos","sixdigit",1904.0
+1906,"71329","Loterías y otros juegos de azar","fivedigit",1903.0
+1907,"713291","Venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo","sixdigit",1906.0
+1908,"713299","Otros juegos de azar","sixdigit",1906.0
+1909,"7139","Otros servicios recreativos","fourdigit",1894.0
+1910,"71391","Campos de golf","fivedigit",1909.0
+1911,"713910","Campos de golf","sixdigit",1910.0
+1912,"71392","Pistas para esquiar","fivedigit",1909.0
+1913,"713920","Pistas para esquiar","sixdigit",1912.0
+1914,"71393","Marinas turísticas","fivedigit",1909.0
+1915,"713930","Marinas turísticas","sixdigit",1914.0
+1916,"71394","Clubes deportivos y centros de acondicionamiento físico","fivedigit",1909.0
+1917,"713941","Clubes deportivos del sector privado","sixdigit",1916.0
+1918,"713942","Clubes deportivos del sector público","sixdigit",1916.0
+1919,"713943","Centros de acondicionamiento físico del sector privado","sixdigit",1916.0
+1920,"713944","Centros de acondicionamiento físico del sector público","sixdigit",1916.0
+1921,"71395","Boliches","fivedigit",1909.0
+1922,"713950","Boliches","sixdigit",1921.0
+1923,"71399","Otros servicios recreativos","fivedigit",1909.0
+1924,"713991","Billares","sixdigit",1923.0
+1925,"713992","Clubes o ligas de aficionados","sixdigit",1923.0
+1926,"713998","Otros servicios recreativos prestados por el sector privado","sixdigit",1923.0
+1927,"713999","Otros servicios recreativos prestados por el sector público","sixdigit",1923.0
+1928,"72","Servicios de alojamiento temporal y de preparación de alimentos y bebidas","twodigit",""
+1929,"721","Servicios de alojamiento temporal","threedigit",1928.0
+1930,"7211","Hoteles, moteles y similares","fourdigit",1929.0
+1931,"72111","Hoteles y moteles, excepto hoteles con casino","fivedigit",1930.0
+1932,"721111","Hoteles con otros servicios integrados","sixdigit",1931.0
+1933,"721112","Hoteles sin otros servicios integrados","sixdigit",1931.0
+1934,"721113","Moteles","sixdigit",1931.0
+1935,"72112","Hoteles con casino","fivedigit",1930.0
+1936,"721120","Hoteles con casino","sixdigit",1935.0
+1937,"72119","Cabañas, villas y similares","fivedigit",1930.0
+1938,"721190","Cabañas, villas y similares","sixdigit",1937.0
+1939,"7212","Campamentos y albergues recreativos","fourdigit",1929.0
+1940,"72121","Campamentos y albergues recreativos","fivedigit",1939.0
+1941,"721210","Campamentos y albergues recreativos","sixdigit",1940.0
+1942,"7213","Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería","fourdigit",1929.0
+1943,"72131","Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería","fivedigit",1942.0
+1944,"721311","Pensiones y casas de huéspedes","sixdigit",1943.0
+1945,"721312","Departamentos y casas amueblados con servicios de hotelería","sixdigit",1943.0
+1946,"722","Servicios de preparación de alimentos y bebidas","threedigit",1928.0
+1947,"7221","Restaurantes con servicio completo","fourdigit",1946.0
+1948,"72211","Restaurantes con servicio completo","fivedigit",1947.0
+1949,"722110","Restaurantes con servicio completo","sixdigit",1948.0
+1950,"7222","Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado","fourdigit",1946.0
+1951,"72221","Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado","fivedigit",1950.0
+1952,"722211","Restaurantes de autoservicio","sixdigit",1951.0
+1953,"722212","Restaurantes de comida para llevar","sixdigit",1951.0
+1954,"722219","Otros restaurantes con servicio limitado","sixdigit",1951.0
+1955,"7223","Servicios de preparación de alimentos por encargo","fourdigit",1946.0
+1956,"72231","Servicios de comedor para empresas e instituciones","fivedigit",1955.0
+1957,"722310","Servicios de comedor para empresas e instituciones","sixdigit",1956.0
+1958,"72232","Servicios de preparación de alimentos para ocasiones especiales","fivedigit",1955.0
+1959,"722320","Servicios de preparación de alimentos para ocasiones especiales","sixdigit",1958.0
+1960,"72233","Servicios de preparación de alimentos en unidades móviles","fivedigit",1955.0
+1961,"722330","Servicios de preparación de alimentos en unidades móviles","sixdigit",1960.0
+1962,"7224","Centros nocturnos, bares, cantinas y similares","fourdigit",1946.0
+1963,"72241","Centros nocturnos, bares, cantinas y similares","fivedigit",1962.0
+1964,"722411","Centros nocturnos, discotecas y similares","sixdigit",1963.0
+1965,"722412","Bares, cantinas y similares","sixdigit",1963.0
+1966,"81","Otros servicios excepto actividades gubernamentales","twodigit",""
+1967,"811","Servicios de reparación y mantenimiento","threedigit",1966.0
+1968,"8111","Reparación y mantenimiento de automóviles y camiones","fourdigit",1967.0
+1969,"81111","Reparación mecánica y eléctrica de automóviles y camiones","fivedigit",1968.0
+1970,"811111","Reparación mecánica en general de automóviles y camiones","sixdigit",1969.0
+1971,"811112","Reparación del sistema eléctrico de automóviles y camiones","sixdigit",1969.0
+1972,"811113","Rectificación de partes de motor de automóviles y camiones","sixdigit",1969.0
+1973,"811114","Reparación de transmisiones de automóviles y camiones","sixdigit",1969.0
+1974,"811115","Reparación de suspensiones de automóviles y camiones","sixdigit",1969.0
+1975,"811116","Alineación y balanceo de automóviles y camiones","sixdigit",1969.0
+1976,"811119","Otras reparaciones mecánicas de automóviles y camiones","sixdigit",1969.0
+1977,"81112","Hojalatería, tapicería y otras reparaciones a la carrocería de automóviles y camiones","fivedigit",1968.0
+1978,"811121","Hojalatería y pintura de automóviles y camiones","sixdigit",1977.0
+1979,"811122","Tapicería de automóviles y camiones","sixdigit",1977.0
+1980,"811129","Instalación de cristales y otras reparaciones a la carrocería de automóviles y camiones","sixdigit",1977.0
+1981,"81119","Otros servicios de reparación y mantenimiento de automóviles y camiones","fivedigit",1968.0
+1982,"811191","Reparación menor de llantas","sixdigit",1981.0
+1983,"811192","Lavado y lubricado de automóviles y camiones","sixdigit",1981.0
+1984,"811199","Otros servicios de reparación y mantenimiento de automóviles y camiones","sixdigit",1981.0
+1985,"8112","Reparación y mantenimiento de equipo electrónico y de equipo de precisión","fourdigit",1967.0
+1986,"81121","Reparación y mantenimiento de equipo electrónico y de equipo de precisión","fivedigit",1985.0
+1987,"811211","Reparación y mantenimiento de equipo electrónico de uso doméstico","sixdigit",1986.0
+1988,"811219","Reparación y mantenimiento de otro equipo electrónico y de equipo de precisión","sixdigit",1986.0
+1989,"8113","Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios","fourdigit",1967.0
+1990,"81131","Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios","fivedigit",1989.0
+1991,"811311","Reparación y mantenimiento de maquinaria y equipo agropecuario y forestal","sixdigit",1990.0
+1992,"811312","Reparación y mantenimiento de maquinaria y equipo industrial","sixdigit",1990.0
+1993,"811313","Reparación y mantenimiento de maquinaria y equipo para mover, levantar y acomodar materiales","sixdigit",1990.0
+1994,"811314","Reparación y mantenimiento de maquinaria y equipo comercial y de servicios","sixdigit",1990.0
+1995,"8114","Reparación y mantenimiento de artículos para el hogar y personales","fourdigit",1967.0
+1996,"81141","Reparación y mantenimiento de aparatos eléctricos para el hogar y personales","fivedigit",1995.0
+1997,"811410","Reparación y mantenimiento de aparatos eléctricos para el hogar y personales","sixdigit",1996.0
+1998,"81142","Reparación de tapicería de muebles para el hogar","fivedigit",1995.0
+1999,"811420","Reparación de tapicería de muebles para el hogar","sixdigit",1998.0
+2000,"81143","Reparación de calzado y otros artículos de piel y cuero","fivedigit",1995.0
+2001,"811430","Reparación de calzado y otros artículos de piel y cuero","sixdigit",2000.0
+2002,"81149","Reparación y mantenimiento de otros artículos para el hogar y personales","fivedigit",1995.0
+2003,"811491","Cerrajerías","sixdigit",2002.0
+2004,"811492","Reparación y mantenimiento de motocicletas","sixdigit",2002.0
+2005,"811493","Reparación y mantenimiento de bicicletas","sixdigit",2002.0
+2006,"811499","Reparación y mantenimiento de otros artículos para el hogar y personales","sixdigit",2002.0
+2007,"812","Servicios personales","threedigit",1966.0
+2008,"8121","Salones y clínicas de belleza, baños públicos y bolerías","fourdigit",2007.0
+2009,"81211","Salones y clínicas de belleza y peluquerías","fivedigit",2008.0
+2010,"812110","Salones y clínicas de belleza y peluquerías","sixdigit",2009.0
+2011,"81212","Baños públicos","fivedigit",2008.0
+2012,"812120","Baños públicos","sixdigit",2011.0
+2013,"81213","Sanitarios públicos y bolerías","fivedigit",2008.0
+2014,"812130","Sanitarios públicos y bolerías","sixdigit",2013.0
+2015,"8122","Lavanderías y tintorerías","fourdigit",2007.0
+2016,"81221","Lavanderías y tintorerías","fivedigit",2015.0
+2017,"812210","Lavanderías y tintorerías","sixdigit",2016.0
+2018,"8123","Servicios funerarios y administración de cementerios","fourdigit",2007.0
+2019,"81231","Servicios funerarios","fivedigit",2018.0
+2020,"812310","Servicios funerarios","sixdigit",2019.0
+2021,"81232","Administración de cementerios","fivedigit",2018.0
+2022,"812320","Administración de cementerios","sixdigit",2021.0
+2023,"8124","Estacionamientos y pensiones para vehículos automotores","fourdigit",2007.0
+2024,"81241","Estacionamientos y pensiones para vehículos automotores","fivedigit",2023.0
+2025,"812410","Estacionamientos y pensiones para vehículos automotores","sixdigit",2024.0
+2026,"8129","Servicios de revelado e impresión de fotografías y otros servicios personales","fourdigit",2007.0
+2027,"81291","Servicios de revelado e impresión de fotografías","fivedigit",2026.0
+2028,"812910","Servicios de revelado e impresión de fotografías","sixdigit",2027.0
+2029,"81299","Otros servicios personales","fivedigit",2026.0
+2030,"812990","Otros servicios personales","sixdigit",2029.0
+2031,"813","Asociaciones y organizaciones","threedigit",1966.0
+2032,"8131","Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas","fourdigit",2031.0
+2033,"81311","Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios","fivedigit",2032.0
+2034,"813110","Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios","sixdigit",2033.0
+2035,"81312","Asociaciones y organizaciones laborales y sindicales","fivedigit",2032.0
+2036,"813120","Asociaciones y organizaciones laborales y sindicales","sixdigit",2035.0
+2037,"81313","Asociaciones y organizaciones de profesionistas","fivedigit",2032.0
+2038,"813130","Asociaciones y organizaciones de profesionistas","sixdigit",2037.0
+2039,"81314","Asociaciones regulatorias de actividades recreativas","fivedigit",2032.0
+2040,"813140","Asociaciones regulatorias de actividades recreativas","sixdigit",2039.0
+2041,"8132","Asociaciones y organizaciones religiosas, políticas y civiles","fourdigit",2031.0
+2042,"81321","Asociaciones y organizaciones religiosas","fivedigit",2041.0
+2043,"813210","Asociaciones y organizaciones religiosas","sixdigit",2042.0
+2044,"81322","Asociaciones y organizaciones políticas","fivedigit",2041.0
+2045,"813220","Asociaciones y organizaciones políticas","sixdigit",2044.0
+2046,"81323","Asociaciones y organizaciones civiles","fivedigit",2041.0
+2047,"813230","Asociaciones y organizaciones civiles","sixdigit",2046.0
+2048,"814","Hogares con empleados domésticos","threedigit",1966.0
+2049,"8141","Hogares con empleados domésticos","fourdigit",2048.0
+2050,"81411","Hogares con empleados domésticos","fivedigit",2049.0
+2051,"814110","Hogares con empleados domésticos","sixdigit",2050.0
+2052,"93","Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales","twodigit",""
+2053,"931","Actividades legislativas, gubernamentales y de impartición de justicia ","threedigit",2052.0
+2054,"9311","Órganos legislativos","fourdigit",2053.0
+2055,"93111","Órganos legislativos","fivedigit",2054.0
+2056,"931110","Órganos legislativos","sixdigit",2055.0
+2057,"9312","Administración pública en general","fourdigit",2053.0
+2058,"93121","Administración pública en general","fivedigit",2057.0
+2059,"931210","Administración pública en general","sixdigit",2058.0
+2060,"9313","Regulación y fomento del desarrollo económico","fourdigit",2053.0
+2061,"93131","Regulación y fomento del desarrollo económico","fivedigit",2060.0
+2062,"931310","Regulación y fomento del desarrollo económico","sixdigit",2061.0
+2063,"9314","Impartición de justicia y mantenimiento de la seguridad y el orden público","fourdigit",2053.0
+2064,"93141","Impartición de justicia y mantenimiento de la seguridad y el orden público","fivedigit",2063.0
+2065,"931410","Impartición de justicia y mantenimiento de la seguridad y el orden público","sixdigit",2064.0
+2066,"9315","Regulación y fomento de actividades para mejorar y preservar el medio ambiente","fourdigit",2053.0
+2067,"93151","Regulación y fomento de actividades para mejorar y preservar el medio ambiente","fivedigit",2066.0
+2068,"931510","Regulación y fomento de actividades para mejorar y preservar el medio ambiente","sixdigit",2067.0
+2069,"9316","Actividades administrativas de instituciones de bienestar social","fourdigit",2053.0
+2070,"93161","Actividades administrativas de instituciones de bienestar social","fivedigit",2069.0
+2071,"931610","Actividades administrativas de instituciones de bienestar social","sixdigit",2070.0
+2072,"9317","Relaciones exteriores","fourdigit",2053.0
+2073,"93171","Relaciones exteriores","fivedigit",2072.0
+2074,"931710","Relaciones exteriores","sixdigit",2073.0
+2075,"9318","Actividades de seguridad nacional","fourdigit",2053.0
+2076,"93181","Actividades de seguridad nacional","fivedigit",2075.0
+2077,"931810","Actividades de seguridad nacional","sixdigit",2076.0
+2078,"932","Organismos internacionales y extraterritoriales","threedigit",2052.0
+2079,"9321","Organismos internacionales y extraterritoriales","fourdigit",2078.0
+2080,"93211","Organismos internacionales","fivedigit",2079.0
+2081,"932110","Organismos internacionales","sixdigit",2080.0
+2082,"93212","Sedes diplomáticas y otras unidades extraterritoriales","fivedigit",2079.0
+2083,"932120","Sedes diplomáticas y otras unidades extraterritoriales","sixdigit",2082.0

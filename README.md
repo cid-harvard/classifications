@@ -12,6 +12,7 @@ type|name|adaptation|localized name|version|description|link
 ----|----|----------|--------------|-------|-----------|----
 industry|ISIC|Colombia|CIIU 4 A.C.|4.0|ISIC 4.0, colombian version.|[here](industry/ISIC/Colombia)
 industry|ISIC|Colombia|CIIU 3 A.C.|3.0|ISIC 3.0, colombian version.|[here](industry/ISIC/Colombia)
+industry|NAICS|Colombia|SCIAN Mexico|2007|NAICS 2007, mexican version with translations.|[here](industry/NAICS/Mexico)
 product|HS|International|Harmonized System|1992|Harmonized system, as used by the Atlas of Economic Complexity.|[here](product/HS/Atlas)
 location|DANE Divipola |||2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/DANE)
 location|INEGI Catálogo Único de Claves de Áreas Geoestadísticas |||MAY2015|Mexican administrative regions, from INEGI.|[here](location/Mexico/INEGI)
