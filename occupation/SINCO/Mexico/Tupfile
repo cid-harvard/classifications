@@ -1,0 +1,3 @@
+CLEAN = PYTHONPATH=../../../ python2.7 -B clean.py
+
+: in/SINCO_2011.csv |> $(CLEAN) |> out/occupations_sinco_2011.csv

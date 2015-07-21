@@ -1,0 +1,687 @@
+"","code","name","level","parent_id"
+0,"1","Funcionarios, directores y jefes","1digit",""
+1,"11","Funcionarios y altas autoridades de los sectores público, privado y social","2digit",0.0
+2,"111","Funcionarios, legisladores y autoridades gubernamentales","3digit",1.0
+3,"1111","Altas autoridades gubernamentales y jurisdiccionales","4digit",2.0
+4,"1112","Legisladores","4digit",2.0
+5,"1113","Presidentes y autoridades municipales","4digit",2.0
+6,"112","Presidentes y directores generales","3digit",1.0
+7,"1121","Presidentes y directores generales en instituciones públicas","4digit",6.0
+8,"1122","Presidentes y directores generales en instituciones y empresas privadas","4digit",6.0
+9,"1129","Otros presidentes y directores generales, no clasificados anteriormente","4digit",6.0
+10,"113","Directores de organizaciones políticas, sindicales y civiles","3digit",1.0
+11,"1131","Directores de organizaciones políticas","4digit",10.0
+12,"1132","Directores de organizaciones sindicales","4digit",10.0
+13,"1133","Directores de organizaciones empresariales","4digit",10.0
+14,"1134","Directores de organizaciones agrarias","4digit",10.0
+15,"1135","Directores de organizaciones civiles y religiosas","4digit",10.0
+16,"12","Directores y gerentes en servicios financieros, administrativos y sociales","2digit",0.0
+17,"121","Directores y gerentes en servicios financieros y administrativos","3digit",16.0
+18,"1211","Directores y gerentes en administración, recursos humanos y mercadotecnia","4digit",17.0
+19,"1212","Directores y gerentes en servicios contables, financieros, banca y seguros","4digit",17.0
+20,"122","Directores y gerentes en servicios de salud, enseñanza y sociales","3digit",16.0
+21,"1221","Directores y gerentes en servicios de salud, protección civil y medio ambiente","4digit",22.0
+22,"1222","Directores y gerentes en desarrollo social y económico","4digit",22.0
+23,"1223","Directores y gerentes en centros de enseñanza y capacitación","4digit",22.0
+24,"1224","Jueces de juzgado, directores y gerentes en servicios legales y procuración de justicia","4digit",22.0
+25,"1225","Comandantes de las fuerzas armadas","4digit",22.0
+26,"1226","Directores en servicios de vigilancia y seguridad","4digit",22.0
+27,"13","Directores y gerentes en producción, tecnología y transporte","2digit",0.0
+28,"131","Directores y gerentes en producción agropecuaria, industrial, construcción y mantenimiento","3digit",31.0
+29,"1311","Directores y gerentes en producción agropecuaria, silvícola y pesquera","4digit",32.0
+30,"1312","Directores y gerentes en producción minera, petrolera y gas","4digit",32.0
+31,"1313","Directores y gerentes en generación y provisión de energía eléctrica y agua","4digit",32.0
+32,"1314","Directores y gerentes en producción manufacturera","4digit",32.0
+33,"1315","Directores y gerentes en construcción, reparación y mantenimiento","4digit",32.0
+34,"132","Directores y gerentes en informática, telecomunicaciones, transporte y en investigación y desarrollo tecnológico","3digit",31.0
+35,"1321","Directores y gerentes en informática","4digit",39.0
+36,"1322","Directores y gerentes en comunicación y telecomunicaciones","4digit",39.0
+37,"1323","Directores y gerentes en servicios de transporte","4digit",39.0
+38,"1324","Directores y gerentes en centros de investigación y desarrollo tecnológico","4digit",39.0
+39,"14","Directores y gerentes de ventas, restaurantes, hoteles y otros establecimientos","2digit",0.0
+40,"141","Directores y gerentes de ventas, restaurantes y hoteles","3digit",45.0
+41,"1411","Directores y gerentes de ventas, comercialización y alquiler","4digit",46.0
+42,"1412","Directores y gerentes de restaurantes y hoteles","4digit",46.0
+43,"142","Directores y gerentes de museos, cines y otros establecimientos","3digit",45.0
+44,"1421","Directores y productores artísticos de cine, teatro y afines","4digit",49.0
+45,"1422","Directores y gerentes de museos, cines y otros establecimientos deportivos y culturales","4digit",49.0
+46,"1423","Directores y gerentes en servicios funerarios y otros servicios","4digit",49.0
+47,"15","Coordinadores y jefes de área en servicios financieros, administrativos y sociales","2digit",0.0
+48,"151","Coordinadores y jefes de área en servicios financieros y administrativos","3digit",54.0
+49,"1511","Coordinadores y jefes de área en administración, recursos humanos y mercadotecnia","4digit",55.0
+50,"1512","Coordinadores y jefes de área en servicios contables, financieros, banca y seguros","4digit",55.0
+51,"152","Coordinadores y jefes de área en servicios de salud, enseñanza, sociales y jueces calificadores","3digit",54.0
+52,"1521","Coordinadores y jefes de área en servicios de salud, protección civil y medio ambiente","4digit",62.0
+53,"1522","Coordinadores y jefes de área en desarrollo social y económico","4digit",62.0
+54,"1523","Coordinadores y jefes de área en centros de enseñanza y capacitación","4digit",62.0
+55,"1524","Coordinadores y jefes de área en servicios legales, jueces calificadores y fiscales","4digit",62.0
+56,"1525","Capitanes, tenientes y jefes de área de las fuerzas armadas","4digit",62.0
+57,"1526","Coordinadores y jefes de área en servicios de vigilancia y seguridad","4digit",62.0
+58,"16","Coordinadores y jefes de área en producción y tecnología","2digit",0.0
+59,"161","Coordinadores y jefes de área en producción agropecuaria, industrial, construcción y mantenimiento","3digit",72.0
+60,"1611","Coordinadores y jefes de área en producción agropecuaria, silvícola y pesquera","4digit",73.0
+61,"1612","Coordinadores y jefes de área en producción minera, petrolera y gas","4digit",73.0
+62,"1613","Coordinadores y jefes de área en generación y provisión de energía eléctrica y agua","4digit",73.0
+63,"1614","Coordinadores y jefes de área en producción manufacturera","4digit",73.0
+64,"1615","Coordinadores y jefes de área en construcción, reparación y mantenimiento","4digit",73.0
+65,"1619","Otros coordinadores y jefes de área en producción agropecuaria, industrial, construcción y mantenimiento, no clasificados anteriormente","4digit",73.0
+66,"162","Coordinadores y jefes de área en informática, telecomunicaciones, transporte y en investigación y desarrollo tecnológico","3digit",72.0
+67,"1621","Coordinadores y jefes de área en informática","4digit",85.0
+68,"1622","Coordinadores y jefes de área en comunicación y telecomunicaciones","4digit",85.0
+69,"1623","Coordinadores y jefes de área en servicios de transporte","4digit",85.0
+70,"1624","Coordinadores y jefes de área en centros de investigación y desarrollo tecnológico","4digit",85.0
+71,"1629","Otros coordinadores y jefes de área en informática, telecomunicaciones, transporte y en investigación y desarrollo tecnológico, no clasificados anteriormente","4digit",85.0
+72,"17","Coordinadores y jefes de área de ventas, restaurantes, hoteles y otros establecimientos","2digit",0.0
+73,"171","Coordinadores y jefes de área de ventas, restaurantes y hoteles","3digit",97.0
+74,"1711","Coordinadores y jefes de área de ventas, comercialización y alquiler","4digit",99.0
+75,"1712","Coordinadores y jefes de área de restaurantes y hoteles","4digit",99.0
+76,"172","Coordinadores y jefes de área en museos, cines y otros establecimientos","3digit",97.0
+77,"1721","Coordinadores y jefes de área en actividades artísticas, de cine, teatro y afines","4digit",102.0
+78,"1722","Coordinadores y jefes de área en museos, cines, deportivos y servicios culturales","4digit",102.0
+79,"1723","Coordinadores y jefes de área en servicios funerarios y otros servicios","4digit",102.0
+80,"19","Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente","2digit",0.0
+81,"199","Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente","3digit",108.0
+82,"1999","Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente","4digit",110.0
+83,"2","Profesionistas y técnicos","1digit",""
+84,"21","Administradores y mercadólogos","2digit",114.0
+85,"211","Administradores y mercadólogos","3digit",115.0
+86,"2111","Administradores y especialistas en recursos humanos y sistemas de gestión","4digit",116.0
+87,"2112","Especialistas y consultores en mercadotecnia, publicidad, comunicación y comercio exterior","4digit",116.0
+88,"2113","Especialistas en hotelería y turismo","4digit",116.0
+89,"212","Contadores, auditores, especialistas en finanzas y en economía","3digit",115.0
+90,"2121","Contadores y auditores","4digit",122.0
+91,"2122","Asesores y analistas en finanzas","4digit",122.0
+92,"2123","Economistas, consultores e investigadores en política económica","4digit",122.0
+93,"213","Investigadores y especialistas en ciencias sociales","3digit",115.0
+94,"2131","Antropólogos, arqueólogos e historiadores","4digit",126.0
+95,"2132","Investigadores y especialistas en sociología y desarrollo social","4digit",126.0
+96,"2133","Investigadores y especialistas en ciencias políticas y administración pública","4digit",126.0
+97,"2134","Geógrafos","4digit",126.0
+98,"2135","Abogados","4digit",126.0
+99,"214","Investigadores y especialistas en ciencias humanistas","3digit",115.0
+100,"2141","Investigadores y especialistas en filosofía y letras (filólogos)","4digit",132.0
+101,"2142","Psicólogos","4digit",132.0
+102,"2143","Especialistas en trabajo social","4digit",132.0
+103,"2144","Especialistas en archivonomía, biblioteconomía y museografía","4digit",132.0
+104,"2145","Sacerdotes, pastores y otros teólogos","4digit",132.0
+105,"215","Autores, periodistas y traductores","3digit",115.0
+106,"2151","Escritores y críticos literarios","4digit",140.0
+107,"2152","Periodistas y redactores","4digit",140.0
+108,"2153","Traductores e intérpretes","4digit",140.0
+109,"216","Pintores, diseñadores y dibujantes artísticos, escultores y escenógrafos","3digit",115.0
+110,"2161","Pintores","4digit",144.0
+111,"2162","Dibujantes y diseñadores artísticos, ilustradores y grabadores","4digit",144.0
+112,"2163","Escultores","4digit",144.0
+113,"2164","Escenógrafos","4digit",144.0
+114,"217","Artistas interpretativos","3digit",115.0
+115,"2171","Compositores y arreglistas","4digit",149.0
+116,"2172","Músicos","4digit",149.0
+117,"2173","Cantantes","4digit",149.0
+118,"2174","Bailarines y coreógrafos","4digit",149.0
+119,"2175","Actores","4digit",149.0
+120,"22","Investigadores y especialistas en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones","2digit",114.0
+121,"221","Investigadores y especialistas en física, matemáticas, estadística y actuaría","3digit",155.0
+122,"2211","Investigadores y especialistas en física","4digit",157.0
+123,"2212","Investigadores y especialistas en matemáticas, estadística y actuaría","4digit",157.0
+124,"222","Investigadores y especialistas en ciencias biológicas, químicas y del medio ambiente","3digit",155.0
+125,"2221","Biólogos y especialistas en ciencias del mar y oceanógrafos","4digit",160.0
+126,"2222","Químicos","4digit",160.0
+127,"2223","Ecólogos y especialistas en ciencias atmosféricas","4digit",160.0
+128,"223","Especialistas en ciencias agronómicas","3digit",155.0
+129,"2231","Agrónomos","4digit",165.0
+130,"2232","Veterinarios y zootecnistas","4digit",165.0
+131,"2233","Especialistas en forestación","4digit",165.0
+132,"2234","Especialistas en pesca y en acuacultura","4digit",165.0
+133,"224","Ingenieros eléctricos y en electrónica","3digit",155.0
+134,"2241","Ingenieros eléctricos","4digit",170.0
+135,"2242","Ingenieros electrónicos","4digit",170.0
+136,"225","Ingenieros químicos, mecánicos, industriales, mineros y metalúrgicos","3digit",155.0
+137,"2251","Ingenieros químicos","4digit",175.0
+138,"2252","Ingenieros mecánicos","4digit",175.0
+139,"2253","Ingenieros industriales","4digit",175.0
+140,"2254","Ingenieros en minas, metalurgia y petróleo","4digit",175.0
+141,"226","Ingenieros civiles, topógrafos y arquitectos","3digit",155.0
+142,"2261","Ingenieros civiles y de la construcción","4digit",180.0
+143,"2262","Ingenieros en topografía, hidrología, geología y geodesia","4digit",180.0
+144,"2263","Arquitectos, planificadores urbanos y del transporte","4digit",180.0
+145,"227","Investigadores y especialistas en sistemas computacionales","3digit",155.0
+146,"2271","Desarrolladores y analistas de software y multimedia","4digit",184.0
+147,"2272","Administradores de bases de datos y redes de computadora","4digit",184.0
+148,"228","Ingenieros en comunicaciones y telecomunicaciones","3digit",155.0
+149,"2281","Ingenieros en comunicaciones y telecomunicaciones","4digit",187.0
+150,"23","Profesores y especialistas en docencia","2digit",114.0
+151,"231","Supervisores educativos y especialistas en ciencias de la educación","3digit",189.0
+152,"2311","Supervisores e inspectores educativos","4digit",190.0
+153,"2312","Pedagogos, orientadores educativos y otros especialistas en ciencias educativas","4digit",190.0
+154,"232","Profesores de nivel medio y superior","3digit",189.0
+155,"2321","Profesores universitarios y de enseñanza superior","4digit",194.0
+156,"2322","Profesores de preparatoria y equivalentes","4digit",194.0
+157,"233","Profesores de nivel básico","3digit",189.0
+158,"2331","Profesores de enseñanza secundaria","4digit",197.0
+159,"2332","Profesores de enseñanza primaria","4digit",197.0
+160,"2333","Alfabetizadores","4digit",197.0
+161,"2334","Profesores de enseñanza bilingüe (indígena)","4digit",197.0
+162,"2335","Profesores de enseñanza preescolar","4digit",197.0
+163,"2339","Otros profesores de nivel básico, no clasificados anteriormente","4digit",197.0
+164,"234","Profesores en enseñanza especial","3digit",189.0
+165,"2341","Profesores de personas con problemas de audición y lenguaje","4digit",204.0
+166,"2342","Profesores de personas con problemas de aprendizaje","4digit",204.0
+167,"2343","Otros profesores de enseñanza especial","4digit",204.0
+168,"239","Otros profesores y especialistas en docencia, no clasificados anteriormente","3digit",189.0
+169,"2391","Otros profesores y especialistas en docencia, no clasificados anteriormente","4digit",208.0
+170,"24","Médicos, enfermeras y otros especialistas en salud","2digit",114.0
+171,"241","Médicos generales y especialistas","3digit",212.0
+172,"2411","Médicos generales y familiares","4digit",213.0
+173,"2412","Médicos especialistas","4digit",213.0
+174,"2413","Dentistas","4digit",213.0
+175,"242","Otros especialistas en salud","3digit",212.0
+176,"2421","Ingenieros biomédicos","4digit",217.0
+177,"2422","Optometristas","4digit",217.0
+178,"2423","Nutriólogos","4digit",217.0
+179,"2424","Especialistas en seguridad e higiene y salud pública","4digit",217.0
+180,"2425","Especialistas en medicina tradicional y alternativa","4digit",217.0
+181,"2426","Enfermeras especialistas","4digit",217.0
+182,"2427","Fisioterapeutas, audiólogos y logopedas","4digit",217.0
+183,"2428","Farmacólogos","4digit",217.0
+184,"25","Auxiliares y técnicos en ciencias económico-administrativas, ciencias sociales, humanistas y en artes","2digit",114.0
+185,"251","Auxiliares en administración, contabilidad y finanzas","3digit",226.0
+186,"2511","Auxiliares en administración, mercadotecnia, comercialización y comercio exterior","4digit",228.0
+187,"2512","Auxiliares en contabilidad, economía, finanzas y agentes de bolsa","4digit",228.0
+188,"2513","Tramitadores aduanales","4digit",228.0
+189,"2514","Valuadores, subastadores y rematadores","4digit",228.0
+190,"252","Inspectores públicos","3digit",226.0
+191,"2521","Oficiales del ministerio público y detectives","4digit",234.0
+192,"2522","Agentes aduanales y fronterizos","4digit",234.0
+193,"2523","Agentes de recaudación tributaria y de licencias","4digit",234.0
+194,"2524","Inspectores en seguridad social, de precios y otros inspectores públicos","4digit",234.0
+195,"253","Auxiliares en ciencias sociales y humanistas","3digit",226.0
+196,"2531","Auxiliares en ciencias sociales y humanistas","4digit",239.0
+197,"2532","Auxiliares en servicios jurídicos","4digit",239.0
+198,"2533","Monjas y predicadores","4digit",239.0
+199,"254","Diseñadores de modas, industriales, gráficos y decoradores de interiores","3digit",226.0
+200,"2541","Diseñadores de moda y vestuario","4digit",243.0
+201,"2542","Diseñadores industriales","4digit",243.0
+202,"2543","Diseñadores gráficos","4digit",243.0
+203,"2544","Decoradores de interiores, jardines y diversos materiales (tazas, llaveros, etcétera)","4digit",243.0
+204,"255","Locutores, animadores y payasos","3digit",226.0
+205,"2551","Locutores de radio, televisión y otros medios de comunicación","4digit",251.0
+206,"2552","Animadores y organizadores de eventos","4digit",251.0
+207,"2553","Payasos, mimos y cirqueros","4digit",251.0
+208,"256","Deportistas, entrenadores y árbitros","3digit",226.0
+209,"2561","Deportistas","4digit",255.0
+210,"2562","Entrenadores deportivos y directores técnicos","4digit",255.0
+211,"2563","Árbitros y jueces deportivos","4digit",255.0
+212,"26","Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones","2digit",114.0
+213,"261","Auxiliares y técnicos en ciencias físicas, matemáticas, biológicas, químicas, del medio ambiente y agronómicas","3digit",259.0
+214,"2611","Auxiliares y técnicos en física, matemáticas, estadística y actuaría","4digit",261.0
+215,"2612","Auxiliares y técnicos en ciencias biológicas, químicas y del medio ambiente","4digit",261.0
+216,"2613","Auxiliares y técnicos en agronomía","4digit",261.0
+217,"2614","Auxiliares y técnicos en veterinaria, pesca y forestación","4digit",261.0
+218,"262","Auxiliares y técnicos industriales, topógrafos, mineros y dibujantes técnicos","3digit",259.0
+219,"2621","Auxiliares y técnicos industriales y químicos","4digit",267.0
+220,"2622","Auxiliares y técnicos topógrafos, en hidrología y geología","4digit",267.0
+221,"2623","Auxiliares y técnicos mineros, metalúrgicos y petroleros","4digit",267.0
+222,"2624","Auxiliares y técnicos en construcción y arquitectura","4digit",267.0
+223,"2625","Dibujantes técnicos","4digit",267.0
+224,"263","Mecánicos y técnicos en mantenimiento y reparación de equipos mecánicos, vehículos de motor, instrumentos industriales y equipo de refrigeración","3digit",259.0
+225,"2630","Supervisores de mecánicos y técnicos en mantenimiento y reparación de equipos mecánicos, vehículos de motor, instrumentos industriales y equipo de refrigeración","4digit",273.0
+226,"2631","Técnicos en mantenimiento y reparación de vehículos de motor","4digit",273.0
+227,"2632","Mecánicos en mantenimiento y reparación de vehículos de motor","4digit",273.0
+228,"2633","Técnicos en mantenimiento y reparación de maquinaria e instrumentos industriales","4digit",273.0
+229,"2634","Mecánicos en mantenimiento y reparación de maquinaria e instrumentos industriales","4digit",273.0
+230,"2635","Técnicos en mantenimiento y reparación de instrumentos de precisión y musicales","4digit",273.0
+231,"2636","Mecánicos en mantenimiento y reparación de instrumentos de precisión y musicales","4digit",273.0
+232,"2637","Técnicos en la instalación, reparación y mantenimiento de equipos de refrigeración, climas y aire acondicionado","4digit",273.0
+233,"2638","Mecánicos en instalación, mantenimiento y reparación de equipos de refrigeración, climas y aire acondicionado.","4digit",273.0
+234,"2639","Otras ocupaciones de mecánicos y técnicos en el mantenimiento y reparación de equipos mecánicos, vehículos de motor e instrumentos industriales, no clasificados anteriormente","4digit",273.0
+235,"264","Técnicos eléctricos, en electrónica y de equipos en telecomunicaciones y electromecánicos","3digit",259.0
+236,"2640","Supervisores de técnicos eléctricos, en electrónica y de equipos en telecomunicaciones y electromecánicos","4digit",297.0
+237,"2641","Técnicos eléctricos","4digit",297.0
+238,"2642","Electricistas y linieros","4digit",297.0
+239,"2643","Técnicos en instalación y reparación de equipos electrónicos, telecomunicaciones y electrodoméstico (excepto equipos informáticos)","4digit",297.0
+240,"2644","Trabajadores en instalación y reparación de equipos electrónicos, telecomunicaciones y electrodoméstico (excepto equipos informáticos)","4digit",297.0
+241,"2645","Técnicos en reparación de equipos electromecánicos","4digit",297.0
+242,"2646","Trabajadores en reparación de equipos electromecánicos","4digit",297.0
+243,"2649","Otros técnicos eléctricos, en electrónica y de equipos en telecomunicaciones y electromecánicos, no clasificados anteriormente","4digit",297.0
+244,"265","Auxiliares y técnicos en informática y en equipos de comunicaciones y grabación","3digit",259.0
+245,"2651","Técnicos en la instalación y reparación de redes, equipos y en sistemas computacionales","4digit",311.0
+246,"2652","Técnicos en operaciones de equipos de radio","4digit",311.0
+247,"2653","Auxiliares y técnicos de equipos de grabación y reproducción de video","4digit",311.0
+248,"2654","Auxiliares y técnicos de ingeniería de audio, sonido e iluminación","4digit",311.0
+249,"2655","Fotógrafos","4digit",311.0
+250,"266","Controladores de tráfico aéreo y de otros transportes","3digit",259.0
+251,"2661","Controladores de tráfico aéreo","4digit",318.0
+252,"2662","Controladores de tráfico de otros transportes (terrestre, ferroviario y marítimo)","4digit",318.0
+253,"27","Auxiliares y técnicos en educación, instructores y capacitadores","2digit",114.0
+254,"271","Auxiliares y técnicos en educación, instructores y capacitadores","3digit",322.0
+255,"2711","Auxiliares y técnicos en pedagogía y en educación","4digit",323.0
+256,"2712","Instructores en estudios y capacitación artística","4digit",323.0
+257,"2713","Instructores en estudios y capacitación comercial y administrativa","4digit",323.0
+258,"2714","Instructores en idiomas extranjeros","4digit",323.0
+259,"2715","Instructores y capacitadores en oficios y para el trabajo","4digit",323.0
+260,"2716","Profesores en educación física y deporte","4digit",323.0
+261,"28","Enfermeras, técnicos en medicina y trabajadores de apoyo en salud","2digit",114.0
+262,"281","Enfermeras y técnicos en medicina","3digit",332.0
+263,"2811","Enfermeras (técnicas)","4digit",333.0
+264,"2812","Técnicos en aparatos de diagnóstico, tratamiento médico, podólogos y fisioterapeutas","4digit",333.0
+265,"2813","Técnicos de laboratorios médicos","4digit",333.0
+266,"2814","Técnicos y asistentes farmacéuticos","4digit",333.0
+267,"2815","Técnicos de prótesis médicas y dentales","4digit",333.0
+268,"2816","Técnicos dietistas y nutriólogos","4digit",333.0
+269,"2817","Técnicos en medicina alternativa","4digit",333.0
+270,"282","Trabajadores de apoyo en salud","3digit",332.0
+271,"2821","Auxiliares en enfermería y paramédicos","4digit",342.0
+272,"2822","Auxiliares y asistentes dentales","4digit",342.0
+273,"2823","Auxiliares hospitalarios y de medicina","4digit",342.0
+274,"2824","Parteras","4digit",342.0
+275,"2825","Técnicos en seguridad en el trabajo e higiene","4digit",342.0
+276,"2826","Curanderos, hierberos y hueseros","4digit",342.0
+277,"2827","Fumigadores y controladores de plagas","4digit",342.0
+278,"29","Otros especialistas y técnicos, no clasificados anteriormente","2digit",114.0
+279,"299","Otros especialistas y técnicos, no clasificados anteriormente","3digit",350.0
+280,"2991","Otros especialistas no clasificados anteriormente","4digit",351.0
+281,"2992","Otros técnicos no clasificados anteriormente","4digit",351.0
+282,"3","Trabajadores auxiliares en actividades administrativas","1digit",""
+283,"31","Secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte","2digit",354.0
+284,"310","Supervisores de secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte","3digit",355.0
+285,"3101","Supervisores de secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte","4digit",356.0
+286,"311","Secretarias, taquígrafos, mecanógrafos, capturistas de datos y operadores de máquinas de oficina","3digit",355.0
+287,"3111","Secretarias","4digit",360.0
+288,"3112","Taquígrafos, mecanógrafos y similares","4digit",360.0
+289,"3113","Capturistas de datos","4digit",360.0
+290,"3114","Operadores de máquinas de oficina (fotocopiadora, etc.)","4digit",360.0
+291,"3115","Trabajadores de apoyo en actividades administrativas diversas","4digit",360.0
+292,"312","Cajeros, cobradores y pagadores","3digit",355.0
+293,"3121","Cajeros, taquilleros y receptores de apuestas","4digit",369.0
+294,"3122","Cobradores, pagadores y prestamistas","4digit",369.0
+295,"313","Trabajadores en archivo y control de almacén y bodega","3digit",355.0
+296,"3131","Trabajadores en archivo y correspondencia","4digit",372.0
+297,"3132","Encargados y trabajadores en control de almacén y bodega","4digit",372.0
+298,"314","Trabajadores en el control de la operación de transporte","3digit",355.0
+299,"3141","Despachadores de transporte","4digit",375.0
+300,"3142","Checadores y revisores de transporte","4digit",375.0
+301,"32","Trabajadores que brindan y manejan información","2digit",354.0
+302,"320","Supervisores de trabajadores que brindan y manejan información","3digit",378.0
+303,"3201","Supervisores de trabajadores que brindan y manejan información","4digit",379.0
+304,"321","Recepcionistas, trabajadores que brindan información y telefonistas","3digit",378.0
+305,"3211","Recepcionistas y trabajadores que brindan información (de forma personal)","4digit",381.0
+306,"3212","Trabajadores que brindan información por teléfono (centro de llamadas) y anunciadores","4digit",381.0
+307,"3213","Telefonistas y telegrafistas","4digit",381.0
+308,"322","Trabajadores en agencias de viajes e información turística","3digit",378.0
+309,"3221","Trabajadores en agencias de viajes","4digit",386.0
+310,"3222","Guías de turismo en museos, casinos, parques, cines y otros centros recreativos","4digit",386.0
+311,"323","Encuestadores y codificadores","3digit",378.0
+312,"3231","Encuestadores","4digit",390.0
+313,"3232","Codificadores de información","4digit",390.0
+314,"39","Otras secretarias, capturistas, cajeros y trabajadores que brindan información, no clasificados anteriormente","2digit",354.0
+315,"399","Otras secretarias, capturistas, cajeros y trabajadores que brindan información, no clasificados anteriormente","3digit",393.0
+316,"3999","Otras secretarias, capturistas, cajeros y trabajadores que brindan información, no clasificados anteriormente","4digit",395.0
+317,"4","Comerciantes, empleados en ventas y agentes de ventas","1digit",""
+318,"41","Comerciantes en establecimientos","2digit",399.0
+319,"411","Comerciantes en establecimientos","3digit",400.0
+320,"4111","Comerciantes en establecimientos","4digit",403.0
+321,"42","Empleados de ventas en establecimientos","2digit",399.0
+322,"420","Encargados y supervisores de ventas de productos y de servicios financieros y de alquiler","3digit",405.0
+323,"4201","Encargados y supervisores de ventas de productos y de servicios financieros y de alquiler","4digit",406.0
+324,"421","Empleados de ventas y vendedores por teléfono","3digit",405.0
+325,"4211","Empleados de ventas, despachadores y dependientes en comercios","4digit",410.0
+326,"4212","Anaqueleros, acomodadores y seleccionadores de mercancías y alimentadores de máquinas expendedoras","4digit",410.0
+327,"4213","Vendedores por teléfono","4digit",410.0
+328,"4214","Choferes vendedores","4digit",410.0
+329,"422","Agentes, representantes de ventas y vendedores por catálogo","3digit",405.0
+330,"4221","Agentes y representantes de ventas y consignatarios","4digit",416.0
+331,"4222","Agentes de seguros y servicios financieros (ejecutivos de cuenta)","4digit",416.0
+332,"4223","Agentes de bienes raíces","4digit",416.0
+333,"4224","Vendedores por catálogo","4digit",416.0
+334,"423","Trabajadores en la promoción de ventas y modelos","3digit",405.0
+335,"4231","Demostradores y promotores","4digit",421.0
+336,"4232","Edecanes","4digit",421.0
+337,"4233","Modelos de moda, arte y publicidad","4digit",421.0
+338,"43","Trabajadores en el alquiler","2digit",399.0
+339,"431","Trabajadores en el alquiler","3digit",425.0
+340,"4311","Trabajadores en el alquiler inmobiliario (casas, terrenos, etcétera)","4digit",426.0
+341,"4312","Trabajadores en el alquiler de bienes muebles (loza, películas, videojuegos, etcétera)","4digit",426.0
+342,"49","Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente","2digit",399.0
+343,"499","Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente","3digit",430.0
+344,"4999","Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente","4digit",432.0
+345,"5","Trabajadores en servicios personales y vigilancia","1digit",""
+346,"51","Trabajadores en la preparación y servicio de alimentos y bebidas en establecimientos","2digit",436.0
+347,"510","Supervisores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería","3digit",437.0
+348,"5101","Supervisores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería","4digit",441.0
+349,"511","Trabajadores en la preparación y servicio de alimentos y bebidas en establecimientos","3digit",437.0
+350,"5111","Cocineros","4digit",445.0
+351,"5112","Fonderos, vendedores y comerciantes de comida","4digit",445.0
+352,"5113","Cocineros domésticos","4digit",445.0
+353,"5114","Taqueros y preparadores de comida rápida, antojitos, pizzas, hot dogs, jugos, café, etcétera","4digit",445.0
+354,"5115","Cantineros","4digit",445.0
+355,"5116","Meseros","4digit",445.0
+356,"52","Trabajadores en cuidados personales y del hogar","2digit",436.0
+357,"520","Supervisores y encargados de trabajadores en cuidados personales y del hogar","3digit",454.0
+358,"5201","Supervisores y encargados de trabajadores en cuidados personales y del hogar","4digit",455.0
+359,"521","Peluqueros, embellecedores y similares","3digit",454.0
+360,"5211","Peluqueros, barberos, estilistas y peinadores","4digit",458.0
+361,"5212","Maquillistas, manicuristas, pedicuristas y tatuadores","4digit",458.0
+362,"5213","Bañeros y masajistas","4digit",458.0
+363,"522","Trabajadores en el cuidado de personas","3digit",454.0
+364,"5221","Cuidadores de niños, personas con discapacidad y ancianos en establecimientos","4digit",462.0
+365,"5222","Cuidadores de niños, personas con discapacidad y ancianos en casas particulares","4digit",462.0
+366,"523","Azafatas y sobrecargos","3digit",454.0
+367,"5231","Azafatas y sobrecargos","4digit",467.0
+368,"524","Jardineros","3digit",454.0
+369,"5241","Jardineros en establecimientos","4digit",469.0
+370,"5242","Jardineros en casas particulares","4digit",469.0
+371,"525","Trabajadores en otros servicios personales","3digit",454.0
+372,"5251","Astrólogos, adivinadores y afines","4digit",472.0
+373,"5252","Trabajadores dedicados a la prostitución","4digit",472.0
+374,"5253","Trabajadores en servicios funerarios","4digit",472.0
+375,"5254","Entrenadores de animales y ocupaciones relacionadas con el cuidado de mascotas","4digit",472.0
+376,"53","Trabajadores en servicios de protección y vigilancia","2digit",436.0
+377,"530","Supervisores en servicios de protección y vigilancia","3digit",480.0
+378,"5301","Supervisores en servicios de protección y vigilancia","4digit",481.0
+379,"531","Trabajadores en servicios de protección y vigilancia","3digit",480.0
+380,"5311","Bomberos","4digit",483.0
+381,"5312","Policías y agentes de tránsito","4digit",483.0
+382,"5313","Vigilantes y guardias en establecimientos","4digit",483.0
+383,"5314","Vigilantes y porteros en casas particulares","4digit",483.0
+384,"54","Trabajadores de las fuerzas armadas","2digit",436.0
+385,"540","Supervisores de las fuerzas armadas","3digit",488.0
+386,"5401","Supervisores de las fuerzas armadas","4digit",489.0
+387,"541","Trabajadores de las fuerzas armadas","3digit",488.0
+388,"5411","Trabajadores de la fuerza armada aérea","4digit",491.0
+389,"5412","Trabajadores de la fuerza armada marítima","4digit",491.0
+390,"5413","Trabajadores de la fuerza armada terrestre","4digit",491.0
+391,"59","Otras ocupaciones en servicios personales y vigilancia, no clasificadas anteriormente","2digit",436.0
+392,"599","Otras ocupaciones en servicios personales y vigilancia, no clasificadas anteriormente","3digit",495.0
+393,"5999","Otras ocupaciones en servicios personales y vigilancia, no clasificadas anteriormente","4digit",497.0
+394,"6","Trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca","1digit",""
+395,"61","Trabajadores en actividades agrícolas y ganaderas","2digit",501.0
+396,"610","Supervisores, encargados y capataces agropecuarios","3digit",502.0
+397,"6101","Supervisores, encargados y capataces agropecuarios","4digit",503.0
+398,"611","Trabajadores en actividades agrícolas","3digit",502.0
+399,"6111","Trabajadores en el cultivo de maíz y/o frijol","4digit",505.0
+400,"6112","Trabajadores en el cultivo de hortalizas y verduras","4digit",505.0
+401,"6113","Trabajadores en el cultivo de café, cacao y tabaco","4digit",505.0
+402,"6114","Trabajadores en el cultivo de frutales","4digit",505.0
+403,"6115","Trabajadores en el cultivo de flores","4digit",505.0
+404,"6116","Trabajadores en otros cultivos agrícolas","4digit",505.0
+405,"6117","Trabajadores en actividades de beneficio de productos agrícolas","4digit",505.0
+406,"6119","Otros trabajadores en actividades agrícolas, no clasificados anteriormente","4digit",505.0
+407,"612","Trabajadores en actividades ganaderas y en la cría de animales","3digit",502.0
+408,"6121","Trabajadores en la cría de ganado bovino","4digit",514.0
+409,"6122","Trabajadores en la cría de porcinos","4digit",514.0
+410,"6123","Trabajadores en la cría avícola","4digit",514.0
+411,"6124","Trabajadores en la cría de caprinos y ovinos","4digit",514.0
+412,"6125","Trabajadores en la cría de equinos","4digit",514.0
+413,"6126","Trabajadores en la apicultura","4digit",514.0
+414,"6127","Trabajadores en la cría y cuidado de otro tipo de animales","4digit",514.0
+415,"6128","Trabajadores en actividades de beneficio de productos pecuarios","4digit",514.0
+416,"6129","Otros trabajadores en actividades ganaderas y en la cría de animales, no clasificados anteriormente","4digit",514.0
+417,"613","Trabajadores que combinan actividades agrícolas con ganaderas","3digit",502.0
+418,"6131","Trabajadores que combinan actividades agrícolas con ganaderas","4digit",527.0
+419,"62","Trabajadores en actividades pesqueras, forestales, caza y similares","2digit",501.0
+420,"620","Supervisores, encargados y capataces de trabajadores en actividades pesqueras, acuícolas, forestales, caza y similares","3digit",529.0
+421,"6201","Supervisores, encargados y capataces de trabajadores en actividades pesqueras, acuícolas, forestales, caza y similares","4digit",530.0
+422,"621","Trabajadores en actividades pesqueras y de acuacultura","3digit",529.0
+423,"6211","Trabajadores en actividades pesqueras","4digit",534.0
+424,"6212","Trabajadores en actividades de acuacultura","4digit",534.0
+425,"6213","Trabajadores en actividades de beneficio de productos pesqueros o acuícolas","4digit",534.0
+426,"622","Trabajadores en actividades silvícolas y forestales","3digit",529.0
+427,"6221","Taladores, trocadores, cortadores de árboles y similares","4digit",539.0
+428,"6222","Caucheros, chicleros, resineros y similares","4digit",539.0
+429,"6223","Trabajadores en viveros e invernaderos","4digit",539.0
+430,"6224","Trabajadores en actividades de plantación, reforestación y conservación de bosques","4digit",539.0
+431,"6225","Cortadores de leña","4digit",539.0
+432,"6226","Trabajadores en actividades de recolección de plantas, hierbas y raíces no cultivadas","4digit",539.0
+433,"6227","Productores de carbón vegetal","4digit",539.0
+434,"623","Trabajadores en actividades de caza, trampería y similares","3digit",529.0
+435,"6231","Trabajadores en actividades de caza, trampería y similares","4digit",549.0
+436,"63","Operadores de maquinaria agropecuaria y forestal","2digit",501.0
+437,"631","Operadores de maquinaria agropecuaria y forestal","3digit",551.0
+438,"6311","Operadores de maquinaria agropecuaria y forestal","4digit",552.0
+439,"69","Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente","2digit",501.0
+440,"699","Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente","3digit",556.0
+441,"6999","Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente","4digit",558.0
+442,"7","Trabajadores artesanales","1digit",""
+443,"71","Trabajadores en la extracción y la edificación de construcciones","2digit",562.0
+444,"710","Supervisores de trabajadores en la extracción, albañiles y en acabados de la construcción","3digit",563.0
+445,"7101","Supervisores de trabajadores en la extracción, albañiles y en acabados de la construcción","4digit",564.0
+446,"711","Trabajadores en la extracción","3digit",563.0
+447,"7111","Mineros y trabajadores en la extracción en minas de minerales metálicos","4digit",568.0
+448,"7112","Trabajadores en la extracción de cantera, arcilla, arena, piedra y grava","4digit",568.0
+449,"7113","Dinamiteros y buzos en perforación de pozos y en la construcción","4digit",568.0
+450,"712","Albañiles y otros trabajadores en la edificación de construcciones","3digit",563.0
+451,"7121","Albañiles, mamposteros y afines","4digit",572.0
+452,"7122","Techadores (colocadores de palapas, etcétera)","4digit",572.0
+453,"7123","Carpinteros de obra negra","4digit",572.0
+454,"713","Yeseros, instaladores de pisos, climas, impermeabilizante, vidrio, etc., plomeros y pintores","3digit",563.0
+455,"7131","Yeseros, escayolistas y otros recubridores de techos y paredes","4digit",576.0
+456,"7132","Instaladores de pisos, azulejos, mosaicos y baldosas","4digit",576.0
+457,"7133","Instaladores de material aislante, de impermeabilización, vidrio y otros materiales","4digit",576.0
+458,"7134","Plomeros, fontaneros e instaladores de tubería","4digit",576.0
+459,"7135","Pintores de brocha gorda","4digit",576.0
+460,"72","Artesanos y trabajadores en el tratamiento y elaboración de productos de metal","2digit",562.0
+461,"720","Supervisores de artesanos y trabajadores en el tratamiento y elaboración de productos de metal","3digit",584.0
+462,"7201","Supervisores de artesanos y trabajadores en el tratamiento y elaboración de productos de metal","4digit",585.0
+463,"721","Moldeadores, soldadores, hojalateros y pintores de metales","3digit",584.0
+464,"7211","Moldeadores, torneros y troqueladores","4digit",589.0
+465,"7212","Soldadores y oxicortadores","4digit",589.0
+466,"7213","Hojalateros, chaperos, latoneros, cobreros y pintores de metales","4digit",589.0
+467,"7214","Montadores de estructuras metálicas","4digit",589.0
+468,"722","Herreros, cerrajeros, joyeros y artesanos en la elaboración de productos de metal","3digit",584.0
+469,"7221","Herreros, balconeros, aluminadores y forjadores","4digit",596.0
+470,"7222","Cerrajeros, afiladores y pulidores de herramientas","4digit",596.0
+471,"7223","Joyeros, orfebres, plateros y pulidores de metal","4digit",596.0
+472,"73","Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel","2digit",562.0
+473,"730","Supervisores de artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel","3digit",600.0
+474,"7301","Supervisores de artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel","4digit",602.0
+475,"731","Artesanos y trabajadores en la elaboración de productos de madera","3digit",600.0
+476,"7311","Carpinteros, ebanistas y cepilladores en la elaboración de productos de madera","4digit",606.0
+477,"7312","Pintores y barnizadores de madera","4digit",606.0
+478,"7313","Artesanos de productos de bejuco, vara, palma, carrizo y mimbre, excepto madera","4digit",606.0
+479,"732","Artesanos y trabajadores en la elaboración de productos de papel, cartón y trabajos de impresión","3digit",600.0
+480,"7321","Artesanos y trabajadores en la elaboración de productos de papel y cartón","4digit",612.0
+481,"7322","Impresores, linotipistas, fotograbadores y encuadernadores","4digit",612.0
+482,"7323","Reveladores e impresores de fotografías","4digit",612.0
+483,"733","Tejedores y trabajadores en la preparación de fibras textiles","3digit",600.0
+484,"7331","Trabajadores en la preparación de fibras e hilados","4digit",617.0
+485,"7332","Tejedores de fibras","4digit",617.0
+486,"734","Artesanos y trabajadores en la elaboración de productos textiles","3digit",600.0
+487,"7341","Sastres y modistos, costureras y confeccionadores de prendas de vestir","4digit",620.0
+488,"7342","Artesanos y confeccionadores de productos textiles","4digit",620.0
+489,"7343","Bordadores y deshiladores","4digit",620.0
+490,"7344","Patronistas de productos textiles","4digit",620.0
+491,"735","Tapiceros y trabajadores en el tratamiento y elaboración de productos de cuero y piel","3digit",600.0
+492,"7351","Tapiceros","4digit",625.0
+493,"7352","Peleteros, cortadores, curtidores y teñidores de cuero, piel y similares","4digit",625.0
+494,"7353","Zapateros artesanales","4digit",625.0
+495,"74","Artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas","2digit",562.0
+496,"740","Supervisores de artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas","3digit",630.0
+497,"7401","Supervisores de artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas","4digit",634.0
+498,"741","Artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas","3digit",630.0
+499,"7411","Trabajadores en la elaboración y reparación de productos de hule, caucho, plásticos y vulcanización de neumáticos","4digit",638.0
+500,"7412","Trabajadores en la elaboración de sustancias y compuestos químicos","4digit",638.0
+501,"75","Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco","2digit",562.0
+502,"750","Supervisores de trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco","3digit",643.0
+503,"7501","Supervisores de trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco","4digit",645.0
+504,"751","Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco","3digit",643.0
+505,"7511","Trabajadores en la elaboración de productos de carne, pescado y sus derivados","4digit",649.0
+506,"7512","Trabajadores en la elaboración de productos lácteos","4digit",649.0
+507,"7513","Trabajadores en la elaboración de pan, tortilla, repostería, y otros productos de cereales y harinas","4digit",649.0
+508,"7514","Trabajadores en la elaboración de productos a base de frutas y verduras","4digit",649.0
+509,"7515","Trabajadores en la elaboración de productos a base de azúcar, chocolate, confitería y tabaco","4digit",649.0
+510,"7516","Trabajadores en la elaboración de aceites, grasas, sal y especias","4digit",649.0
+511,"7517","Trabajadores en la elaboración de bebidas alcohólicas y no alcohólicas","4digit",649.0
+512,"76","Artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares","2digit",562.0
+513,"760","Supervisores de artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares","3digit",661.0
+514,"7601","Supervisores de artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares","4digit",663.0
+515,"761","Artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares","3digit",661.0
+516,"7611","Alfareros y trabajadores ceramistas","4digit",667.0
+517,"7612","Trabajadores en la elaboración de productos de cemento, cal, yeso, azulejo, piedra y ladrilleros","4digit",667.0
+518,"7613","Trabajadores del vidrio y similares","4digit",667.0
+519,"7614","Trabajadores en la elaboración de productos de hueso, concha, coral y similares","4digit",667.0
+520,"79","Otros trabajadores artesanales, no clasificados anteriormente","2digit",562.0
+521,"799","Otros trabajadores artesanales, no clasificados anteriormente","3digit",677.0
+522,"7999","Otros trabajadores artesanales, no clasificados anteriormente","4digit",678.0
+523,"8","Operadores de maquinaria industrial, ensambladores, choferes y conductores de transporte","1digit",""
+524,"81","Operadores de instalaciones y maquinaria industrial","2digit",680.0
+525,"810","Supervisores de operadores de maquinaria industrial","3digit",682.0
+526,"8101","Supervisores de operadores de maquinaria industrial","4digit",683.0
+527,"811","Operadores de máquinas y equipos para la extracción en minas, canteras y pozos","3digit",682.0
+528,"8111","Operadores de máquinas y equipos para la extracción y beneficio en minas y canteras","4digit",685.0
+529,"8112","Operadores de máquinas y equipos para la extracción en pozos petroleros","4digit",685.0
+530,"8113","Operadores de máquinas y equipos para la captación, bombeo y distribución de agua","4digit",685.0
+531,"8114","Operadores de equipos portátiles especializados para la construcción","4digit",685.0
+532,"812","Operadores de máquinas y equipos en la fabricación metalúrgica, fabricación de maquinaria y productos metálicos","3digit",682.0
+533,"8121","Operadores de hornos metalúrgicos, coladores y laminadores y operadores de máquinas trefiladoras y estiradoras de metales","4digit",692.0
+534,"8122","Operadores de máquinas pulidoras, galvanizadoras y recubridoras de metal","4digit",692.0
+535,"8123","Operadores de máquinas que cortan, perforan, doblan, troquelan, sueldan, etc., piezas y productos metálicos","4digit",692.0
+536,"813","Operadores de máquinas y equipos en la elaboración de productos químicos, plásticos, tratamiento de agua y petroquímica","3digit",682.0
+537,"8131","Operadores de máquinas para la elaboración de productos químicos","4digit",700.0
+538,"8132","Operadores de máquinas para la elaboración de productos farmacéuticos y cosméticos","4digit",700.0
+539,"8133","Operadores de máquinas para la elaboración y ensamble de productos de plástico y hule","4digit",700.0
+540,"8134","Operadores de máquinas para el tratamiento de agua","4digit",700.0
+541,"8135","Operadores de máquinas y equipos para la refinación del petróleo y gas","4digit",700.0
+542,"814","Operadores de máquinas para la madera y papel","3digit",682.0
+543,"8141","Operadores de máquinas para el tratamiento de la madera y elaboración de aglomerados y triplay","4digit",709.0
+544,"8142","Operadores de máquinas para la elaboración de productos de madera, bejuco, mimbre y similares","4digit",709.0
+545,"8143","Operadores de máquinas en la elaboración de celulosa, papel y similares","4digit",709.0
+546,"8144","Operadores de máquinas para la impresión y encuadernación","4digit",709.0
+547,"8145","Operadores de máquinas para la elaboración de productos a base de papel y cartón","4digit",709.0
+548,"815","Operadores de máquinas y equipos en la elaboración de productos textiles, cuero y piel","3digit",682.0
+549,"8151","Operadores de máquinas y equipos de hilar y bobinar fibras textiles naturales y sintéticas","4digit",720.0
+550,"8152","Operadores de máquinas para fabricar tejidos de punto, telas y alfombras","4digit",720.0
+551,"8153","Operadores de máquinas de costura, bordado y de corte para la confección de productos textiles y prendas de vestir","4digit",720.0
+552,"8154","Operadores de máquinas en el tratamiento del cuero, piel y la elaboración de calzado","4digit",720.0
+553,"8155","Operadores de máquinas de lavado, blanqueo, teñido, estampado, afelpado, planchado y acabado de productos textiles, cuero, piel y similares","4digit",720.0
+554,"816","Operadores de máquinas en la elaboración de alimentos, bebidas y tabaco","3digit",682.0
+555,"8161","Operadores de máquinas en la elaboración de alimentos, aceites, grasas, sal y especias","4digit",731.0
+556,"8162","Operadores de máquinas en la elaboración de tabaco","4digit",731.0
+557,"8163","Operadores de máquinas en la elaboración de bebidas alcohólicas y no alcohólicas","4digit",731.0
+558,"817","Operadores de máquinas en la elaboración de cemento y productos de cerámica, vidrio y similares","3digit",682.0
+559,"8171","Operadores de máquinas en la elaboración de cemento, cal, yeso y productos de cemento","4digit",737.0
+560,"8172","Operadores de máquinas en la elaboración de productos de cerámica, mosaico, azulejo y similares","4digit",737.0
+561,"8173","Operadores de máquinas en la elaboración de vidrio y productos de vidrio y similares","4digit",737.0
+562,"818","Operadores de máquinas para la generación de energía","3digit",682.0
+563,"8181","Operadores de máquinas e instalaciones para la generación de energía","4digit",745.0
+564,"819","Otros operadores de instalaciones y maquinaria fija industrial, no clasificados anteriormente","3digit",682.0
+565,"8199","Otros operadores de instalaciones y maquinaria fija industrial, no clasificados anteriormente","4digit",747.0
+566,"82","Ensambladores y montadores de herramientas, maquinaria, productos metálicos y electrónicos","2digit",680.0
+567,"820","Supervisores en procesos de ensamblado y montaje de maquinaria, herramientas y productos metálicos y electrónicos","3digit",753.0
+568,"8201","Supervisores en procesos de ensamblado y montaje de maquinaria, herramientas y productos metálicos y electrónicos","4digit",755.0
+569,"821","Ensambladores y montadores de herramientas, maquinaria, productos metálicos y electrónicos","3digit",753.0
+570,"8211","Ensambladores y montadores de herramientas, maquinaria y productos metálicos","4digit",759.0
+571,"8212","Ensambladores y montadores de partes eléctricas y electrónicas","4digit",759.0
+572,"83","Conductores de transporte y de maquinaria móvil","2digit",680.0
+573,"830","Supervisores de conductores de transporte y de maquinaria móvil","3digit",764.0
+574,"8301","Supervisores de conductores de transporte y de maquinaria móvil","4digit",765.0
+575,"831","Conductores de transporte aéreo","3digit",764.0
+576,"8311","Pilotos de aviación","4digit",767.0
+577,"832","Conductores de transporte marítimo","3digit",764.0
+578,"8321","Capitanes y conductores de transporte marítimo","4digit",769.0
+579,"8322","Oficiales y marineros de cubierta y prácticos","4digit",769.0
+580,"8323","Oficiales maquinistas de transporte marítimo","4digit",769.0
+581,"8324","Conductores de pequeñas embarcaciones (lanchas, botes, trajineras, etcétera)","4digit",769.0
+582,"833","Conductores de transporte en vías férreas","3digit",764.0
+583,"8331","Conductores de transporte en vías férreas (tren, metro y tren ligero)","4digit",775.0
+584,"834","Conductores de transporte terrestre con motor","3digit",764.0
+585,"8341","Conductores de camiones, camionetas y automóviles de carga","4digit",777.0
+586,"8342","Conductores de autobuses, camiones, camionetas, taxis y automóviles de pasajeros","4digit",777.0
+587,"8343","Choferes en casas particulares","4digit",777.0
+588,"8344","Conductores de motocicleta","4digit",777.0
+589,"8349","Otros conductores de transporte terrestre con motor, no clasificados anteriormente","4digit",777.0
+590,"835","Conductores de maquinaria móvil","3digit",764.0
+591,"8351","Conductores de maquinaria móvil para la construcción y minería","4digit",785.0
+592,"8352","Conductores de maquinaria móvil para el movimiento de mercancías en fábricas, puertos, comercios, etcétera.","4digit",785.0
+593,"89","Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente","2digit",680.0
+594,"899","Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente","3digit",791.0
+595,"8999","Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente","4digit",793.0
+596,"9","Trabajadores en actividades elementales y de apoyo","1digit",""
+597,"91","Trabajadores de apoyo en actividades agropecuarias, forestales, pesca y caza","2digit",797.0
+598,"911","Trabajadores de apoyo en actividades agropecuarias","3digit",798.0
+599,"9111","Trabajadores de apoyo en actividades agrícolas","4digit",799.0
+600,"9112","Trabajadores de apoyo en actividades ganaderas","4digit",799.0
+601,"9113","Trabajadores de apoyo que realizan actividades agrícolas y ganaderas","4digit",799.0
+602,"912","Trabajadores de apoyo en actividades forestales, pesca y caza","3digit",798.0
+603,"9121","Trabajadores de apoyo en actividades silvícolas y forestales","4digit",803.0
+604,"9122","Trabajadores de apoyo en actividades de acuicultura y pesca","4digit",803.0
+605,"9123","Trabajadores de apoyo en actividades de caza y captura","4digit",803.0
+606,"9124","Recolectores de leña y acarreadores de agua","4digit",803.0
+607,"92","Trabajadores de apoyo en la minería, construcción e industria","2digit",797.0
+608,"921","Trabajadores de apoyo en la minería y extracción","3digit",808.0
+609,"9211","Trabajadores de apoyo en la minería","4digit",809.0
+610,"9212","Trabajadores de apoyo en la extracción","4digit",809.0
+611,"922","Trabajadores de apoyo en la construcción y la plomería","3digit",808.0
+612,"9221","Trabajadores de apoyo en la construcción","4digit",812.0
+613,"9222","Trabajadores de apoyo en plomería e instalación de tuberías","4digit",812.0
+614,"923","Trabajadores de apoyo en la industria","3digit",808.0
+615,"9231","Trabajadores de apoyo en la elaboración, reparación y mantenimiento mecánico de equipos, maquinaria y productos de metal y de precisión","4digit",815.0
+616,"9232","Trabajadores de apoyo en la industria eléctrica, electrónica y comunicaciones","4digit",815.0
+617,"9233","Trabajadores de apoyo en la industria química, petroquímica y plásticos","4digit",815.0
+618,"9234","Trabajadores de apoyo en la industria de la madera, papel y cartón","4digit",815.0
+619,"9235","Trabajadores de apoyo en la industria textil y del zapato","4digit",815.0
+620,"9236","Trabajadores de apoyo en la industria de alimentos, bebidas y productos de tabaco","4digit",815.0
+621,"9237","Trabajadores de apoyo en la industria de la cerámica, vidrio y similares","4digit",815.0
+622,"9239","Trabajadores de apoyo en la industria, no clasificados anteriormente","4digit",815.0
+623,"93","Ayudantes de conductores de transporte, conductores de transporte de tracción humana y animal y cargadores","2digit",797.0
+624,"931","Ayudantes de conductores de transporte","3digit",829.0
+625,"9311","Ayudantes de conductores de transporte terrestre con motor","4digit",831.0
+626,"9312","Ayudantes de conductores de transporte en vías férreas","4digit",831.0
+627,"932","Conductores de transporte en bicicleta y animal","3digit",829.0
+628,"9321","Conductores de vehículos de transporte en bicicleta","4digit",834.0
+629,"9322","Conductores de transporte de tracción animal (carretas, arrieros, etcétera)","4digit",834.0
+630,"933","Cargadores","3digit",829.0
+631,"9331","Cargadores","4digit",837.0
+632,"9332","Cargadores por propina","4digit",837.0
+633,"94","Ayudantes en la preparación de alimentos","2digit",797.0
+634,"941","Ayudantes en la preparación de alimentos","3digit",840.0
+635,"9411","Ayudantes en la preparación de alimentos","4digit",841.0
+636,"95","Vendedores ambulantes","2digit",797.0
+637,"951","Vendedores ambulantes (excluyendo los de venta de alimentos)","3digit",843.0
+638,"9511","Vendedores ambulantes de periódicos y lotería","4digit",844.0
+639,"9512","Vendedores ambulantes de artículos diversos (excluyendo los de venta de alimentos)","4digit",844.0
+640,"952","Vendedores ambulantes de alimentos","3digit",843.0
+641,"9521","Preparadores y vendedores ambulantes de alimentos","4digit",848.0
+642,"96","Trabajadores domésticos, de limpieza, planchadores y otros trabajadores de limpieza","2digit",797.0
+643,"960","Supervisores en limpieza, amas de llaves, mayordomos y en estacionamientos","3digit",850.0
+644,"9601","Supervisores en limpieza, amas de llaves, mayordomos y en estacionamientos","4digit",852.0
+645,"961","Trabajadores domésticos","3digit",850.0
+646,"9611","Trabajadores domésticos","4digit",855.0
+647,"962","Trabajadores de limpieza, recamaristas, mozos de limpieza y limpiadores de calzado","3digit",850.0
+648,"9621","Barrenderos y trabajadores de limpieza (excepto en hoteles y restaurantes)","4digit",857.0
+649,"9622","Recamaristas y camaristas","4digit",857.0
+650,"9623","Mozos de hotel y restaurante","4digit",857.0
+651,"9624","Limpiadores de calzado","4digit",857.0
+652,"963","Lavadores y cuidadores de vehículos","3digit",850.0
+653,"9631","Lavadores de vehículos en establecimientos","4digit",866.0
+654,"9632","Lavadores de vehículos en vía pública","4digit",866.0
+655,"9633","Cuidadores y acomodadores de autos en estacionamientos","4digit",866.0
+656,"9634","Cuidadores de autos por propina","4digit",866.0
+657,"964","Lavanderos y planchadores","3digit",850.0
+658,"9641","Lavanderos en establecimientos","4digit",871.0
+659,"9642","Planchadores y tintoreros en establecimientos","4digit",871.0
+660,"9643","Lavanderos y planchadores domésticos","4digit",871.0
+661,"965","Ayudantes de jardineros","3digit",850.0
+662,"9651","Ayudantes de jardineros","4digit",875.0
+663,"966","Recolectores de desechos, material reciclable y otros materiales","3digit",850.0
+664,"9661","Recolectores de basura y material reciclable","4digit",877.0
+665,"9662","Clasificadores de desechos","4digit",877.0
+666,"9663","Recolectores de otros materiales","4digit",877.0
+667,"97","Trabajadores de paquetería, de apoyo para espectáculos y repartidores de mercancías","2digit",797.0
+668,"971","Trabajadores de paquetería, empacado y de apoyo para espectáculos","3digit",881.0
+669,"9711","Trabajadores de paquetería, maleteros y botones de hotel","4digit",883.0
+670,"9712","Empacadores de objetos y mercancías","4digit",883.0
+671,"9713","Trabajadores de apoyo a la realización de espectáculos, deportes y en parques de diversiones","4digit",883.0
+672,"972","Trabajadores repartidores de mensajería y mercancías (a pie y en bicicleta)","3digit",881.0
+673,"9721","Carteros (a pie y en bicicleta)","4digit",888.0
+674,"9722","Repartidores de mensajería (a pie y en bicicleta) y mandaderos","4digit",888.0
+675,"9723","Repartidores de mercancías (a pie y en bicicleta)","4digit",888.0
+676,"973","Lecturistas de medidores, recolectores de dinero y elevadoristas","3digit",881.0
+677,"9731","Lecturistas de medidores","4digit",892.0
+678,"9732","Recolectores de dinero","4digit",892.0
+679,"9733","Elevadoristas y ascensoristas","4digit",892.0
+680,"98","Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente","2digit",797.0
+681,"989","Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente","3digit",896.0
+682,"9899","Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente","4digit",898.0
+683,"99","Ocupaciones no especificadas","2digit",797.0
+684,"999","Ocupaciones no especificadas","3digit",904.0
+685,"9999","Ocupaciones no especificadas","4digit",905.0
