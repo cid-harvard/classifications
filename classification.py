@@ -209,6 +209,9 @@ class Classification(object):
     def to_merged_table(self):
         """Turn table into a format where every line has all digit level codes
         and names. For example, it'd have the 0112, 011, 01, A."""
+        # TODO: maybe rework this to work with an arbitrary number of columns,
+        # exploiting the suffixes option of merge, so that all metadata can be
+        # included in the merged table also
         data = None
         for level in reversed(self.levels):
             current_level = self\
