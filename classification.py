@@ -214,3 +214,6 @@ class Classification(object):
 
     def to_csv(self, path):
         self.table.to_csv(path, encoding="utf-8", quoting=csv.QUOTE_NONNUMERIC)
+
+    def to_stata(self, path):
+        self.table.to_stata(path, encoding="latin-1")
