@@ -22,6 +22,7 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
     return df.merge(code_table, on="parent_code", how="left")\
         .drop("parent_code", axis=1)
 
+
 def ordered_table_to_parent_code_table(df, hierarchy):
 
     # Mapping of current level -> code
@@ -119,7 +120,6 @@ class Hierarchy(collections.Mapping):
 
     def child(self, item):
         return self.move(item, 1)
-
 
 
 class Classification(object):
