@@ -239,4 +239,6 @@ class Classification(object):
         self.table.to_csv(path, encoding="utf-8", quoting=csv.QUOTE_NONNUMERIC)
 
     def to_stata(self, path):
-        self.table.to_stata(path, encoding="latin-1")
+        self\
+            .to_merged_table()\
+            .to_stata(path, encoding="latin-1", write_index=False)
