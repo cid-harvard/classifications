@@ -206,6 +206,29 @@ class Classification(object):
 
         return parents
 
+    def to_merged_table(self):
+        """Turn table into a format where every line has all digit level codes
+        and names. For example, it'd have the 0112, 011, 01, A."""
+        data = None
+        for level in reversed(self.levels):
+            current_level = self\
+                .level(level)\
+                .rename(columns={"code": level + "_code", "name": level + "_name"})\
+                .drop("level", axis=1)
+            if data is None:
+                data = current_level
+            else:
+                data = data.merge(current_level,
+                                  left_on="parent_id",
+                                  right_index=True,
+                                  how="inner",
+                                  suffixes=("_old", "_new")
+                                  )
+                data = data.drop(["parent_id", "parent_id_old"], axis=1)
+                data = data.rename(columns={"parent_id_new": "parent_id"})
+        data = data.drop("parent_id", axis=1)
+        return data
+
     @staticmethod
     def from_csv(path):
         df = pd.read_csv(path, dtype={"code": "str"}, index_col=0)
