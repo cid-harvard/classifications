@@ -6,6 +6,8 @@ import os.path
 
 import csv
 
+from unidecode import unidecode
+
 
 def load(path):
     path = os.path.join(os.path.dirname(__file__), path)
@@ -247,6 +249,14 @@ class Classification(object):
         self.table.to_csv(path, encoding="utf-8", quoting=csv.QUOTE_NONNUMERIC)
 
     def to_stata(self, path):
-        merged_table = self.to_merged_table()
-        from IPython import embed; embed()
+        merged_table = self.to_merged_table().copy()
+
+        for column in merged_table.columns:
+            col = merged_table[column]
+            if col.dtype == pd.np.object_:
+                if pd.lib.infer_dtype(col.dropna()) == "string":
+                    merged_table[column] = col.str.slice(0, 244)
+                elif pd.lib.infer_dtype(col.dropna()) == "unicode":
+                    merged_table[column] = col.str.slice(0, 244).map(unidecode, na_action="ignore")
+
         merged_table.to_stata(path, encoding="latin-1", write_index=False)
