@@ -209,27 +209,32 @@ class Classification(object):
     def to_merged_table(self):
         """Turn table into a format where every line has all digit level codes
         and names. For example, it'd have the 0112, 011, 01, A."""
-        # TODO: maybe rework this to work with an arbitrary number of columns,
-        # exploiting the suffixes option of merge, so that all metadata can be
-        # included in the merged table also
         data = None
+        prev_level = None
+
         for level in reversed(self.levels):
+
+            levelize = lambda x: x + "_" + level
+            prev_levelize = lambda x: x + "_" + prev_level
+
             current_level = self\
                 .level(level)\
-                .rename(columns={"code": level + "_code", "name": level + "_name"})\
-                .drop("level", axis=1)
+                .rename(columns=levelize)\
+                .drop("level_" + level, axis=1)
+
             if data is None:
                 data = current_level
             else:
                 data = data.merge(current_level,
-                                  left_on="parent_id",
+                                  left_on=prev_levelize("parent_id"),
                                   right_index=True,
                                   how="inner",
-                                  suffixes=("_old", "_new")
+                                  suffixes=("_" + prev_level, "_" + level)
                                   )
-                data = data.drop(["parent_id", "parent_id_old"], axis=1)
-                data = data.rename(columns={"parent_id_new": "parent_id"})
-        data = data.drop("parent_id", axis=1)
+                data = data.drop(prev_levelize("parent_id"), axis=1)
+            prev_level = level
+
+        data = data.drop(levelize("parent_id"), axis=1)
         return data
 
     @staticmethod
@@ -242,6 +247,6 @@ class Classification(object):
         self.table.to_csv(path, encoding="utf-8", quoting=csv.QUOTE_NONNUMERIC)
 
     def to_stata(self, path):
-        self\
-            .to_merged_table()\
-            .to_stata(path, encoding="latin-1", write_index=False)
+        merged_table = self.to_merged_table()
+        from IPython import embed; embed()
+        merged_table.to_stata(path, encoding="latin-1", write_index=False)
