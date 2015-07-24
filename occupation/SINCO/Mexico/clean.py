@@ -31,3 +31,4 @@ if __name__ == "__main__":
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/occupations_sinco_2011.csv")
+    c.to_stata("out/occupations_sinco_2011.dta")
