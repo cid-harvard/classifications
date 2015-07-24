@@ -10,6 +10,9 @@ setup(
     package_dir={
         "linnaeus": "."
     },
+    install_requires=[
+        'unidecode',
+    ],
     package_data={
         '': [
             'industry/ISIC/Colombia/out/isic_ac_3.0.csv',
