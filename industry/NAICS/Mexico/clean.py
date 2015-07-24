@@ -59,3 +59,4 @@ if __name__ == "__main__":
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/industries_mexico_scian_2007.csv")
+    c.to_stata("out/industries_mexico_scian_2007.dta")
