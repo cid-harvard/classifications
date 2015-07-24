@@ -34,3 +34,4 @@ if __name__ == "__main__":
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/locations_colombia_dane.csv")
+    c.to_stata("out/locations_colombia_dane.dta")
