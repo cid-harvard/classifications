@@ -7,3 +7,4 @@ Main page: http://www3.inegi.org.mx/sistemas/clasificaciones/tigie/tigie.aspx
 Select all items, hit “Ver Consulta En XLS”.
 
 Names generously translated / shortened by Ryan MacLennan by hand, [here](https://docs.google.com/spreadsheets/d/13fowekaxh5QdbtBumMv_CMzk3APwHzSRZeAOyBc46sk/edit#gid=0).
+Highest digit level changed to fit colombia subnational project's smaller number of [categories](https://docs.google.com/spreadsheets/d/1RGaheEnJN9Ozo1uqE0ShWWVnuaOS8qDx5bUycLSf6oE/edit#gid=0).
