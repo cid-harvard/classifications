@@ -14,16 +14,17 @@ industry|ISIC|Colombia|CIIU 4 A.C.|4.0|ISIC 4.0, colombian version.|[here](indus
 industry|ISIC|Colombia|CIIU 3 A.C.|3.0|ISIC 3.0, colombian version.|[here](industry/ISIC/Colombia)
 industry|NAICS|Colombia|SCIAN Mexico|2007|NAICS 2007, mexican version with translations.|[here](industry/NAICS/Mexico)
 product|HS|International|Harmonized System|1992|Harmonized system, as used by the Atlas of Economic Complexity.|[here](product/HS/Atlas)
-occupation|SINCO|Mexico|SINCO 2011|2011|Mexicoan classification system|[here](occupation/SINCO/Mexico)
-location|DANE Divipola |||2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/DANE)
-location|INEGI Catálogo Único de Claves de Áreas Geoestadísticas |||MAY2015|Mexican administrative regions, from INEGI.|[here](location/Mexico/INEGI)
+product|HS|Prospedia Mexico|Harmonized System||Harmonized system for mexico, adapted for Prospedia|[here](product/HS/Mexico_Prospedia)
+occupation|SINCO|Mexico|SINCO 2011|2011|Mexican occupations system|[here](occupation/SINCO/Mexico)
+location|Colombia locations||DANE Divipola|2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/DANE)
+location|Mexico locations||INEGI Catálogo Único de Claves de Áreas Geoestadísticas|MAY2015|Mexican administrative regions, from INEGI.|[here](location/Mexico/INEGI)
 
 ## Guidelines
 
 1. Data must be easily accessible and usable. There is no point to data that isn't. We're trying to help with this.
 2. Provenance must be clear whenever possible. The original source must be cited and linked. Data without a source cannot be considered reliable and might as well not exist. Data that has a clear source that is difficult to access is still bad. 
 3. Cleaning methodology (and wherever possible, code) must be provided. The best is to have code that processes the raw inputs directly and produces the cleaned data, in a manner that others can reproduce, or in a manner that, when there is a change or update to the original source, you can repeat.
-4. We're using CSV files because it's the most common and interchangeable format, and does not require proprietary software (MS Access, STATA). We're using quoted string fields whenever necessary.
+4. We're using CSV files because it's the most common and interchangeable format, and does not require proprietary software (MS Access, STATA). We're using quoted string fields whenever necessary. There is also a STATA export in merged format.
 5. We're trying to stick to UTF-8 encoding for the files to accommodate different languages, but will provide tools to get rid of non-ascii characters in csv files to support a wider variety of software.
 
 ## Directory Structure
