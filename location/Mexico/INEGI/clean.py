@@ -1,18 +1,9 @@
 import pandas as pd
 
 from classification import (Hierarchy, repeated_table_to_parent_id_table,
+                            parent_code_table_to_parent_id_table,
                             Classification)
 
-
-def parent_code_table_to_parent_id_table(df, hierarchy):
-    """From a classification that has parent_code, go to one that has
-    parent_id."""
-
-    code_table = df[["code"]].reset_index()
-    code_table.columns = ["parent_id", "parent_code"]
-
-    return df.merge(code_table, on="parent_code", how="left")\
-        .drop("parent_code", axis=1)
 
 if __name__ == "__main__":
 
@@ -50,3 +41,4 @@ if __name__ == "__main__":
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/locations_mexico_inegi.csv")
+    c.to_stata("out/locations_mexico_inegi.dta")
