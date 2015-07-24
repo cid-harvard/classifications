@@ -1,8 +1,7 @@
 import pandas as pd
-import numpy as np
 
-
-from classification import (Hierarchy, parent_code_table_to_parent_id_table, Classification)
+from classification import (Hierarchy, parent_code_table_to_parent_id_table,
+                            Classification)
 
 if __name__ == "__main__":
 
@@ -42,3 +41,4 @@ if __name__ == "__main__":
     c.table.code = c.table.code.astype(str)
 
     c.to_csv("out/hs92_atlas.csv")
+    c.to_stata("out/hs92_atlas.dta")
