@@ -93,7 +93,5 @@ if __name__ == "__main__":
     # weird bug where pandas infer_type was returning mixed instead of string
     c.table.code = c.table.code.astype(str)
 
-    c.table.to_csv(new_file_prefix + ".csv", encoding="utf-8")
-    c.table.to_stata(new_file_prefix + ".dta", encoding="latin-1")
-    # agg = build_aggregation_table(df, "section", "class", DANE_HIERARCHY)
-    #agg = agg.merge(df.set_index("code")[["name"]], left_on="section", right_index=True)
+    c.to_csv(new_file_prefix + ".csv")
+    c.to_stata(new_file_prefix + ".dta")
