@@ -50,11 +50,16 @@ if __name__ == "__main__":
     df.loc[df.code.str.len() == 5, "level"] = "fivedigit"
     df.loc[df.code.str.len() == 6, "level"] = "sixdigit"
 
-    df = df[["code", "name_spanish", "level"]]
+    spanish = df[["code", "level", "name_spanish"]]
+    spanish.columns = ["code", "level", "name_es"]
+
+    df = df[["code", "name_english", "level"]]
     df.columns = ["code", "name", "level"]
 
     parent_code_table = ordered_table_to_parent_code_table(df, h)
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
+
+    parent_id_table = parent_id_table.merge(spanish, on=["level", "code"])
 
     c = Classification(parent_id_table, h)
 
