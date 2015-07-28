@@ -53,6 +53,9 @@ if __name__ == "__main__":
     spanish = df[["code", "level", "name_spanish"]]
     spanish.columns = ["code", "level", "name_es"]
 
+    # make sure this is the hand-fixed version
+    assert df.loc[304, "code"] == '31'
+
     df = df[["code", "name_english", "level"]]
     df.columns = ["code", "name", "level"]
 
