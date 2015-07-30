@@ -18,6 +18,7 @@ product|HS|Prospedia Mexico|Harmonized System||Harmonized system for mexico, ada
 occupation|SINCO|Mexico|SINCO 2011|2011|Mexican occupations system|[here](occupation/SINCO/Mexico)
 location|Colombia locations||DANE Divipola|2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/DANE)
 location|Mexico locations||INEGI Catálogo Único de Claves de Áreas Geoestadísticas|MAY2015|Mexican administrative regions, from INEGI.|[here](location/Mexico/INEGI)
+location|Countries|Colombia DANE|||Colombian version of the ISO alpha-3 codes + numbers for trade (aduanas) Data.|[here](location/International/DANE)
 
 ## Guidelines
 
