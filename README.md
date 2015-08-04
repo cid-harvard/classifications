@@ -17,6 +17,7 @@ product|HS|International|Harmonized System|1992|Harmonized system, as used by th
 product|HS|Prospedia Mexico|Harmonized System||Harmonized system for mexico, adapted for Prospedia|[here](product/HS/Mexico_Prospedia)
 occupation|SINCO|Mexico|SINCO 2011|2011|Mexican occupations system|[here](occupation/SINCO/Mexico)
 location|Colombia locations||DANE Divipola|2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/DANE)
+location|Colombia locations|CID Atlas adaptation|DANE Divipola|2015-03-31|Colombian administrative regions, from DANE.|[here](location/Colombia/Prospedia)
 location|Mexico locations||INEGI Catálogo Único de Claves de Áreas Geoestadísticas|MAY2015|Mexican administrative regions, from INEGI.|[here](location/Mexico/INEGI)
 location|Countries|Colombia DANE|||Colombian version of the ISO alpha-3 codes + numbers for trade (aduanas) Data.|[here](location/International/DANE)
 
