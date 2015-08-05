@@ -38,6 +38,9 @@ if __name__ == "__main__":
 
     h = Hierarchy(["country", "department", "msa", "municipality"])
     df = parent_code_table_to_parent_id_table(df, h)
+    df["name_es"] = df.name
+    df["name_short_en"] = df.name
+    df["name_short_es"] = df.name
 
     c = Classification(df, h)
 

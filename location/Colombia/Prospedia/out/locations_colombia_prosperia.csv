@@ -1,1219 +1,1219 @@
-"","code","level","name","parent_id"
-0,"COL","country","Colombia",""
-1,"05","department","Antioquia",""
-2,"08","department","Atlántico",""
-3,"11","department","Bogotá, D. C.",""
-4,"13","department","Bolívar",""
-5,"15","department","Boyacá",""
-6,"17","department","Caldas",""
-7,"18","department","Caquetá",""
-8,"19","department","Cauca",""
-9,"20","department","Cesar",""
-10,"23","department","Córdoba",""
-11,"25","department","Cundinamarca",""
-12,"27","department","Chocó",""
-13,"41","department","Huila",""
-14,"44","department","La Guajira",""
-15,"47","department","Magdalena",""
-16,"50","department","Meta",""
-17,"52","department","Nariño",""
-18,"54","department","Norte De Santander",""
-19,"63","department","Quindío",""
-20,"66","department","Risaralda",""
-21,"68","department","Santander",""
-22,"70","department","Sucre",""
-23,"73","department","Tolima",""
-24,"76","department","Valle Del Cauca",""
-25,"81","department","Arauca",""
-26,"85","department","Casanare",""
-27,"86","department","Putumayo",""
-28,"88","department","Archipiélago De San Andrés, Providencia Y ",""
-29,"91","department","Amazonas",""
-30,"94","department","Guainía",""
-31,"95","department","Guaviare",""
-32,"97","department","Vaupés",""
-33,"99","department","Vichada",""
-34,"050010","msa","Medellín Met",1.0
-35,"050450","msa","Apartadó",1.0
-36,"051540","msa","Caucasia",1.0
-37,"051720","msa","Chigorodó",1.0
-38,"056150","msa","Rionegro Met",1.0
-39,"058370","msa","Turbo",1.0
-40,"080010","msa","Barranquilla Met",127.0
-41,"110010","msa","Bogotá Met",151.0
-42,"130010","msa","Cartagena Met",153.0
-43,"132440","msa","El Carmen de Bolívar",153.0
-44,"134300","msa","Magangué",153.0
-45,"150010","msa","Tunja Met",200.0
-46,"151760","msa","Chiquinquirá",200.0
-47,"152380","msa","Duitama Met",200.0
-48,"157590","msa","Sogamoso Met",200.0
-49,"170010","msa","Manizales Met",324.0
-50,"173800","msa","La Dorada",324.0
-51,"180010","msa","Florencia",352.0
-52,"190010","msa","Popayán",369.0
-53,"196980","msa","Santander de Quilichao",369.0
-54,"200010","msa","Valledupar",412.0
-55,"200110","msa","Aguachica",412.0
-56,"230010","msa","Montería",438.0
-57,"231620","msa","Cereté",438.0
-58,"234170","msa","Lorica",438.0
-59,"234660","msa","Montelíbano",438.0
-60,"252900","msa","Fusagasugá",469.0
-61,"253070","msa","Girardot Met",469.0
-62,"270010","msa","Quibdó",586.0
-63,"410010","msa","Neiva",617.0
-64,"415510","msa","Pitalito",617.0
-65,"440010","msa","Riohacha",655.0
-66,"444300","msa","Maicao",655.0
-67,"470010","msa","Santa Marta",671.0
-68,"471890","msa","Ciénaga",671.0
-69,"472880","msa","Fundación",671.0
-70,"500010","msa","Villavicencio Met",702.0
-71,"500060","msa","Acacías",702.0
-72,"503130","msa","Granada",702.0
-73,"520010","msa","Pasto Met",732.0
-74,"523560","msa","Ipiales Met",732.0
-75,"528350","msa","San Andres de Tumaco",732.0
-76,"540010","msa","Cúcuta Met",797.0
-77,"544980","msa","Ocaña",797.0
-78,"545180","msa","Pamplona",797.0
-79,"630010","msa","Armenia Met",838.0
-80,"660010","msa","Pereira Met",851.0
-81,"680010","msa","Bucaramanga Met",866.0
-82,"680810","msa","Barrancabermeja",866.0
-83,"700010","msa","Sincelejo",954.0
-84,"702150","msa","Corozal",954.0
-85,"730010","msa","Ibagué",981.0
-86,"732680","msa","Espinal",981.0
-87,"760010","msa","Cali Met",1029.0
-88,"761090","msa","Buenaventura",1029.0
-89,"761110","msa","Guadalajara de Buga",1029.0
-90,"761470","msa","Cartago",1029.0
-91,"765200","msa","Palmira",1029.0
-92,"768340","msa","Tuluá Met",1029.0
-93,"810010","msa","Arauca",1072.0
-94,"850010","msa","Yopal",1080.0
-95,"880010","msa","San Andrés",1114.0
-96,"05001","municipality","Medellín",1.0
-97,"05002","municipality","Abejorral",1.0
-98,"05004","municipality","Abriaquí",1.0
-99,"05021","municipality","Alejandría",1.0
-100,"05030","municipality","Amagá",1.0
-101,"05031","municipality","Amalfi",1.0
-102,"05034","municipality","Andes",1.0
-103,"05036","municipality","Angelópolis",1.0
-104,"05038","municipality","Angostura",1.0
-105,"05040","municipality","Anorí",1.0
-106,"05042","municipality","Santa Fé De Antioquia",1.0
-107,"05044","municipality","Anzá",1.0
-108,"05045","municipality","Apartadó",1.0
-109,"05051","municipality","Arboletes",1.0
-110,"05055","municipality","Argelia",1.0
-111,"05059","municipality","Armenia",1.0
-112,"05079","municipality","Barbosa",1.0
-113,"05086","municipality","Belmira",1.0
-114,"05088","municipality","Bello",1.0
-115,"05091","municipality","Betania",1.0
-116,"05093","municipality","Betulia",1.0
-117,"05101","municipality","Ciudad Bolívar",1.0
-118,"05107","municipality","Briceño",1.0
-119,"05113","municipality","Buriticá",1.0
-120,"05120","municipality","Cáceres",1.0
-121,"05125","municipality","Caicedo",1.0
-122,"05129","municipality","Caldas",1.0
-123,"05134","municipality","Campamento",1.0
-124,"05138","municipality","Cañasgordas",1.0
-125,"05142","municipality","Caracolí",1.0
-126,"05145","municipality","Caramanta",1.0
-127,"05147","municipality","Carepa",1.0
-128,"05148","municipality","El Carmen De Viboral",1.0
-129,"05150","municipality","Carolina",1.0
-130,"05154","municipality","Caucasia",1.0
-131,"05172","municipality","Chigorodó",1.0
-132,"05190","municipality","Cisneros",1.0
-133,"05197","municipality","Cocorná",1.0
-134,"05206","municipality","Concepción",1.0
-135,"05209","municipality","Concordia",1.0
-136,"05212","municipality","Copacabana",1.0
-137,"05234","municipality","Dabeiba",1.0
-138,"05237","municipality","Donmatías",1.0
-139,"05240","municipality","Ebéjico",1.0
-140,"05250","municipality","El Bagre",1.0
-141,"05264","municipality","Entrerríos",1.0
-142,"05266","municipality","Envigado",1.0
-143,"05282","municipality","Fredonia",1.0
-144,"05284","municipality","Frontino",1.0
-145,"05306","municipality","Giraldo",1.0
-146,"05308","municipality","Girardota",1.0
-147,"05310","municipality","Gómez Plata",1.0
-148,"05313","municipality","Granada",1.0
-149,"05315","municipality","Guadalupe",1.0
-150,"05318","municipality","Guarne",1.0
-151,"05321","municipality","Guatapé",1.0
-152,"05347","municipality","Heliconia",1.0
-153,"05353","municipality","Hispania",1.0
-154,"05360","municipality","Itagüí",1.0
-155,"05361","municipality","Ituango",1.0
-156,"05364","municipality","Jardín",1.0
-157,"05368","municipality","Jericó",1.0
-158,"05376","municipality","La Ceja",1.0
-159,"05380","municipality","La Estrella",1.0
-160,"05390","municipality","La Pintada",1.0
-161,"05400","municipality","La Unión",1.0
-162,"05411","municipality","Liborina",1.0
-163,"05425","municipality","Maceo",1.0
-164,"05440","municipality","Marinilla",1.0
-165,"05467","municipality","Montebello",1.0
-166,"05475","municipality","Murindó",1.0
-167,"05480","municipality","Mutatá",1.0
-168,"05483","municipality","Nariño",1.0
-169,"05490","municipality","Necoclí",1.0
-170,"05495","municipality","Nechí",1.0
-171,"05501","municipality","Olaya",1.0
-172,"05541","municipality","Peñol",1.0
-173,"05543","municipality","Peque",1.0
-174,"05576","municipality","Pueblorrico",1.0
-175,"05579","municipality","Puerto Berrío",1.0
-176,"05585","municipality","Puerto Nare",1.0
-177,"05591","municipality","Puerto Triunfo",1.0
-178,"05604","municipality","Remedios",1.0
-179,"05607","municipality","Retiro",1.0
-180,"05615","municipality","Rionegro",1.0
-181,"05628","municipality","Sabanalarga",1.0
-182,"05631","municipality","Sabaneta",1.0
-183,"05642","municipality","Salgar",1.0
-184,"05647","municipality","San Andrés De Cuerquía",1.0
-185,"05649","municipality","San Carlos",1.0
-186,"05652","municipality","San Francisco",1.0
-187,"05656","municipality","San Jerónimo",1.0
-188,"05658","municipality","San José De La Montaña",1.0
-189,"05659","municipality","San Juan De Urabá",1.0
-190,"05660","municipality","San Luis",1.0
-191,"05664","municipality","San Pedro De Los Milagros",1.0
-192,"05665","municipality","San Pedro De Urabá",1.0
-193,"05667","municipality","San Rafael",1.0
-194,"05670","municipality","San Roque",1.0
-195,"05674","municipality","San Vicente Ferrer",1.0
-196,"05679","municipality","Santa Bárbara",1.0
-197,"05686","municipality","Santa Rosa De Osos",1.0
-198,"05690","municipality","Santo Domingo",1.0
-199,"05697","municipality","El Santuario",1.0
-200,"05736","municipality","Segovia",1.0
-201,"05756","municipality","Sonsón",1.0
-202,"05761","municipality","Sopetrán",1.0
-203,"05789","municipality","Támesis",1.0
-204,"05790","municipality","Tarazá",1.0
-205,"05792","municipality","Tarso",1.0
-206,"05809","municipality","Titiribí",1.0
-207,"05819","municipality","Toledo",1.0
-208,"05837","municipality","Turbo",1.0
-209,"05842","municipality","Uramita",1.0
-210,"05847","municipality","Urrao",1.0
-211,"05854","municipality","Valdivia",1.0
-212,"05856","municipality","Valparaíso",1.0
-213,"05858","municipality","Vegachí",1.0
-214,"05861","municipality","Venecia",1.0
-215,"05873","municipality","Vigía Del Fuerte",1.0
-216,"05885","municipality","Yalí",1.0
-217,"05887","municipality","Yarumal",1.0
-218,"05890","municipality","Yolombó",1.0
-219,"05893","municipality","Yondó",1.0
-220,"05895","municipality","Zaragoza",1.0
-221,"08001","municipality","Barranquilla",127.0
-222,"08078","municipality","Baranoa",127.0
-223,"08137","municipality","Campo De La Cruz",127.0
-224,"08141","municipality","Candelaria",127.0
-225,"08296","municipality","Galapa",127.0
-226,"08372","municipality","Juan De Acosta",127.0
-227,"08421","municipality","Luruaco",127.0
-228,"08433","municipality","Malambo",127.0
-229,"08436","municipality","Manatí",127.0
-230,"08520","municipality","Palmar De Varela",127.0
-231,"08549","municipality","Piojó",127.0
-232,"08558","municipality","Polonuevo",127.0
-233,"08560","municipality","Ponedera",127.0
-234,"08573","municipality","Puerto Colombia",127.0
-235,"08606","municipality","Repelón",127.0
-236,"08634","municipality","Sabanagrande",127.0
-237,"08638","municipality","Sabanalarga",127.0
-238,"08675","municipality","Santa Lucía",127.0
-239,"08685","municipality","Santo Tomás",127.0
-240,"08758","municipality","Soledad",127.0
-241,"08770","municipality","Suan",127.0
-242,"08832","municipality","Tubará",127.0
-243,"08849","municipality","Usiacurí",127.0
-244,"11001","municipality","Bogotá, D.C.",151.0
-245,"13001","municipality","Cartagena De Indias",153.0
-246,"13006","municipality","Achí",153.0
-247,"13030","municipality","Altos Del Rosario",153.0
-248,"13042","municipality","Arenal",153.0
-249,"13052","municipality","Arjona",153.0
-250,"13062","municipality","Arroyohondo",153.0
-251,"13074","municipality","Barranco De Loba",153.0
-252,"13140","municipality","Calamar",153.0
-253,"13160","municipality","Cantagallo",153.0
-254,"13188","municipality","Cicuco",153.0
-255,"13212","municipality","Córdoba",153.0
-256,"13222","municipality","Clemencia",153.0
-257,"13244","municipality","El Carmen De Bolívar",153.0
-258,"13248","municipality","El Guamo",153.0
-259,"13268","municipality","El Peñón",153.0
-260,"13300","municipality","Hatillo De Loba",153.0
-261,"13430","municipality","Magangué",153.0
-262,"13433","municipality","Mahates",153.0
-263,"13440","municipality","Margarita",153.0
-264,"13442","municipality","María La Baja",153.0
-265,"13458","municipality","Montecristo",153.0
-266,"13468","municipality","Mompós",153.0
-267,"13473","municipality","Morales",153.0
-268,"13490","municipality","Norosí",153.0
-269,"13549","municipality","Pinillos",153.0
-270,"13580","municipality","Regidor",153.0
-271,"13600","municipality","Río Viejo",153.0
-272,"13620","municipality","San Cristóbal",153.0
-273,"13647","municipality","San Estanislao",153.0
-274,"13650","municipality","San Fernando",153.0
-275,"13654","municipality","San Jacinto",153.0
-276,"13655","municipality","San Jacinto Del Cauca",153.0
-277,"13657","municipality","San Juan Nepomuceno",153.0
-278,"13667","municipality","San Martín De Loba",153.0
-279,"13670","municipality","San Pablo",153.0
-280,"13673","municipality","Santa Catalina",153.0
-281,"13683","municipality","Santa Rosa",153.0
-282,"13688","municipality","Santa Rosa Del Sur",153.0
-283,"13744","municipality","Simití",153.0
-284,"13760","municipality","Soplaviento",153.0
-285,"13780","municipality","Talaigua Nuevo",153.0
-286,"13810","municipality","Tiquisio",153.0
-287,"13836","municipality","Turbaco",153.0
-288,"13838","municipality","Turbaná",153.0
-289,"13873","municipality","Villanueva",153.0
-290,"13894","municipality","Zambrano",153.0
-291,"15001","municipality","Tunja",200.0
-292,"15022","municipality","Almeida",200.0
-293,"15047","municipality","Aquitania",200.0
-294,"15051","municipality","Arcabuco",200.0
-295,"15087","municipality","Belén",200.0
-296,"15090","municipality","Berbeo",200.0
-297,"15092","municipality","Betéitiva",200.0
-298,"15097","municipality","Boavita",200.0
-299,"15104","municipality","Boyacá",200.0
-300,"15106","municipality","Briceño",200.0
-301,"15109","municipality","Buenavista",200.0
-302,"15114","municipality","Busbanzá",200.0
-303,"15131","municipality","Caldas",200.0
-304,"15135","municipality","Campohermoso",200.0
-305,"15162","municipality","Cerinza",200.0
-306,"15172","municipality","Chinavita",200.0
-307,"15176","municipality","Chiquinquirá",200.0
-308,"15180","municipality","Chiscas",200.0
-309,"15183","municipality","Chita",200.0
-310,"15185","municipality","Chitaraque",200.0
-311,"15187","municipality","Chivatá",200.0
-312,"15189","municipality","Ciénega",200.0
-313,"15204","municipality","Cómbita",200.0
-314,"15212","municipality","Coper",200.0
-315,"15215","municipality","Corrales",200.0
-316,"15218","municipality","Covarachía",200.0
-317,"15223","municipality","Cubará",200.0
-318,"15224","municipality","Cucaita",200.0
-319,"15226","municipality","Cuítiva",200.0
-320,"15232","municipality","Chíquiza",200.0
-321,"15236","municipality","Chivor",200.0
-322,"15238","municipality","Duitama",200.0
-323,"15244","municipality","El Cocuy",200.0
-324,"15248","municipality","El Espino",200.0
-325,"15272","municipality","Firavitoba",200.0
-326,"15276","municipality","Floresta",200.0
-327,"15293","municipality","Gachantivá",200.0
-328,"15296","municipality","Gámeza",200.0
-329,"15299","municipality","Garagoa",200.0
-330,"15317","municipality","Guacamayas",200.0
-331,"15322","municipality","Guateque",200.0
-332,"15325","municipality","Guayatá",200.0
-333,"15332","municipality","Güicán De La Sierra",200.0
-334,"15362","municipality","Iza",200.0
-335,"15367","municipality","Jenesano",200.0
-336,"15368","municipality","Jericó",200.0
-337,"15377","municipality","Labranzagrande",200.0
-338,"15380","municipality","La Capilla",200.0
-339,"15401","municipality","La Victoria",200.0
-340,"15403","municipality","La Uvita",200.0
-341,"15407","municipality","Villa De Leyva",200.0
-342,"15425","municipality","Macanal",200.0
-343,"15442","municipality","Maripí",200.0
-344,"15455","municipality","Miraflores",200.0
-345,"15464","municipality","Mongua",200.0
-346,"15466","municipality","Monguí",200.0
-347,"15469","municipality","Moniquirá",200.0
-348,"15476","municipality","Motavita",200.0
-349,"15480","municipality","Muzo",200.0
-350,"15491","municipality","Nobsa",200.0
-351,"15494","municipality","Nuevo Colón",200.0
-352,"15500","municipality","Oicatá",200.0
-353,"15507","municipality","Otanche",200.0
-354,"15511","municipality","Pachavita",200.0
-355,"15514","municipality","Páez",200.0
-356,"15516","municipality","Paipa",200.0
-357,"15518","municipality","Pajarito",200.0
-358,"15522","municipality","Panqueba",200.0
-359,"15531","municipality","Pauna",200.0
-360,"15533","municipality","Paya",200.0
-361,"15537","municipality","Paz De Río",200.0
-362,"15542","municipality","Pesca",200.0
-363,"15550","municipality","Pisba",200.0
-364,"15572","municipality","Puerto Boyacá",200.0
-365,"15580","municipality","Quípama",200.0
-366,"15599","municipality","Ramiriquí",200.0
-367,"15600","municipality","Ráquira",200.0
-368,"15621","municipality","Rondón",200.0
-369,"15632","municipality","Saboyá",200.0
-370,"15638","municipality","Sáchica",200.0
-371,"15646","municipality","Samacá",200.0
-372,"15660","municipality","San Eduardo",200.0
-373,"15664","municipality","San José De Pare",200.0
-374,"15667","municipality","San Luis De Gaceno",200.0
-375,"15673","municipality","San Mateo",200.0
-376,"15676","municipality","San Miguel De Sema",200.0
-377,"15681","municipality","San Pablo De Borbur",200.0
-378,"15686","municipality","Santana",200.0
-379,"15690","municipality","Santa María",200.0
-380,"15693","municipality","Santa Rosa De Viterbo",200.0
-381,"15696","municipality","Santa Sofía",200.0
-382,"15720","municipality","Sativanorte",200.0
-383,"15723","municipality","Sativasur",200.0
-384,"15740","municipality","Siachoque",200.0
-385,"15753","municipality","Soatá",200.0
-386,"15755","municipality","Socotá",200.0
-387,"15757","municipality","Socha",200.0
-388,"15759","municipality","Sogamoso",200.0
-389,"15761","municipality","Somondoco",200.0
-390,"15762","municipality","Sora",200.0
-391,"15763","municipality","Sotaquirá",200.0
-392,"15764","municipality","Soracá",200.0
-393,"15774","municipality","Susacón",200.0
-394,"15776","municipality","Sutamarchán",200.0
-395,"15778","municipality","Sutatenza",200.0
-396,"15790","municipality","Tasco",200.0
-397,"15798","municipality","Tenza",200.0
-398,"15804","municipality","Tibaná",200.0
-399,"15806","municipality","Tibasosa",200.0
-400,"15808","municipality","Tinjacá",200.0
-401,"15810","municipality","Tipacoque",200.0
-402,"15814","municipality","Toca",200.0
-403,"15816","municipality","Togüí",200.0
-404,"15820","municipality","Tópaga",200.0
-405,"15822","municipality","Tota",200.0
-406,"15832","municipality","Tununguá",200.0
-407,"15835","municipality","Turmequé",200.0
-408,"15837","municipality","Tuta",200.0
-409,"15839","municipality","Tutazá",200.0
-410,"15842","municipality","Úmbita",200.0
-411,"15861","municipality","Ventaquemada",200.0
-412,"15879","municipality","Viracachá",200.0
-413,"15897","municipality","Zetaquira",200.0
-414,"17001","municipality","Manizales",324.0
-415,"17013","municipality","Aguadas",324.0
-416,"17042","municipality","Anserma",324.0
-417,"17050","municipality","Aranzazu",324.0
-418,"17088","municipality","Belalcázar",324.0
-419,"17174","municipality","Chinchiná",324.0
-420,"17272","municipality","Filadelfia",324.0
-421,"17380","municipality","La Dorada",324.0
-422,"17388","municipality","La Merced",324.0
-423,"17433","municipality","Manzanares",324.0
-424,"17442","municipality","Marmato",324.0
-425,"17444","municipality","Marquetalia",324.0
-426,"17446","municipality","Marulanda",324.0
-427,"17486","municipality","Neira",324.0
-428,"17495","municipality","Norcasia",324.0
-429,"17513","municipality","Pácora",324.0
-430,"17524","municipality","Palestina",324.0
-431,"17541","municipality","Pensilvania",324.0
-432,"17614","municipality","Riosucio",324.0
-433,"17616","municipality","Risaralda",324.0
-434,"17653","municipality","Salamina",324.0
-435,"17662","municipality","Samaná",324.0
-436,"17665","municipality","San José",324.0
-437,"17777","municipality","Supía",324.0
-438,"17867","municipality","Victoria",324.0
-439,"17873","municipality","Villamaría",324.0
-440,"17877","municipality","Viterbo",324.0
-441,"18001","municipality","Florencia",352.0
-442,"18029","municipality","Albania",352.0
-443,"18094","municipality","Belén De Los Andaquíes",352.0
-444,"18150","municipality","Cartagena Del Chairá",352.0
-445,"18205","municipality","Curillo",352.0
-446,"18247","municipality","El Doncello",352.0
-447,"18256","municipality","El Paujíl",352.0
-448,"18410","municipality","La Montañita",352.0
-449,"18460","municipality","Milán",352.0
-450,"18479","municipality","Morelia",352.0
-451,"18592","municipality","Puerto Rico",352.0
-452,"18610","municipality","San José Del Fragua",352.0
-453,"18753","municipality","San Vicente Del Caguán",352.0
-454,"18756","municipality","Solano",352.0
-455,"18785","municipality","Solita",352.0
-456,"18860","municipality","Valparaíso",352.0
-457,"19001","municipality","Popayán",369.0
-458,"19022","municipality","Almaguer",369.0
-459,"19050","municipality","Argelia",369.0
-460,"19075","municipality","Balboa",369.0
-461,"19100","municipality","Bolívar",369.0
-462,"19110","municipality","Buenos Aires",369.0
-463,"19130","municipality","Cajibío",369.0
-464,"19137","municipality","Caldono",369.0
-465,"19142","municipality","Caloto",369.0
-466,"19212","municipality","Corinto",369.0
-467,"19256","municipality","El Tambo",369.0
-468,"19290","municipality","Florencia",369.0
-469,"19300","municipality","Guachené",369.0
-470,"19318","municipality","Guapí",369.0
-471,"19355","municipality","Inzá",369.0
-472,"19364","municipality","Jambaló",369.0
-473,"19392","municipality","La Sierra",369.0
-474,"19397","municipality","La Vega",369.0
-475,"19418","municipality","López De Micay",369.0
-476,"19450","municipality","Mercaderes",369.0
-477,"19455","municipality","Miranda",369.0
-478,"19473","municipality","Morales",369.0
-479,"19513","municipality","Padilla",369.0
-480,"19517","municipality","Páez",369.0
-481,"19532","municipality","Patía",369.0
-482,"19533","municipality","Piamonte",369.0
-483,"19548","municipality","Piendamó",369.0
-484,"19573","municipality","Puerto Tejada",369.0
-485,"19585","municipality","Puracé",369.0
-486,"19622","municipality","Rosas",369.0
-487,"19693","municipality","San Sebastián",369.0
-488,"19698","municipality","Santander De Quilichao",369.0
-489,"19701","municipality","Santa Rosa",369.0
-490,"19743","municipality","Silvia",369.0
-491,"19760","municipality","Sotara",369.0
-492,"19780","municipality","Suárez",369.0
-493,"19785","municipality","Sucre",369.0
-494,"19807","municipality","Timbío",369.0
-495,"19809","municipality","Timbiquí",369.0
-496,"19821","municipality","Toribío",369.0
-497,"19824","municipality","Totoró",369.0
-498,"19845","municipality","Villa Rica",369.0
-499,"20001","municipality","Valledupar",412.0
-500,"20011","municipality","Aguachica",412.0
-501,"20013","municipality","Agustín Codazzi",412.0
-502,"20032","municipality","Astrea",412.0
-503,"20045","municipality","Becerril",412.0
-504,"20060","municipality","Bosconia",412.0
-505,"20175","municipality","Chimichagua",412.0
-506,"20178","municipality","Chiriguaná",412.0
-507,"20228","municipality","Curumaní",412.0
-508,"20238","municipality","El Copey",412.0
-509,"20250","municipality","El Paso",412.0
-510,"20295","municipality","Gamarra",412.0
-511,"20310","municipality","González",412.0
-512,"20383","municipality","La Gloria",412.0
-513,"20400","municipality","La Jagua De Ibirico",412.0
-514,"20443","municipality","Manaure Balcón Del Cesar",412.0
-515,"20517","municipality","Pailitas",412.0
-516,"20550","municipality","Pelaya",412.0
-517,"20570","municipality","Pueblo Bello",412.0
-518,"20614","municipality","Río De Oro",412.0
-519,"20621","municipality","La Paz",412.0
-520,"20710","municipality","San Alberto",412.0
-521,"20750","municipality","San Diego",412.0
-522,"20770","municipality","San Martín",412.0
-523,"20787","municipality","Tamalameque",412.0
-524,"23001","municipality","Montería",438.0
-525,"23068","municipality","Ayapel",438.0
-526,"23079","municipality","Buenavista",438.0
-527,"23090","municipality","Canalete",438.0
-528,"23162","municipality","Cereté",438.0
-529,"23168","municipality","Chimá",438.0
-530,"23182","municipality","Chinú",438.0
-531,"23189","municipality","Ciénaga De Oro",438.0
-532,"23300","municipality","Cotorra",438.0
-533,"23350","municipality","La Apartada",438.0
-534,"23417","municipality","Lorica",438.0
-535,"23419","municipality","Los Córdobas",438.0
-536,"23464","municipality","Momil",438.0
-537,"23466","municipality","Montelíbano",438.0
-538,"23500","municipality","Moñitos",438.0
-539,"23555","municipality","Planeta Rica",438.0
-540,"23570","municipality","Pueblo Nuevo",438.0
-541,"23574","municipality","Puerto Escondido",438.0
-542,"23580","municipality","Puerto Libertador",438.0
-543,"23586","municipality","Purísima De La Concepción",438.0
-544,"23660","municipality","Sahagún",438.0
-545,"23670","municipality","San Andrés De Sotavento",438.0
-546,"23672","municipality","San Antero",438.0
-547,"23675","municipality","San Bernardo Del Viento",438.0
-548,"23678","municipality","San Carlos",438.0
-549,"23682","municipality","San José De Uré",438.0
-550,"23686","municipality","San Pelayo",438.0
-551,"23807","municipality","Tierralta",438.0
-552,"23815","municipality","Tuchín",438.0
-553,"23855","municipality","Valencia",438.0
-554,"25001","municipality","Agua De Dios",469.0
-555,"25019","municipality","Albán",469.0
-556,"25035","municipality","Anapoima",469.0
-557,"25040","municipality","Anolaima",469.0
-558,"25053","municipality","Arbeláez",469.0
-559,"25086","municipality","Beltrán",469.0
-560,"25095","municipality","Bituima",469.0
-561,"25099","municipality","Bojacá",469.0
-562,"25120","municipality","Cabrera",469.0
-563,"25123","municipality","Cachipay",469.0
-564,"25126","municipality","Cajicá",469.0
-565,"25148","municipality","Caparrapí",469.0
-566,"25151","municipality","Cáqueza",469.0
-567,"25154","municipality","Carmen De Carupa",469.0
-568,"25168","municipality","Chaguaní",469.0
-569,"25175","municipality","Chía",469.0
-570,"25178","municipality","Chipaque",469.0
-571,"25181","municipality","Choachí",469.0
-572,"25183","municipality","Chocontá",469.0
-573,"25200","municipality","Cogua",469.0
-574,"25214","municipality","Cota",469.0
-575,"25224","municipality","Cucunubá",469.0
-576,"25245","municipality","El Colegio",469.0
-577,"25258","municipality","El Peñón",469.0
-578,"25260","municipality","El Rosal",469.0
-579,"25269","municipality","Facatativá",469.0
-580,"25279","municipality","Fómeque",469.0
-581,"25281","municipality","Fosca",469.0
-582,"25286","municipality","Funza",469.0
-583,"25288","municipality","Fúquene",469.0
-584,"25290","municipality","Fusagasugá",469.0
-585,"25293","municipality","Gachalá",469.0
-586,"25295","municipality","Gachancipá",469.0
-587,"25297","municipality","Gachetá",469.0
-588,"25299","municipality","Gama",469.0
-589,"25307","municipality","Girardot",469.0
-590,"25312","municipality","Granada",469.0
-591,"25317","municipality","Guachetá",469.0
-592,"25320","municipality","Guaduas",469.0
-593,"25322","municipality","Guasca",469.0
-594,"25324","municipality","Guataquí",469.0
-595,"25326","municipality","Guatavita",469.0
-596,"25328","municipality","Guayabal De Síquima",469.0
-597,"25335","municipality","Guayabetal",469.0
-598,"25339","municipality","Gutiérrez",469.0
-599,"25368","municipality","Jerusalén",469.0
-600,"25372","municipality","Junín",469.0
-601,"25377","municipality","La Calera",469.0
-602,"25386","municipality","La Mesa",469.0
-603,"25394","municipality","La Palma",469.0
-604,"25398","municipality","La Peña",469.0
-605,"25402","municipality","La Vega",469.0
-606,"25407","municipality","Lenguazaque",469.0
-607,"25426","municipality","Machetá",469.0
-608,"25430","municipality","Madrid",469.0
-609,"25436","municipality","Manta",469.0
-610,"25438","municipality","Medina",469.0
-611,"25473","municipality","Mosquera",469.0
-612,"25483","municipality","Nariño",469.0
-613,"25486","municipality","Nemocón",469.0
-614,"25488","municipality","Nilo",469.0
-615,"25489","municipality","Nimaima",469.0
-616,"25491","municipality","Nocaima",469.0
-617,"25506","municipality","Venecia",469.0
-618,"25513","municipality","Pacho",469.0
-619,"25518","municipality","Paime",469.0
-620,"25524","municipality","Pandi",469.0
-621,"25530","municipality","Paratebueno",469.0
-622,"25535","municipality","Pasca",469.0
-623,"25572","municipality","Puerto Salgar",469.0
-624,"25580","municipality","Pulí",469.0
-625,"25592","municipality","Quebradanegra",469.0
-626,"25594","municipality","Quetame",469.0
-627,"25596","municipality","Quipile",469.0
-628,"25599","municipality","Apulo",469.0
-629,"25612","municipality","Ricaurte",469.0
-630,"25645","municipality","San Antonio Del Tequendama",469.0
-631,"25649","municipality","San Bernardo",469.0
-632,"25653","municipality","San Cayetano",469.0
-633,"25658","municipality","San Francisco",469.0
-634,"25662","municipality","San Juan De Rioseco",469.0
-635,"25718","municipality","Sasaima",469.0
-636,"25736","municipality","Sesquilé",469.0
-637,"25740","municipality","Sibaté",469.0
-638,"25743","municipality","Silvania",469.0
-639,"25745","municipality","Simijaca",469.0
-640,"25754","municipality","Soacha",469.0
-641,"25758","municipality","Sopó",469.0
-642,"25769","municipality","Subachoque",469.0
-643,"25772","municipality","Suesca",469.0
-644,"25777","municipality","Supatá",469.0
-645,"25779","municipality","Susa",469.0
-646,"25781","municipality","Sutatausa",469.0
-647,"25785","municipality","Tabio",469.0
-648,"25793","municipality","Tausa",469.0
-649,"25797","municipality","Tena",469.0
-650,"25799","municipality","Tenjo",469.0
-651,"25805","municipality","Tibacuy",469.0
-652,"25807","municipality","Tibirita",469.0
-653,"25815","municipality","Tocaima",469.0
-654,"25817","municipality","Tocancipá",469.0
-655,"25823","municipality","Topaipí",469.0
-656,"25839","municipality","Ubalá",469.0
-657,"25841","municipality","Ubaque",469.0
-658,"25843","municipality","Villa De San Diego De Ubaté",469.0
-659,"25845","municipality","Une",469.0
-660,"25851","municipality","Útica",469.0
-661,"25862","municipality","Vergara",469.0
-662,"25867","municipality","Vianí",469.0
-663,"25871","municipality","Villagómez",469.0
-664,"25873","municipality","Villapinzón",469.0
-665,"25875","municipality","Villeta",469.0
-666,"25878","municipality","Viotá",469.0
-667,"25885","municipality","Yacopí",469.0
-668,"25898","municipality","Zipacón",469.0
-669,"25899","municipality","Zipaquirá",469.0
-670,"27001","municipality","Quibdó",586.0
-671,"27006","municipality","Acandí",586.0
-672,"27025","municipality","Alto Baudó",586.0
-673,"27050","municipality","Atrato",586.0
-674,"27073","municipality","Bagadó",586.0
-675,"27075","municipality","Bahía Solano",586.0
-676,"27077","municipality","Bajo Baudó",586.0
-677,"27099","municipality","Bojayá",586.0
-678,"27135","municipality","El Cantón Del San Pablo",586.0
-679,"27150","municipality","Carmen Del Darién",586.0
-680,"27160","municipality","Cértegui",586.0
-681,"27205","municipality","Condoto",586.0
-682,"27245","municipality","El Carmen De Atrato",586.0
-683,"27250","municipality","El Litoral Del San Juan",586.0
-684,"27361","municipality","Istmina",586.0
-685,"27372","municipality","Juradó",586.0
-686,"27413","municipality","Lloró",586.0
-687,"27425","municipality","Medio Atrato",586.0
-688,"27430","municipality","Medio Baudó",586.0
-689,"27450","municipality","Medio San Juan",586.0
-690,"27491","municipality","Nóvita",586.0
-691,"27495","municipality","Nuquí",586.0
-692,"27580","municipality","Río Iró",586.0
-693,"27600","municipality","Río Quito",586.0
-694,"27615","municipality","Riosucio",586.0
-695,"27660","municipality","San José Del Palmar",586.0
-696,"27745","municipality","Sipí",586.0
-697,"27787","municipality","Tadó",586.0
-698,"27800","municipality","Unguía",586.0
-699,"27810","municipality","Unión Panamericana",586.0
-700,"41001","municipality","Neiva",617.0
-701,"41006","municipality","Acevedo",617.0
-702,"41013","municipality","Agrado",617.0
-703,"41016","municipality","Aipe",617.0
-704,"41020","municipality","Algeciras",617.0
-705,"41026","municipality","Altamira",617.0
-706,"41078","municipality","Baraya",617.0
-707,"41132","municipality","Campoalegre",617.0
-708,"41206","municipality","Colombia",617.0
-709,"41244","municipality","Elías",617.0
-710,"41298","municipality","Garzón",617.0
-711,"41306","municipality","Gigante",617.0
-712,"41319","municipality","Guadalupe",617.0
-713,"41349","municipality","Hobo",617.0
-714,"41357","municipality","Íquira",617.0
-715,"41359","municipality","Isnos",617.0
-716,"41378","municipality","La Argentina",617.0
-717,"41396","municipality","La Plata",617.0
-718,"41483","municipality","Nátaga",617.0
-719,"41503","municipality","Oporapa",617.0
-720,"41518","municipality","Paicol",617.0
-721,"41524","municipality","Palermo",617.0
-722,"41530","municipality","Palestina",617.0
-723,"41548","municipality","Pital",617.0
-724,"41551","municipality","Pitalito",617.0
-725,"41615","municipality","Rivera",617.0
-726,"41660","municipality","Saladoblanco",617.0
-727,"41668","municipality","San Agustín",617.0
-728,"41676","municipality","Santa María",617.0
-729,"41770","municipality","Suaza",617.0
-730,"41791","municipality","Tarqui",617.0
-731,"41797","municipality","Tesalia",617.0
-732,"41799","municipality","Tello",617.0
-733,"41801","municipality","Teruel",617.0
-734,"41807","municipality","Timaná",617.0
-735,"41872","municipality","Villavieja",617.0
-736,"41885","municipality","Yaguará",617.0
-737,"44001","municipality","Riohacha",655.0
-738,"44035","municipality","Albania",655.0
-739,"44078","municipality","Barrancas",655.0
-740,"44090","municipality","Dibulla",655.0
-741,"44098","municipality","Distracción",655.0
-742,"44110","municipality","El Molino",655.0
-743,"44279","municipality","Fonseca",655.0
-744,"44378","municipality","Hatonuevo",655.0
-745,"44420","municipality","La Jagua Del Pilar",655.0
-746,"44430","municipality","Maicao",655.0
-747,"44560","municipality","Manaure",655.0
-748,"44650","municipality","San Juan Del Cesar",655.0
-749,"44847","municipality","Uribia",655.0
-750,"44855","municipality","Urumita",655.0
-751,"44874","municipality","Villanueva",655.0
-752,"47001","municipality","Santa Marta",671.0
-753,"47030","municipality","Algarrobo",671.0
-754,"47053","municipality","Aracataca",671.0
-755,"47058","municipality","Ariguaní",671.0
-756,"47161","municipality","Cerro De San Antonio",671.0
-757,"47170","municipality","Chivolo",671.0
-758,"47189","municipality","Ciénaga",671.0
-759,"47205","municipality","Concordia",671.0
-760,"47245","municipality","El Banco",671.0
-761,"47258","municipality","El Piñón",671.0
-762,"47268","municipality","El Retén",671.0
-763,"47288","municipality","Fundación",671.0
-764,"47318","municipality","Guamal",671.0
-765,"47460","municipality","Nueva Granada",671.0
-766,"47541","municipality","Pedraza",671.0
-767,"47545","municipality","Pijiño Del Carmen",671.0
-768,"47551","municipality","Pivijay",671.0
-769,"47555","municipality","Plato",671.0
-770,"47570","municipality","Puebloviejo",671.0
-771,"47605","municipality","Remolino",671.0
-772,"47660","municipality","Sabanas De San Ángel",671.0
-773,"47675","municipality","Salamina",671.0
-774,"47692","municipality","San Sebastián De Buenavista",671.0
-775,"47703","municipality","San Zenón",671.0
-776,"47707","municipality","Santa Ana",671.0
-777,"47720","municipality","Santa Bárbara De Pinto",671.0
-778,"47745","municipality","Sitionuevo",671.0
-779,"47798","municipality","Tenerife",671.0
-780,"47960","municipality","Zapayán",671.0
-781,"47980","municipality","Zona Bananera",671.0
-782,"50001","municipality","Villavicencio",702.0
-783,"50006","municipality","Acacías",702.0
-784,"50110","municipality","Barranca De Upía",702.0
-785,"50124","municipality","Cabuyaro",702.0
-786,"50150","municipality","Castilla La Nueva",702.0
-787,"50223","municipality","Cubarral",702.0
-788,"50226","municipality","Cumaral",702.0
-789,"50245","municipality","El Calvario",702.0
-790,"50251","municipality","El Castillo",702.0
-791,"50270","municipality","El Dorado",702.0
-792,"50287","municipality","Fuente De Oro",702.0
-793,"50313","municipality","Granada",702.0
-794,"50318","municipality","Guamal",702.0
-795,"50325","municipality","Mapiripán",702.0
-796,"50330","municipality","Mesetas",702.0
-797,"50350","municipality","La Macarena",702.0
-798,"50370","municipality","Uribe",702.0
-799,"50400","municipality","Lejanías",702.0
-800,"50450","municipality","Puerto Concordia",702.0
-801,"50568","municipality","Puerto Gaitán",702.0
-802,"50573","municipality","Puerto López",702.0
-803,"50577","municipality","Puerto Lleras",702.0
-804,"50590","municipality","Puerto Rico",702.0
-805,"50606","municipality","Restrepo",702.0
-806,"50680","municipality","San Carlos De Guaroa",702.0
-807,"50683","municipality","San Juan De Arama",702.0
-808,"50686","municipality","San Juanito",702.0
-809,"50689","municipality","San Martín",702.0
-810,"50711","municipality","Vistahermosa",702.0
-811,"52001","municipality","Pasto",732.0
-812,"52019","municipality","Albán",732.0
-813,"52022","municipality","Aldana",732.0
-814,"52036","municipality","Ancuyá",732.0
-815,"52051","municipality","Arboleda",732.0
-816,"52079","municipality","Barbacoas",732.0
-817,"52083","municipality","Belén",732.0
-818,"52110","municipality","Buesaco",732.0
-819,"52203","municipality","Colón",732.0
-820,"52207","municipality","Consacá",732.0
-821,"52210","municipality","Contadero",732.0
-822,"52215","municipality","Córdoba",732.0
-823,"52224","municipality","Cuaspúd",732.0
-824,"52227","municipality","Cumbal",732.0
-825,"52233","municipality","Cumbitara",732.0
-826,"52240","municipality","Chachagüí",732.0
-827,"52250","municipality","El Charco",732.0
-828,"52254","municipality","El Peñol",732.0
-829,"52256","municipality","El Rosario",732.0
-830,"52258","municipality","El Tablón De Gómez",732.0
-831,"52260","municipality","El Tambo",732.0
-832,"52287","municipality","Funes",732.0
-833,"52317","municipality","Guachucal",732.0
-834,"52320","municipality","Guaitarilla",732.0
-835,"52323","municipality","Gualmatán",732.0
-836,"52352","municipality","Iles",732.0
-837,"52354","municipality","Imués",732.0
-838,"52356","municipality","Ipiales",732.0
-839,"52378","municipality","La Cruz",732.0
-840,"52381","municipality","La Florida",732.0
-841,"52385","municipality","La Llanada",732.0
-842,"52390","municipality","La Tola",732.0
-843,"52399","municipality","La Unión",732.0
-844,"52405","municipality","Leiva",732.0
-845,"52411","municipality","Linares",732.0
-846,"52418","municipality","Los Andes",732.0
-847,"52427","municipality","Magüí",732.0
-848,"52435","municipality","Mallama",732.0
-849,"52473","municipality","Mosquera",732.0
-850,"52480","municipality","Nariño",732.0
-851,"52490","municipality","Olaya Herrera",732.0
-852,"52506","municipality","Ospina",732.0
-853,"52520","municipality","Francisco Pizarro",732.0
-854,"52540","municipality","Policarpa",732.0
-855,"52560","municipality","Potosí",732.0
-856,"52565","municipality","Providencia",732.0
-857,"52573","municipality","Puerres",732.0
-858,"52585","municipality","Pupiales",732.0
-859,"52612","municipality","Ricaurte",732.0
-860,"52621","municipality","Roberto Payán",732.0
-861,"52678","municipality","Samaniego",732.0
-862,"52683","municipality","Sandoná",732.0
-863,"52685","municipality","San Bernardo",732.0
-864,"52687","municipality","San Lorenzo",732.0
-865,"52693","municipality","San Pablo",732.0
-866,"52694","municipality","San Pedro De Cartago",732.0
-867,"52696","municipality","Santa Bárbara",732.0
-868,"52699","municipality","Santacruz",732.0
-869,"52720","municipality","Sapuyes",732.0
-870,"52786","municipality","Taminango",732.0
-871,"52788","municipality","Tangua",732.0
-872,"52835","municipality","San Andrés De Tumaco",732.0
-873,"52838","municipality","Túquerres",732.0
-874,"52885","municipality","Yacuanquer",732.0
-875,"54001","municipality","Cúcuta",797.0
-876,"54003","municipality","Ábrego",797.0
-877,"54051","municipality","Arboledas",797.0
-878,"54099","municipality","Bochalema",797.0
-879,"54109","municipality","Bucarasica",797.0
-880,"54125","municipality","Cácota",797.0
-881,"54128","municipality","Cáchira",797.0
-882,"54172","municipality","Chinácota",797.0
-883,"54174","municipality","Chitagá",797.0
-884,"54206","municipality","Convención",797.0
-885,"54223","municipality","Cucutilla",797.0
-886,"54239","municipality","Durania",797.0
-887,"54245","municipality","El Carmen",797.0
-888,"54250","municipality","El Tarra",797.0
-889,"54261","municipality","El Zulia",797.0
-890,"54313","municipality","Gramalote",797.0
-891,"54344","municipality","Hacarí",797.0
-892,"54347","municipality","Herrán",797.0
-893,"54377","municipality","Labateca",797.0
-894,"54385","municipality","La Esperanza",797.0
-895,"54398","municipality","La Playa",797.0
-896,"54405","municipality","Los Patios",797.0
-897,"54418","municipality","Lourdes",797.0
-898,"54480","municipality","Mutiscua",797.0
-899,"54498","municipality","Ocaña",797.0
-900,"54518","municipality","Pamplona",797.0
-901,"54520","municipality","Pamplonita",797.0
-902,"54553","municipality","Puerto Santander",797.0
-903,"54599","municipality","Ragonvalia",797.0
-904,"54660","municipality","Salazar",797.0
-905,"54670","municipality","San Calixto",797.0
-906,"54673","municipality","San Cayetano",797.0
-907,"54680","municipality","Santiago",797.0
-908,"54720","municipality","Sardinata",797.0
-909,"54743","municipality","Silos",797.0
-910,"54800","municipality","Teorama",797.0
-911,"54810","municipality","Tibú",797.0
-912,"54820","municipality","Toledo",797.0
-913,"54871","municipality","Villa Caro",797.0
-914,"54874","municipality","Villa Del Rosario",797.0
-915,"63001","municipality","Armenia",838.0
-916,"63111","municipality","Buenavista",838.0
-917,"63130","municipality","Calarcá",838.0
-918,"63190","municipality","Circasia",838.0
-919,"63212","municipality","Córdoba",838.0
-920,"63272","municipality","Filandia",838.0
-921,"63302","municipality","Génova",838.0
-922,"63401","municipality","La Tebaida",838.0
-923,"63470","municipality","Montenegro",838.0
-924,"63548","municipality","Pijao",838.0
-925,"63594","municipality","Quimbaya",838.0
-926,"63690","municipality","Salento",838.0
-927,"66001","municipality","Pereira",851.0
-928,"66045","municipality","Apía",851.0
-929,"66075","municipality","Balboa",851.0
-930,"66088","municipality","Belén De Umbría",851.0
-931,"66170","municipality","Dosquebradas",851.0
-932,"66318","municipality","Guática",851.0
-933,"66383","municipality","La Celia",851.0
-934,"66400","municipality","La Virginia",851.0
-935,"66440","municipality","Marsella",851.0
-936,"66456","municipality","Mistrató",851.0
-937,"66572","municipality","Pueblo Rico",851.0
-938,"66594","municipality","Quinchía",851.0
-939,"66682","municipality","Santa Rosa De Cabal",851.0
-940,"66687","municipality","Santuario",851.0
-941,"68001","municipality","Bucaramanga",866.0
-942,"68013","municipality","Aguada",866.0
-943,"68020","municipality","Albania",866.0
-944,"68051","municipality","Aratoca",866.0
-945,"68077","municipality","Barbosa",866.0
-946,"68079","municipality","Barichara",866.0
-947,"68081","municipality","Barrancabermeja",866.0
-948,"68092","municipality","Betulia",866.0
-949,"68101","municipality","Bolívar",866.0
-950,"68121","municipality","Cabrera",866.0
-951,"68132","municipality","California",866.0
-952,"68147","municipality","Capitanejo",866.0
-953,"68152","municipality","Carcasí",866.0
-954,"68160","municipality","Cepitá",866.0
-955,"68162","municipality","Cerrito",866.0
-956,"68167","municipality","Charalá",866.0
-957,"68169","municipality","Charta",866.0
-958,"68176","municipality","Chima",866.0
-959,"68179","municipality","Chipatá",866.0
-960,"68190","municipality","Cimitarra",866.0
-961,"68207","municipality","Concepción",866.0
-962,"68209","municipality","Confines",866.0
-963,"68211","municipality","Contratación",866.0
-964,"68217","municipality","Coromoro",866.0
-965,"68229","municipality","Curití",866.0
-966,"68235","municipality","El Carmen De Chucurí",866.0
-967,"68245","municipality","El Guacamayo",866.0
-968,"68250","municipality","El Peñón",866.0
-969,"68255","municipality","El Playón",866.0
-970,"68264","municipality","Encino",866.0
-971,"68266","municipality","Enciso",866.0
-972,"68271","municipality","Florián",866.0
-973,"68276","municipality","Floridablanca",866.0
-974,"68296","municipality","Galán",866.0
-975,"68298","municipality","Gámbita",866.0
-976,"68307","municipality","Girón",866.0
-977,"68318","municipality","Guaca",866.0
-978,"68320","municipality","Guadalupe",866.0
-979,"68322","municipality","Guapotá",866.0
-980,"68324","municipality","Guavatá",866.0
-981,"68327","municipality","Güepsa",866.0
-982,"68344","municipality","Hato",866.0
-983,"68368","municipality","Jesús María",866.0
-984,"68370","municipality","Jordán",866.0
-985,"68377","municipality","La Belleza",866.0
-986,"68385","municipality","Landázuri",866.0
-987,"68397","municipality","La Paz",866.0
-988,"68406","municipality","Lebrija",866.0
-989,"68418","municipality","Los Santos",866.0
-990,"68425","municipality","Macaravita",866.0
-991,"68432","municipality","Málaga",866.0
-992,"68444","municipality","Matanza",866.0
-993,"68464","municipality","Mogotes",866.0
-994,"68468","municipality","Molagavita",866.0
-995,"68498","municipality","Ocamonte",866.0
-996,"68500","municipality","Oiba",866.0
-997,"68502","municipality","Onzaga",866.0
-998,"68522","municipality","Palmar",866.0
-999,"68524","municipality","Palmas Del Socorro",866.0
-1000,"68533","municipality","Páramo",866.0
-1001,"68547","municipality","Piedecuesta",866.0
-1002,"68549","municipality","Pinchote",866.0
-1003,"68572","municipality","Puente Nacional",866.0
-1004,"68573","municipality","Puerto Parra",866.0
-1005,"68575","municipality","Puerto Wilches",866.0
-1006,"68615","municipality","Rionegro",866.0
-1007,"68655","municipality","Sabana De Torres",866.0
-1008,"68669","municipality","San Andrés",866.0
-1009,"68673","municipality","San Benito",866.0
-1010,"68679","municipality","San Gil",866.0
-1011,"68682","municipality","San Joaquín",866.0
-1012,"68684","municipality","San José De Miranda",866.0
-1013,"68686","municipality","San Miguel",866.0
-1014,"68689","municipality","San Vicente De Chucurí",866.0
-1015,"68705","municipality","Santa Bárbara",866.0
-1016,"68720","municipality","Santa Helena Del Opón",866.0
-1017,"68745","municipality","Simacota",866.0
-1018,"68755","municipality","Socorro",866.0
-1019,"68770","municipality","Suaita",866.0
-1020,"68773","municipality","Sucre",866.0
-1021,"68780","municipality","Suratá",866.0
-1022,"68820","municipality","Tona",866.0
-1023,"68855","municipality","Valle De San José",866.0
-1024,"68861","municipality","Vélez",866.0
-1025,"68867","municipality","Vetas",866.0
-1026,"68872","municipality","Villanueva",866.0
-1027,"68895","municipality","Zapatoca",866.0
-1028,"70001","municipality","Sincelejo",954.0
-1029,"70110","municipality","Buenavista",954.0
-1030,"70124","municipality","Caimito",954.0
-1031,"70204","municipality","Colosó",954.0
-1032,"70215","municipality","Corozal",954.0
-1033,"70221","municipality","Coveñas",954.0
-1034,"70230","municipality","Chalán",954.0
-1035,"70233","municipality","El Roble",954.0
-1036,"70235","municipality","Galeras",954.0
-1037,"70265","municipality","Guaranda",954.0
-1038,"70400","municipality","La Unión",954.0
-1039,"70418","municipality","Los Palmitos",954.0
-1040,"70429","municipality","Majagual",954.0
-1041,"70473","municipality","Morroa",954.0
-1042,"70508","municipality","Ovejas",954.0
-1043,"70523","municipality","Palmito",954.0
-1044,"70670","municipality","Sampués",954.0
-1045,"70678","municipality","San Benito Abad",954.0
-1046,"70702","municipality","San Juan De Betulia",954.0
-1047,"70708","municipality","San Marcos",954.0
-1048,"70713","municipality","San Onofre",954.0
-1049,"70717","municipality","San Pedro",954.0
-1050,"70742","municipality","San Luis De Sincé",954.0
-1051,"70771","municipality","Sucre",954.0
-1052,"70820","municipality","Santiago De Tolú",954.0
-1053,"70823","municipality","Tolú Viejo",954.0
-1054,"73001","municipality","Ibagué",981.0
-1055,"73024","municipality","Alpujarra",981.0
-1056,"73026","municipality","Alvarado",981.0
-1057,"73030","municipality","Ambalema",981.0
-1058,"73043","municipality","Anzoátegui",981.0
-1059,"73055","municipality","Armero Guayabal",981.0
-1060,"73067","municipality","Ataco",981.0
-1061,"73124","municipality","Cajamarca",981.0
-1062,"73148","municipality","Carmen De Apicalá",981.0
-1063,"73152","municipality","Casabianca",981.0
-1064,"73168","municipality","Chaparral",981.0
-1065,"73200","municipality","Coello",981.0
-1066,"73217","municipality","Coyaima",981.0
-1067,"73226","municipality","Cunday",981.0
-1068,"73236","municipality","Dolores",981.0
-1069,"73268","municipality","Espinal",981.0
-1070,"73270","municipality","Falan",981.0
-1071,"73275","municipality","Flandes",981.0
-1072,"73283","municipality","Fresno",981.0
-1073,"73319","municipality","Guamo",981.0
-1074,"73347","municipality","Herveo",981.0
-1075,"73349","municipality","Honda",981.0
-1076,"73352","municipality","Icononzo",981.0
-1077,"73408","municipality","Lérida",981.0
-1078,"73411","municipality","Líbano",981.0
-1079,"73443","municipality","San Sebastián De Mariquita",981.0
-1080,"73449","municipality","Melgar",981.0
-1081,"73461","municipality","Murillo",981.0
-1082,"73483","municipality","Natagaima",981.0
-1083,"73504","municipality","Ortega",981.0
-1084,"73520","municipality","Palocabildo",981.0
-1085,"73547","municipality","Piedras",981.0
-1086,"73555","municipality","Planadas",981.0
-1087,"73563","municipality","Prado",981.0
-1088,"73585","municipality","Purificación",981.0
-1089,"73616","municipality","Rioblanco",981.0
-1090,"73622","municipality","Roncesvalles",981.0
-1091,"73624","municipality","Rovira",981.0
-1092,"73671","municipality","Saldaña",981.0
-1093,"73675","municipality","San Antonio",981.0
-1094,"73678","municipality","San Luis",981.0
-1095,"73686","municipality","Santa Isabel",981.0
-1096,"73770","municipality","Suárez",981.0
-1097,"73854","municipality","Valle De San Juan",981.0
-1098,"73861","municipality","Venadillo",981.0
-1099,"73870","municipality","Villahermosa",981.0
-1100,"73873","municipality","Villarrica",981.0
-1101,"76001","municipality","Cali",1029.0
-1102,"76020","municipality","Alcalá",1029.0
-1103,"76036","municipality","Andalucía",1029.0
-1104,"76041","municipality","Ansermanuevo",1029.0
-1105,"76054","municipality","Argelia",1029.0
-1106,"76100","municipality","Bolívar",1029.0
-1107,"76109","municipality","Buenaventura",1029.0
-1108,"76111","municipality","Guadalajara De Buga",1029.0
-1109,"76113","municipality","Bugalagrande",1029.0
-1110,"76122","municipality","Caicedonia",1029.0
-1111,"76126","municipality","Calima",1029.0
-1112,"76130","municipality","Candelaria",1029.0
-1113,"76147","municipality","Cartago",1029.0
-1114,"76233","municipality","Dagua",1029.0
-1115,"76243","municipality","El Águila",1029.0
-1116,"76246","municipality","El Cairo",1029.0
-1117,"76248","municipality","El Cerrito",1029.0
-1118,"76250","municipality","El Dovio",1029.0
-1119,"76275","municipality","Florida",1029.0
-1120,"76306","municipality","Ginebra",1029.0
-1121,"76318","municipality","Guacarí",1029.0
-1122,"76364","municipality","Jamundí",1029.0
-1123,"76377","municipality","La Cumbre",1029.0
-1124,"76400","municipality","La Unión",1029.0
-1125,"76403","municipality","La Victoria",1029.0
-1126,"76497","municipality","Obando",1029.0
-1127,"76520","municipality","Palmira",1029.0
-1128,"76563","municipality","Pradera",1029.0
-1129,"76606","municipality","Restrepo",1029.0
-1130,"76616","municipality","Riofrío",1029.0
-1131,"76622","municipality","Roldanillo",1029.0
-1132,"76670","municipality","San Pedro",1029.0
-1133,"76736","municipality","Sevilla",1029.0
-1134,"76823","municipality","Toro",1029.0
-1135,"76828","municipality","Trujillo",1029.0
-1136,"76834","municipality","Tuluá",1029.0
-1137,"76845","municipality","Ulloa",1029.0
-1138,"76863","municipality","Versalles",1029.0
-1139,"76869","municipality","Vijes",1029.0
-1140,"76890","municipality","Yotoco",1029.0
-1141,"76892","municipality","Yumbo",1029.0
-1142,"76895","municipality","Zarzal",1029.0
-1143,"81001","municipality","Arauca",1072.0
-1144,"81065","municipality","Arauquita",1072.0
-1145,"81220","municipality","Cravo Norte",1072.0
-1146,"81300","municipality","Fortul",1072.0
-1147,"81591","municipality","Puerto Rondón",1072.0
-1148,"81736","municipality","Saravena",1072.0
-1149,"81794","municipality","Tame",1072.0
-1150,"85001","municipality","Yopal",1080.0
-1151,"85010","municipality","Aguazul",1080.0
-1152,"85015","municipality","Chámeza",1080.0
-1153,"85125","municipality","Hato Corozal",1080.0
-1154,"85136","municipality","La Salina",1080.0
-1155,"85139","municipality","Maní",1080.0
-1156,"85162","municipality","Monterrey",1080.0
-1157,"85225","municipality","Nunchía",1080.0
-1158,"85230","municipality","Orocué",1080.0
-1159,"85250","municipality","Paz De Ariporo",1080.0
-1160,"85263","municipality","Pore",1080.0
-1161,"85279","municipality","Recetor",1080.0
-1162,"85300","municipality","Sabanalarga",1080.0
-1163,"85315","municipality","Sácama",1080.0
-1164,"85325","municipality","San Luis De Palenque",1080.0
-1165,"85400","municipality","Támara",1080.0
-1166,"85410","municipality","Tauramena",1080.0
-1167,"85430","municipality","Trinidad",1080.0
-1168,"85440","municipality","Villanueva",1080.0
-1169,"86001","municipality","Mocoa",1100.0
-1170,"86219","municipality","Colón",1100.0
-1171,"86320","municipality","Orito",1100.0
-1172,"86568","municipality","Puerto Asís",1100.0
-1173,"86569","municipality","Puerto Caicedo",1100.0
-1174,"86571","municipality","Puerto Guzmán",1100.0
-1175,"86573","municipality","Puerto Leguízamo",1100.0
-1176,"86749","municipality","Sibundoy",1100.0
-1177,"86755","municipality","San Francisco",1100.0
-1178,"86757","municipality","San Miguel",1100.0
-1179,"86760","municipality","Santiago",1100.0
-1180,"86865","municipality","Valle Del Guamuez",1100.0
-1181,"86885","municipality","Villagarzón",1100.0
-1182,"88001","municipality","San Andrés",1114.0
-1183,"88564","municipality","Providencia",1114.0
-1184,"91001","municipality","Leticia",1117.0
-1185,"91263","municipality","El Encanto",1117.0
-1186,"91405","municipality","La Chorrera",1117.0
-1187,"91407","municipality","La Pedrera",1117.0
-1188,"91430","municipality","La Victoria",1117.0
-1189,"91460","municipality","Mirití - Paraná",1117.0
-1190,"91530","municipality","Puerto Alegría",1117.0
-1191,"91536","municipality","Puerto Arica",1117.0
-1192,"91540","municipality","Puerto Nariño",1117.0
-1193,"91669","municipality","Puerto Santander",1117.0
-1194,"91798","municipality","Tarapacá",1117.0
-1195,"94001","municipality","Inírida",1129.0
-1196,"94343","municipality","Barranco Minas",1129.0
-1197,"94663","municipality","Mapiripana",1129.0
-1198,"94883","municipality","San Felipe",1129.0
-1199,"94884","municipality","Puerto Colombia",1129.0
-1200,"94885","municipality","La Guadalupe",1129.0
-1201,"94886","municipality","Cacahual",1129.0
-1202,"94887","municipality","Pana Pana",1129.0
-1203,"94888","municipality","Morichal",1129.0
-1204,"95001","municipality","San José Del Guaviare",1139.0
-1205,"95015","municipality","Calamar",1139.0
-1206,"95025","municipality","El Retorno",1139.0
-1207,"95200","municipality","Miraflores",1139.0
-1208,"97001","municipality","Mitú",1144.0
-1209,"97161","municipality","Carurú",1144.0
-1210,"97511","municipality","Pacoa",1144.0
-1211,"97666","municipality","Taraira",1144.0
-1212,"97777","municipality","Papunaua",1144.0
-1213,"97889","municipality","Yavaraté",1144.0
-1214,"99001","municipality","Puerto Carreño",1151.0
-1215,"99524","municipality","La Primavera",1151.0
-1216,"99624","municipality","Santa Rosalía",1151.0
-1217,"99773","municipality","Cumaribo",1151.0
+"","code","level","name","parent_id","name_es","name_short_en","name_short_es"
+0,"COL","country","Colombia","","Colombia","Colombia","Colombia"
+1,"05","department","Antioquia","","Antioquia","Antioquia","Antioquia"
+2,"08","department","Atlántico","","Atlántico","Atlántico","Atlántico"
+3,"11","department","Bogotá, D. C.","","Bogotá, D. C.","Bogotá, D. C.","Bogotá, D. C."
+4,"13","department","Bolívar","","Bolívar","Bolívar","Bolívar"
+5,"15","department","Boyacá","","Boyacá","Boyacá","Boyacá"
+6,"17","department","Caldas","","Caldas","Caldas","Caldas"
+7,"18","department","Caquetá","","Caquetá","Caquetá","Caquetá"
+8,"19","department","Cauca","","Cauca","Cauca","Cauca"
+9,"20","department","Cesar","","Cesar","Cesar","Cesar"
+10,"23","department","Córdoba","","Córdoba","Córdoba","Córdoba"
+11,"25","department","Cundinamarca","","Cundinamarca","Cundinamarca","Cundinamarca"
+12,"27","department","Chocó","","Chocó","Chocó","Chocó"
+13,"41","department","Huila","","Huila","Huila","Huila"
+14,"44","department","La Guajira","","La Guajira","La Guajira","La Guajira"
+15,"47","department","Magdalena","","Magdalena","Magdalena","Magdalena"
+16,"50","department","Meta","","Meta","Meta","Meta"
+17,"52","department","Nariño","","Nariño","Nariño","Nariño"
+18,"54","department","Norte De Santander","","Norte De Santander","Norte De Santander","Norte De Santander"
+19,"63","department","Quindío","","Quindío","Quindío","Quindío"
+20,"66","department","Risaralda","","Risaralda","Risaralda","Risaralda"
+21,"68","department","Santander","","Santander","Santander","Santander"
+22,"70","department","Sucre","","Sucre","Sucre","Sucre"
+23,"73","department","Tolima","","Tolima","Tolima","Tolima"
+24,"76","department","Valle Del Cauca","","Valle Del Cauca","Valle Del Cauca","Valle Del Cauca"
+25,"81","department","Arauca","","Arauca","Arauca","Arauca"
+26,"85","department","Casanare","","Casanare","Casanare","Casanare"
+27,"86","department","Putumayo","","Putumayo","Putumayo","Putumayo"
+28,"88","department","Archipiélago De San Andrés, Providencia Y ","","Archipiélago De San Andrés, Providencia Y ","Archipiélago De San Andrés, Providencia Y ","Archipiélago De San Andrés, Providencia Y "
+29,"91","department","Amazonas","","Amazonas","Amazonas","Amazonas"
+30,"94","department","Guainía","","Guainía","Guainía","Guainía"
+31,"95","department","Guaviare","","Guaviare","Guaviare","Guaviare"
+32,"97","department","Vaupés","","Vaupés","Vaupés","Vaupés"
+33,"99","department","Vichada","","Vichada","Vichada","Vichada"
+34,"050010","msa","Medellín Met",1.0,"Medellín Met","Medellín Met","Medellín Met"
+35,"050450","msa","Apartadó",1.0,"Apartadó","Apartadó","Apartadó"
+36,"051540","msa","Caucasia",1.0,"Caucasia","Caucasia","Caucasia"
+37,"051720","msa","Chigorodó",1.0,"Chigorodó","Chigorodó","Chigorodó"
+38,"056150","msa","Rionegro Met",1.0,"Rionegro Met","Rionegro Met","Rionegro Met"
+39,"058370","msa","Turbo",1.0,"Turbo","Turbo","Turbo"
+40,"080010","msa","Barranquilla Met",127.0,"Barranquilla Met","Barranquilla Met","Barranquilla Met"
+41,"110010","msa","Bogotá Met",151.0,"Bogotá Met","Bogotá Met","Bogotá Met"
+42,"130010","msa","Cartagena Met",153.0,"Cartagena Met","Cartagena Met","Cartagena Met"
+43,"132440","msa","El Carmen de Bolívar",153.0,"El Carmen de Bolívar","El Carmen de Bolívar","El Carmen de Bolívar"
+44,"134300","msa","Magangué",153.0,"Magangué","Magangué","Magangué"
+45,"150010","msa","Tunja Met",200.0,"Tunja Met","Tunja Met","Tunja Met"
+46,"151760","msa","Chiquinquirá",200.0,"Chiquinquirá","Chiquinquirá","Chiquinquirá"
+47,"152380","msa","Duitama Met",200.0,"Duitama Met","Duitama Met","Duitama Met"
+48,"157590","msa","Sogamoso Met",200.0,"Sogamoso Met","Sogamoso Met","Sogamoso Met"
+49,"170010","msa","Manizales Met",324.0,"Manizales Met","Manizales Met","Manizales Met"
+50,"173800","msa","La Dorada",324.0,"La Dorada","La Dorada","La Dorada"
+51,"180010","msa","Florencia",352.0,"Florencia","Florencia","Florencia"
+52,"190010","msa","Popayán",369.0,"Popayán","Popayán","Popayán"
+53,"196980","msa","Santander de Quilichao",369.0,"Santander de Quilichao","Santander de Quilichao","Santander de Quilichao"
+54,"200010","msa","Valledupar",412.0,"Valledupar","Valledupar","Valledupar"
+55,"200110","msa","Aguachica",412.0,"Aguachica","Aguachica","Aguachica"
+56,"230010","msa","Montería",438.0,"Montería","Montería","Montería"
+57,"231620","msa","Cereté",438.0,"Cereté","Cereté","Cereté"
+58,"234170","msa","Lorica",438.0,"Lorica","Lorica","Lorica"
+59,"234660","msa","Montelíbano",438.0,"Montelíbano","Montelíbano","Montelíbano"
+60,"252900","msa","Fusagasugá",469.0,"Fusagasugá","Fusagasugá","Fusagasugá"
+61,"253070","msa","Girardot Met",469.0,"Girardot Met","Girardot Met","Girardot Met"
+62,"270010","msa","Quibdó",586.0,"Quibdó","Quibdó","Quibdó"
+63,"410010","msa","Neiva",617.0,"Neiva","Neiva","Neiva"
+64,"415510","msa","Pitalito",617.0,"Pitalito","Pitalito","Pitalito"
+65,"440010","msa","Riohacha",655.0,"Riohacha","Riohacha","Riohacha"
+66,"444300","msa","Maicao",655.0,"Maicao","Maicao","Maicao"
+67,"470010","msa","Santa Marta",671.0,"Santa Marta","Santa Marta","Santa Marta"
+68,"471890","msa","Ciénaga",671.0,"Ciénaga","Ciénaga","Ciénaga"
+69,"472880","msa","Fundación",671.0,"Fundación","Fundación","Fundación"
+70,"500010","msa","Villavicencio Met",702.0,"Villavicencio Met","Villavicencio Met","Villavicencio Met"
+71,"500060","msa","Acacías",702.0,"Acacías","Acacías","Acacías"
+72,"503130","msa","Granada",702.0,"Granada","Granada","Granada"
+73,"520010","msa","Pasto Met",732.0,"Pasto Met","Pasto Met","Pasto Met"
+74,"523560","msa","Ipiales Met",732.0,"Ipiales Met","Ipiales Met","Ipiales Met"
+75,"528350","msa","San Andres de Tumaco",732.0,"San Andres de Tumaco","San Andres de Tumaco","San Andres de Tumaco"
+76,"540010","msa","Cúcuta Met",797.0,"Cúcuta Met","Cúcuta Met","Cúcuta Met"
+77,"544980","msa","Ocaña",797.0,"Ocaña","Ocaña","Ocaña"
+78,"545180","msa","Pamplona",797.0,"Pamplona","Pamplona","Pamplona"
+79,"630010","msa","Armenia Met",838.0,"Armenia Met","Armenia Met","Armenia Met"
+80,"660010","msa","Pereira Met",851.0,"Pereira Met","Pereira Met","Pereira Met"
+81,"680010","msa","Bucaramanga Met",866.0,"Bucaramanga Met","Bucaramanga Met","Bucaramanga Met"
+82,"680810","msa","Barrancabermeja",866.0,"Barrancabermeja","Barrancabermeja","Barrancabermeja"
+83,"700010","msa","Sincelejo",954.0,"Sincelejo","Sincelejo","Sincelejo"
+84,"702150","msa","Corozal",954.0,"Corozal","Corozal","Corozal"
+85,"730010","msa","Ibagué",981.0,"Ibagué","Ibagué","Ibagué"
+86,"732680","msa","Espinal",981.0,"Espinal","Espinal","Espinal"
+87,"760010","msa","Cali Met",1029.0,"Cali Met","Cali Met","Cali Met"
+88,"761090","msa","Buenaventura",1029.0,"Buenaventura","Buenaventura","Buenaventura"
+89,"761110","msa","Guadalajara de Buga",1029.0,"Guadalajara de Buga","Guadalajara de Buga","Guadalajara de Buga"
+90,"761470","msa","Cartago",1029.0,"Cartago","Cartago","Cartago"
+91,"765200","msa","Palmira",1029.0,"Palmira","Palmira","Palmira"
+92,"768340","msa","Tuluá Met",1029.0,"Tuluá Met","Tuluá Met","Tuluá Met"
+93,"810010","msa","Arauca",1072.0,"Arauca","Arauca","Arauca"
+94,"850010","msa","Yopal",1080.0,"Yopal","Yopal","Yopal"
+95,"880010","msa","San Andrés",1114.0,"San Andrés","San Andrés","San Andrés"
+96,"05001","municipality","Medellín",1.0,"Medellín","Medellín","Medellín"
+97,"05002","municipality","Abejorral",1.0,"Abejorral","Abejorral","Abejorral"
+98,"05004","municipality","Abriaquí",1.0,"Abriaquí","Abriaquí","Abriaquí"
+99,"05021","municipality","Alejandría",1.0,"Alejandría","Alejandría","Alejandría"
+100,"05030","municipality","Amagá",1.0,"Amagá","Amagá","Amagá"
+101,"05031","municipality","Amalfi",1.0,"Amalfi","Amalfi","Amalfi"
+102,"05034","municipality","Andes",1.0,"Andes","Andes","Andes"
+103,"05036","municipality","Angelópolis",1.0,"Angelópolis","Angelópolis","Angelópolis"
+104,"05038","municipality","Angostura",1.0,"Angostura","Angostura","Angostura"
+105,"05040","municipality","Anorí",1.0,"Anorí","Anorí","Anorí"
+106,"05042","municipality","Santa Fé De Antioquia",1.0,"Santa Fé De Antioquia","Santa Fé De Antioquia","Santa Fé De Antioquia"
+107,"05044","municipality","Anzá",1.0,"Anzá","Anzá","Anzá"
+108,"05045","municipality","Apartadó",1.0,"Apartadó","Apartadó","Apartadó"
+109,"05051","municipality","Arboletes",1.0,"Arboletes","Arboletes","Arboletes"
+110,"05055","municipality","Argelia",1.0,"Argelia","Argelia","Argelia"
+111,"05059","municipality","Armenia",1.0,"Armenia","Armenia","Armenia"
+112,"05079","municipality","Barbosa",1.0,"Barbosa","Barbosa","Barbosa"
+113,"05086","municipality","Belmira",1.0,"Belmira","Belmira","Belmira"
+114,"05088","municipality","Bello",1.0,"Bello","Bello","Bello"
+115,"05091","municipality","Betania",1.0,"Betania","Betania","Betania"
+116,"05093","municipality","Betulia",1.0,"Betulia","Betulia","Betulia"
+117,"05101","municipality","Ciudad Bolívar",1.0,"Ciudad Bolívar","Ciudad Bolívar","Ciudad Bolívar"
+118,"05107","municipality","Briceño",1.0,"Briceño","Briceño","Briceño"
+119,"05113","municipality","Buriticá",1.0,"Buriticá","Buriticá","Buriticá"
+120,"05120","municipality","Cáceres",1.0,"Cáceres","Cáceres","Cáceres"
+121,"05125","municipality","Caicedo",1.0,"Caicedo","Caicedo","Caicedo"
+122,"05129","municipality","Caldas",1.0,"Caldas","Caldas","Caldas"
+123,"05134","municipality","Campamento",1.0,"Campamento","Campamento","Campamento"
+124,"05138","municipality","Cañasgordas",1.0,"Cañasgordas","Cañasgordas","Cañasgordas"
+125,"05142","municipality","Caracolí",1.0,"Caracolí","Caracolí","Caracolí"
+126,"05145","municipality","Caramanta",1.0,"Caramanta","Caramanta","Caramanta"
+127,"05147","municipality","Carepa",1.0,"Carepa","Carepa","Carepa"
+128,"05148","municipality","El Carmen De Viboral",1.0,"El Carmen De Viboral","El Carmen De Viboral","El Carmen De Viboral"
+129,"05150","municipality","Carolina",1.0,"Carolina","Carolina","Carolina"
+130,"05154","municipality","Caucasia",1.0,"Caucasia","Caucasia","Caucasia"
+131,"05172","municipality","Chigorodó",1.0,"Chigorodó","Chigorodó","Chigorodó"
+132,"05190","municipality","Cisneros",1.0,"Cisneros","Cisneros","Cisneros"
+133,"05197","municipality","Cocorná",1.0,"Cocorná","Cocorná","Cocorná"
+134,"05206","municipality","Concepción",1.0,"Concepción","Concepción","Concepción"
+135,"05209","municipality","Concordia",1.0,"Concordia","Concordia","Concordia"
+136,"05212","municipality","Copacabana",1.0,"Copacabana","Copacabana","Copacabana"
+137,"05234","municipality","Dabeiba",1.0,"Dabeiba","Dabeiba","Dabeiba"
+138,"05237","municipality","Donmatías",1.0,"Donmatías","Donmatías","Donmatías"
+139,"05240","municipality","Ebéjico",1.0,"Ebéjico","Ebéjico","Ebéjico"
+140,"05250","municipality","El Bagre",1.0,"El Bagre","El Bagre","El Bagre"
+141,"05264","municipality","Entrerríos",1.0,"Entrerríos","Entrerríos","Entrerríos"
+142,"05266","municipality","Envigado",1.0,"Envigado","Envigado","Envigado"
+143,"05282","municipality","Fredonia",1.0,"Fredonia","Fredonia","Fredonia"
+144,"05284","municipality","Frontino",1.0,"Frontino","Frontino","Frontino"
+145,"05306","municipality","Giraldo",1.0,"Giraldo","Giraldo","Giraldo"
+146,"05308","municipality","Girardota",1.0,"Girardota","Girardota","Girardota"
+147,"05310","municipality","Gómez Plata",1.0,"Gómez Plata","Gómez Plata","Gómez Plata"
+148,"05313","municipality","Granada",1.0,"Granada","Granada","Granada"
+149,"05315","municipality","Guadalupe",1.0,"Guadalupe","Guadalupe","Guadalupe"
+150,"05318","municipality","Guarne",1.0,"Guarne","Guarne","Guarne"
+151,"05321","municipality","Guatapé",1.0,"Guatapé","Guatapé","Guatapé"
+152,"05347","municipality","Heliconia",1.0,"Heliconia","Heliconia","Heliconia"
+153,"05353","municipality","Hispania",1.0,"Hispania","Hispania","Hispania"
+154,"05360","municipality","Itagüí",1.0,"Itagüí","Itagüí","Itagüí"
+155,"05361","municipality","Ituango",1.0,"Ituango","Ituango","Ituango"
+156,"05364","municipality","Jardín",1.0,"Jardín","Jardín","Jardín"
+157,"05368","municipality","Jericó",1.0,"Jericó","Jericó","Jericó"
+158,"05376","municipality","La Ceja",1.0,"La Ceja","La Ceja","La Ceja"
+159,"05380","municipality","La Estrella",1.0,"La Estrella","La Estrella","La Estrella"
+160,"05390","municipality","La Pintada",1.0,"La Pintada","La Pintada","La Pintada"
+161,"05400","municipality","La Unión",1.0,"La Unión","La Unión","La Unión"
+162,"05411","municipality","Liborina",1.0,"Liborina","Liborina","Liborina"
+163,"05425","municipality","Maceo",1.0,"Maceo","Maceo","Maceo"
+164,"05440","municipality","Marinilla",1.0,"Marinilla","Marinilla","Marinilla"
+165,"05467","municipality","Montebello",1.0,"Montebello","Montebello","Montebello"
+166,"05475","municipality","Murindó",1.0,"Murindó","Murindó","Murindó"
+167,"05480","municipality","Mutatá",1.0,"Mutatá","Mutatá","Mutatá"
+168,"05483","municipality","Nariño",1.0,"Nariño","Nariño","Nariño"
+169,"05490","municipality","Necoclí",1.0,"Necoclí","Necoclí","Necoclí"
+170,"05495","municipality","Nechí",1.0,"Nechí","Nechí","Nechí"
+171,"05501","municipality","Olaya",1.0,"Olaya","Olaya","Olaya"
+172,"05541","municipality","Peñol",1.0,"Peñol","Peñol","Peñol"
+173,"05543","municipality","Peque",1.0,"Peque","Peque","Peque"
+174,"05576","municipality","Pueblorrico",1.0,"Pueblorrico","Pueblorrico","Pueblorrico"
+175,"05579","municipality","Puerto Berrío",1.0,"Puerto Berrío","Puerto Berrío","Puerto Berrío"
+176,"05585","municipality","Puerto Nare",1.0,"Puerto Nare","Puerto Nare","Puerto Nare"
+177,"05591","municipality","Puerto Triunfo",1.0,"Puerto Triunfo","Puerto Triunfo","Puerto Triunfo"
+178,"05604","municipality","Remedios",1.0,"Remedios","Remedios","Remedios"
+179,"05607","municipality","Retiro",1.0,"Retiro","Retiro","Retiro"
+180,"05615","municipality","Rionegro",1.0,"Rionegro","Rionegro","Rionegro"
+181,"05628","municipality","Sabanalarga",1.0,"Sabanalarga","Sabanalarga","Sabanalarga"
+182,"05631","municipality","Sabaneta",1.0,"Sabaneta","Sabaneta","Sabaneta"
+183,"05642","municipality","Salgar",1.0,"Salgar","Salgar","Salgar"
+184,"05647","municipality","San Andrés De Cuerquía",1.0,"San Andrés De Cuerquía","San Andrés De Cuerquía","San Andrés De Cuerquía"
+185,"05649","municipality","San Carlos",1.0,"San Carlos","San Carlos","San Carlos"
+186,"05652","municipality","San Francisco",1.0,"San Francisco","San Francisco","San Francisco"
+187,"05656","municipality","San Jerónimo",1.0,"San Jerónimo","San Jerónimo","San Jerónimo"
+188,"05658","municipality","San José De La Montaña",1.0,"San José De La Montaña","San José De La Montaña","San José De La Montaña"
+189,"05659","municipality","San Juan De Urabá",1.0,"San Juan De Urabá","San Juan De Urabá","San Juan De Urabá"
+190,"05660","municipality","San Luis",1.0,"San Luis","San Luis","San Luis"
+191,"05664","municipality","San Pedro De Los Milagros",1.0,"San Pedro De Los Milagros","San Pedro De Los Milagros","San Pedro De Los Milagros"
+192,"05665","municipality","San Pedro De Urabá",1.0,"San Pedro De Urabá","San Pedro De Urabá","San Pedro De Urabá"
+193,"05667","municipality","San Rafael",1.0,"San Rafael","San Rafael","San Rafael"
+194,"05670","municipality","San Roque",1.0,"San Roque","San Roque","San Roque"
+195,"05674","municipality","San Vicente Ferrer",1.0,"San Vicente Ferrer","San Vicente Ferrer","San Vicente Ferrer"
+196,"05679","municipality","Santa Bárbara",1.0,"Santa Bárbara","Santa Bárbara","Santa Bárbara"
+197,"05686","municipality","Santa Rosa De Osos",1.0,"Santa Rosa De Osos","Santa Rosa De Osos","Santa Rosa De Osos"
+198,"05690","municipality","Santo Domingo",1.0,"Santo Domingo","Santo Domingo","Santo Domingo"
+199,"05697","municipality","El Santuario",1.0,"El Santuario","El Santuario","El Santuario"
+200,"05736","municipality","Segovia",1.0,"Segovia","Segovia","Segovia"
+201,"05756","municipality","Sonsón",1.0,"Sonsón","Sonsón","Sonsón"
+202,"05761","municipality","Sopetrán",1.0,"Sopetrán","Sopetrán","Sopetrán"
+203,"05789","municipality","Támesis",1.0,"Támesis","Támesis","Támesis"
+204,"05790","municipality","Tarazá",1.0,"Tarazá","Tarazá","Tarazá"
+205,"05792","municipality","Tarso",1.0,"Tarso","Tarso","Tarso"
+206,"05809","municipality","Titiribí",1.0,"Titiribí","Titiribí","Titiribí"
+207,"05819","municipality","Toledo",1.0,"Toledo","Toledo","Toledo"
+208,"05837","municipality","Turbo",1.0,"Turbo","Turbo","Turbo"
+209,"05842","municipality","Uramita",1.0,"Uramita","Uramita","Uramita"
+210,"05847","municipality","Urrao",1.0,"Urrao","Urrao","Urrao"
+211,"05854","municipality","Valdivia",1.0,"Valdivia","Valdivia","Valdivia"
+212,"05856","municipality","Valparaíso",1.0,"Valparaíso","Valparaíso","Valparaíso"
+213,"05858","municipality","Vegachí",1.0,"Vegachí","Vegachí","Vegachí"
+214,"05861","municipality","Venecia",1.0,"Venecia","Venecia","Venecia"
+215,"05873","municipality","Vigía Del Fuerte",1.0,"Vigía Del Fuerte","Vigía Del Fuerte","Vigía Del Fuerte"
+216,"05885","municipality","Yalí",1.0,"Yalí","Yalí","Yalí"
+217,"05887","municipality","Yarumal",1.0,"Yarumal","Yarumal","Yarumal"
+218,"05890","municipality","Yolombó",1.0,"Yolombó","Yolombó","Yolombó"
+219,"05893","municipality","Yondó",1.0,"Yondó","Yondó","Yondó"
+220,"05895","municipality","Zaragoza",1.0,"Zaragoza","Zaragoza","Zaragoza"
+221,"08001","municipality","Barranquilla",127.0,"Barranquilla","Barranquilla","Barranquilla"
+222,"08078","municipality","Baranoa",127.0,"Baranoa","Baranoa","Baranoa"
+223,"08137","municipality","Campo De La Cruz",127.0,"Campo De La Cruz","Campo De La Cruz","Campo De La Cruz"
+224,"08141","municipality","Candelaria",127.0,"Candelaria","Candelaria","Candelaria"
+225,"08296","municipality","Galapa",127.0,"Galapa","Galapa","Galapa"
+226,"08372","municipality","Juan De Acosta",127.0,"Juan De Acosta","Juan De Acosta","Juan De Acosta"
+227,"08421","municipality","Luruaco",127.0,"Luruaco","Luruaco","Luruaco"
+228,"08433","municipality","Malambo",127.0,"Malambo","Malambo","Malambo"
+229,"08436","municipality","Manatí",127.0,"Manatí","Manatí","Manatí"
+230,"08520","municipality","Palmar De Varela",127.0,"Palmar De Varela","Palmar De Varela","Palmar De Varela"
+231,"08549","municipality","Piojó",127.0,"Piojó","Piojó","Piojó"
+232,"08558","municipality","Polonuevo",127.0,"Polonuevo","Polonuevo","Polonuevo"
+233,"08560","municipality","Ponedera",127.0,"Ponedera","Ponedera","Ponedera"
+234,"08573","municipality","Puerto Colombia",127.0,"Puerto Colombia","Puerto Colombia","Puerto Colombia"
+235,"08606","municipality","Repelón",127.0,"Repelón","Repelón","Repelón"
+236,"08634","municipality","Sabanagrande",127.0,"Sabanagrande","Sabanagrande","Sabanagrande"
+237,"08638","municipality","Sabanalarga",127.0,"Sabanalarga","Sabanalarga","Sabanalarga"
+238,"08675","municipality","Santa Lucía",127.0,"Santa Lucía","Santa Lucía","Santa Lucía"
+239,"08685","municipality","Santo Tomás",127.0,"Santo Tomás","Santo Tomás","Santo Tomás"
+240,"08758","municipality","Soledad",127.0,"Soledad","Soledad","Soledad"
+241,"08770","municipality","Suan",127.0,"Suan","Suan","Suan"
+242,"08832","municipality","Tubará",127.0,"Tubará","Tubará","Tubará"
+243,"08849","municipality","Usiacurí",127.0,"Usiacurí","Usiacurí","Usiacurí"
+244,"11001","municipality","Bogotá, D.C.",151.0,"Bogotá, D.C.","Bogotá, D.C.","Bogotá, D.C."
+245,"13001","municipality","Cartagena De Indias",153.0,"Cartagena De Indias","Cartagena De Indias","Cartagena De Indias"
+246,"13006","municipality","Achí",153.0,"Achí","Achí","Achí"
+247,"13030","municipality","Altos Del Rosario",153.0,"Altos Del Rosario","Altos Del Rosario","Altos Del Rosario"
+248,"13042","municipality","Arenal",153.0,"Arenal","Arenal","Arenal"
+249,"13052","municipality","Arjona",153.0,"Arjona","Arjona","Arjona"
+250,"13062","municipality","Arroyohondo",153.0,"Arroyohondo","Arroyohondo","Arroyohondo"
+251,"13074","municipality","Barranco De Loba",153.0,"Barranco De Loba","Barranco De Loba","Barranco De Loba"
+252,"13140","municipality","Calamar",153.0,"Calamar","Calamar","Calamar"
+253,"13160","municipality","Cantagallo",153.0,"Cantagallo","Cantagallo","Cantagallo"
+254,"13188","municipality","Cicuco",153.0,"Cicuco","Cicuco","Cicuco"
+255,"13212","municipality","Córdoba",153.0,"Córdoba","Córdoba","Córdoba"
+256,"13222","municipality","Clemencia",153.0,"Clemencia","Clemencia","Clemencia"
+257,"13244","municipality","El Carmen De Bolívar",153.0,"El Carmen De Bolívar","El Carmen De Bolívar","El Carmen De Bolívar"
+258,"13248","municipality","El Guamo",153.0,"El Guamo","El Guamo","El Guamo"
+259,"13268","municipality","El Peñón",153.0,"El Peñón","El Peñón","El Peñón"
+260,"13300","municipality","Hatillo De Loba",153.0,"Hatillo De Loba","Hatillo De Loba","Hatillo De Loba"
+261,"13430","municipality","Magangué",153.0,"Magangué","Magangué","Magangué"
+262,"13433","municipality","Mahates",153.0,"Mahates","Mahates","Mahates"
+263,"13440","municipality","Margarita",153.0,"Margarita","Margarita","Margarita"
+264,"13442","municipality","María La Baja",153.0,"María La Baja","María La Baja","María La Baja"
+265,"13458","municipality","Montecristo",153.0,"Montecristo","Montecristo","Montecristo"
+266,"13468","municipality","Mompós",153.0,"Mompós","Mompós","Mompós"
+267,"13473","municipality","Morales",153.0,"Morales","Morales","Morales"
+268,"13490","municipality","Norosí",153.0,"Norosí","Norosí","Norosí"
+269,"13549","municipality","Pinillos",153.0,"Pinillos","Pinillos","Pinillos"
+270,"13580","municipality","Regidor",153.0,"Regidor","Regidor","Regidor"
+271,"13600","municipality","Río Viejo",153.0,"Río Viejo","Río Viejo","Río Viejo"
+272,"13620","municipality","San Cristóbal",153.0,"San Cristóbal","San Cristóbal","San Cristóbal"
+273,"13647","municipality","San Estanislao",153.0,"San Estanislao","San Estanislao","San Estanislao"
+274,"13650","municipality","San Fernando",153.0,"San Fernando","San Fernando","San Fernando"
+275,"13654","municipality","San Jacinto",153.0,"San Jacinto","San Jacinto","San Jacinto"
+276,"13655","municipality","San Jacinto Del Cauca",153.0,"San Jacinto Del Cauca","San Jacinto Del Cauca","San Jacinto Del Cauca"
+277,"13657","municipality","San Juan Nepomuceno",153.0,"San Juan Nepomuceno","San Juan Nepomuceno","San Juan Nepomuceno"
+278,"13667","municipality","San Martín De Loba",153.0,"San Martín De Loba","San Martín De Loba","San Martín De Loba"
+279,"13670","municipality","San Pablo",153.0,"San Pablo","San Pablo","San Pablo"
+280,"13673","municipality","Santa Catalina",153.0,"Santa Catalina","Santa Catalina","Santa Catalina"
+281,"13683","municipality","Santa Rosa",153.0,"Santa Rosa","Santa Rosa","Santa Rosa"
+282,"13688","municipality","Santa Rosa Del Sur",153.0,"Santa Rosa Del Sur","Santa Rosa Del Sur","Santa Rosa Del Sur"
+283,"13744","municipality","Simití",153.0,"Simití","Simití","Simití"
+284,"13760","municipality","Soplaviento",153.0,"Soplaviento","Soplaviento","Soplaviento"
+285,"13780","municipality","Talaigua Nuevo",153.0,"Talaigua Nuevo","Talaigua Nuevo","Talaigua Nuevo"
+286,"13810","municipality","Tiquisio",153.0,"Tiquisio","Tiquisio","Tiquisio"
+287,"13836","municipality","Turbaco",153.0,"Turbaco","Turbaco","Turbaco"
+288,"13838","municipality","Turbaná",153.0,"Turbaná","Turbaná","Turbaná"
+289,"13873","municipality","Villanueva",153.0,"Villanueva","Villanueva","Villanueva"
+290,"13894","municipality","Zambrano",153.0,"Zambrano","Zambrano","Zambrano"
+291,"15001","municipality","Tunja",200.0,"Tunja","Tunja","Tunja"
+292,"15022","municipality","Almeida",200.0,"Almeida","Almeida","Almeida"
+293,"15047","municipality","Aquitania",200.0,"Aquitania","Aquitania","Aquitania"
+294,"15051","municipality","Arcabuco",200.0,"Arcabuco","Arcabuco","Arcabuco"
+295,"15087","municipality","Belén",200.0,"Belén","Belén","Belén"
+296,"15090","municipality","Berbeo",200.0,"Berbeo","Berbeo","Berbeo"
+297,"15092","municipality","Betéitiva",200.0,"Betéitiva","Betéitiva","Betéitiva"
+298,"15097","municipality","Boavita",200.0,"Boavita","Boavita","Boavita"
+299,"15104","municipality","Boyacá",200.0,"Boyacá","Boyacá","Boyacá"
+300,"15106","municipality","Briceño",200.0,"Briceño","Briceño","Briceño"
+301,"15109","municipality","Buenavista",200.0,"Buenavista","Buenavista","Buenavista"
+302,"15114","municipality","Busbanzá",200.0,"Busbanzá","Busbanzá","Busbanzá"
+303,"15131","municipality","Caldas",200.0,"Caldas","Caldas","Caldas"
+304,"15135","municipality","Campohermoso",200.0,"Campohermoso","Campohermoso","Campohermoso"
+305,"15162","municipality","Cerinza",200.0,"Cerinza","Cerinza","Cerinza"
+306,"15172","municipality","Chinavita",200.0,"Chinavita","Chinavita","Chinavita"
+307,"15176","municipality","Chiquinquirá",200.0,"Chiquinquirá","Chiquinquirá","Chiquinquirá"
+308,"15180","municipality","Chiscas",200.0,"Chiscas","Chiscas","Chiscas"
+309,"15183","municipality","Chita",200.0,"Chita","Chita","Chita"
+310,"15185","municipality","Chitaraque",200.0,"Chitaraque","Chitaraque","Chitaraque"
+311,"15187","municipality","Chivatá",200.0,"Chivatá","Chivatá","Chivatá"
+312,"15189","municipality","Ciénega",200.0,"Ciénega","Ciénega","Ciénega"
+313,"15204","municipality","Cómbita",200.0,"Cómbita","Cómbita","Cómbita"
+314,"15212","municipality","Coper",200.0,"Coper","Coper","Coper"
+315,"15215","municipality","Corrales",200.0,"Corrales","Corrales","Corrales"
+316,"15218","municipality","Covarachía",200.0,"Covarachía","Covarachía","Covarachía"
+317,"15223","municipality","Cubará",200.0,"Cubará","Cubará","Cubará"
+318,"15224","municipality","Cucaita",200.0,"Cucaita","Cucaita","Cucaita"
+319,"15226","municipality","Cuítiva",200.0,"Cuítiva","Cuítiva","Cuítiva"
+320,"15232","municipality","Chíquiza",200.0,"Chíquiza","Chíquiza","Chíquiza"
+321,"15236","municipality","Chivor",200.0,"Chivor","Chivor","Chivor"
+322,"15238","municipality","Duitama",200.0,"Duitama","Duitama","Duitama"
+323,"15244","municipality","El Cocuy",200.0,"El Cocuy","El Cocuy","El Cocuy"
+324,"15248","municipality","El Espino",200.0,"El Espino","El Espino","El Espino"
+325,"15272","municipality","Firavitoba",200.0,"Firavitoba","Firavitoba","Firavitoba"
+326,"15276","municipality","Floresta",200.0,"Floresta","Floresta","Floresta"
+327,"15293","municipality","Gachantivá",200.0,"Gachantivá","Gachantivá","Gachantivá"
+328,"15296","municipality","Gámeza",200.0,"Gámeza","Gámeza","Gámeza"
+329,"15299","municipality","Garagoa",200.0,"Garagoa","Garagoa","Garagoa"
+330,"15317","municipality","Guacamayas",200.0,"Guacamayas","Guacamayas","Guacamayas"
+331,"15322","municipality","Guateque",200.0,"Guateque","Guateque","Guateque"
+332,"15325","municipality","Guayatá",200.0,"Guayatá","Guayatá","Guayatá"
+333,"15332","municipality","Güicán De La Sierra",200.0,"Güicán De La Sierra","Güicán De La Sierra","Güicán De La Sierra"
+334,"15362","municipality","Iza",200.0,"Iza","Iza","Iza"
+335,"15367","municipality","Jenesano",200.0,"Jenesano","Jenesano","Jenesano"
+336,"15368","municipality","Jericó",200.0,"Jericó","Jericó","Jericó"
+337,"15377","municipality","Labranzagrande",200.0,"Labranzagrande","Labranzagrande","Labranzagrande"
+338,"15380","municipality","La Capilla",200.0,"La Capilla","La Capilla","La Capilla"
+339,"15401","municipality","La Victoria",200.0,"La Victoria","La Victoria","La Victoria"
+340,"15403","municipality","La Uvita",200.0,"La Uvita","La Uvita","La Uvita"
+341,"15407","municipality","Villa De Leyva",200.0,"Villa De Leyva","Villa De Leyva","Villa De Leyva"
+342,"15425","municipality","Macanal",200.0,"Macanal","Macanal","Macanal"
+343,"15442","municipality","Maripí",200.0,"Maripí","Maripí","Maripí"
+344,"15455","municipality","Miraflores",200.0,"Miraflores","Miraflores","Miraflores"
+345,"15464","municipality","Mongua",200.0,"Mongua","Mongua","Mongua"
+346,"15466","municipality","Monguí",200.0,"Monguí","Monguí","Monguí"
+347,"15469","municipality","Moniquirá",200.0,"Moniquirá","Moniquirá","Moniquirá"
+348,"15476","municipality","Motavita",200.0,"Motavita","Motavita","Motavita"
+349,"15480","municipality","Muzo",200.0,"Muzo","Muzo","Muzo"
+350,"15491","municipality","Nobsa",200.0,"Nobsa","Nobsa","Nobsa"
+351,"15494","municipality","Nuevo Colón",200.0,"Nuevo Colón","Nuevo Colón","Nuevo Colón"
+352,"15500","municipality","Oicatá",200.0,"Oicatá","Oicatá","Oicatá"
+353,"15507","municipality","Otanche",200.0,"Otanche","Otanche","Otanche"
+354,"15511","municipality","Pachavita",200.0,"Pachavita","Pachavita","Pachavita"
+355,"15514","municipality","Páez",200.0,"Páez","Páez","Páez"
+356,"15516","municipality","Paipa",200.0,"Paipa","Paipa","Paipa"
+357,"15518","municipality","Pajarito",200.0,"Pajarito","Pajarito","Pajarito"
+358,"15522","municipality","Panqueba",200.0,"Panqueba","Panqueba","Panqueba"
+359,"15531","municipality","Pauna",200.0,"Pauna","Pauna","Pauna"
+360,"15533","municipality","Paya",200.0,"Paya","Paya","Paya"
+361,"15537","municipality","Paz De Río",200.0,"Paz De Río","Paz De Río","Paz De Río"
+362,"15542","municipality","Pesca",200.0,"Pesca","Pesca","Pesca"
+363,"15550","municipality","Pisba",200.0,"Pisba","Pisba","Pisba"
+364,"15572","municipality","Puerto Boyacá",200.0,"Puerto Boyacá","Puerto Boyacá","Puerto Boyacá"
+365,"15580","municipality","Quípama",200.0,"Quípama","Quípama","Quípama"
+366,"15599","municipality","Ramiriquí",200.0,"Ramiriquí","Ramiriquí","Ramiriquí"
+367,"15600","municipality","Ráquira",200.0,"Ráquira","Ráquira","Ráquira"
+368,"15621","municipality","Rondón",200.0,"Rondón","Rondón","Rondón"
+369,"15632","municipality","Saboyá",200.0,"Saboyá","Saboyá","Saboyá"
+370,"15638","municipality","Sáchica",200.0,"Sáchica","Sáchica","Sáchica"
+371,"15646","municipality","Samacá",200.0,"Samacá","Samacá","Samacá"
+372,"15660","municipality","San Eduardo",200.0,"San Eduardo","San Eduardo","San Eduardo"
+373,"15664","municipality","San José De Pare",200.0,"San José De Pare","San José De Pare","San José De Pare"
+374,"15667","municipality","San Luis De Gaceno",200.0,"San Luis De Gaceno","San Luis De Gaceno","San Luis De Gaceno"
+375,"15673","municipality","San Mateo",200.0,"San Mateo","San Mateo","San Mateo"
+376,"15676","municipality","San Miguel De Sema",200.0,"San Miguel De Sema","San Miguel De Sema","San Miguel De Sema"
+377,"15681","municipality","San Pablo De Borbur",200.0,"San Pablo De Borbur","San Pablo De Borbur","San Pablo De Borbur"
+378,"15686","municipality","Santana",200.0,"Santana","Santana","Santana"
+379,"15690","municipality","Santa María",200.0,"Santa María","Santa María","Santa María"
+380,"15693","municipality","Santa Rosa De Viterbo",200.0,"Santa Rosa De Viterbo","Santa Rosa De Viterbo","Santa Rosa De Viterbo"
+381,"15696","municipality","Santa Sofía",200.0,"Santa Sofía","Santa Sofía","Santa Sofía"
+382,"15720","municipality","Sativanorte",200.0,"Sativanorte","Sativanorte","Sativanorte"
+383,"15723","municipality","Sativasur",200.0,"Sativasur","Sativasur","Sativasur"
+384,"15740","municipality","Siachoque",200.0,"Siachoque","Siachoque","Siachoque"
+385,"15753","municipality","Soatá",200.0,"Soatá","Soatá","Soatá"
+386,"15755","municipality","Socotá",200.0,"Socotá","Socotá","Socotá"
+387,"15757","municipality","Socha",200.0,"Socha","Socha","Socha"
+388,"15759","municipality","Sogamoso",200.0,"Sogamoso","Sogamoso","Sogamoso"
+389,"15761","municipality","Somondoco",200.0,"Somondoco","Somondoco","Somondoco"
+390,"15762","municipality","Sora",200.0,"Sora","Sora","Sora"
+391,"15763","municipality","Sotaquirá",200.0,"Sotaquirá","Sotaquirá","Sotaquirá"
+392,"15764","municipality","Soracá",200.0,"Soracá","Soracá","Soracá"
+393,"15774","municipality","Susacón",200.0,"Susacón","Susacón","Susacón"
+394,"15776","municipality","Sutamarchán",200.0,"Sutamarchán","Sutamarchán","Sutamarchán"
+395,"15778","municipality","Sutatenza",200.0,"Sutatenza","Sutatenza","Sutatenza"
+396,"15790","municipality","Tasco",200.0,"Tasco","Tasco","Tasco"
+397,"15798","municipality","Tenza",200.0,"Tenza","Tenza","Tenza"
+398,"15804","municipality","Tibaná",200.0,"Tibaná","Tibaná","Tibaná"
+399,"15806","municipality","Tibasosa",200.0,"Tibasosa","Tibasosa","Tibasosa"
+400,"15808","municipality","Tinjacá",200.0,"Tinjacá","Tinjacá","Tinjacá"
+401,"15810","municipality","Tipacoque",200.0,"Tipacoque","Tipacoque","Tipacoque"
+402,"15814","municipality","Toca",200.0,"Toca","Toca","Toca"
+403,"15816","municipality","Togüí",200.0,"Togüí","Togüí","Togüí"
+404,"15820","municipality","Tópaga",200.0,"Tópaga","Tópaga","Tópaga"
+405,"15822","municipality","Tota",200.0,"Tota","Tota","Tota"
+406,"15832","municipality","Tununguá",200.0,"Tununguá","Tununguá","Tununguá"
+407,"15835","municipality","Turmequé",200.0,"Turmequé","Turmequé","Turmequé"
+408,"15837","municipality","Tuta",200.0,"Tuta","Tuta","Tuta"
+409,"15839","municipality","Tutazá",200.0,"Tutazá","Tutazá","Tutazá"
+410,"15842","municipality","Úmbita",200.0,"Úmbita","Úmbita","Úmbita"
+411,"15861","municipality","Ventaquemada",200.0,"Ventaquemada","Ventaquemada","Ventaquemada"
+412,"15879","municipality","Viracachá",200.0,"Viracachá","Viracachá","Viracachá"
+413,"15897","municipality","Zetaquira",200.0,"Zetaquira","Zetaquira","Zetaquira"
+414,"17001","municipality","Manizales",324.0,"Manizales","Manizales","Manizales"
+415,"17013","municipality","Aguadas",324.0,"Aguadas","Aguadas","Aguadas"
+416,"17042","municipality","Anserma",324.0,"Anserma","Anserma","Anserma"
+417,"17050","municipality","Aranzazu",324.0,"Aranzazu","Aranzazu","Aranzazu"
+418,"17088","municipality","Belalcázar",324.0,"Belalcázar","Belalcázar","Belalcázar"
+419,"17174","municipality","Chinchiná",324.0,"Chinchiná","Chinchiná","Chinchiná"
+420,"17272","municipality","Filadelfia",324.0,"Filadelfia","Filadelfia","Filadelfia"
+421,"17380","municipality","La Dorada",324.0,"La Dorada","La Dorada","La Dorada"
+422,"17388","municipality","La Merced",324.0,"La Merced","La Merced","La Merced"
+423,"17433","municipality","Manzanares",324.0,"Manzanares","Manzanares","Manzanares"
+424,"17442","municipality","Marmato",324.0,"Marmato","Marmato","Marmato"
+425,"17444","municipality","Marquetalia",324.0,"Marquetalia","Marquetalia","Marquetalia"
+426,"17446","municipality","Marulanda",324.0,"Marulanda","Marulanda","Marulanda"
+427,"17486","municipality","Neira",324.0,"Neira","Neira","Neira"
+428,"17495","municipality","Norcasia",324.0,"Norcasia","Norcasia","Norcasia"
+429,"17513","municipality","Pácora",324.0,"Pácora","Pácora","Pácora"
+430,"17524","municipality","Palestina",324.0,"Palestina","Palestina","Palestina"
+431,"17541","municipality","Pensilvania",324.0,"Pensilvania","Pensilvania","Pensilvania"
+432,"17614","municipality","Riosucio",324.0,"Riosucio","Riosucio","Riosucio"
+433,"17616","municipality","Risaralda",324.0,"Risaralda","Risaralda","Risaralda"
+434,"17653","municipality","Salamina",324.0,"Salamina","Salamina","Salamina"
+435,"17662","municipality","Samaná",324.0,"Samaná","Samaná","Samaná"
+436,"17665","municipality","San José",324.0,"San José","San José","San José"
+437,"17777","municipality","Supía",324.0,"Supía","Supía","Supía"
+438,"17867","municipality","Victoria",324.0,"Victoria","Victoria","Victoria"
+439,"17873","municipality","Villamaría",324.0,"Villamaría","Villamaría","Villamaría"
+440,"17877","municipality","Viterbo",324.0,"Viterbo","Viterbo","Viterbo"
+441,"18001","municipality","Florencia",352.0,"Florencia","Florencia","Florencia"
+442,"18029","municipality","Albania",352.0,"Albania","Albania","Albania"
+443,"18094","municipality","Belén De Los Andaquíes",352.0,"Belén De Los Andaquíes","Belén De Los Andaquíes","Belén De Los Andaquíes"
+444,"18150","municipality","Cartagena Del Chairá",352.0,"Cartagena Del Chairá","Cartagena Del Chairá","Cartagena Del Chairá"
+445,"18205","municipality","Curillo",352.0,"Curillo","Curillo","Curillo"
+446,"18247","municipality","El Doncello",352.0,"El Doncello","El Doncello","El Doncello"
+447,"18256","municipality","El Paujíl",352.0,"El Paujíl","El Paujíl","El Paujíl"
+448,"18410","municipality","La Montañita",352.0,"La Montañita","La Montañita","La Montañita"
+449,"18460","municipality","Milán",352.0,"Milán","Milán","Milán"
+450,"18479","municipality","Morelia",352.0,"Morelia","Morelia","Morelia"
+451,"18592","municipality","Puerto Rico",352.0,"Puerto Rico","Puerto Rico","Puerto Rico"
+452,"18610","municipality","San José Del Fragua",352.0,"San José Del Fragua","San José Del Fragua","San José Del Fragua"
+453,"18753","municipality","San Vicente Del Caguán",352.0,"San Vicente Del Caguán","San Vicente Del Caguán","San Vicente Del Caguán"
+454,"18756","municipality","Solano",352.0,"Solano","Solano","Solano"
+455,"18785","municipality","Solita",352.0,"Solita","Solita","Solita"
+456,"18860","municipality","Valparaíso",352.0,"Valparaíso","Valparaíso","Valparaíso"
+457,"19001","municipality","Popayán",369.0,"Popayán","Popayán","Popayán"
+458,"19022","municipality","Almaguer",369.0,"Almaguer","Almaguer","Almaguer"
+459,"19050","municipality","Argelia",369.0,"Argelia","Argelia","Argelia"
+460,"19075","municipality","Balboa",369.0,"Balboa","Balboa","Balboa"
+461,"19100","municipality","Bolívar",369.0,"Bolívar","Bolívar","Bolívar"
+462,"19110","municipality","Buenos Aires",369.0,"Buenos Aires","Buenos Aires","Buenos Aires"
+463,"19130","municipality","Cajibío",369.0,"Cajibío","Cajibío","Cajibío"
+464,"19137","municipality","Caldono",369.0,"Caldono","Caldono","Caldono"
+465,"19142","municipality","Caloto",369.0,"Caloto","Caloto","Caloto"
+466,"19212","municipality","Corinto",369.0,"Corinto","Corinto","Corinto"
+467,"19256","municipality","El Tambo",369.0,"El Tambo","El Tambo","El Tambo"
+468,"19290","municipality","Florencia",369.0,"Florencia","Florencia","Florencia"
+469,"19300","municipality","Guachené",369.0,"Guachené","Guachené","Guachené"
+470,"19318","municipality","Guapí",369.0,"Guapí","Guapí","Guapí"
+471,"19355","municipality","Inzá",369.0,"Inzá","Inzá","Inzá"
+472,"19364","municipality","Jambaló",369.0,"Jambaló","Jambaló","Jambaló"
+473,"19392","municipality","La Sierra",369.0,"La Sierra","La Sierra","La Sierra"
+474,"19397","municipality","La Vega",369.0,"La Vega","La Vega","La Vega"
+475,"19418","municipality","López De Micay",369.0,"López De Micay","López De Micay","López De Micay"
+476,"19450","municipality","Mercaderes",369.0,"Mercaderes","Mercaderes","Mercaderes"
+477,"19455","municipality","Miranda",369.0,"Miranda","Miranda","Miranda"
+478,"19473","municipality","Morales",369.0,"Morales","Morales","Morales"
+479,"19513","municipality","Padilla",369.0,"Padilla","Padilla","Padilla"
+480,"19517","municipality","Páez",369.0,"Páez","Páez","Páez"
+481,"19532","municipality","Patía",369.0,"Patía","Patía","Patía"
+482,"19533","municipality","Piamonte",369.0,"Piamonte","Piamonte","Piamonte"
+483,"19548","municipality","Piendamó",369.0,"Piendamó","Piendamó","Piendamó"
+484,"19573","municipality","Puerto Tejada",369.0,"Puerto Tejada","Puerto Tejada","Puerto Tejada"
+485,"19585","municipality","Puracé",369.0,"Puracé","Puracé","Puracé"
+486,"19622","municipality","Rosas",369.0,"Rosas","Rosas","Rosas"
+487,"19693","municipality","San Sebastián",369.0,"San Sebastián","San Sebastián","San Sebastián"
+488,"19698","municipality","Santander De Quilichao",369.0,"Santander De Quilichao","Santander De Quilichao","Santander De Quilichao"
+489,"19701","municipality","Santa Rosa",369.0,"Santa Rosa","Santa Rosa","Santa Rosa"
+490,"19743","municipality","Silvia",369.0,"Silvia","Silvia","Silvia"
+491,"19760","municipality","Sotara",369.0,"Sotara","Sotara","Sotara"
+492,"19780","municipality","Suárez",369.0,"Suárez","Suárez","Suárez"
+493,"19785","municipality","Sucre",369.0,"Sucre","Sucre","Sucre"
+494,"19807","municipality","Timbío",369.0,"Timbío","Timbío","Timbío"
+495,"19809","municipality","Timbiquí",369.0,"Timbiquí","Timbiquí","Timbiquí"
+496,"19821","municipality","Toribío",369.0,"Toribío","Toribío","Toribío"
+497,"19824","municipality","Totoró",369.0,"Totoró","Totoró","Totoró"
+498,"19845","municipality","Villa Rica",369.0,"Villa Rica","Villa Rica","Villa Rica"
+499,"20001","municipality","Valledupar",412.0,"Valledupar","Valledupar","Valledupar"
+500,"20011","municipality","Aguachica",412.0,"Aguachica","Aguachica","Aguachica"
+501,"20013","municipality","Agustín Codazzi",412.0,"Agustín Codazzi","Agustín Codazzi","Agustín Codazzi"
+502,"20032","municipality","Astrea",412.0,"Astrea","Astrea","Astrea"
+503,"20045","municipality","Becerril",412.0,"Becerril","Becerril","Becerril"
+504,"20060","municipality","Bosconia",412.0,"Bosconia","Bosconia","Bosconia"
+505,"20175","municipality","Chimichagua",412.0,"Chimichagua","Chimichagua","Chimichagua"
+506,"20178","municipality","Chiriguaná",412.0,"Chiriguaná","Chiriguaná","Chiriguaná"
+507,"20228","municipality","Curumaní",412.0,"Curumaní","Curumaní","Curumaní"
+508,"20238","municipality","El Copey",412.0,"El Copey","El Copey","El Copey"
+509,"20250","municipality","El Paso",412.0,"El Paso","El Paso","El Paso"
+510,"20295","municipality","Gamarra",412.0,"Gamarra","Gamarra","Gamarra"
+511,"20310","municipality","González",412.0,"González","González","González"
+512,"20383","municipality","La Gloria",412.0,"La Gloria","La Gloria","La Gloria"
+513,"20400","municipality","La Jagua De Ibirico",412.0,"La Jagua De Ibirico","La Jagua De Ibirico","La Jagua De Ibirico"
+514,"20443","municipality","Manaure Balcón Del Cesar",412.0,"Manaure Balcón Del Cesar","Manaure Balcón Del Cesar","Manaure Balcón Del Cesar"
+515,"20517","municipality","Pailitas",412.0,"Pailitas","Pailitas","Pailitas"
+516,"20550","municipality","Pelaya",412.0,"Pelaya","Pelaya","Pelaya"
+517,"20570","municipality","Pueblo Bello",412.0,"Pueblo Bello","Pueblo Bello","Pueblo Bello"
+518,"20614","municipality","Río De Oro",412.0,"Río De Oro","Río De Oro","Río De Oro"
+519,"20621","municipality","La Paz",412.0,"La Paz","La Paz","La Paz"
+520,"20710","municipality","San Alberto",412.0,"San Alberto","San Alberto","San Alberto"
+521,"20750","municipality","San Diego",412.0,"San Diego","San Diego","San Diego"
+522,"20770","municipality","San Martín",412.0,"San Martín","San Martín","San Martín"
+523,"20787","municipality","Tamalameque",412.0,"Tamalameque","Tamalameque","Tamalameque"
+524,"23001","municipality","Montería",438.0,"Montería","Montería","Montería"
+525,"23068","municipality","Ayapel",438.0,"Ayapel","Ayapel","Ayapel"
+526,"23079","municipality","Buenavista",438.0,"Buenavista","Buenavista","Buenavista"
+527,"23090","municipality","Canalete",438.0,"Canalete","Canalete","Canalete"
+528,"23162","municipality","Cereté",438.0,"Cereté","Cereté","Cereté"
+529,"23168","municipality","Chimá",438.0,"Chimá","Chimá","Chimá"
+530,"23182","municipality","Chinú",438.0,"Chinú","Chinú","Chinú"
+531,"23189","municipality","Ciénaga De Oro",438.0,"Ciénaga De Oro","Ciénaga De Oro","Ciénaga De Oro"
+532,"23300","municipality","Cotorra",438.0,"Cotorra","Cotorra","Cotorra"
+533,"23350","municipality","La Apartada",438.0,"La Apartada","La Apartada","La Apartada"
+534,"23417","municipality","Lorica",438.0,"Lorica","Lorica","Lorica"
+535,"23419","municipality","Los Córdobas",438.0,"Los Córdobas","Los Córdobas","Los Córdobas"
+536,"23464","municipality","Momil",438.0,"Momil","Momil","Momil"
+537,"23466","municipality","Montelíbano",438.0,"Montelíbano","Montelíbano","Montelíbano"
+538,"23500","municipality","Moñitos",438.0,"Moñitos","Moñitos","Moñitos"
+539,"23555","municipality","Planeta Rica",438.0,"Planeta Rica","Planeta Rica","Planeta Rica"
+540,"23570","municipality","Pueblo Nuevo",438.0,"Pueblo Nuevo","Pueblo Nuevo","Pueblo Nuevo"
+541,"23574","municipality","Puerto Escondido",438.0,"Puerto Escondido","Puerto Escondido","Puerto Escondido"
+542,"23580","municipality","Puerto Libertador",438.0,"Puerto Libertador","Puerto Libertador","Puerto Libertador"
+543,"23586","municipality","Purísima De La Concepción",438.0,"Purísima De La Concepción","Purísima De La Concepción","Purísima De La Concepción"
+544,"23660","municipality","Sahagún",438.0,"Sahagún","Sahagún","Sahagún"
+545,"23670","municipality","San Andrés De Sotavento",438.0,"San Andrés De Sotavento","San Andrés De Sotavento","San Andrés De Sotavento"
+546,"23672","municipality","San Antero",438.0,"San Antero","San Antero","San Antero"
+547,"23675","municipality","San Bernardo Del Viento",438.0,"San Bernardo Del Viento","San Bernardo Del Viento","San Bernardo Del Viento"
+548,"23678","municipality","San Carlos",438.0,"San Carlos","San Carlos","San Carlos"
+549,"23682","municipality","San José De Uré",438.0,"San José De Uré","San José De Uré","San José De Uré"
+550,"23686","municipality","San Pelayo",438.0,"San Pelayo","San Pelayo","San Pelayo"
+551,"23807","municipality","Tierralta",438.0,"Tierralta","Tierralta","Tierralta"
+552,"23815","municipality","Tuchín",438.0,"Tuchín","Tuchín","Tuchín"
+553,"23855","municipality","Valencia",438.0,"Valencia","Valencia","Valencia"
+554,"25001","municipality","Agua De Dios",469.0,"Agua De Dios","Agua De Dios","Agua De Dios"
+555,"25019","municipality","Albán",469.0,"Albán","Albán","Albán"
+556,"25035","municipality","Anapoima",469.0,"Anapoima","Anapoima","Anapoima"
+557,"25040","municipality","Anolaima",469.0,"Anolaima","Anolaima","Anolaima"
+558,"25053","municipality","Arbeláez",469.0,"Arbeláez","Arbeláez","Arbeláez"
+559,"25086","municipality","Beltrán",469.0,"Beltrán","Beltrán","Beltrán"
+560,"25095","municipality","Bituima",469.0,"Bituima","Bituima","Bituima"
+561,"25099","municipality","Bojacá",469.0,"Bojacá","Bojacá","Bojacá"
+562,"25120","municipality","Cabrera",469.0,"Cabrera","Cabrera","Cabrera"
+563,"25123","municipality","Cachipay",469.0,"Cachipay","Cachipay","Cachipay"
+564,"25126","municipality","Cajicá",469.0,"Cajicá","Cajicá","Cajicá"
+565,"25148","municipality","Caparrapí",469.0,"Caparrapí","Caparrapí","Caparrapí"
+566,"25151","municipality","Cáqueza",469.0,"Cáqueza","Cáqueza","Cáqueza"
+567,"25154","municipality","Carmen De Carupa",469.0,"Carmen De Carupa","Carmen De Carupa","Carmen De Carupa"
+568,"25168","municipality","Chaguaní",469.0,"Chaguaní","Chaguaní","Chaguaní"
+569,"25175","municipality","Chía",469.0,"Chía","Chía","Chía"
+570,"25178","municipality","Chipaque",469.0,"Chipaque","Chipaque","Chipaque"
+571,"25181","municipality","Choachí",469.0,"Choachí","Choachí","Choachí"
+572,"25183","municipality","Chocontá",469.0,"Chocontá","Chocontá","Chocontá"
+573,"25200","municipality","Cogua",469.0,"Cogua","Cogua","Cogua"
+574,"25214","municipality","Cota",469.0,"Cota","Cota","Cota"
+575,"25224","municipality","Cucunubá",469.0,"Cucunubá","Cucunubá","Cucunubá"
+576,"25245","municipality","El Colegio",469.0,"El Colegio","El Colegio","El Colegio"
+577,"25258","municipality","El Peñón",469.0,"El Peñón","El Peñón","El Peñón"
+578,"25260","municipality","El Rosal",469.0,"El Rosal","El Rosal","El Rosal"
+579,"25269","municipality","Facatativá",469.0,"Facatativá","Facatativá","Facatativá"
+580,"25279","municipality","Fómeque",469.0,"Fómeque","Fómeque","Fómeque"
+581,"25281","municipality","Fosca",469.0,"Fosca","Fosca","Fosca"
+582,"25286","municipality","Funza",469.0,"Funza","Funza","Funza"
+583,"25288","municipality","Fúquene",469.0,"Fúquene","Fúquene","Fúquene"
+584,"25290","municipality","Fusagasugá",469.0,"Fusagasugá","Fusagasugá","Fusagasugá"
+585,"25293","municipality","Gachalá",469.0,"Gachalá","Gachalá","Gachalá"
+586,"25295","municipality","Gachancipá",469.0,"Gachancipá","Gachancipá","Gachancipá"
+587,"25297","municipality","Gachetá",469.0,"Gachetá","Gachetá","Gachetá"
+588,"25299","municipality","Gama",469.0,"Gama","Gama","Gama"
+589,"25307","municipality","Girardot",469.0,"Girardot","Girardot","Girardot"
+590,"25312","municipality","Granada",469.0,"Granada","Granada","Granada"
+591,"25317","municipality","Guachetá",469.0,"Guachetá","Guachetá","Guachetá"
+592,"25320","municipality","Guaduas",469.0,"Guaduas","Guaduas","Guaduas"
+593,"25322","municipality","Guasca",469.0,"Guasca","Guasca","Guasca"
+594,"25324","municipality","Guataquí",469.0,"Guataquí","Guataquí","Guataquí"
+595,"25326","municipality","Guatavita",469.0,"Guatavita","Guatavita","Guatavita"
+596,"25328","municipality","Guayabal De Síquima",469.0,"Guayabal De Síquima","Guayabal De Síquima","Guayabal De Síquima"
+597,"25335","municipality","Guayabetal",469.0,"Guayabetal","Guayabetal","Guayabetal"
+598,"25339","municipality","Gutiérrez",469.0,"Gutiérrez","Gutiérrez","Gutiérrez"
+599,"25368","municipality","Jerusalén",469.0,"Jerusalén","Jerusalén","Jerusalén"
+600,"25372","municipality","Junín",469.0,"Junín","Junín","Junín"
+601,"25377","municipality","La Calera",469.0,"La Calera","La Calera","La Calera"
+602,"25386","municipality","La Mesa",469.0,"La Mesa","La Mesa","La Mesa"
+603,"25394","municipality","La Palma",469.0,"La Palma","La Palma","La Palma"
+604,"25398","municipality","La Peña",469.0,"La Peña","La Peña","La Peña"
+605,"25402","municipality","La Vega",469.0,"La Vega","La Vega","La Vega"
+606,"25407","municipality","Lenguazaque",469.0,"Lenguazaque","Lenguazaque","Lenguazaque"
+607,"25426","municipality","Machetá",469.0,"Machetá","Machetá","Machetá"
+608,"25430","municipality","Madrid",469.0,"Madrid","Madrid","Madrid"
+609,"25436","municipality","Manta",469.0,"Manta","Manta","Manta"
+610,"25438","municipality","Medina",469.0,"Medina","Medina","Medina"
+611,"25473","municipality","Mosquera",469.0,"Mosquera","Mosquera","Mosquera"
+612,"25483","municipality","Nariño",469.0,"Nariño","Nariño","Nariño"
+613,"25486","municipality","Nemocón",469.0,"Nemocón","Nemocón","Nemocón"
+614,"25488","municipality","Nilo",469.0,"Nilo","Nilo","Nilo"
+615,"25489","municipality","Nimaima",469.0,"Nimaima","Nimaima","Nimaima"
+616,"25491","municipality","Nocaima",469.0,"Nocaima","Nocaima","Nocaima"
+617,"25506","municipality","Venecia",469.0,"Venecia","Venecia","Venecia"
+618,"25513","municipality","Pacho",469.0,"Pacho","Pacho","Pacho"
+619,"25518","municipality","Paime",469.0,"Paime","Paime","Paime"
+620,"25524","municipality","Pandi",469.0,"Pandi","Pandi","Pandi"
+621,"25530","municipality","Paratebueno",469.0,"Paratebueno","Paratebueno","Paratebueno"
+622,"25535","municipality","Pasca",469.0,"Pasca","Pasca","Pasca"
+623,"25572","municipality","Puerto Salgar",469.0,"Puerto Salgar","Puerto Salgar","Puerto Salgar"
+624,"25580","municipality","Pulí",469.0,"Pulí","Pulí","Pulí"
+625,"25592","municipality","Quebradanegra",469.0,"Quebradanegra","Quebradanegra","Quebradanegra"
+626,"25594","municipality","Quetame",469.0,"Quetame","Quetame","Quetame"
+627,"25596","municipality","Quipile",469.0,"Quipile","Quipile","Quipile"
+628,"25599","municipality","Apulo",469.0,"Apulo","Apulo","Apulo"
+629,"25612","municipality","Ricaurte",469.0,"Ricaurte","Ricaurte","Ricaurte"
+630,"25645","municipality","San Antonio Del Tequendama",469.0,"San Antonio Del Tequendama","San Antonio Del Tequendama","San Antonio Del Tequendama"
+631,"25649","municipality","San Bernardo",469.0,"San Bernardo","San Bernardo","San Bernardo"
+632,"25653","municipality","San Cayetano",469.0,"San Cayetano","San Cayetano","San Cayetano"
+633,"25658","municipality","San Francisco",469.0,"San Francisco","San Francisco","San Francisco"
+634,"25662","municipality","San Juan De Rioseco",469.0,"San Juan De Rioseco","San Juan De Rioseco","San Juan De Rioseco"
+635,"25718","municipality","Sasaima",469.0,"Sasaima","Sasaima","Sasaima"
+636,"25736","municipality","Sesquilé",469.0,"Sesquilé","Sesquilé","Sesquilé"
+637,"25740","municipality","Sibaté",469.0,"Sibaté","Sibaté","Sibaté"
+638,"25743","municipality","Silvania",469.0,"Silvania","Silvania","Silvania"
+639,"25745","municipality","Simijaca",469.0,"Simijaca","Simijaca","Simijaca"
+640,"25754","municipality","Soacha",469.0,"Soacha","Soacha","Soacha"
+641,"25758","municipality","Sopó",469.0,"Sopó","Sopó","Sopó"
+642,"25769","municipality","Subachoque",469.0,"Subachoque","Subachoque","Subachoque"
+643,"25772","municipality","Suesca",469.0,"Suesca","Suesca","Suesca"
+644,"25777","municipality","Supatá",469.0,"Supatá","Supatá","Supatá"
+645,"25779","municipality","Susa",469.0,"Susa","Susa","Susa"
+646,"25781","municipality","Sutatausa",469.0,"Sutatausa","Sutatausa","Sutatausa"
+647,"25785","municipality","Tabio",469.0,"Tabio","Tabio","Tabio"
+648,"25793","municipality","Tausa",469.0,"Tausa","Tausa","Tausa"
+649,"25797","municipality","Tena",469.0,"Tena","Tena","Tena"
+650,"25799","municipality","Tenjo",469.0,"Tenjo","Tenjo","Tenjo"
+651,"25805","municipality","Tibacuy",469.0,"Tibacuy","Tibacuy","Tibacuy"
+652,"25807","municipality","Tibirita",469.0,"Tibirita","Tibirita","Tibirita"
+653,"25815","municipality","Tocaima",469.0,"Tocaima","Tocaima","Tocaima"
+654,"25817","municipality","Tocancipá",469.0,"Tocancipá","Tocancipá","Tocancipá"
+655,"25823","municipality","Topaipí",469.0,"Topaipí","Topaipí","Topaipí"
+656,"25839","municipality","Ubalá",469.0,"Ubalá","Ubalá","Ubalá"
+657,"25841","municipality","Ubaque",469.0,"Ubaque","Ubaque","Ubaque"
+658,"25843","municipality","Villa De San Diego De Ubaté",469.0,"Villa De San Diego De Ubaté","Villa De San Diego De Ubaté","Villa De San Diego De Ubaté"
+659,"25845","municipality","Une",469.0,"Une","Une","Une"
+660,"25851","municipality","Útica",469.0,"Útica","Útica","Útica"
+661,"25862","municipality","Vergara",469.0,"Vergara","Vergara","Vergara"
+662,"25867","municipality","Vianí",469.0,"Vianí","Vianí","Vianí"
+663,"25871","municipality","Villagómez",469.0,"Villagómez","Villagómez","Villagómez"
+664,"25873","municipality","Villapinzón",469.0,"Villapinzón","Villapinzón","Villapinzón"
+665,"25875","municipality","Villeta",469.0,"Villeta","Villeta","Villeta"
+666,"25878","municipality","Viotá",469.0,"Viotá","Viotá","Viotá"
+667,"25885","municipality","Yacopí",469.0,"Yacopí","Yacopí","Yacopí"
+668,"25898","municipality","Zipacón",469.0,"Zipacón","Zipacón","Zipacón"
+669,"25899","municipality","Zipaquirá",469.0,"Zipaquirá","Zipaquirá","Zipaquirá"
+670,"27001","municipality","Quibdó",586.0,"Quibdó","Quibdó","Quibdó"
+671,"27006","municipality","Acandí",586.0,"Acandí","Acandí","Acandí"
+672,"27025","municipality","Alto Baudó",586.0,"Alto Baudó","Alto Baudó","Alto Baudó"
+673,"27050","municipality","Atrato",586.0,"Atrato","Atrato","Atrato"
+674,"27073","municipality","Bagadó",586.0,"Bagadó","Bagadó","Bagadó"
+675,"27075","municipality","Bahía Solano",586.0,"Bahía Solano","Bahía Solano","Bahía Solano"
+676,"27077","municipality","Bajo Baudó",586.0,"Bajo Baudó","Bajo Baudó","Bajo Baudó"
+677,"27099","municipality","Bojayá",586.0,"Bojayá","Bojayá","Bojayá"
+678,"27135","municipality","El Cantón Del San Pablo",586.0,"El Cantón Del San Pablo","El Cantón Del San Pablo","El Cantón Del San Pablo"
+679,"27150","municipality","Carmen Del Darién",586.0,"Carmen Del Darién","Carmen Del Darién","Carmen Del Darién"
+680,"27160","municipality","Cértegui",586.0,"Cértegui","Cértegui","Cértegui"
+681,"27205","municipality","Condoto",586.0,"Condoto","Condoto","Condoto"
+682,"27245","municipality","El Carmen De Atrato",586.0,"El Carmen De Atrato","El Carmen De Atrato","El Carmen De Atrato"
+683,"27250","municipality","El Litoral Del San Juan",586.0,"El Litoral Del San Juan","El Litoral Del San Juan","El Litoral Del San Juan"
+684,"27361","municipality","Istmina",586.0,"Istmina","Istmina","Istmina"
+685,"27372","municipality","Juradó",586.0,"Juradó","Juradó","Juradó"
+686,"27413","municipality","Lloró",586.0,"Lloró","Lloró","Lloró"
+687,"27425","municipality","Medio Atrato",586.0,"Medio Atrato","Medio Atrato","Medio Atrato"
+688,"27430","municipality","Medio Baudó",586.0,"Medio Baudó","Medio Baudó","Medio Baudó"
+689,"27450","municipality","Medio San Juan",586.0,"Medio San Juan","Medio San Juan","Medio San Juan"
+690,"27491","municipality","Nóvita",586.0,"Nóvita","Nóvita","Nóvita"
+691,"27495","municipality","Nuquí",586.0,"Nuquí","Nuquí","Nuquí"
+692,"27580","municipality","Río Iró",586.0,"Río Iró","Río Iró","Río Iró"
+693,"27600","municipality","Río Quito",586.0,"Río Quito","Río Quito","Río Quito"
+694,"27615","municipality","Riosucio",586.0,"Riosucio","Riosucio","Riosucio"
+695,"27660","municipality","San José Del Palmar",586.0,"San José Del Palmar","San José Del Palmar","San José Del Palmar"
+696,"27745","municipality","Sipí",586.0,"Sipí","Sipí","Sipí"
+697,"27787","municipality","Tadó",586.0,"Tadó","Tadó","Tadó"
+698,"27800","municipality","Unguía",586.0,"Unguía","Unguía","Unguía"
+699,"27810","municipality","Unión Panamericana",586.0,"Unión Panamericana","Unión Panamericana","Unión Panamericana"
+700,"41001","municipality","Neiva",617.0,"Neiva","Neiva","Neiva"
+701,"41006","municipality","Acevedo",617.0,"Acevedo","Acevedo","Acevedo"
+702,"41013","municipality","Agrado",617.0,"Agrado","Agrado","Agrado"
+703,"41016","municipality","Aipe",617.0,"Aipe","Aipe","Aipe"
+704,"41020","municipality","Algeciras",617.0,"Algeciras","Algeciras","Algeciras"
+705,"41026","municipality","Altamira",617.0,"Altamira","Altamira","Altamira"
+706,"41078","municipality","Baraya",617.0,"Baraya","Baraya","Baraya"
+707,"41132","municipality","Campoalegre",617.0,"Campoalegre","Campoalegre","Campoalegre"
+708,"41206","municipality","Colombia",617.0,"Colombia","Colombia","Colombia"
+709,"41244","municipality","Elías",617.0,"Elías","Elías","Elías"
+710,"41298","municipality","Garzón",617.0,"Garzón","Garzón","Garzón"
+711,"41306","municipality","Gigante",617.0,"Gigante","Gigante","Gigante"
+712,"41319","municipality","Guadalupe",617.0,"Guadalupe","Guadalupe","Guadalupe"
+713,"41349","municipality","Hobo",617.0,"Hobo","Hobo","Hobo"
+714,"41357","municipality","Íquira",617.0,"Íquira","Íquira","Íquira"
+715,"41359","municipality","Isnos",617.0,"Isnos","Isnos","Isnos"
+716,"41378","municipality","La Argentina",617.0,"La Argentina","La Argentina","La Argentina"
+717,"41396","municipality","La Plata",617.0,"La Plata","La Plata","La Plata"
+718,"41483","municipality","Nátaga",617.0,"Nátaga","Nátaga","Nátaga"
+719,"41503","municipality","Oporapa",617.0,"Oporapa","Oporapa","Oporapa"
+720,"41518","municipality","Paicol",617.0,"Paicol","Paicol","Paicol"
+721,"41524","municipality","Palermo",617.0,"Palermo","Palermo","Palermo"
+722,"41530","municipality","Palestina",617.0,"Palestina","Palestina","Palestina"
+723,"41548","municipality","Pital",617.0,"Pital","Pital","Pital"
+724,"41551","municipality","Pitalito",617.0,"Pitalito","Pitalito","Pitalito"
+725,"41615","municipality","Rivera",617.0,"Rivera","Rivera","Rivera"
+726,"41660","municipality","Saladoblanco",617.0,"Saladoblanco","Saladoblanco","Saladoblanco"
+727,"41668","municipality","San Agustín",617.0,"San Agustín","San Agustín","San Agustín"
+728,"41676","municipality","Santa María",617.0,"Santa María","Santa María","Santa María"
+729,"41770","municipality","Suaza",617.0,"Suaza","Suaza","Suaza"
+730,"41791","municipality","Tarqui",617.0,"Tarqui","Tarqui","Tarqui"
+731,"41797","municipality","Tesalia",617.0,"Tesalia","Tesalia","Tesalia"
+732,"41799","municipality","Tello",617.0,"Tello","Tello","Tello"
+733,"41801","municipality","Teruel",617.0,"Teruel","Teruel","Teruel"
+734,"41807","municipality","Timaná",617.0,"Timaná","Timaná","Timaná"
+735,"41872","municipality","Villavieja",617.0,"Villavieja","Villavieja","Villavieja"
+736,"41885","municipality","Yaguará",617.0,"Yaguará","Yaguará","Yaguará"
+737,"44001","municipality","Riohacha",655.0,"Riohacha","Riohacha","Riohacha"
+738,"44035","municipality","Albania",655.0,"Albania","Albania","Albania"
+739,"44078","municipality","Barrancas",655.0,"Barrancas","Barrancas","Barrancas"
+740,"44090","municipality","Dibulla",655.0,"Dibulla","Dibulla","Dibulla"
+741,"44098","municipality","Distracción",655.0,"Distracción","Distracción","Distracción"
+742,"44110","municipality","El Molino",655.0,"El Molino","El Molino","El Molino"
+743,"44279","municipality","Fonseca",655.0,"Fonseca","Fonseca","Fonseca"
+744,"44378","municipality","Hatonuevo",655.0,"Hatonuevo","Hatonuevo","Hatonuevo"
+745,"44420","municipality","La Jagua Del Pilar",655.0,"La Jagua Del Pilar","La Jagua Del Pilar","La Jagua Del Pilar"
+746,"44430","municipality","Maicao",655.0,"Maicao","Maicao","Maicao"
+747,"44560","municipality","Manaure",655.0,"Manaure","Manaure","Manaure"
+748,"44650","municipality","San Juan Del Cesar",655.0,"San Juan Del Cesar","San Juan Del Cesar","San Juan Del Cesar"
+749,"44847","municipality","Uribia",655.0,"Uribia","Uribia","Uribia"
+750,"44855","municipality","Urumita",655.0,"Urumita","Urumita","Urumita"
+751,"44874","municipality","Villanueva",655.0,"Villanueva","Villanueva","Villanueva"
+752,"47001","municipality","Santa Marta",671.0,"Santa Marta","Santa Marta","Santa Marta"
+753,"47030","municipality","Algarrobo",671.0,"Algarrobo","Algarrobo","Algarrobo"
+754,"47053","municipality","Aracataca",671.0,"Aracataca","Aracataca","Aracataca"
+755,"47058","municipality","Ariguaní",671.0,"Ariguaní","Ariguaní","Ariguaní"
+756,"47161","municipality","Cerro De San Antonio",671.0,"Cerro De San Antonio","Cerro De San Antonio","Cerro De San Antonio"
+757,"47170","municipality","Chivolo",671.0,"Chivolo","Chivolo","Chivolo"
+758,"47189","municipality","Ciénaga",671.0,"Ciénaga","Ciénaga","Ciénaga"
+759,"47205","municipality","Concordia",671.0,"Concordia","Concordia","Concordia"
+760,"47245","municipality","El Banco",671.0,"El Banco","El Banco","El Banco"
+761,"47258","municipality","El Piñón",671.0,"El Piñón","El Piñón","El Piñón"
+762,"47268","municipality","El Retén",671.0,"El Retén","El Retén","El Retén"
+763,"47288","municipality","Fundación",671.0,"Fundación","Fundación","Fundación"
+764,"47318","municipality","Guamal",671.0,"Guamal","Guamal","Guamal"
+765,"47460","municipality","Nueva Granada",671.0,"Nueva Granada","Nueva Granada","Nueva Granada"
+766,"47541","municipality","Pedraza",671.0,"Pedraza","Pedraza","Pedraza"
+767,"47545","municipality","Pijiño Del Carmen",671.0,"Pijiño Del Carmen","Pijiño Del Carmen","Pijiño Del Carmen"
+768,"47551","municipality","Pivijay",671.0,"Pivijay","Pivijay","Pivijay"
+769,"47555","municipality","Plato",671.0,"Plato","Plato","Plato"
+770,"47570","municipality","Puebloviejo",671.0,"Puebloviejo","Puebloviejo","Puebloviejo"
+771,"47605","municipality","Remolino",671.0,"Remolino","Remolino","Remolino"
+772,"47660","municipality","Sabanas De San Ángel",671.0,"Sabanas De San Ángel","Sabanas De San Ángel","Sabanas De San Ángel"
+773,"47675","municipality","Salamina",671.0,"Salamina","Salamina","Salamina"
+774,"47692","municipality","San Sebastián De Buenavista",671.0,"San Sebastián De Buenavista","San Sebastián De Buenavista","San Sebastián De Buenavista"
+775,"47703","municipality","San Zenón",671.0,"San Zenón","San Zenón","San Zenón"
+776,"47707","municipality","Santa Ana",671.0,"Santa Ana","Santa Ana","Santa Ana"
+777,"47720","municipality","Santa Bárbara De Pinto",671.0,"Santa Bárbara De Pinto","Santa Bárbara De Pinto","Santa Bárbara De Pinto"
+778,"47745","municipality","Sitionuevo",671.0,"Sitionuevo","Sitionuevo","Sitionuevo"
+779,"47798","municipality","Tenerife",671.0,"Tenerife","Tenerife","Tenerife"
+780,"47960","municipality","Zapayán",671.0,"Zapayán","Zapayán","Zapayán"
+781,"47980","municipality","Zona Bananera",671.0,"Zona Bananera","Zona Bananera","Zona Bananera"
+782,"50001","municipality","Villavicencio",702.0,"Villavicencio","Villavicencio","Villavicencio"
+783,"50006","municipality","Acacías",702.0,"Acacías","Acacías","Acacías"
+784,"50110","municipality","Barranca De Upía",702.0,"Barranca De Upía","Barranca De Upía","Barranca De Upía"
+785,"50124","municipality","Cabuyaro",702.0,"Cabuyaro","Cabuyaro","Cabuyaro"
+786,"50150","municipality","Castilla La Nueva",702.0,"Castilla La Nueva","Castilla La Nueva","Castilla La Nueva"
+787,"50223","municipality","Cubarral",702.0,"Cubarral","Cubarral","Cubarral"
+788,"50226","municipality","Cumaral",702.0,"Cumaral","Cumaral","Cumaral"
+789,"50245","municipality","El Calvario",702.0,"El Calvario","El Calvario","El Calvario"
+790,"50251","municipality","El Castillo",702.0,"El Castillo","El Castillo","El Castillo"
+791,"50270","municipality","El Dorado",702.0,"El Dorado","El Dorado","El Dorado"
+792,"50287","municipality","Fuente De Oro",702.0,"Fuente De Oro","Fuente De Oro","Fuente De Oro"
+793,"50313","municipality","Granada",702.0,"Granada","Granada","Granada"
+794,"50318","municipality","Guamal",702.0,"Guamal","Guamal","Guamal"
+795,"50325","municipality","Mapiripán",702.0,"Mapiripán","Mapiripán","Mapiripán"
+796,"50330","municipality","Mesetas",702.0,"Mesetas","Mesetas","Mesetas"
+797,"50350","municipality","La Macarena",702.0,"La Macarena","La Macarena","La Macarena"
+798,"50370","municipality","Uribe",702.0,"Uribe","Uribe","Uribe"
+799,"50400","municipality","Lejanías",702.0,"Lejanías","Lejanías","Lejanías"
+800,"50450","municipality","Puerto Concordia",702.0,"Puerto Concordia","Puerto Concordia","Puerto Concordia"
+801,"50568","municipality","Puerto Gaitán",702.0,"Puerto Gaitán","Puerto Gaitán","Puerto Gaitán"
+802,"50573","municipality","Puerto López",702.0,"Puerto López","Puerto López","Puerto López"
+803,"50577","municipality","Puerto Lleras",702.0,"Puerto Lleras","Puerto Lleras","Puerto Lleras"
+804,"50590","municipality","Puerto Rico",702.0,"Puerto Rico","Puerto Rico","Puerto Rico"
+805,"50606","municipality","Restrepo",702.0,"Restrepo","Restrepo","Restrepo"
+806,"50680","municipality","San Carlos De Guaroa",702.0,"San Carlos De Guaroa","San Carlos De Guaroa","San Carlos De Guaroa"
+807,"50683","municipality","San Juan De Arama",702.0,"San Juan De Arama","San Juan De Arama","San Juan De Arama"
+808,"50686","municipality","San Juanito",702.0,"San Juanito","San Juanito","San Juanito"
+809,"50689","municipality","San Martín",702.0,"San Martín","San Martín","San Martín"
+810,"50711","municipality","Vistahermosa",702.0,"Vistahermosa","Vistahermosa","Vistahermosa"
+811,"52001","municipality","Pasto",732.0,"Pasto","Pasto","Pasto"
+812,"52019","municipality","Albán",732.0,"Albán","Albán","Albán"
+813,"52022","municipality","Aldana",732.0,"Aldana","Aldana","Aldana"
+814,"52036","municipality","Ancuyá",732.0,"Ancuyá","Ancuyá","Ancuyá"
+815,"52051","municipality","Arboleda",732.0,"Arboleda","Arboleda","Arboleda"
+816,"52079","municipality","Barbacoas",732.0,"Barbacoas","Barbacoas","Barbacoas"
+817,"52083","municipality","Belén",732.0,"Belén","Belén","Belén"
+818,"52110","municipality","Buesaco",732.0,"Buesaco","Buesaco","Buesaco"
+819,"52203","municipality","Colón",732.0,"Colón","Colón","Colón"
+820,"52207","municipality","Consacá",732.0,"Consacá","Consacá","Consacá"
+821,"52210","municipality","Contadero",732.0,"Contadero","Contadero","Contadero"
+822,"52215","municipality","Córdoba",732.0,"Córdoba","Córdoba","Córdoba"
+823,"52224","municipality","Cuaspúd",732.0,"Cuaspúd","Cuaspúd","Cuaspúd"
+824,"52227","municipality","Cumbal",732.0,"Cumbal","Cumbal","Cumbal"
+825,"52233","municipality","Cumbitara",732.0,"Cumbitara","Cumbitara","Cumbitara"
+826,"52240","municipality","Chachagüí",732.0,"Chachagüí","Chachagüí","Chachagüí"
+827,"52250","municipality","El Charco",732.0,"El Charco","El Charco","El Charco"
+828,"52254","municipality","El Peñol",732.0,"El Peñol","El Peñol","El Peñol"
+829,"52256","municipality","El Rosario",732.0,"El Rosario","El Rosario","El Rosario"
+830,"52258","municipality","El Tablón De Gómez",732.0,"El Tablón De Gómez","El Tablón De Gómez","El Tablón De Gómez"
+831,"52260","municipality","El Tambo",732.0,"El Tambo","El Tambo","El Tambo"
+832,"52287","municipality","Funes",732.0,"Funes","Funes","Funes"
+833,"52317","municipality","Guachucal",732.0,"Guachucal","Guachucal","Guachucal"
+834,"52320","municipality","Guaitarilla",732.0,"Guaitarilla","Guaitarilla","Guaitarilla"
+835,"52323","municipality","Gualmatán",732.0,"Gualmatán","Gualmatán","Gualmatán"
+836,"52352","municipality","Iles",732.0,"Iles","Iles","Iles"
+837,"52354","municipality","Imués",732.0,"Imués","Imués","Imués"
+838,"52356","municipality","Ipiales",732.0,"Ipiales","Ipiales","Ipiales"
+839,"52378","municipality","La Cruz",732.0,"La Cruz","La Cruz","La Cruz"
+840,"52381","municipality","La Florida",732.0,"La Florida","La Florida","La Florida"
+841,"52385","municipality","La Llanada",732.0,"La Llanada","La Llanada","La Llanada"
+842,"52390","municipality","La Tola",732.0,"La Tola","La Tola","La Tola"
+843,"52399","municipality","La Unión",732.0,"La Unión","La Unión","La Unión"
+844,"52405","municipality","Leiva",732.0,"Leiva","Leiva","Leiva"
+845,"52411","municipality","Linares",732.0,"Linares","Linares","Linares"
+846,"52418","municipality","Los Andes",732.0,"Los Andes","Los Andes","Los Andes"
+847,"52427","municipality","Magüí",732.0,"Magüí","Magüí","Magüí"
+848,"52435","municipality","Mallama",732.0,"Mallama","Mallama","Mallama"
+849,"52473","municipality","Mosquera",732.0,"Mosquera","Mosquera","Mosquera"
+850,"52480","municipality","Nariño",732.0,"Nariño","Nariño","Nariño"
+851,"52490","municipality","Olaya Herrera",732.0,"Olaya Herrera","Olaya Herrera","Olaya Herrera"
+852,"52506","municipality","Ospina",732.0,"Ospina","Ospina","Ospina"
+853,"52520","municipality","Francisco Pizarro",732.0,"Francisco Pizarro","Francisco Pizarro","Francisco Pizarro"
+854,"52540","municipality","Policarpa",732.0,"Policarpa","Policarpa","Policarpa"
+855,"52560","municipality","Potosí",732.0,"Potosí","Potosí","Potosí"
+856,"52565","municipality","Providencia",732.0,"Providencia","Providencia","Providencia"
+857,"52573","municipality","Puerres",732.0,"Puerres","Puerres","Puerres"
+858,"52585","municipality","Pupiales",732.0,"Pupiales","Pupiales","Pupiales"
+859,"52612","municipality","Ricaurte",732.0,"Ricaurte","Ricaurte","Ricaurte"
+860,"52621","municipality","Roberto Payán",732.0,"Roberto Payán","Roberto Payán","Roberto Payán"
+861,"52678","municipality","Samaniego",732.0,"Samaniego","Samaniego","Samaniego"
+862,"52683","municipality","Sandoná",732.0,"Sandoná","Sandoná","Sandoná"
+863,"52685","municipality","San Bernardo",732.0,"San Bernardo","San Bernardo","San Bernardo"
+864,"52687","municipality","San Lorenzo",732.0,"San Lorenzo","San Lorenzo","San Lorenzo"
+865,"52693","municipality","San Pablo",732.0,"San Pablo","San Pablo","San Pablo"
+866,"52694","municipality","San Pedro De Cartago",732.0,"San Pedro De Cartago","San Pedro De Cartago","San Pedro De Cartago"
+867,"52696","municipality","Santa Bárbara",732.0,"Santa Bárbara","Santa Bárbara","Santa Bárbara"
+868,"52699","municipality","Santacruz",732.0,"Santacruz","Santacruz","Santacruz"
+869,"52720","municipality","Sapuyes",732.0,"Sapuyes","Sapuyes","Sapuyes"
+870,"52786","municipality","Taminango",732.0,"Taminango","Taminango","Taminango"
+871,"52788","municipality","Tangua",732.0,"Tangua","Tangua","Tangua"
+872,"52835","municipality","San Andrés De Tumaco",732.0,"San Andrés De Tumaco","San Andrés De Tumaco","San Andrés De Tumaco"
+873,"52838","municipality","Túquerres",732.0,"Túquerres","Túquerres","Túquerres"
+874,"52885","municipality","Yacuanquer",732.0,"Yacuanquer","Yacuanquer","Yacuanquer"
+875,"54001","municipality","Cúcuta",797.0,"Cúcuta","Cúcuta","Cúcuta"
+876,"54003","municipality","Ábrego",797.0,"Ábrego","Ábrego","Ábrego"
+877,"54051","municipality","Arboledas",797.0,"Arboledas","Arboledas","Arboledas"
+878,"54099","municipality","Bochalema",797.0,"Bochalema","Bochalema","Bochalema"
+879,"54109","municipality","Bucarasica",797.0,"Bucarasica","Bucarasica","Bucarasica"
+880,"54125","municipality","Cácota",797.0,"Cácota","Cácota","Cácota"
+881,"54128","municipality","Cáchira",797.0,"Cáchira","Cáchira","Cáchira"
+882,"54172","municipality","Chinácota",797.0,"Chinácota","Chinácota","Chinácota"
+883,"54174","municipality","Chitagá",797.0,"Chitagá","Chitagá","Chitagá"
+884,"54206","municipality","Convención",797.0,"Convención","Convención","Convención"
+885,"54223","municipality","Cucutilla",797.0,"Cucutilla","Cucutilla","Cucutilla"
+886,"54239","municipality","Durania",797.0,"Durania","Durania","Durania"
+887,"54245","municipality","El Carmen",797.0,"El Carmen","El Carmen","El Carmen"
+888,"54250","municipality","El Tarra",797.0,"El Tarra","El Tarra","El Tarra"
+889,"54261","municipality","El Zulia",797.0,"El Zulia","El Zulia","El Zulia"
+890,"54313","municipality","Gramalote",797.0,"Gramalote","Gramalote","Gramalote"
+891,"54344","municipality","Hacarí",797.0,"Hacarí","Hacarí","Hacarí"
+892,"54347","municipality","Herrán",797.0,"Herrán","Herrán","Herrán"
+893,"54377","municipality","Labateca",797.0,"Labateca","Labateca","Labateca"
+894,"54385","municipality","La Esperanza",797.0,"La Esperanza","La Esperanza","La Esperanza"
+895,"54398","municipality","La Playa",797.0,"La Playa","La Playa","La Playa"
+896,"54405","municipality","Los Patios",797.0,"Los Patios","Los Patios","Los Patios"
+897,"54418","municipality","Lourdes",797.0,"Lourdes","Lourdes","Lourdes"
+898,"54480","municipality","Mutiscua",797.0,"Mutiscua","Mutiscua","Mutiscua"
+899,"54498","municipality","Ocaña",797.0,"Ocaña","Ocaña","Ocaña"
+900,"54518","municipality","Pamplona",797.0,"Pamplona","Pamplona","Pamplona"
+901,"54520","municipality","Pamplonita",797.0,"Pamplonita","Pamplonita","Pamplonita"
+902,"54553","municipality","Puerto Santander",797.0,"Puerto Santander","Puerto Santander","Puerto Santander"
+903,"54599","municipality","Ragonvalia",797.0,"Ragonvalia","Ragonvalia","Ragonvalia"
+904,"54660","municipality","Salazar",797.0,"Salazar","Salazar","Salazar"
+905,"54670","municipality","San Calixto",797.0,"San Calixto","San Calixto","San Calixto"
+906,"54673","municipality","San Cayetano",797.0,"San Cayetano","San Cayetano","San Cayetano"
+907,"54680","municipality","Santiago",797.0,"Santiago","Santiago","Santiago"
+908,"54720","municipality","Sardinata",797.0,"Sardinata","Sardinata","Sardinata"
+909,"54743","municipality","Silos",797.0,"Silos","Silos","Silos"
+910,"54800","municipality","Teorama",797.0,"Teorama","Teorama","Teorama"
+911,"54810","municipality","Tibú",797.0,"Tibú","Tibú","Tibú"
+912,"54820","municipality","Toledo",797.0,"Toledo","Toledo","Toledo"
+913,"54871","municipality","Villa Caro",797.0,"Villa Caro","Villa Caro","Villa Caro"
+914,"54874","municipality","Villa Del Rosario",797.0,"Villa Del Rosario","Villa Del Rosario","Villa Del Rosario"
+915,"63001","municipality","Armenia",838.0,"Armenia","Armenia","Armenia"
+916,"63111","municipality","Buenavista",838.0,"Buenavista","Buenavista","Buenavista"
+917,"63130","municipality","Calarcá",838.0,"Calarcá","Calarcá","Calarcá"
+918,"63190","municipality","Circasia",838.0,"Circasia","Circasia","Circasia"
+919,"63212","municipality","Córdoba",838.0,"Córdoba","Córdoba","Córdoba"
+920,"63272","municipality","Filandia",838.0,"Filandia","Filandia","Filandia"
+921,"63302","municipality","Génova",838.0,"Génova","Génova","Génova"
+922,"63401","municipality","La Tebaida",838.0,"La Tebaida","La Tebaida","La Tebaida"
+923,"63470","municipality","Montenegro",838.0,"Montenegro","Montenegro","Montenegro"
+924,"63548","municipality","Pijao",838.0,"Pijao","Pijao","Pijao"
+925,"63594","municipality","Quimbaya",838.0,"Quimbaya","Quimbaya","Quimbaya"
+926,"63690","municipality","Salento",838.0,"Salento","Salento","Salento"
+927,"66001","municipality","Pereira",851.0,"Pereira","Pereira","Pereira"
+928,"66045","municipality","Apía",851.0,"Apía","Apía","Apía"
+929,"66075","municipality","Balboa",851.0,"Balboa","Balboa","Balboa"
+930,"66088","municipality","Belén De Umbría",851.0,"Belén De Umbría","Belén De Umbría","Belén De Umbría"
+931,"66170","municipality","Dosquebradas",851.0,"Dosquebradas","Dosquebradas","Dosquebradas"
+932,"66318","municipality","Guática",851.0,"Guática","Guática","Guática"
+933,"66383","municipality","La Celia",851.0,"La Celia","La Celia","La Celia"
+934,"66400","municipality","La Virginia",851.0,"La Virginia","La Virginia","La Virginia"
+935,"66440","municipality","Marsella",851.0,"Marsella","Marsella","Marsella"
+936,"66456","municipality","Mistrató",851.0,"Mistrató","Mistrató","Mistrató"
+937,"66572","municipality","Pueblo Rico",851.0,"Pueblo Rico","Pueblo Rico","Pueblo Rico"
+938,"66594","municipality","Quinchía",851.0,"Quinchía","Quinchía","Quinchía"
+939,"66682","municipality","Santa Rosa De Cabal",851.0,"Santa Rosa De Cabal","Santa Rosa De Cabal","Santa Rosa De Cabal"
+940,"66687","municipality","Santuario",851.0,"Santuario","Santuario","Santuario"
+941,"68001","municipality","Bucaramanga",866.0,"Bucaramanga","Bucaramanga","Bucaramanga"
+942,"68013","municipality","Aguada",866.0,"Aguada","Aguada","Aguada"
+943,"68020","municipality","Albania",866.0,"Albania","Albania","Albania"
+944,"68051","municipality","Aratoca",866.0,"Aratoca","Aratoca","Aratoca"
+945,"68077","municipality","Barbosa",866.0,"Barbosa","Barbosa","Barbosa"
+946,"68079","municipality","Barichara",866.0,"Barichara","Barichara","Barichara"
+947,"68081","municipality","Barrancabermeja",866.0,"Barrancabermeja","Barrancabermeja","Barrancabermeja"
+948,"68092","municipality","Betulia",866.0,"Betulia","Betulia","Betulia"
+949,"68101","municipality","Bolívar",866.0,"Bolívar","Bolívar","Bolívar"
+950,"68121","municipality","Cabrera",866.0,"Cabrera","Cabrera","Cabrera"
+951,"68132","municipality","California",866.0,"California","California","California"
+952,"68147","municipality","Capitanejo",866.0,"Capitanejo","Capitanejo","Capitanejo"
+953,"68152","municipality","Carcasí",866.0,"Carcasí","Carcasí","Carcasí"
+954,"68160","municipality","Cepitá",866.0,"Cepitá","Cepitá","Cepitá"
+955,"68162","municipality","Cerrito",866.0,"Cerrito","Cerrito","Cerrito"
+956,"68167","municipality","Charalá",866.0,"Charalá","Charalá","Charalá"
+957,"68169","municipality","Charta",866.0,"Charta","Charta","Charta"
+958,"68176","municipality","Chima",866.0,"Chima","Chima","Chima"
+959,"68179","municipality","Chipatá",866.0,"Chipatá","Chipatá","Chipatá"
+960,"68190","municipality","Cimitarra",866.0,"Cimitarra","Cimitarra","Cimitarra"
+961,"68207","municipality","Concepción",866.0,"Concepción","Concepción","Concepción"
+962,"68209","municipality","Confines",866.0,"Confines","Confines","Confines"
+963,"68211","municipality","Contratación",866.0,"Contratación","Contratación","Contratación"
+964,"68217","municipality","Coromoro",866.0,"Coromoro","Coromoro","Coromoro"
+965,"68229","municipality","Curití",866.0,"Curití","Curití","Curití"
+966,"68235","municipality","El Carmen De Chucurí",866.0,"El Carmen De Chucurí","El Carmen De Chucurí","El Carmen De Chucurí"
+967,"68245","municipality","El Guacamayo",866.0,"El Guacamayo","El Guacamayo","El Guacamayo"
+968,"68250","municipality","El Peñón",866.0,"El Peñón","El Peñón","El Peñón"
+969,"68255","municipality","El Playón",866.0,"El Playón","El Playón","El Playón"
+970,"68264","municipality","Encino",866.0,"Encino","Encino","Encino"
+971,"68266","municipality","Enciso",866.0,"Enciso","Enciso","Enciso"
+972,"68271","municipality","Florián",866.0,"Florián","Florián","Florián"
+973,"68276","municipality","Floridablanca",866.0,"Floridablanca","Floridablanca","Floridablanca"
+974,"68296","municipality","Galán",866.0,"Galán","Galán","Galán"
+975,"68298","municipality","Gámbita",866.0,"Gámbita","Gámbita","Gámbita"
+976,"68307","municipality","Girón",866.0,"Girón","Girón","Girón"
+977,"68318","municipality","Guaca",866.0,"Guaca","Guaca","Guaca"
+978,"68320","municipality","Guadalupe",866.0,"Guadalupe","Guadalupe","Guadalupe"
+979,"68322","municipality","Guapotá",866.0,"Guapotá","Guapotá","Guapotá"
+980,"68324","municipality","Guavatá",866.0,"Guavatá","Guavatá","Guavatá"
+981,"68327","municipality","Güepsa",866.0,"Güepsa","Güepsa","Güepsa"
+982,"68344","municipality","Hato",866.0,"Hato","Hato","Hato"
+983,"68368","municipality","Jesús María",866.0,"Jesús María","Jesús María","Jesús María"
+984,"68370","municipality","Jordán",866.0,"Jordán","Jordán","Jordán"
+985,"68377","municipality","La Belleza",866.0,"La Belleza","La Belleza","La Belleza"
+986,"68385","municipality","Landázuri",866.0,"Landázuri","Landázuri","Landázuri"
+987,"68397","municipality","La Paz",866.0,"La Paz","La Paz","La Paz"
+988,"68406","municipality","Lebrija",866.0,"Lebrija","Lebrija","Lebrija"
+989,"68418","municipality","Los Santos",866.0,"Los Santos","Los Santos","Los Santos"
+990,"68425","municipality","Macaravita",866.0,"Macaravita","Macaravita","Macaravita"
+991,"68432","municipality","Málaga",866.0,"Málaga","Málaga","Málaga"
+992,"68444","municipality","Matanza",866.0,"Matanza","Matanza","Matanza"
+993,"68464","municipality","Mogotes",866.0,"Mogotes","Mogotes","Mogotes"
+994,"68468","municipality","Molagavita",866.0,"Molagavita","Molagavita","Molagavita"
+995,"68498","municipality","Ocamonte",866.0,"Ocamonte","Ocamonte","Ocamonte"
+996,"68500","municipality","Oiba",866.0,"Oiba","Oiba","Oiba"
+997,"68502","municipality","Onzaga",866.0,"Onzaga","Onzaga","Onzaga"
+998,"68522","municipality","Palmar",866.0,"Palmar","Palmar","Palmar"
+999,"68524","municipality","Palmas Del Socorro",866.0,"Palmas Del Socorro","Palmas Del Socorro","Palmas Del Socorro"
+1000,"68533","municipality","Páramo",866.0,"Páramo","Páramo","Páramo"
+1001,"68547","municipality","Piedecuesta",866.0,"Piedecuesta","Piedecuesta","Piedecuesta"
+1002,"68549","municipality","Pinchote",866.0,"Pinchote","Pinchote","Pinchote"
+1003,"68572","municipality","Puente Nacional",866.0,"Puente Nacional","Puente Nacional","Puente Nacional"
+1004,"68573","municipality","Puerto Parra",866.0,"Puerto Parra","Puerto Parra","Puerto Parra"
+1005,"68575","municipality","Puerto Wilches",866.0,"Puerto Wilches","Puerto Wilches","Puerto Wilches"
+1006,"68615","municipality","Rionegro",866.0,"Rionegro","Rionegro","Rionegro"
+1007,"68655","municipality","Sabana De Torres",866.0,"Sabana De Torres","Sabana De Torres","Sabana De Torres"
+1008,"68669","municipality","San Andrés",866.0,"San Andrés","San Andrés","San Andrés"
+1009,"68673","municipality","San Benito",866.0,"San Benito","San Benito","San Benito"
+1010,"68679","municipality","San Gil",866.0,"San Gil","San Gil","San Gil"
+1011,"68682","municipality","San Joaquín",866.0,"San Joaquín","San Joaquín","San Joaquín"
+1012,"68684","municipality","San José De Miranda",866.0,"San José De Miranda","San José De Miranda","San José De Miranda"
+1013,"68686","municipality","San Miguel",866.0,"San Miguel","San Miguel","San Miguel"
+1014,"68689","municipality","San Vicente De Chucurí",866.0,"San Vicente De Chucurí","San Vicente De Chucurí","San Vicente De Chucurí"
+1015,"68705","municipality","Santa Bárbara",866.0,"Santa Bárbara","Santa Bárbara","Santa Bárbara"
+1016,"68720","municipality","Santa Helena Del Opón",866.0,"Santa Helena Del Opón","Santa Helena Del Opón","Santa Helena Del Opón"
+1017,"68745","municipality","Simacota",866.0,"Simacota","Simacota","Simacota"
+1018,"68755","municipality","Socorro",866.0,"Socorro","Socorro","Socorro"
+1019,"68770","municipality","Suaita",866.0,"Suaita","Suaita","Suaita"
+1020,"68773","municipality","Sucre",866.0,"Sucre","Sucre","Sucre"
+1021,"68780","municipality","Suratá",866.0,"Suratá","Suratá","Suratá"
+1022,"68820","municipality","Tona",866.0,"Tona","Tona","Tona"
+1023,"68855","municipality","Valle De San José",866.0,"Valle De San José","Valle De San José","Valle De San José"
+1024,"68861","municipality","Vélez",866.0,"Vélez","Vélez","Vélez"
+1025,"68867","municipality","Vetas",866.0,"Vetas","Vetas","Vetas"
+1026,"68872","municipality","Villanueva",866.0,"Villanueva","Villanueva","Villanueva"
+1027,"68895","municipality","Zapatoca",866.0,"Zapatoca","Zapatoca","Zapatoca"
+1028,"70001","municipality","Sincelejo",954.0,"Sincelejo","Sincelejo","Sincelejo"
+1029,"70110","municipality","Buenavista",954.0,"Buenavista","Buenavista","Buenavista"
+1030,"70124","municipality","Caimito",954.0,"Caimito","Caimito","Caimito"
+1031,"70204","municipality","Colosó",954.0,"Colosó","Colosó","Colosó"
+1032,"70215","municipality","Corozal",954.0,"Corozal","Corozal","Corozal"
+1033,"70221","municipality","Coveñas",954.0,"Coveñas","Coveñas","Coveñas"
+1034,"70230","municipality","Chalán",954.0,"Chalán","Chalán","Chalán"
+1035,"70233","municipality","El Roble",954.0,"El Roble","El Roble","El Roble"
+1036,"70235","municipality","Galeras",954.0,"Galeras","Galeras","Galeras"
+1037,"70265","municipality","Guaranda",954.0,"Guaranda","Guaranda","Guaranda"
+1038,"70400","municipality","La Unión",954.0,"La Unión","La Unión","La Unión"
+1039,"70418","municipality","Los Palmitos",954.0,"Los Palmitos","Los Palmitos","Los Palmitos"
+1040,"70429","municipality","Majagual",954.0,"Majagual","Majagual","Majagual"
+1041,"70473","municipality","Morroa",954.0,"Morroa","Morroa","Morroa"
+1042,"70508","municipality","Ovejas",954.0,"Ovejas","Ovejas","Ovejas"
+1043,"70523","municipality","Palmito",954.0,"Palmito","Palmito","Palmito"
+1044,"70670","municipality","Sampués",954.0,"Sampués","Sampués","Sampués"
+1045,"70678","municipality","San Benito Abad",954.0,"San Benito Abad","San Benito Abad","San Benito Abad"
+1046,"70702","municipality","San Juan De Betulia",954.0,"San Juan De Betulia","San Juan De Betulia","San Juan De Betulia"
+1047,"70708","municipality","San Marcos",954.0,"San Marcos","San Marcos","San Marcos"
+1048,"70713","municipality","San Onofre",954.0,"San Onofre","San Onofre","San Onofre"
+1049,"70717","municipality","San Pedro",954.0,"San Pedro","San Pedro","San Pedro"
+1050,"70742","municipality","San Luis De Sincé",954.0,"San Luis De Sincé","San Luis De Sincé","San Luis De Sincé"
+1051,"70771","municipality","Sucre",954.0,"Sucre","Sucre","Sucre"
+1052,"70820","municipality","Santiago De Tolú",954.0,"Santiago De Tolú","Santiago De Tolú","Santiago De Tolú"
+1053,"70823","municipality","Tolú Viejo",954.0,"Tolú Viejo","Tolú Viejo","Tolú Viejo"
+1054,"73001","municipality","Ibagué",981.0,"Ibagué","Ibagué","Ibagué"
+1055,"73024","municipality","Alpujarra",981.0,"Alpujarra","Alpujarra","Alpujarra"
+1056,"73026","municipality","Alvarado",981.0,"Alvarado","Alvarado","Alvarado"
+1057,"73030","municipality","Ambalema",981.0,"Ambalema","Ambalema","Ambalema"
+1058,"73043","municipality","Anzoátegui",981.0,"Anzoátegui","Anzoátegui","Anzoátegui"
+1059,"73055","municipality","Armero Guayabal",981.0,"Armero Guayabal","Armero Guayabal","Armero Guayabal"
+1060,"73067","municipality","Ataco",981.0,"Ataco","Ataco","Ataco"
+1061,"73124","municipality","Cajamarca",981.0,"Cajamarca","Cajamarca","Cajamarca"
+1062,"73148","municipality","Carmen De Apicalá",981.0,"Carmen De Apicalá","Carmen De Apicalá","Carmen De Apicalá"
+1063,"73152","municipality","Casabianca",981.0,"Casabianca","Casabianca","Casabianca"
+1064,"73168","municipality","Chaparral",981.0,"Chaparral","Chaparral","Chaparral"
+1065,"73200","municipality","Coello",981.0,"Coello","Coello","Coello"
+1066,"73217","municipality","Coyaima",981.0,"Coyaima","Coyaima","Coyaima"
+1067,"73226","municipality","Cunday",981.0,"Cunday","Cunday","Cunday"
+1068,"73236","municipality","Dolores",981.0,"Dolores","Dolores","Dolores"
+1069,"73268","municipality","Espinal",981.0,"Espinal","Espinal","Espinal"
+1070,"73270","municipality","Falan",981.0,"Falan","Falan","Falan"
+1071,"73275","municipality","Flandes",981.0,"Flandes","Flandes","Flandes"
+1072,"73283","municipality","Fresno",981.0,"Fresno","Fresno","Fresno"
+1073,"73319","municipality","Guamo",981.0,"Guamo","Guamo","Guamo"
+1074,"73347","municipality","Herveo",981.0,"Herveo","Herveo","Herveo"
+1075,"73349","municipality","Honda",981.0,"Honda","Honda","Honda"
+1076,"73352","municipality","Icononzo",981.0,"Icononzo","Icononzo","Icononzo"
+1077,"73408","municipality","Lérida",981.0,"Lérida","Lérida","Lérida"
+1078,"73411","municipality","Líbano",981.0,"Líbano","Líbano","Líbano"
+1079,"73443","municipality","San Sebastián De Mariquita",981.0,"San Sebastián De Mariquita","San Sebastián De Mariquita","San Sebastián De Mariquita"
+1080,"73449","municipality","Melgar",981.0,"Melgar","Melgar","Melgar"
+1081,"73461","municipality","Murillo",981.0,"Murillo","Murillo","Murillo"
+1082,"73483","municipality","Natagaima",981.0,"Natagaima","Natagaima","Natagaima"
+1083,"73504","municipality","Ortega",981.0,"Ortega","Ortega","Ortega"
+1084,"73520","municipality","Palocabildo",981.0,"Palocabildo","Palocabildo","Palocabildo"
+1085,"73547","municipality","Piedras",981.0,"Piedras","Piedras","Piedras"
+1086,"73555","municipality","Planadas",981.0,"Planadas","Planadas","Planadas"
+1087,"73563","municipality","Prado",981.0,"Prado","Prado","Prado"
+1088,"73585","municipality","Purificación",981.0,"Purificación","Purificación","Purificación"
+1089,"73616","municipality","Rioblanco",981.0,"Rioblanco","Rioblanco","Rioblanco"
+1090,"73622","municipality","Roncesvalles",981.0,"Roncesvalles","Roncesvalles","Roncesvalles"
+1091,"73624","municipality","Rovira",981.0,"Rovira","Rovira","Rovira"
+1092,"73671","municipality","Saldaña",981.0,"Saldaña","Saldaña","Saldaña"
+1093,"73675","municipality","San Antonio",981.0,"San Antonio","San Antonio","San Antonio"
+1094,"73678","municipality","San Luis",981.0,"San Luis","San Luis","San Luis"
+1095,"73686","municipality","Santa Isabel",981.0,"Santa Isabel","Santa Isabel","Santa Isabel"
+1096,"73770","municipality","Suárez",981.0,"Suárez","Suárez","Suárez"
+1097,"73854","municipality","Valle De San Juan",981.0,"Valle De San Juan","Valle De San Juan","Valle De San Juan"
+1098,"73861","municipality","Venadillo",981.0,"Venadillo","Venadillo","Venadillo"
+1099,"73870","municipality","Villahermosa",981.0,"Villahermosa","Villahermosa","Villahermosa"
+1100,"73873","municipality","Villarrica",981.0,"Villarrica","Villarrica","Villarrica"
+1101,"76001","municipality","Cali",1029.0,"Cali","Cali","Cali"
+1102,"76020","municipality","Alcalá",1029.0,"Alcalá","Alcalá","Alcalá"
+1103,"76036","municipality","Andalucía",1029.0,"Andalucía","Andalucía","Andalucía"
+1104,"76041","municipality","Ansermanuevo",1029.0,"Ansermanuevo","Ansermanuevo","Ansermanuevo"
+1105,"76054","municipality","Argelia",1029.0,"Argelia","Argelia","Argelia"
+1106,"76100","municipality","Bolívar",1029.0,"Bolívar","Bolívar","Bolívar"
+1107,"76109","municipality","Buenaventura",1029.0,"Buenaventura","Buenaventura","Buenaventura"
+1108,"76111","municipality","Guadalajara De Buga",1029.0,"Guadalajara De Buga","Guadalajara De Buga","Guadalajara De Buga"
+1109,"76113","municipality","Bugalagrande",1029.0,"Bugalagrande","Bugalagrande","Bugalagrande"
+1110,"76122","municipality","Caicedonia",1029.0,"Caicedonia","Caicedonia","Caicedonia"
+1111,"76126","municipality","Calima",1029.0,"Calima","Calima","Calima"
+1112,"76130","municipality","Candelaria",1029.0,"Candelaria","Candelaria","Candelaria"
+1113,"76147","municipality","Cartago",1029.0,"Cartago","Cartago","Cartago"
+1114,"76233","municipality","Dagua",1029.0,"Dagua","Dagua","Dagua"
+1115,"76243","municipality","El Águila",1029.0,"El Águila","El Águila","El Águila"
+1116,"76246","municipality","El Cairo",1029.0,"El Cairo","El Cairo","El Cairo"
+1117,"76248","municipality","El Cerrito",1029.0,"El Cerrito","El Cerrito","El Cerrito"
+1118,"76250","municipality","El Dovio",1029.0,"El Dovio","El Dovio","El Dovio"
+1119,"76275","municipality","Florida",1029.0,"Florida","Florida","Florida"
+1120,"76306","municipality","Ginebra",1029.0,"Ginebra","Ginebra","Ginebra"
+1121,"76318","municipality","Guacarí",1029.0,"Guacarí","Guacarí","Guacarí"
+1122,"76364","municipality","Jamundí",1029.0,"Jamundí","Jamundí","Jamundí"
+1123,"76377","municipality","La Cumbre",1029.0,"La Cumbre","La Cumbre","La Cumbre"
+1124,"76400","municipality","La Unión",1029.0,"La Unión","La Unión","La Unión"
+1125,"76403","municipality","La Victoria",1029.0,"La Victoria","La Victoria","La Victoria"
+1126,"76497","municipality","Obando",1029.0,"Obando","Obando","Obando"
+1127,"76520","municipality","Palmira",1029.0,"Palmira","Palmira","Palmira"
+1128,"76563","municipality","Pradera",1029.0,"Pradera","Pradera","Pradera"
+1129,"76606","municipality","Restrepo",1029.0,"Restrepo","Restrepo","Restrepo"
+1130,"76616","municipality","Riofrío",1029.0,"Riofrío","Riofrío","Riofrío"
+1131,"76622","municipality","Roldanillo",1029.0,"Roldanillo","Roldanillo","Roldanillo"
+1132,"76670","municipality","San Pedro",1029.0,"San Pedro","San Pedro","San Pedro"
+1133,"76736","municipality","Sevilla",1029.0,"Sevilla","Sevilla","Sevilla"
+1134,"76823","municipality","Toro",1029.0,"Toro","Toro","Toro"
+1135,"76828","municipality","Trujillo",1029.0,"Trujillo","Trujillo","Trujillo"
+1136,"76834","municipality","Tuluá",1029.0,"Tuluá","Tuluá","Tuluá"
+1137,"76845","municipality","Ulloa",1029.0,"Ulloa","Ulloa","Ulloa"
+1138,"76863","municipality","Versalles",1029.0,"Versalles","Versalles","Versalles"
+1139,"76869","municipality","Vijes",1029.0,"Vijes","Vijes","Vijes"
+1140,"76890","municipality","Yotoco",1029.0,"Yotoco","Yotoco","Yotoco"
+1141,"76892","municipality","Yumbo",1029.0,"Yumbo","Yumbo","Yumbo"
+1142,"76895","municipality","Zarzal",1029.0,"Zarzal","Zarzal","Zarzal"
+1143,"81001","municipality","Arauca",1072.0,"Arauca","Arauca","Arauca"
+1144,"81065","municipality","Arauquita",1072.0,"Arauquita","Arauquita","Arauquita"
+1145,"81220","municipality","Cravo Norte",1072.0,"Cravo Norte","Cravo Norte","Cravo Norte"
+1146,"81300","municipality","Fortul",1072.0,"Fortul","Fortul","Fortul"
+1147,"81591","municipality","Puerto Rondón",1072.0,"Puerto Rondón","Puerto Rondón","Puerto Rondón"
+1148,"81736","municipality","Saravena",1072.0,"Saravena","Saravena","Saravena"
+1149,"81794","municipality","Tame",1072.0,"Tame","Tame","Tame"
+1150,"85001","municipality","Yopal",1080.0,"Yopal","Yopal","Yopal"
+1151,"85010","municipality","Aguazul",1080.0,"Aguazul","Aguazul","Aguazul"
+1152,"85015","municipality","Chámeza",1080.0,"Chámeza","Chámeza","Chámeza"
+1153,"85125","municipality","Hato Corozal",1080.0,"Hato Corozal","Hato Corozal","Hato Corozal"
+1154,"85136","municipality","La Salina",1080.0,"La Salina","La Salina","La Salina"
+1155,"85139","municipality","Maní",1080.0,"Maní","Maní","Maní"
+1156,"85162","municipality","Monterrey",1080.0,"Monterrey","Monterrey","Monterrey"
+1157,"85225","municipality","Nunchía",1080.0,"Nunchía","Nunchía","Nunchía"
+1158,"85230","municipality","Orocué",1080.0,"Orocué","Orocué","Orocué"
+1159,"85250","municipality","Paz De Ariporo",1080.0,"Paz De Ariporo","Paz De Ariporo","Paz De Ariporo"
+1160,"85263","municipality","Pore",1080.0,"Pore","Pore","Pore"
+1161,"85279","municipality","Recetor",1080.0,"Recetor","Recetor","Recetor"
+1162,"85300","municipality","Sabanalarga",1080.0,"Sabanalarga","Sabanalarga","Sabanalarga"
+1163,"85315","municipality","Sácama",1080.0,"Sácama","Sácama","Sácama"
+1164,"85325","municipality","San Luis De Palenque",1080.0,"San Luis De Palenque","San Luis De Palenque","San Luis De Palenque"
+1165,"85400","municipality","Támara",1080.0,"Támara","Támara","Támara"
+1166,"85410","municipality","Tauramena",1080.0,"Tauramena","Tauramena","Tauramena"
+1167,"85430","municipality","Trinidad",1080.0,"Trinidad","Trinidad","Trinidad"
+1168,"85440","municipality","Villanueva",1080.0,"Villanueva","Villanueva","Villanueva"
+1169,"86001","municipality","Mocoa",1100.0,"Mocoa","Mocoa","Mocoa"
+1170,"86219","municipality","Colón",1100.0,"Colón","Colón","Colón"
+1171,"86320","municipality","Orito",1100.0,"Orito","Orito","Orito"
+1172,"86568","municipality","Puerto Asís",1100.0,"Puerto Asís","Puerto Asís","Puerto Asís"
+1173,"86569","municipality","Puerto Caicedo",1100.0,"Puerto Caicedo","Puerto Caicedo","Puerto Caicedo"
+1174,"86571","municipality","Puerto Guzmán",1100.0,"Puerto Guzmán","Puerto Guzmán","Puerto Guzmán"
+1175,"86573","municipality","Puerto Leguízamo",1100.0,"Puerto Leguízamo","Puerto Leguízamo","Puerto Leguízamo"
+1176,"86749","municipality","Sibundoy",1100.0,"Sibundoy","Sibundoy","Sibundoy"
+1177,"86755","municipality","San Francisco",1100.0,"San Francisco","San Francisco","San Francisco"
+1178,"86757","municipality","San Miguel",1100.0,"San Miguel","San Miguel","San Miguel"
+1179,"86760","municipality","Santiago",1100.0,"Santiago","Santiago","Santiago"
+1180,"86865","municipality","Valle Del Guamuez",1100.0,"Valle Del Guamuez","Valle Del Guamuez","Valle Del Guamuez"
+1181,"86885","municipality","Villagarzón",1100.0,"Villagarzón","Villagarzón","Villagarzón"
+1182,"88001","municipality","San Andrés",1114.0,"San Andrés","San Andrés","San Andrés"
+1183,"88564","municipality","Providencia",1114.0,"Providencia","Providencia","Providencia"
+1184,"91001","municipality","Leticia",1117.0,"Leticia","Leticia","Leticia"
+1185,"91263","municipality","El Encanto",1117.0,"El Encanto","El Encanto","El Encanto"
+1186,"91405","municipality","La Chorrera",1117.0,"La Chorrera","La Chorrera","La Chorrera"
+1187,"91407","municipality","La Pedrera",1117.0,"La Pedrera","La Pedrera","La Pedrera"
+1188,"91430","municipality","La Victoria",1117.0,"La Victoria","La Victoria","La Victoria"
+1189,"91460","municipality","Mirití - Paraná",1117.0,"Mirití - Paraná","Mirití - Paraná","Mirití - Paraná"
+1190,"91530","municipality","Puerto Alegría",1117.0,"Puerto Alegría","Puerto Alegría","Puerto Alegría"
+1191,"91536","municipality","Puerto Arica",1117.0,"Puerto Arica","Puerto Arica","Puerto Arica"
+1192,"91540","municipality","Puerto Nariño",1117.0,"Puerto Nariño","Puerto Nariño","Puerto Nariño"
+1193,"91669","municipality","Puerto Santander",1117.0,"Puerto Santander","Puerto Santander","Puerto Santander"
+1194,"91798","municipality","Tarapacá",1117.0,"Tarapacá","Tarapacá","Tarapacá"
+1195,"94001","municipality","Inírida",1129.0,"Inírida","Inírida","Inírida"
+1196,"94343","municipality","Barranco Minas",1129.0,"Barranco Minas","Barranco Minas","Barranco Minas"
+1197,"94663","municipality","Mapiripana",1129.0,"Mapiripana","Mapiripana","Mapiripana"
+1198,"94883","municipality","San Felipe",1129.0,"San Felipe","San Felipe","San Felipe"
+1199,"94884","municipality","Puerto Colombia",1129.0,"Puerto Colombia","Puerto Colombia","Puerto Colombia"
+1200,"94885","municipality","La Guadalupe",1129.0,"La Guadalupe","La Guadalupe","La Guadalupe"
+1201,"94886","municipality","Cacahual",1129.0,"Cacahual","Cacahual","Cacahual"
+1202,"94887","municipality","Pana Pana",1129.0,"Pana Pana","Pana Pana","Pana Pana"
+1203,"94888","municipality","Morichal",1129.0,"Morichal","Morichal","Morichal"
+1204,"95001","municipality","San José Del Guaviare",1139.0,"San José Del Guaviare","San José Del Guaviare","San José Del Guaviare"
+1205,"95015","municipality","Calamar",1139.0,"Calamar","Calamar","Calamar"
+1206,"95025","municipality","El Retorno",1139.0,"El Retorno","El Retorno","El Retorno"
+1207,"95200","municipality","Miraflores",1139.0,"Miraflores","Miraflores","Miraflores"
+1208,"97001","municipality","Mitú",1144.0,"Mitú","Mitú","Mitú"
+1209,"97161","municipality","Carurú",1144.0,"Carurú","Carurú","Carurú"
+1210,"97511","municipality","Pacoa",1144.0,"Pacoa","Pacoa","Pacoa"
+1211,"97666","municipality","Taraira",1144.0,"Taraira","Taraira","Taraira"
+1212,"97777","municipality","Papunaua",1144.0,"Papunaua","Papunaua","Papunaua"
+1213,"97889","municipality","Yavaraté",1144.0,"Yavaraté","Yavaraté","Yavaraté"
+1214,"99001","municipality","Puerto Carreño",1151.0,"Puerto Carreño","Puerto Carreño","Puerto Carreño"
+1215,"99524","municipality","La Primavera",1151.0,"La Primavera","La Primavera","La Primavera"
+1216,"99624","municipality","Santa Rosalía",1151.0,"Santa Rosalía","Santa Rosalía","Santa Rosalía"
+1217,"99773","municipality","Cumaribo",1151.0,"Cumaribo","Cumaribo","Cumaribo"
