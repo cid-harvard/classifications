@@ -29,9 +29,7 @@ if __name__ == "__main__":
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table.name = parent_id_table.name_en
 
-    from IPython import embed; embed()
-
     c = Classification(parent_id_table, h)
 
-    c.to_csv("out/products_mexico_prospedia.csv")
-    c.to_stata("out/products_mexico_prospedia.dta")
+    c.to_csv("out/products_colombia_prospedia.csv")
+    c.to_stata("out/products_colombia_prospedia.dta")
