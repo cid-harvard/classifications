@@ -1356,12 +1356,12 @@ code	level	name_en	name_es	name_short_es	name_short_en
 97	2digit	Works of art, collectors' pieces and antiques.	Obras de arte, piezas de colección y antigüedades	Arte	Art
 98	2digit	(Reserved for special uses by Contracting Parties)	(Reservado para usos especiales de las Partes Contratantes)	(Reservado para usos especiales de las Partes Contratantes)	(Reserved for special uses by Contracting Parties)
 99	2digit	(Reserved for special uses by Contracting Parties)	(Reservado para usos especiales de las Partes Contratantes)	(Reservado para usos especiales de las Partes Contratantes)	(Reserved for special uses by Contracting Parties)
-1	prosperia_section	Textiles & Furniture	Textiles y Muebles	Textiles y Muebles	Textiles & Furniture
-2	prosperia_section	Vegetables, Foodstuffs, Wood	Vegetales, Alimentos y Madera	Vegetales, Alimentos y Madera	Vegetables, Foodstuffs, Wood
-3	prosperia_section	Stone & Glass	Piedra & Vidrio	Piedra & Vidrio	Stone & Glass
-4	prosperia_section	Minerals	Minerales	Minerales	Minerals
-5	prosperia_section	Metals	Metales	Metales	Metals
-6	prosperia_section	Chemicals & Plastics	Químicos y Plásticos	Químicos y Plásticos	Chemicals & Plastics
-7	prosperia_section	Transport Vehicles	Vehículos de Transporte	Vehículos de Transporte	Transport Vehicles
-8	prosperia_section	Machinery	Maquinaria	Maquinaria	Machinery
-9	prosperia_section	Electronics	Electrónicos	Electrónicos	Electronics
+1	section	Textiles & Furniture	Textiles y Muebles	Textiles y Muebles	Textiles & Furniture
+2	section	Vegetables, Foodstuffs, Wood	Vegetales, Alimentos y Madera	Vegetales, Alimentos y Madera	Vegetables, Foodstuffs, Wood
+3	section	Stone & Glass	Piedra & Vidrio	Piedra & Vidrio	Stone & Glass
+4	section	Minerals	Minerales	Minerales	Minerals
+5	section	Metals	Metales	Metales	Metals
+6	section	Chemicals & Plastics	Químicos y Plásticos	Químicos y Plásticos	Chemicals & Plastics
+7	section	Transport Vehicles	Vehículos de Transporte	Vehículos de Transporte	Transport Vehicles
+8	section	Machinery	Maquinaria	Maquinaria	Machinery
+9	section	Electronics	Electrónicos	Electrónicos	Electronics
