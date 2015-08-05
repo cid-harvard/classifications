@@ -24,10 +24,13 @@ if __name__ == "__main__":
     h = Hierarchy(["prosperia_section", "2digit", "4digit"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h)
 
+    parent_code_table.code = parent_code_table.code.astype(str)
+
     parent_code_table = parent_code_table.merge(names, on=["code", "level"])
 
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table.name = parent_id_table.name_en
+
 
     c = Classification(parent_id_table, h)
 
