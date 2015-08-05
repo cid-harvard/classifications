@@ -31,6 +31,8 @@ if __name__ == "__main__":
     metro_areas["parent_code"] = metro_areas.code.str.slice(0, 2)
     metro_areas["level"] = "msa"
 
+    df.loc[df.level=="department", "parent_code"] = "COL"
+
     df = pd.concat([pd.DataFrame(colombia).T, df, metro_areas])
 
     df = df.reset_index(drop=True)
