@@ -14,6 +14,7 @@ if __name__ == "__main__":
     c = Classification.from_csv("../DANE/out/locations_colombia_dane.csv")
 
     df = id_table_to_code_table(c.table)
+    df = df[df.level != "population_center"]
 
     colombia = pd.Series({
         "code": "COL",
@@ -35,7 +36,7 @@ if __name__ == "__main__":
     df = df.reset_index(drop=True)
     df = df.sort(["level", "code"], ascending=True)
 
-    h = Hierarchy(["country", "department", "msa", "municipality", "population_center"])
+    h = Hierarchy(["country", "department", "msa", "municipality"])
     df = parent_code_table_to_parent_id_table(df, h)
 
     c = Classification(df, h)
