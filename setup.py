@@ -23,6 +23,7 @@ setup(
             'product/HS/Colombia_Prospedia/out/products_colombia_prospedia.csv',
             'occupation/SINCO/Mexico/out/occupations_sinco_2011.csv',
             'location/Colombia/DANE/out/locations_colombia_dane.csv',
+            'location/Colombia/Prospedia/out/locations_colombia_prosperia.csv',
             'location/Mexico/INEGI/out/locations_mexico_inegi.csv',
             'location/International/DANE/out/locations_international_dane.csv',
         ]
