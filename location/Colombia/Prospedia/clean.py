@@ -23,7 +23,7 @@ if __name__ == "__main__":
     })
 
     metro_areas = pd\
-        .read_stata("/Users/makmana/ciddata/Subnationals/Atlas/Colombia/beta/Trade/Keys/Colombia_city_key.dta", encoding="mac-roman")\
+        .read_stata("./in/Colombia_city_key.dta", encoding="mac-roman")\
         .query("head_mun == 1")[["city_name", "city_code"]]
 
     metro_areas.columns = ["name", "code"]
