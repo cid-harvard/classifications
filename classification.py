@@ -18,11 +18,17 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
     """From a classification that has parent_code, go to one that has
     parent_id."""
 
-    code_table = df[["code"]].reset_index()
-    code_table.columns = ["parent_id", "parent_code"]
+    code_table = df[["code", "level"]].reset_index()
+    code_table.columns = ["parent_id", "parent_code", "parent_level"]
 
-    return df.merge(code_table, on="parent_code", how="left")\
-        .drop("parent_code", axis=1)
+    df["parent_level"] = df["level"]\
+        .map(hierarchy.parent)\
+        .fillna(value=pd.np.nan)
+
+    return df.merge(code_table,
+                    on=["parent_level", "parent_code"],
+                    how="left")\
+        .drop(["parent_code", "parent_level"], axis=1)
 
 
 def ordered_table_to_parent_code_table(df, hierarchy):
@@ -43,18 +49,19 @@ def ordered_table_to_parent_code_table(df, hierarchy):
     return df
 
 
-def repeated_table_to_parent_id_table(df, hierarchy):
+def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
 
     # Check there is a code and name field for every entry in the hierarchy
     for level in hierarchy:
-        for suffix in ["code", "name"]:
-            field_name = "{}_{}".format(level, suffix)
+        for field_name in level_fields[level]:
             assert field_name in df.columns, "Missing field: {}".format(field_name)
 
     # Check there are no duplicate codes for the same country + dept + muni
     # etc.
     codes = ["{}_code".format(x) for x in hierarchy]
     assert df[codes].duplicated().any() == False
+    assert pd.Series(hierarchy).isin(level_fields.keys()).all()
+
 
     new_table = []
     for idx, row in df.iterrows():
@@ -62,15 +69,31 @@ def repeated_table_to_parent_id_table(df, hierarchy):
         parent_codes = [None]
 
         for level in hierarchy:
-            name = row["{}_name".format(level)]
             code = row["{}_code".format(level)]
-            new_table.append([code, name, level, parent_codes[-1]])
+
+            row_dict = {
+                "code": code,
+                "level": level,
+                "parent_code": parent_codes[-1]
+            }
+
+            for field in level_fields[level]:
+
+                # Strip _section from the end
+                assert field.endswith("_"+ level)
+                new_field_name = field[:-1 * len(level) - 1]
+
+                row_dict[new_field_name] = row[field]
+
+            new_table.append(row_dict)
             parent_codes.append(code)
 
-    new_df = pd.DataFrame(new_table, columns=["code", "name", "level", "parent_code"])
+
+    new_df = pd.DataFrame(new_table)
     new_df = new_df[~new_df.duplicated()]
     new_df = new_df.reset_index(drop=True)
-    new_df.level = new_df.level.astype("category")
+    # new_df.level = new_df.level.astype("category")
+
     return new_df
 
 
