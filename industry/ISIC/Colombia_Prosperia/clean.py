@@ -16,6 +16,10 @@ if __name__ == "__main__":
 
     df = df.drop_duplicates(["class_code", "division_code", "section_code"]).reset_index(drop=True)
 
+    df.class_code = df.class_code.astype(int).astype(str).str.zfill(4)
+    df.division_code = df.division_code.astype(int).astype(str).str.zfill(2)
+    df.section_code = df.section_code.astype(int).astype(str).str.zfill(2)
+
     h = Hierarchy(["section", "division", "class"])
     parent_code_table = repeated_table_to_parent_id_table(
         df, h,
