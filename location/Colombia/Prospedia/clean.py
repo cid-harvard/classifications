@@ -35,16 +35,28 @@ if __name__ == "__main__":
 
     df = pd.concat([pd.DataFrame(colombia).T, df, metro_areas])
 
-    df = df.reset_index(drop=True)
     df = df.sort(["level", "code"], ascending=True)
+    df = df.reset_index(drop=True)
 
     h = Hierarchy(["country", "department", "msa", "municipality"])
-    df = parent_code_table_to_parent_id_table(df, h)
-    df["name_es"] = df.name
-    df["name_short_en"] = df.name
-    df["name_short_es"] = df.name
+    parent_id_table = parent_code_table_to_parent_id_table(df, h)
+    parent_id_table["name_es"] = parent_id_table.name
+    parent_id_table["name_short_en"] = parent_id_table.name
+    parent_id_table["name_short_es"] = parent_id_table.name
 
-    c = Classification(df, h)
+    # Work around issue where parent_code_table_to_parent_id_table breaks
+    # because the parent of munis are not msas
+    depts = df[df.level == "department"]
+    depts = depts[["code"]].reset_index().set_index("code")
+    lookup_table = depts.to_dict()["index"]
+
+    def fill_parents(row):
+        if row.level == "municipality" and pd.isnull(row.parent_id):
+            row.parent_id = lookup_table[row.code[:2]]
+        return row
+    parent_id_table = parent_id_table.apply(fill_parents, axis=1)
+
+    c = Classification(parent_id_table, h)
 
     c.to_csv("out/locations_colombia_prosperia.csv")
     c.to_stata("out/locations_colombia_prosperia.dta")
