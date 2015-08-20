@@ -277,9 +277,16 @@ class Classification(object):
         for column in merged_table.columns:
             col = merged_table[column]
             if col.dtype == pd.np.object_:
+
+                # Chop long fields because STATA format doesn't support them
                 if pd.lib.infer_dtype(col.dropna()) == "string":
                     merged_table[column] = col.str.slice(0, 244)
                 elif pd.lib.infer_dtype(col.dropna()) == "unicode":
                     merged_table[column] = col.str.slice(0, 244).map(unidecode, na_action="ignore")
+
+                # Workaround issue in pandas where to_stata() rejects an object
+                # field full of nulls
+                if col.isnull().all():
+                    merged_table[column] = col.astype(float)
 
         merged_table.to_stata(path, encoding="latin-1", write_index=False)
