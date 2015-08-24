@@ -28,6 +28,8 @@ if __name__ == "__main__":
 
     df = repeated_table_to_parent_id_table(df, h, fields)
 
+    df["name_short_en"] = df["name_en"]
+
     assert not df[df.level == "detailed_occupation"].code.str.endswith("0").all()
     assert df[df.level == "broad_occupation"].code.str.endswith("0").all()
     assert df[df.level == "major_group"].code.str.endswith("000").all()
