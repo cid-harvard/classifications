@@ -17,13 +17,19 @@ if __name__ == "__main__":
                                   "atlas_section": str,
                               })
     hierarchy.columns = ["4digit_code", "2digit_code", "section_code", "atlas_section"]
-    hierarchy["4digit_name"] = None
-    hierarchy["2digit_name"] = None
-    hierarchy["section_name"] = None
+    hierarchy["name_4digit"] = None
+    hierarchy["name_2digit"] = None
+    hierarchy["name_section"] = None
 
+
+    fields = {
+        "4digit": ["name_4digit"],
+        "2digit": ["name_2digit"],
+        "section": ["name_section"]
+    }
 
     h = Hierarchy(["section", "2digit", "4digit"])
-    parent_code_table = repeated_table_to_parent_id_table(hierarchy, h)
+    parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
 
     parent_code_table.code = parent_code_table.code.astype(str)
 
@@ -32,6 +38,9 @@ if __name__ == "__main__":
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table.name = parent_id_table.name_en
 
+    parent_id_table = parent_id_table[["code", "name", "level", "name_en",
+                                       "name_es", "name_short_es",
+                                       "name_short_en", "parent_id"]]
 
     c = Classification(parent_id_table, h)
 
