@@ -1,3 +1,5 @@
+# vim: set fileencoding=utf-8 :
+
 import pandas as pd
 
 from classification import (Classification, Hierarchy,
@@ -55,6 +57,18 @@ if __name__ == "__main__":
             row.parent_id = lookup_table[row.code[:2]]
         return row
     parent_id_table = parent_id_table.apply(fill_parents, axis=1)
+
+    wrongtext = "Bogotá, D. C."
+    assert parent_id_table.loc[3, "name"] == wrongtext
+    assert parent_id_table.loc[3, "name_es"] == wrongtext
+    assert parent_id_table.loc[3, "name_short_en"] == wrongtext
+    assert parent_id_table.loc[3, "name_short_es"] == wrongtext
+
+    righttext = "Bogotá, D.C."
+    parent_id_table.loc[3, "name"] = righttext
+    parent_id_table.loc[3, "name_es"] = righttext
+    parent_id_table.loc[3, "name_short_en"] = righttext
+    parent_id_table.loc[3, "name_short_es"] = righttext
 
     c = Classification(parent_id_table, h)
 
