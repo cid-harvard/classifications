@@ -184,8 +184,8 @@ class Classification(object):
         assert (self.table[["name", "level", "code"]].isnull()
                 .any().any() == False)
 
-        assert self.table.index.dtype == np.int
-        assert self.table.parent_id.dtype == np.number
+        assert np.issubdtype(self.table.index.dtype, np.int)
+        assert np.issubdtype(self.table.parent_id.dtype, np.number)
 
         assert self.table.code.dtype == np.object_
         assert self.table.name.dtype == np.object_
