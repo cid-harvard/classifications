@@ -42,8 +42,6 @@ if __name__ == "__main__":
     df.name_spanish = df.name_spanish.str.replace(", $", "")
     df.name_english = df.name_english.str.replace(", $", "")
 
-    h = Hierarchy(["twodigit", "threedigit", "fourdigit", "fivedigit", "sixdigit"])
-
     df.loc[df.code.str.len() == 2, "level"] = "twodigit"
     df.loc[df.code.str.len() == 3, "level"] = "threedigit"
     df.loc[df.code.str.len() == 4, "level"] = "fourdigit"
@@ -59,9 +57,27 @@ if __name__ == "__main__":
     df = df[["code", "name_english", "level"]]
     df.columns = ["code", "name", "level"]
 
+    h = Hierarchy(["twodigit", "threedigit", "fourdigit", "fivedigit", "sixdigit"])
     parent_code_table = ordered_table_to_parent_code_table(df, h)
-    parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
 
+    # TODO: changing these levels, but it'd be better if this was done in a
+    # separate classification named datlas_mexico or something similar, in
+    # order to not mess up the original.
+    parent_code_table = parent_code_table[~parent_code_table.level.isin(["fivedigit", "sixdigit"])]
+
+    def rename_level(df, from_level, to_level):
+        df.loc[df.level == from_level, "level"] = to_level
+
+    rename_level(parent_code_table, "twodigit", "section")
+    rename_level(parent_code_table, "threedigit", "division")
+    rename_level(parent_code_table, "fourdigit", "class")
+
+    rename_level(spanish, "twodigit", "section")
+    rename_level(spanish, "threedigit", "division")
+    rename_level(spanish, "fourdigit", "class")
+
+    h = Hierarchy(["section", "division", "class"])
+    parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table = parent_id_table.merge(spanish, on=["level", "code"])
 
     c = Classification(parent_id_table, h)
