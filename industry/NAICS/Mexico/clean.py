@@ -80,6 +80,9 @@ if __name__ == "__main__":
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table = parent_id_table.merge(spanish, on=["level", "code"])
 
+    parent_id_table["name_short_en"] = parent_id_table["name"]
+    parent_id_table["name_short_es"] = parent_id_table["name_es"]
+
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/industries_mexico_scian_2007.csv")
