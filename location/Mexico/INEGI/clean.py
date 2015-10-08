@@ -62,16 +62,35 @@ if __name__ == "__main__":
         "level": "country"
     })
     parent_code_table.loc[parent_code_table.level == "department", "parent_code"] = "MEX"
+
     parent_code_table = pd.concat([pd.DataFrame(mex).T, parent_code_table])
     parent_code_table = parent_code_table.reset_index(drop=True)
 
     h = Hierarchy(["country", "department", "municipality"])
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
 
+    # Add MSA level
+    msa = pd.read_stata("in/Mex_Metro_key.dta", encoding="latin-1")
+    msa.columns = ["code", "name_en", "muni_code"]
+    msa = msa.drop_duplicates(["code", "name_en"]).reset_index(drop=True)
+    msa["level"] = "msa"
+    msa["parent_code"] = msa["muni_code"].apply(lambda x: str(x).zfill(5)[:2])
+    msa["code"] = msa["code"].astype(int).astype(str).str.zfill(2)
+
+    lookup_table = parent_id_table[parent_id_table.level == "department"]
+    lookup_table = lookup_table[["code"]].reset_index().set_index("code")['index']
+    msa["parent_id"] = msa["parent_code"].map(lookup_table)
+    del msa["muni_code"]
+    del msa["parent_code"]
+
+    parent_id_table = pd.concat([parent_id_table, msa]).reset_index(drop=True)
+
     parent_id_table["name"] = parent_id_table["name_en"]
     parent_id_table["name_es"] = parent_id_table["name_en"]
     parent_id_table["name_short_en"] = parent_id_table["name_en"]
     parent_id_table["name_short_es"] = parent_id_table["name_es"]
+
+    h = Hierarchy(["country", "department", "msa", "municipality"])
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/locations_mexico_inegi.csv")
