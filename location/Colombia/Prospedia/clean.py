@@ -70,6 +70,14 @@ if __name__ == "__main__":
     parent_id_table.loc[3, "name_short_en"] = righttext
     parent_id_table.loc[3, "name_short_es"] = righttext
 
+    msa_desc = pd.read_excel("./in/Munis_in_Mets.xlsx")
+    msa_desc.columns = ["name", "code", "description_en", "description_es"]
+    del msa_desc["name"]
+    msa_desc["level"] = "msa"
+    msa_desc["code"] = msa_desc["code"].astype(str).str.zfill(6)
+
+    parent_id_table = parent_id_table.merge(msa_desc, on=["level", "code"], how="outer")
+
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/locations_colombia_prosperia.csv")
