@@ -64,6 +64,7 @@ if __name__ == "__main__":
     # separate classification named datlas_mexico or something similar, in
     # order to not mess up the original.
     parent_code_table = parent_code_table[~parent_code_table.level.isin(["fivedigit", "sixdigit"])]
+    parent_code_table = parent_code_table.reset_index(drop=True)
 
     def rename_level(df, from_level, to_level):
         df.loc[df.level == from_level, "level"] = to_level
