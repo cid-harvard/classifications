@@ -1,0 +1,442 @@
+code	level	name_en	name_short_en	name_es	name_short_es
+1111	class	Oilseed, legume and cereal growing	Oilseed, legume and cereal growing	Cultivo de semillas oleaginosas, leguminosas y cereales	Cultivo de semillas oleaginosas, leguminosas y cereales
+1112	class	Vegetable growing	Vegetable growing	Cultivo de hortalizas	Cultivo de hortalizas
+1113	class	Fruit and tree nut growing	Fruit and tree nut growing	Cultivo de frutales y nueces	Cultivo de frutales y nueces
+1114	class	Greenhouse and nursery growing, and floriculture	Greenhouse and nursery growing, and floriculture	Cultivo en invernaderos y viveros, y floricultura	Cultivo en invernaderos y viveros, y floricultura
+1119	class	Other crop growing	Other crop growing	Otros cultivos	Otros cultivos
+1121	class	Cattle raising	Cattle raising	Explotacion de bovinos	Explotacion de bovinos
+1122	class	Pig raising	Pig raising	Explotacion de porcinos	Explotacion de porcinos
+1123	class	Poultry raising	Poultry raising	Explotacion avicola	Explotacion avicola
+1124	class	Sheep and goat raising	Sheep and goat raising	Explotacion de ovinos y caprinos	Explotacion de ovinos y caprinos
+1125	class	Aquaculture	Aquaculture	Acuicultura	Acuicultura
+1129	class	Other animal production	Other animal production	Explotacion de otros animales	Explotacion de otros animales
+1131	class	Silviculture	Silviculture	Silvicultura	Silvicultura
+1132	class	Forest nurseries and gathering of forest products	Forest nurseries and gathering of forest products	Viveros forestales y recoleccion de productos forestales	Viveros forestales y recoleccion de productos forestales
+1133	class	Logging	Logging	Tala de arboles	Tala de arboles
+1141	class	Fishing	Fishing	Pesca	Pesca
+1142	class	Hunting and trapping	Hunting and trapping	Caza y captura	Caza y captura
+1151	class	Services related to agriculture	Services related to agriculture	Servicios relacionados con la agricultura	Servicios relacionados con la agricultura
+1152	class	Services related to animal breeding and production	Services related to animal breeding and production	Servicios relacionados con la cria y explotacion de animales	Servicios relacionados con la cria y explotacion de animales
+1153	class	Services related to forestry	Services related to forestry	Servicios relacionados con el aprovechamiento forestal	Servicios relacionados con el aprovechamiento forestal
+2111	class	Oil and gas extraction	Oil and gas extraction	Extraccion de petroleo y gas	Extraccion de petroleo y gas
+2121	class	Coal mining	Coal mining	Mineria de carbon mineral	Mineria de carbon mineral
+2122	class	Metallic ore mining	Metallic ore mining	Mineria de minerales metalicos	Mineria de minerales metalicos
+2123	class	Nonmetallic ore mining	Nonmetallic ore mining	Mineria de minerales no metalicos	Mineria de minerales no metalicos
+2131	class	Services related to mining	Services related to mining	Servicios relacionados con la mineria	Servicios relacionados con la mineria
+2211	class	Electric power generation, transmission and distribution	Electric power generation, transmission and distribution	Generacion, transmision y distribucion de energia electrica	Generacion, transmision y distribucion de energia electrica
+2221	class	Water collection, treatment and supply	Water collection, treatment and supply	Captacion, tratamiento y suministro de agua	Captacion, tratamiento y suministro de agua
+2222	class	Gas supply through mains to final consumers	Gas supply through mains to final consumers	Suministro de gas por ductos al consumidor final	Suministro de gas por ductos al consumidor final
+2361	class	Residential building construction	Residential building construction	Edificacion residencial	Edificacion residencial
+2362	class	Nonresidential building construction	Nonresidential building construction	Edificacion no residencial	Edificacion no residencial
+2371	class	Construction works for water, oil, gas, electric power and telecommunications supply	Construction works for water, oil, gas, electric power and telecommunications supply	Construccion de obras para el suministro de agua, petroleo, gas, energia electrica y telecomunicaciones	Construccion de obras para el suministro de agua, petroleo, gas, energia electrica y telecomunicaciones
+2372	class	Land division and urbanization works	Land division and urbanization works	Division de terrenos y construccion de obras de urbanizacion	Division de terrenos y construccion de obras de urbanizacion
+2373	class	Construction of roads, highways and similar works	Construction of roads, highways and similar works	Construccion de vias de comunicacion	Construccion de vias de comunicacion
+2379	class	Other civil engineering construction	Other civil engineering construction	Otras construcciones de ingenieria civil	Otras construcciones de ingenieria civil
+2381	class	Foundations, prefabricated structures assembly and exterior construction works	Foundations, prefabricated structures assembly and exterior construction works	Cimentaciones, montaje de estructuras prefabricadas y trabajos en exteriores	Cimentaciones, montaje de estructuras prefabricadas y trabajos en exteriores
+2382	class	Building installations and equipment	Building installations and equipment	Instalaciones y equipamiento en construcciones	Instalaciones y equipamiento en construcciones
+2383	class	Building finishing works	Building finishing works	Trabajos de acabados en edificaciones	Trabajos de acabados en edificaciones
+2389	class	Other specialized construction works	Other specialized construction works	Otros trabajos especializados para la construccion	Otros trabajos especializados para la construccion
+3111	class	Animal food manufacturing	Animal food manufacturing	Elaboracion de alimentos para animales	Elaboracion de alimentos para animales
+3112	class	Grain and seed milling, and fats and oils manufacturing	Grain and seed milling, and fats and oils manufacturing	Molienda de granos y de semillas y obtencion de aceites y grasas	Molienda de granos y de semillas y obtencion de aceites y grasas
+3113	class	Sugar, chocolate, candies and similar products manufacturing	Sugar, chocolate, candies and similar products manufacturing	Elaboracion de azucares, chocolates, dulces y similares	Elaboracion de azucares, chocolates, dulces y similares
+3114	class	Fruits, vegetables and prepared meals preserving	Fruits, vegetables and prepared meals preserving	Conservacion de frutas, verduras y alimentos preparados	Conservacion de frutas, verduras y alimentos preparados
+3115	class	Dairy products manufacturing	Dairy products manufacturing	Elaboracion de productos lacteos	Elaboracion de productos lacteos
+3116	class	Livestock, poultry and other edible animals slaughtering, packaging and processing	Livestock, poultry and other edible animals slaughtering, packaging and processing	Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles	Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles
+3117	class	Seafood preparation and packaging	Seafood preparation and packaging	Preparacion y envasado de pescados y mariscos	Preparacion y envasado de pescados y mariscos
+3118	class	Bakery products and tortilla manufacturing	Bakery products and tortilla manufacturing	Elaboracion de productos de panaderia y tortillas	Elaboracion de productos de panaderia y tortillas
+3119	class	Other food manufacturing	Other food manufacturing	Otras industrias alimentarias	Otras industrias alimentarias
+3121	class	Beverage industry	Beverage industry	Industria de las bebidas	Industria de las bebidas
+3122	class	Tobacco industry	Tobacco industry	Industria del tabaco	Industria del tabaco
+3131	class	Textile fibers preparation and spinning, and thread and yarn manufacturing	Textile fibers preparation and spinning, and thread and yarn manufacturing	Preparacion e hilado de fibras textiles, y fabricacion de hilos	Preparacion e hilado de fibras textiles, y fabricacion de hilos
+3132	class	Fabrics manufacturing	Fabrics manufacturing	Fabricacion de telas	Fabricacion de telas
+3133	class	Textile products finishing and coated fabrics manufacturing	Textile products finishing and coated fabrics manufacturing	Acabado de productos textiles y fabricacion de telas recubiertas	Acabado de productos textiles y fabricacion de telas recubiertas
+3141	class	Rugs, linens and similar products confectioning	Rugs, linens and similar products confectioning	Confeccion de alfombras, blancos y similares	Confeccion de alfombras, blancos y similares
+3149	class	Other textile products manufacturing, except apparel	Other textile products manufacturing, except apparel	Fabricacion de otros productos textiles, excepto prendas de vestir	Fabricacion de otros productos textiles, excepto prendas de vestir
+3151	class	Knitted apparel manufacturing	Knitted apparel manufacturing	Fabricacion de prendas de vestir de punto	Fabricacion de prendas de vestir de punto
+3152	class	Cut and sew apparel manufacturing	Cut and sew apparel manufacturing	Confeccion de prendas de vestir	Confeccion de prendas de vestir
+3159	class	Cut and sew apparel accessories and other apparel manufacturing, not elsewhere classified	Cut and sew apparel accessories and other apparel manufacturing, not elsewhere classified	Confeccion de accesorios de vestir y otras prendas de vestir no clasificados en otra parte	Confeccion de accesorios de vestir y otras prendas de vestir no clasificados en otra parte
+3161	class	Leather and fur tanning and finishing	Leather and fur tanning and finishing	Curtido y acabado de cuero y piel	Curtido y acabado de cuero y piel
+3162	class	Footwear manufacturing	Footwear manufacturing	Fabricacion de calzado	Fabricacion de calzado
+3169	class	Manufacturing of other leather, fur and allied materials products	Manufacturing of other leather, fur and allied materials products	Fabricacion de otros productos de cuero, piel y materiales sucedaneos	Fabricacion de otros productos de cuero, piel y materiales sucedaneos
+3211	class	Wood sawing and preservation	Wood sawing and preservation	Aserrado y conservacion de la madera	Aserrado y conservacion de la madera
+3212	class	Wood laminates and fiberboard manufacturing	Wood laminates and fiberboard manufacturing	Fabricacion de laminados y aglutinados de madera	Fabricacion de laminados y aglutinados de madera
+3219	class	Other wood products manufacturing	Other wood products manufacturing	Fabricacion de otros productos de madera	Fabricacion de otros productos de madera
+3221	class	Pulp, paper and paperboard manufacturing	Pulp, paper and paperboard manufacturing	Fabricacion de pulpa, papel y carton	Fabricacion de pulpa, papel y carton
+3222	class	Paperboard and paper products manufacturing	Paperboard and paper products manufacturing	Fabricacion de productos de carton y papel	Fabricacion de productos de carton y papel
+3231	class	Printing and related industries	Printing and related industries	Impresion e industrias conexas	Impresion e industrias conexas
+3241	class	Manufacturing of products derived from petroleum and coal	Manufacturing of products derived from petroleum and coal	Fabricacion de productos derivados del petroleo y del carbon	Fabricacion de productos derivados del petroleo y del carbon
+3251	class	Basic chemical products manufacturing	Basic chemical products manufacturing	Fabricacion de productos quimicos basicos	Fabricacion de productos quimicos basicos
+3252	class	Synthetic resins and rubbers, and chemical fibers manufacturing	Synthetic resins and rubbers, and chemical fibers manufacturing	Fabricacion de resinas y hules sinteticos, y fibras quimicas	Fabricacion de resinas y hules sinteticos, y fibras quimicas
+3253	class	Fertilizers, pesticides and other agrochemical products manufacturing	Fertilizers, pesticides and other agrochemical products manufacturing	Fabricacion de fertilizantes, pesticidas y otros agroquimicos	Fabricacion de fertilizantes, pesticidas y otros agroquimicos
+3254	class	Pharmaceutical products manufacturing	Pharmaceutical products manufacturing	Fabricacion de productos farmaceuticos	Fabricacion de productos farmaceuticos
+3255	class	Paints, coatings, and adhesives manufacturing	Paints, coatings, and adhesives manufacturing	Fabricacion de pinturas, recubrimientos y adhesivos	Fabricacion de pinturas, recubrimientos y adhesivos
+3256	class	Soaps, cleaners and toilet preparations manufacturing	Soaps, cleaners and toilet preparations manufacturing	Fabricacion de jabones, limpiadores y preparaciones de tocador	Fabricacion de jabones, limpiadores y preparaciones de tocador
+3259	class	Other chemical products manufacturing	Other chemical products manufacturing	Fabricacion de otros productos quimicos	Fabricacion de otros productos quimicos
+3261	class	Plastic products manufacturing	Plastic products manufacturing	Fabricacion de productos de plastico	Fabricacion de productos de plastico
+3262	class	Rubber products manufacturing	Rubber products manufacturing	Fabricacion de productos de hule	Fabricacion de productos de hule
+3271	class	Manufacturing of products based on clays and refractory minerals	Manufacturing of products based on clays and refractory minerals	Fabricacion de productos a base de arcillas y minerales refractarios	Fabricacion de productos a base de arcillas y minerales refractarios
+3272	class	Glass and glass products manufacturing	Glass and glass products manufacturing	Fabricacion de vidrio y productos de vidrio	Fabricacion de vidrio y productos de vidrio
+3273	class	Cement and concrete products manufacturing	Cement and concrete products manufacturing	Fabricacion de cemento y productos de concreto	Fabricacion de cemento y productos de concreto
+3274	class	Lime, gypsum and gypsum products manufacturing	Lime, gypsum and gypsum products manufacturing	Fabricacion de cal, yeso y productos de yeso	Fabricacion de cal, yeso y productos de yeso
+3279	class	Other nonmetallic mineral products manufacturing	Other nonmetallic mineral products manufacturing	Fabricacion de otros productos a base de minerales no metalicos	Fabricacion de otros productos a base de minerales no metalicos
+3311	class	Iron and steel basic industry	Iron and steel basic industry	Industria basica del hierro y del acero	Industria basica del hierro y del acero
+3312	class	Iron and steel products manufacturing	Iron and steel products manufacturing	Fabricacion de productos de hierro y acero	Fabricacion de productos de hierro y acero
+3313	class	Aluminum basic industry	Aluminum basic industry	Industria basica del aluminio	Industria basica del aluminio
+3314	class	Nonferrous metal industry, except aluminum	Nonferrous metal industry, except aluminum	Industrias de metales no ferrosos, excepto aluminio	Industrias de metales no ferrosos, excepto aluminio
+3315	class	Metal parts molding by casting	Metal parts molding by casting	Moldeo por fundicion de piezas metalicas	Moldeo por fundicion de piezas metalicas
+3321	class	Forged and stamped metal products manufacturing	Forged and stamped metal products manufacturing	Fabricacion de productos metalicos forjados y troquelados	Fabricacion de productos metalicos forjados y troquelados
+3322	class	Nonpowered hand tools and metal kitchen utensils manufacturing	Nonpowered hand tools and metal kitchen utensils manufacturing	Fabricacion de herramientas de mano sin motor y utensilios de cocina metalicos	Fabricacion de herramientas de mano sin motor y utensilios de cocina metalicos
+3323	class	Metal structures and iron works products manufacturing	Metal structures and iron works products manufacturing	Fabricacion de estructuras metalicas y productos de herreria	Fabricacion de estructuras metalicas y productos de herreria
+3324	class	Boilers, tanks and metal containers manufacturing	Boilers, tanks and metal containers manufacturing	Fabricacion de calderas, tanques y envases metalicos	Fabricacion de calderas, tanques y envases metalicos
+3325	class	Metal fittings and locks manufacturing	Metal fittings and locks manufacturing	Fabricacion de herrajes y cerraduras	Fabricacion de herrajes y cerraduras
+3326	class	Wire, wire products and springs manufacturing	Wire, wire products and springs manufacturing	Fabricacion de alambre, productos de alambre y resortes	Fabricacion de alambre, productos de alambre y resortes
+3327	class	Metal parts machining and screws manufacturing	Metal parts machining and screws manufacturing	Maquinado de piezas metalicas y fabricacion de tornillos	Maquinado de piezas metalicas y fabricacion de tornillos
+3328	class	Metal coating and finishings	Metal coating and finishings	Recubrimientos y terminados metalicos	Recubrimientos y terminados metalicos
+3329	class	Other metal products manufacturing	Other metal products manufacturing	Fabricacion de otros productos metalicos	Fabricacion de otros productos metalicos
+3331	class	Agricultural, construction and extractive industry machinery and equipment manufacturing	Agricultural, construction and extractive industry machinery and equipment manufacturing	Fabricacion de maquinaria y equipo agropecuario, para la construccion y para la industria extractiva	Fabricacion de maquinaria y equipo agropecuario, para la construccion y para la industria extractiva
+3332	class	Industrial machinery and equipment manufacturing, except metalworking	Industrial machinery and equipment manufacturing, except metalworking	Fabricacion de maquinaria y equipo para las industrias manufactureras, excepto la metalmecanica	Fabricacion de maquinaria y equipo para las industrias manufactureras, excepto la metalmecanica
+3333	class	Commercial and service industry machinery and equipment manufacturing	Commercial and service industry machinery and equipment manufacturing	Fabricacion de maquinaria y equipo para el comercio y los servicios	Fabricacion de maquinaria y equipo para el comercio y los servicios
+3334	class	Air conditioning, heating, and industrial and commercial refrigeration equipment manufacturing	Air conditioning, heating, and industrial and commercial refrigeration equipment manufacturing	Fabricacion de equipo de aire acondicionado, calefaccion, y de refrigeracion industrial y comercial	Fabricacion de equipo de aire acondicionado, calefaccion, y de refrigeracion industrial y comercial
+3335	class	Metalworking industry machinery and equipment manufacturing	Metalworking industry machinery and equipment manufacturing	Fabricacion de maquinaria y equipo para la industria metalmecanica	Fabricacion de maquinaria y equipo para la industria metalmecanica
+3336	class	Internal combustion engines, turbines and power transmissions manufacturing	Internal combustion engines, turbines and power transmissions manufacturing	Fabricacion de motores de combustion interna, turbinas y transmisiones	Fabricacion de motores de combustion interna, turbinas y transmisiones
+3339	class	Other general purpose machinery and equipment manufacturing	Other general purpose machinery and equipment manufacturing	Fabricacion de otra maquinaria y equipo para la industria en general	Fabricacion de otra maquinaria y equipo para la industria en general
+3341	class	Computer and peripheral equipment manufacturing	Computer and peripheral equipment manufacturing	Fabricacion de computadoras y equipo periferico	Fabricacion de computadoras y equipo periferico
+3342	class	Communications equipment manufacturing	Communications equipment manufacturing	Fabricacion de equipo de comunicacion	Fabricacion de equipo de comunicacion
+3343	class	Audio and video equipment manufacturing	Audio and video equipment manufacturing	Fabricacion de equipo de audio y de video	Fabricacion de equipo de audio y de video
+3344	class	Electronic components manufacturing	Electronic components manufacturing	Fabricacion de componentes electronicos	Fabricacion de componentes electronicos
+3345	class	Manufacturing of measuring, control, navigation instruments and electronic medical equipment manufacturing	Manufacturing of measuring, control, navigation instruments and electronic medical equipment manufacturing	Fabricacion de instrumentos de medicion, control, navegacion, y equipo medico electronico	Fabricacion de instrumentos de medicion, control, navegacion, y equipo medico electronico
+3346	class	Manufacturing and reproducing magnetic and optical media	Manufacturing and reproducing magnetic and optical media	Fabricacion y reproduccion de medios magneticos y opticos	Fabricacion y reproduccion de medios magneticos y opticos
+3351	class	Lighting accessories manufacturing	Lighting accessories manufacturing	Fabricacion de accesorios de iluminacion	Fabricacion de accesorios de iluminacion
+3352	class	Household electrical appliances manufacturing	Household electrical appliances manufacturing	Fabricacion de aparatos electricos de uso domestico	Fabricacion de aparatos electricos de uso domestico
+3353	class	Electric power generation and distribution equipment manufacturing	Electric power generation and distribution equipment manufacturing	Fabricacion de equipo de generacion y distribucion de energia electrica	Fabricacion de equipo de generacion y distribucion de energia electrica
+3359	class	Other electrical equipment and accessories manufacturing	Other electrical equipment and accessories manufacturing	Fabricacion de otros equipos y accesorios electricos	Fabricacion de otros equipos y accesorios electricos
+3361	class	Automobiles and trucks manufacturing	Automobiles and trucks manufacturing	Fabricacion de automoviles y camiones	Fabricacion de automoviles y camiones
+3362	class	Motor vehicle bodies and trailers manufacturing	Motor vehicle bodies and trailers manufacturing	Fabricacion de carrocerias y remolques	Fabricacion de carrocerias y remolques
+3363	class	Motor vehicle parts manufacturing	Motor vehicle parts manufacturing	Fabricacion de partes para vehiculos automotores	Fabricacion de partes para vehiculos automotores
+3364	class	Aerospace equipment manufacturing	Aerospace equipment manufacturing	Fabricacion de equipo aeroespacial	Fabricacion de equipo aeroespacial
+3365	class	Railroad equipment manufacturing	Railroad equipment manufacturing	Fabricacion de equipo ferroviario	Fabricacion de equipo ferroviario
+3366	class	Ship and boat manufacturing	Ship and boat manufacturing	Fabricacion de embarcaciones	Fabricacion de embarcaciones
+3369	class	Other transportation equipment manufacturing	Other transportation equipment manufacturing	Fabricacion de otro equipo de transporte	Fabricacion de otro equipo de transporte
+3371	class	Furniture manufacturing, except office furniture and shelving	Furniture manufacturing, except office furniture and shelving	Fabricacion de muebles, excepto de oficina y estanteria	Fabricacion de muebles, excepto de oficina y estanteria
+3372	class	Office furniture and shelving manufacturing	Office furniture and shelving manufacturing	Fabricacion de muebles de oficina y estanteria	Fabricacion de muebles de oficina y estanteria
+3379	class	Mattresses, blinds and curtain rods manufacturing	Mattresses, blinds and curtain rods manufacturing	Fabricacion de colchones, persianas y cortineros	Fabricacion de colchones, persianas y cortineros
+3391	class	Manufacturing of nonelectronic medical, dental and laboratory equipment and disposable material, and ophthalmic goods manufacturing	Manufacturing of nonelectronic medical, dental and laboratory equipment and disposable material, and ophthalmic goods manufacturing	Fabricacion de equipo no electronico y material desechable de uso medico, dental y para laboratorio, y articulos oftalmicos	Fabricacion de equipo no electronico y material desechable de uso medico, dental y para laboratorio, y articulos oftalmicos
+3399	class	Other manufacturing industries	Other manufacturing industries	Otras industrias manufactureras	Otras industrias manufactureras
+4311	class	Wholesale trade of groceries and food	Wholesale trade of groceries and food	Comercio al por mayor de abarrotes y alimentos	Comercio al por mayor de abarrotes y alimentos
+4312	class	Wholesale of beverages, ice and tobacco	Wholesale of beverages, ice and tobacco	Comercio al por mayor de bebidas, hielo y tabaco	Comercio al por mayor de bebidas, hielo y tabaco
+4321	class	Wholesale trade of textile products and footwear	Wholesale trade of textile products and footwear	Comercio al por mayor de productos textiles y calzado	Comercio al por mayor de productos textiles y calzado
+4331	class	Wholesale trade of pharmaceutical products	Wholesale trade of pharmaceutical products	Comercio al por mayor de productos farmaceuticos	Comercio al por mayor de productos farmaceuticos
+4332	class	Wholesale trade of perfumery products, cosmetics and jewelry	Wholesale trade of perfumery products, cosmetics and jewelry	Comercio al por mayor de articulos de perfumeria, cosmeticos y joyeria	Comercio al por mayor de articulos de perfumeria, cosmeticos y joyeria
+4333	class	Wholesale trade of records, toys and sporting goods	Wholesale trade of records, toys and sporting goods	Comercio al por mayor de discos, juguetes y articulos deportivos	Comercio al por mayor de discos, juguetes y articulos deportivos
+4334	class	Wholesale trade of stationery supplies, books, magazines and newspapers	Wholesale trade of stationery supplies, books, magazines and newspapers	Comercio al por mayor de articulos de papeleria, libros, revistas y periodicos	Comercio al por mayor de articulos de papeleria, libros, revistas y periodicos
+4335	class	Wholesale trade of small and major household appliances	Wholesale trade of small and major household appliances	Comercio al por mayor de electrodomesticos menores y aparatos de linea blanca	Comercio al por mayor de electrodomesticos menores y aparatos de linea blanca
+4341	class	Wholesale trade of agricultural and forestry raw materials	Wholesale trade of agricultural and forestry raw materials	Comercio al por mayor de materias primas agropecuarias y forestales	Comercio al por mayor de materias primas agropecuarias y forestales
+4342	class	Wholesale trade of industrial raw materials	Wholesale trade of industrial raw materials	Comercio al por mayor de materias primas para la industria	Comercio al por mayor de materias primas para la industria
+4343	class	Wholesale trade of waste materials	Wholesale trade of waste materials	Comercio al por mayor de materiales de desecho	Comercio al por mayor de materiales de desecho
+4351	class	Wholesale trade of agricultural, forestry and fishing machinery and equipment	Wholesale trade of agricultural, forestry and fishing machinery and equipment	Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca	Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca
+4352	class	Wholesale trade of industrial machinery and equipment	Wholesale trade of industrial machinery and equipment	Comercio al por mayor de maquinaria y equipo para la industria	Comercio al por mayor de maquinaria y equipo para la industria
+4353	class	Wholesale trade of commercial and service industry machinery and equipment	Wholesale trade of commercial and service industry machinery and equipment	Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales	Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales
+4354	class	Wholesale trade of computer and office furniture and equipment, and other general purpose machinery and equipment	Wholesale trade of computer and office furniture and equipment, and other general purpose machinery and equipment	Comercio al por mayor de mobiliario y equipo de computo y de oficina, y de otra maquinaria y equipo de uso general	Comercio al por mayor de mobiliario y equipo de computo y de oficina, y de otra maquinaria y equipo de uso general
+4361	class	Wholesale trade of trucks and new parts for automobiles, pickup trucks and trucks	Wholesale trade of trucks and new parts for automobiles, pickup trucks and trucks	Comercio al por mayor de camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones	Comercio al por mayor de camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones
+4371	class	Wholesale trade intermediation, except through Internet and other electronic media	Wholesale trade intermediation, except through Internet and other electronic media	Intermediacion de comercio al por mayor, excepto a traves de Internet y de otros medios electronicos	Intermediacion de comercio al por mayor, excepto a traves de Internet y de otros medios electronicos
+4372	class	Wholesale trade intermediation exclusively through Internet and other electronic media	Wholesale trade intermediation exclusively through Internet and other electronic media	Intermediacion de comercio al por mayor exclusivamente a traves de Internet y otros medios electronicos	Intermediacion de comercio al por mayor exclusivamente a traves de Internet y otros medios electronicos
+4611	class	Retail trade of groceries and food	Retail trade of groceries and food	Comercio al por menor de abarrotes y alimentos	Comercio al por menor de abarrotes y alimentos
+4612	class	Retail trade of beverages, ice and tobacco	Retail trade of beverages, ice and tobacco	Comercio al por menor de bebidas, hielo y tabaco	Comercio al por menor de bebidas, hielo y tabaco
+4621	class	Retail trade in self-service shops	Retail trade in self-service shops	Comercio al por menor en tiendas de autoservicio	Comercio al por menor en tiendas de autoservicio
+4622	class	Retail trade in department stores	Retail trade in department stores	Comercio al por menor en tiendas departamentales	Comercio al por menor en tiendas departamentales
+4631	class	Retail trade of textile products, except apparel	Retail trade of textile products, except apparel	Comercio al por menor de productos textiles, excepto ropa	Comercio al por menor de productos textiles, excepto ropa
+4632	class	Retail trade of apparel, costume jewelry and clothing accessories	Retail trade of apparel, costume jewelry and clothing accessories	Comercio al por menor de ropa, bisuteria y accesorios de vestir	Comercio al por menor de ropa, bisuteria y accesorios de vestir
+4633	class	Retail trade of footwear	Retail trade of footwear	Comercio al por menor de calzado	Comercio al por menor de calzado
+4641	class	Retail trade of health care items	Retail trade of health care items	Comercio al por menor de articulos para el cuidado de la salud	Comercio al por menor de articulos para el cuidado de la salud
+4651	class	Retail trade of perfumery and jewelry products	Retail trade of perfumery and jewelry products	Comercio al por menor de articulos de perfumeria y joyeria	Comercio al por menor de articulos de perfumeria y joyeria
+4652	class	Retail trade of recreational goods	Retail trade of recreational goods	Comercio al por menor de articulos para el esparcimiento	Comercio al por menor de articulos para el esparcimiento
+4653	class	Retail trade of stationery supplies, books, magazines and newspapers	Retail trade of stationery supplies, books, magazines and newspapers	Comercio al por menor de articulos de papeleria, libros, revistas y periodicos	Comercio al por menor de articulos de papeleria, libros, revistas y periodicos
+4659	class	Retail of pets, gifts, religious, disposable and other personal goods	Retail of pets, gifts, religious, disposable and other personal goods	Comercio al por menor de mascotas, regalos, articulos religiosos, desechables y otros articulos de uso personal	Comercio al por menor de mascotas, regalos, articulos religiosos, desechables y otros articulos de uso personal
+4661	class	Retail trade of household furniture and other household goods	Retail trade of household furniture and other household goods	Comercio al por menor de muebles para el hogar y otros enseres domesticos	Comercio al por menor de muebles para el hogar y otros enseres domesticos
+4662	class	Retail trade of computer furniture, equipment and accessories; telephones and other communication devices	Retail trade of computer furniture, equipment and accessories; telephones and other communication devices	Comercio al por menor de mobiliario, equipo y accesorios de computo, telefonos y otros aparatos de comunicacion	Comercio al por menor de mobiliario, equipo y accesorios de computo, telefonos y otros aparatos de comunicacion
+4663	class	Retail trade of interior decorative articles	Retail trade of interior decorative articles	Comercio al por menor de articulos para la decoracion de interiores	Comercio al por menor de articulos para la decoracion de interiores
+4664	class	Retail trade of used goods	Retail trade of used goods	Comercio al por menor de articulos usados	Comercio al por menor de articulos usados
+4671	class	Retail trade of hardware and glass	Retail trade of hardware and glass	Comercio al por menor de articulos de ferreteria, tlapaleria y vidrios	Comercio al por menor de articulos de ferreteria, tlapaleria y vidrios
+4681	class	Retail trade of automobiles and pickup trucks	Retail trade of automobiles and pickup trucks	Comercio al por menor de automoviles y camionetas	Comercio al por menor de automoviles y camionetas
+4682	class	Retail trade of parts for automobiles, pickup trucks and trucks	Retail trade of parts for automobiles, pickup trucks and trucks	Comercio al por menor de partes y refacciones para automoviles, camionetas y camiones	Comercio al por menor de partes y refacciones para automoviles, camionetas y camiones
+4683	class	Retail trade of motorcycles, and other motor vehicles	Retail trade of motorcycles, and other motor vehicles	Comercio al por menor de motocicletas y otros vehiculos de motor	Comercio al por menor de motocicletas y otros vehiculos de motor
+4684	class	Retail trade of fuels, lubricating oils and greases	Retail trade of fuels, lubricating oils and greases	Comercio al por menor de combustibles, aceites y grasas lubricantes	Comercio al por menor de combustibles, aceites y grasas lubricantes
+4691	class	Retail trade exclusively through Internet, and printed catalogs, television and similar media	Retail trade exclusively through Internet, and printed catalogs, television and similar media	Comercio al por menor exclusivamente a traves de Internet, y catalogos impresos, television y similares	Comercio al por menor exclusivamente a traves de Internet, y catalogos impresos, television y similares
+4692	class	Retail trade exclusively through Internet, and printed catalogs, television and similar media	Retail trade exclusively through Internet, and printed catalogs, television and similar media	Comercio al por menor exclusivamente a traves de Internet, y catalogos impresos, television y similares	Comercio al por menor exclusivamente a traves de Internet, y catalogos impresos, television y similares
+4811	class	Scheduled air transportation	Scheduled air transportation	Transporte aereo regular	Transporte aereo regular
+4812	class	Nonscheduled air transportation	Nonscheduled air transportation	Transporte aereo no regular	Transporte aereo no regular
+4821	class	Rail transportation	Rail transportation	Transporte por ferrocarril	Transporte por ferrocarril
+4831	class	Maritime transportation	Maritime transportation	Transporte maritimo	Transporte maritimo
+4832	class	Inland water transportation	Inland water transportation	Transporte por aguas interiores	Transporte por aguas interiores
+4841	class	General freight trucking	General freight trucking	Autotransporte de carga general	Autotransporte de carga general
+4842	class	Specialized freight trucking	Specialized freight trucking	Autotransporte de carga especializado	Autotransporte de carga especializado
+4851	class	Urban and suburban collective passenger transportation, fixed route	Urban and suburban collective passenger transportation, fixed route	Transporte colectivo urbano y suburbano de pasajeros de ruta fija	Transporte colectivo urbano y suburbano de pasajeros de ruta fija
+4852	class	Long-distance collective passenger transportation, fixed route	Long-distance collective passenger transportation, fixed route	Transporte colectivo foraneo de pasajeros de ruta fija	Transporte colectivo foraneo de pasajeros de ruta fija
+4853	class	Taxi and limousine services	Taxi and limousine services	Servicio de taxis y limusinas	Servicio de taxis y limusinas
+4854	class	School and employee transportation	School and employee transportation	Transporte escolar y de personal	Transporte escolar y de personal
+4855	class	Bus rental with driver	Bus rental with driver	Alquiler de autobuses con chofer	Alquiler de autobuses con chofer
+4859	class	Other passenger transportation by road	Other passenger transportation by road	Otro transporte terrestre de pasajeros	Otro transporte terrestre de pasajeros
+4861	class	Pipeline transportation of crude oil	Pipeline transportation of crude oil	Transporte de petroleo crudo por ductos	Transporte de petroleo crudo por ductos
+4862	class	Pipeline transportation of natural gas	Pipeline transportation of natural gas	Transporte de gas natural por ductos	Transporte de gas natural por ductos
+4869	class	Pipeline transportation of other products	Pipeline transportation of other products	Transporte por ductos de otros productos	Transporte por ductos de otros productos
+4871	class	Sightseeing transportation by land	Sightseeing transportation by land	Transporte turistico por tierra	Transporte turistico por tierra
+4872	class	Sightseeing transportation by water	Sightseeing transportation by water	Transporte turistico por agua	Transporte turistico por agua
+4879	class	Other sightseeing transportation	Other sightseeing transportation	Otro transporte turistico	Otro transporte turistico
+4881	class	Services related to air transportation	Services related to air transportation	Servicios relacionados con el transporte aereo	Servicios relacionados con el transporte aereo
+4882	class	Services related to rail transportation	Services related to rail transportation	Servicios relacionados con el transporte por ferrocarril	Servicios relacionados con el transporte por ferrocarril
+4883	class	Services related to water transportation	Services related to water transportation	Servicios relacionados con el transporte por agua	Servicios relacionados con el transporte por agua
+4884	class	Services related to road transportation	Services related to road transportation	Servicios relacionados con el transporte por carretera	Servicios relacionados con el transporte por carretera
+4885	class	Intermediation services for freight transportation	Intermediation services for freight transportation	Servicios de intermediacion para el transporte de carga	Servicios de intermediacion para el transporte de carga
+4889	class	Other services related to transportation	Other services related to transportation	Otros servicios relacionados con el transporte	Otros servicios relacionados con el transporte
+4911	class	Postal services	Postal services	Servicios postales	Servicios postales
+4921	class	Long-distance courier and messenger services	Long-distance courier and messenger services	Servicios de mensajeria y paqueteria foranea	Servicios de mensajeria y paqueteria foranea
+4922	class	Local courier and messenger services	Local courier and messenger services	Servicios de mensajeria y paqueteria local	Servicios de mensajeria y paqueteria local
+4931	class	Warehousing services	Warehousing services	Servicios de almacenamiento	Servicios de almacenamiento
+5111	class	Newspaper, magazine, book, software and other materials publishing and integrated publishing/printing of these publications	Newspaper, magazine, book, software and other materials publishing and integrated publishing/printing of these publications	Edicion de periodicos, revistas, libros y similares, y edicion de estas publicaciones integrada con la impresion	Edicion de periodicos, revistas, libros y similares, y edicion de estas publicaciones integrada con la impresion
+5112	class	Software publishing, and integrated software publishing/reproduction	Software publishing, and integrated software publishing/reproduction	Edicion de software y edicion de software integrada con la reproduccion	Edicion de software y edicion de software integrada con la reproduccion
+5121	class	Film and video industry	Film and video industry	Industria filmica y del video	Industria filmica y del video
+5122	class	Sound recording industry	Sound recording industry	Industria del sonido	Industria del sonido
+5151	class	Radio and television broadcasting	Radio and television broadcasting	Transmision de programas de radio y television	Transmision de programas de radio y television
+5152	class	Production of channel programming for cable or satellite television systems	Production of channel programming for cable or satellite television systems	Produccion de programacion de canales para sistemas de television por cable o satelitales	Produccion de programacion de canales para sistemas de television por cable o satelitales
+5161	class	Internet Publishing and Broadcasting	Internet Publishing and Broadcasting	Publicación y transmisión en Internet	Publicación y transmisión en Internet
+5173	class	Telecommunications Resellers	Telecommunications Resellers	Revendedor de telecomunicaciones	Revendedor de telecomunicaciones
+5175	class	Cable and Other Program Distribution	Cable and Other Program Distribution	Distribución de cable y los demás programas	Distribución de cable y los demás programas
+5181	class	Internet Service Providers and Web Search Portals	Internet Service Providers and Web Search Portals	Proveedores de servicios de Internet y portales de búsqueda	Proveedores de servicios de Internet y portales de búsqueda
+5171	class	Wired telecommunications carriers	Wired telecommunications carriers	Operadores de telecomunicaciones alambricas	Operadores de telecomunicaciones alambricas
+5172	class	Wireless telecommunications carriers, except satellite services	Wireless telecommunications carriers, except satellite services	Operadores de telecomunicaciones inalambricas, excepto servicios de satelite	Operadores de telecomunicaciones inalambricas, excepto servicios de satelite
+5174	class	Satellite telecommunications services	Satellite telecommunications services	Servicios de telecomunicaciones por satelite	Servicios de telecomunicaciones por satelite
+5179	class	Other telecommunications services	Other telecommunications services	Otros servicios de telecomunicaciones	Otros servicios de telecomunicaciones
+5182	class	Electronic data processing, hosting, and other related services	Electronic data processing, hosting, and other related services	Procesamiento electronico de informacion, hospedaje y otros servicios relacionados	Procesamiento electronico de informacion, hospedaje y otros servicios relacionados
+5191	class	Other information services	Other information services	Otros servicios de informacion	Otros servicios de informacion
+5211	class	Central bank	Central bank	Banca central	Banca central
+5221	class	Multiple banking	Multiple banking	Banca multiple	Banca multiple
+5222	class	Financial institutions for economic development	Financial institutions for economic development	Instituciones financieras de fomento economico	Instituciones financieras de fomento economico
+5223	class	Credit unions and saving institutions	Credit unions and saving institutions	Uniones de credito e instituciones de ahorro	Uniones de credito e instituciones de ahorro
+5224	class	Other credit and financial intermediation institutions, non-stock exchange	Other credit and financial intermediation institutions, non-stock exchange	Otras instituciones de intermediacion crediticia y financiera no bursatil	Otras instituciones de intermediacion crediticia y financiera no bursatil
+5225	class	Services related to credit intermediation, non-stock exchange	Services related to credit intermediation, non-stock exchange	Servicios relacionados con la intermediacion crediticia no bursatil	Servicios relacionados con la intermediacion crediticia no bursatil
+5231	class	Brokerage houses, foreign currency exchange houses and exchange offices	Brokerage houses, foreign currency exchange houses and exchange offices	Casas de bolsa, casas de cambio y centros cambiarios	Casas de bolsa, casas de cambio y centros cambiarios
+5232	class	Stock exchange	Stock exchange	Bolsa de valores	Bolsa de valores
+5239	class	Investment advice and other services related to stock exchange intermediation	Investment advice and other services related to stock exchange intermediation	Asesoria en inversiones y otros servicios relacionados con la intermediacion bursatil	Asesoria en inversiones y otros servicios relacionados con la intermediacion bursatil
+5241	class	Insurance and surety institutions	Insurance and surety institutions	Instituciones de seguros y fianzas	Instituciones de seguros y fianzas
+5242	class	Services related to insurance and surety	Services related to insurance and surety	Servicios relacionados con los seguros y las fianzas	Servicios relacionados con los seguros y las fianzas
+5311	class	Rental of real estate without intermediation	Rental of real estate without intermediation	Alquiler sin intermediacion de bienes raices	Alquiler sin intermediacion de bienes raices
+5312	class	Real estate agencies and brokers	Real estate agencies and brokers	Inmobiliarias y corredores de bienes raices	Inmobiliarias y corredores de bienes raices
+5313	class	Services related to real estate	Services related to real estate	Servicios relacionados con los servicios inmobiliarios	Servicios relacionados con los servicios inmobiliarios
+5321	class	Rental of automobiles, trucks and other road transportation vehicles	Rental of automobiles, trucks and other road transportation vehicles	Alquiler de automoviles, camiones y otros transportes terrestres	Alquiler de automoviles, camiones y otros transportes terrestres
+5322	class	Rental of household and personal goods	Rental of household and personal goods	Alquiler de articulos para el hogar y personales	Alquiler de articulos para el hogar y personales
+5323	class	General rental centers	General rental centers	Centros generales de alquiler	Centros generales de alquiler
+5324	class	Rental of agricultural, fishing, industrial, commercial and services machinery and equipment	Rental of agricultural, fishing, industrial, commercial and services machinery and equipment	Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de servicios	Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de servicios
+5331	class	Rental services of trademarks, patents and franchises	Rental services of trademarks, patents and franchises	Servicios de alquiler de marcas registradas, patentes y franquicias	Servicios de alquiler de marcas registradas, patentes y franquicias
+5411	class	Legal services	Legal services	Servicios legales	Servicios legales
+5412	class	Accounting, auditing and related services	Accounting, auditing and related services	Servicios de contabilidad, auditoria y servicios relacionados	Servicios de contabilidad, auditoria y servicios relacionados
+5413	class	Architecture, engineering and related activities services	Architecture, engineering and related activities services	Servicios de arquitectura, ingenieria y actividades relacionadas	Servicios de arquitectura, ingenieria y actividades relacionadas
+5414	class	Specialized design	Specialized design	Diseno especializado	Diseno especializado
+5415	class	Computer systems design and related services	Computer systems design and related services	Servicios de diseno de sistemas de computo y servicios relacionados	Servicios de diseno de sistemas de computo y servicios relacionados
+5416	class	Management, scientific and technical consulting services	Management, scientific and technical consulting services	Servicios de consultoria administrativa, cientifica y tecnica	Servicios de consultoria administrativa, cientifica y tecnica
+5417	class	Scientific research and development services	Scientific research and development services	Servicios de investigacion cientifica y desarrollo	Servicios de investigacion cientifica y desarrollo
+5418	class	Advertising services and related activities	Advertising services and related activities	Servicios de publicidad y actividades relacionadas	Servicios de publicidad y actividades relacionadas
+5419	class	Other professional, scientific and technical services	Other professional, scientific and technical services	Otros servicios profesionales, cientificos y tecnicos	Otros servicios profesionales, cientificos y tecnicos
+5511	class	Head offices	Head offices	Corporativos	Corporativos
+5611	class	Business administration services	Business administration services	Servicios de administracion de negocios	Servicios de administracion de negocios
+5612	class	Facilities support services	Facilities support services	Servicios combinados de apoyo en instalaciones	Servicios combinados de apoyo en instalaciones
+5613	class	Employment services	Employment services	Servicios de empleo	Servicios de empleo
+5614	class	Secretarial support, photocopying, collection, credit investigation and similar services	Secretarial support, photocopying, collection, credit investigation and similar services	Servicio de apoyo secretarial, fotocopiado, cobranza, investigacion crediticia y similares	Servicio de apoyo secretarial, fotocopiado, cobranza, investigacion crediticia y similares
+5615	class	Travel agencies and reservation services	Travel agencies and reservation services	Agencias de viajes y servicios de reservaciones	Agencias de viajes y servicios de reservaciones
+5616	class	Investigation, protection and security services	Investigation, protection and security services	Servicios de investigacion, proteccion y seguridad	Servicios de investigacion, proteccion y seguridad
+5617	class	Cleaning services	Cleaning services	Servicios de limpieza	Servicios de limpieza
+5619	class	Other business support services	Other business support services	Otros servicios de apoyo a los negocios	Otros servicios de apoyo a los negocios
+5621	class	Waste management and remediation services	Waste management and remediation services	Manejo de desechos y servicios de remediacion	Manejo de desechos y servicios de remediacion
+6111	class	Basic, middle and special needs education schools	Basic, middle and special needs education schools	Escuelas de educacion basica, media y para necesidades especiales	Escuelas de educacion basica, media y para necesidades especiales
+6112	class	Higher technical education schools	Higher technical education schools	Escuelas de educacion postbachillerato	Escuelas de educacion postbachillerato
+6113	class	Higher education schools	Higher education schools	Escuelas de educacion superior	Escuelas de educacion superior
+6114	class	Business, computer and management training schools	Business, computer and management training schools	Escuelas comerciales, de computacion y de capacitacion para ejecutivos	Escuelas comerciales, de computacion y de capacitacion para ejecutivos
+6115	class	Trade schools	Trade schools	Escuelas de oficios	Escuelas de oficios
+6116	class	Other educational services	Other educational services	Otros servicios educativos	Otros servicios educativos
+6117	class	Educational support services	Educational support services	Servicios de apoyo a la educacion	Servicios de apoyo a la educacion
+6211	class	Medical doctors offices	Medical doctors offices	Consultorios medicos	Consultorios medicos
+6212	class	Dental offices	Dental offices	Consultorios dentales	Consultorios dentales
+6213	class	Other health care offices	Other health care offices	Otros consultorios para el cuidado de la salud	Otros consultorios para el cuidado de la salud
+6214	class	Outpatient care centers	Outpatient care centers	Centros para la atencion de pacientes que no requieren hospitalizacion	Centros para la atencion de pacientes que no requieren hospitalizacion
+6215	class	Medical and diagnostic laboratories	Medical and diagnostic laboratories	Laboratorios medicos y de diagnostico	Laboratorios medicos y de diagnostico
+6216	class	Home nursing services	Home nursing services	Servicios de enfermeria a domicilio	Servicios de enfermeria a domicilio
+6219	class	Ambulance services, organ banks and other medical treatment ancillary services	Ambulance services, organ banks and other medical treatment ancillary services	Servicios de ambulancias, de bancos de organos y otros servicios auxiliares al tratamiento medico	Servicios de ambulancias, de bancos de organos y otros servicios auxiliares al tratamiento medico
+6221	class	General hospitals	General hospitals	Hospitales generales	Hospitales generales
+6222	class	Psychiatric and addiction hospitals	Psychiatric and addiction hospitals	Hospitales psiquiatricos y para el tratamiento por adiccion	Hospitales psiquiatricos y para el tratamiento por adiccion
+6223	class	Other medical specialties hospitals	Other medical specialties hospitals	Hospitales de otras especialidades medicas	Hospitales de otras especialidades medicas
+6231	class	Residential facilities with nursing care for convalescent, in rehabilitation, incurable and terminal patients	Residential facilities with nursing care for convalescent, in rehabilitation, incurable and terminal patients	Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitacion, incurables y terminales	Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitacion, incurables y terminales
+6232	class	Residential care facilities for persons with mental retardation, mental disorder and addictions	Residential care facilities for persons with mental retardation, mental disorder and addictions	Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adicciones	Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adicciones
+6233	class	Homes and other residential care facilities for the elderly	Homes and other residential care facilities for the elderly	Asilos y otras residencias para el cuidado de ancianos	Asilos y otras residencias para el cuidado de ancianos
+6239	class	Orphanages and other social assistance residential care facilities	Orphanages and other social assistance residential care facilities	Orfanatos y otras residencias de asistencia social	Orfanatos y otras residencias de asistencia social
+6241	class	Guidance and social work services	Guidance and social work services	Servicios de orientacion y trabajo social	Servicios de orientacion y trabajo social
+6242	class	Community food, housing and emergency services	Community food, housing and emergency services	Servicios comunitarios de alimentacion, refugio y emergencia	Servicios comunitarios de alimentacion, refugio y emergencia
+6243	class	Job training services for unemployed, underemployed or disabled persons	Job training services for unemployed, underemployed or disabled persons	Servicios de capacitacion para el trabajo para personas desempleadas, subempleadas o discapacitadas	Servicios de capacitacion para el trabajo para personas desempleadas, subempleadas o discapacitadas
+6244	class	Nurseries	Nurseries	Guarderias	Guarderias
+7111	class	Performing arts companies and groups	Performing arts companies and groups	Companias y grupos de espectaculos artisticos y culturales	Companias y grupos de espectaculos artisticos y culturales
+7112	class	Professional athletes and sports teams	Professional athletes and sports teams	Deportistas y equipos deportivos profesionales	Deportistas y equipos deportivos profesionales
+7113	class	Promoters of performing arts, sports and similar events	Promoters of performing arts, sports and similar events	Promotores de espectaculos artisticos, culturales, deportivos y similares	Promotores de espectaculos artisticos, culturales, deportivos y similares
+7114	class	Agents and managers for artists, athletes and similar figures	Agents and managers for artists, athletes and similar figures	Agentes y representantes de artistas, deportistas y similares	Agentes y representantes de artistas, deportistas y similares
+7115	class	Independent artists, writers and technicians	Independent artists, writers and technicians	Artistas, escritores y tecnicos independientes	Artistas, escritores y tecnicos independientes
+7121	class	Museums, historical sites, zoos and similar institutions	Museums, historical sites, zoos and similar institutions	Museos, sitios historicos, zoologicos y similares	Museos, sitios historicos, zoologicos y similares
+7131	class	Parks with recreational facilities and amusement arcades	Parks with recreational facilities and amusement arcades	Parques con instalaciones recreativas y casas de juegos electronicos	Parques con instalaciones recreativas y casas de juegos electronicos
+7132	class	Casinos, lotteries and other gambling services	Casinos, lotteries and other gambling services	Casinos, loterias y otros juegos de azar	Casinos, loterias y otros juegos de azar
+7139	class	Other recreational services	Other recreational services	Otros servicios recreativos	Otros servicios recreativos
+7211	class	Hotels, motels and similar facilities	Hotels, motels and similar facilities	Hoteles, moteles y similares	Hoteles, moteles y similares
+7212	class	Recreational camps and lodgings	Recreational camps and lodgings	Campamentos y albergues recreativos	Campamentos y albergues recreativos
+7213	class	Rooming and boarding houses, and furnished apartments and houses with maid services	Rooming and boarding houses, and furnished apartments and houses with maid services	Pensiones y casas de huespedes, y departamentos y casas amueblados con servicios de hoteleria	Pensiones y casas de huespedes, y departamentos y casas amueblados con servicios de hoteleria
+7221	class	Full service restaurants	Full service restaurants	Restaurantes con servicio completo	Restaurantes con servicio completo
+7222	class	Self-service, take-out and other limited service restaurants	Self-service, take-out and other limited service restaurants	Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado	Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado
+7223	class	Food catering services	Food catering services	Servicios de preparacion de alimentos por encargo	Servicios de preparacion de alimentos por encargo
+7224	class	Nightclubs, bars and similar drinking places	Nightclubs, bars and similar drinking places	Centros nocturnos, bares, cantinas y similares	Centros nocturnos, bares, cantinas y similares
+8111	class	Repair and maintenance of automobiles and trucks	Repair and maintenance of automobiles and trucks	Reparacion y mantenimiento de automoviles y camiones	Reparacion y mantenimiento de automoviles y camiones
+8112	class	Electronic and precision equipment repair and maintenance	Electronic and precision equipment repair and maintenance	Reparacion y mantenimiento de equipo electronico y de equipo de precision	Reparacion y mantenimiento de equipo electronico y de equipo de precision
+8113	class	Agricultural, industrial, commercial and services machinery and equipment repair and maintenance	Agricultural, industrial, commercial and services machinery and equipment repair and maintenance	Reparacion y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios	Reparacion y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios
+8114	class	Household and personal goods repair and maintenance	Household and personal goods repair and maintenance	Reparacion y mantenimiento de articulos para el hogar y personales	Reparacion y mantenimiento de articulos para el hogar y personales
+8121	class	Beauty salons and clinics, public baths and washrooms, and shoeshine shops	Beauty salons and clinics, public baths and washrooms, and shoeshine shops	Salones y clinicas de belleza, banos publicos y bolerias	Salones y clinicas de belleza, banos publicos y bolerias
+8122	class	Laundries and dry-cleaning shops	Laundries and dry-cleaning shops	Lavanderias y tintorerias	Lavanderias y tintorerias
+8123	class	Funeral services and cemetery management	Funeral services and cemetery management	Servicios funerarios y administracion de cementerios	Servicios funerarios y administracion de cementerios
+8124	class	Parking lots and garages for motor vehicles	Parking lots and garages for motor vehicles	Estacionamientos y pensiones para vehiculos automotores	Estacionamientos y pensiones para vehiculos automotores
+8129	class	Photograph developing and printing and other personal services	Photograph developing and printing and other personal services	Servicios de revelado e impresion de fotografias y otros servicios personales	Servicios de revelado e impresion de fotografias y otros servicios personales
+8131	class	Commercial, labor, professional and recreational associations and organizations	Commercial, labor, professional and recreational associations and organizations	Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas	Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas
+8132	class	Religious, political and civic associations and organizations	Religious, political and civic associations and organizations	Asociaciones y organizaciones religiosas, politicas y civiles	Asociaciones y organizaciones religiosas, politicas y civiles
+8141	class	Private households employing domestic personnel	Private households employing domestic personnel	Hogares con empleados domesticos	Hogares con empleados domesticos
+9311	class	Legislative bodies	Legislative bodies	Organos legislativos	Organos legislativos
+9312	class	General public administration	General public administration	Administracion publica en general	Administracion publica en general
+9313	class	Regulation and promotion of economic development	Regulation and promotion of economic development	Regulacion y fomento del desarrollo economico	Regulacion y fomento del desarrollo economico
+9314	class	Justice administration and security and public order preservation	Justice administration and security and public order preservation	Imparticion de justicia y mantenimiento de la seguridad y el orden publico	Imparticion de justicia y mantenimiento de la seguridad y el orden publico
+9315	class	Regulation and promotion of environmental improvement and preservation activities	Regulation and promotion of environmental improvement and preservation activities	Regulacion y fomento de actividades para mejorar y preservar el medio ambiente	Regulacion y fomento de actividades para mejorar y preservar el medio ambiente
+9316	class	Administrative activities of social welfare institutions	Administrative activities of social welfare institutions	Actividades administrativas de instituciones de bienestar social	Actividades administrativas de instituciones de bienestar social
+9317	class	Foreign affairs	Foreign affairs	Relaciones exteriores	Relaciones exteriores
+9318	class	National security activities	National security activities	Actividades de seguridad nacional	Actividades de seguridad nacional
+9321	class	Extraterritorial and international organizations	Extraterritorial and international organizations	Organismos internacionales y extraterritoriales	Organismos internacionales y extraterritoriales
+111	group	Agriculture	Agriculture	Agricultura	Agricultura
+112	group	Animal breeding and production	Animal breeding and production	Cria y explotacion de animales	Cria y explotacion de animales
+113	group	Forestry	Forestry	Aprovechamiento forestal	Aprovechamiento forestal
+114	group	Fishing, hunting and trapping	Fishing, hunting and trapping	Pesca, caza y captura	Pesca, caza y captura
+115	group	Services related to agricultural and forestry activities	Services related to agricultural and forestry activities	Servicios relacionados con las actividades agropecuarias y forestales	Servicios relacionados con las actividades agropecuarias y forestales
+211	group	Oil and gas extraction	Oil and gas extraction	Extraccion de petroleo y gas	Extraccion de petroleo y gas
+212	group	Metallic and nonmetallic ore mining, except oil and gas	Metallic and nonmetallic ore mining, except oil and gas	Mineria de minerales metalicos y no metalicos, excepto petroleo y gas	Mineria de minerales metalicos y no metalicos, excepto petroleo y gas
+213	group	Services related to mining	Services related to mining	Servicios relacionados con la mineria	Servicios relacionados con la mineria
+221	group	Electric power generation, transmission and distribution	Electric power generation, transmission and distribution	Generacion, transmision y distribucion de energia electrica	Generacion, transmision y distribucion de energia electrica
+222	group	Water and gas supply through mains to final consumers	Water and gas supply through mains to final consumers	Suministro de agua y suministro de gas por ductos al consumidor final	Suministro de agua y suministro de gas por ductos al consumidor final
+236	group	Construction	Construction	Edificacion	Edificacion
+237	group	Civil engineering construction works	Civil engineering construction works	Construccion de obras de ingenieria civil	Construccion de obras de ingenieria civil
+238	group	Specialized construction works	Specialized construction works	Trabajos especializados para la construccion	Trabajos especializados para la construccion
+311	group	Food industry	Food industry	Industria alimentaria	Industria alimentaria
+312	group	Beverage and tobacco industries	Beverage and tobacco industries	Industria de las bebidas y del tabaco	Industria de las bebidas y del tabaco
+313	group	Textile inputs manufacturing, and textiles finishing	Textile inputs manufacturing, and textiles finishing	Fabricacion de insumos textiles y acabado de textiles	Fabricacion de insumos textiles y acabado de textiles
+314	group	Textile products manufacturing, except apparel	Textile products manufacturing, except apparel	Fabricacion de productos textiles, excepto prendas de vestir	Fabricacion de productos textiles, excepto prendas de vestir
+315	group	Apparel manufacturing	Apparel manufacturing	Fabricacion de prendas de vestir	Fabricacion de prendas de vestir
+316	group	Leather and fur tanning and finishing, and manufacturing of leather, fur and allied materials products	Leather and fur tanning and finishing, and manufacturing of leather, fur and allied materials products	Curtido y acabado de cuero y piel, y fabricacion de productos de cuero, piel y materiales sucedaneos	Curtido y acabado de cuero y piel, y fabricacion de productos de cuero, piel y materiales sucedaneos
+321	group	Wood industry	Wood industry	Industria de la madera	Industria de la madera
+322	group	Paper industry	Paper industry	Industria del papel	Industria del papel
+323	group	Printing and related industries	Printing and related industries	Impresion e industrias conexas	Impresion e industrias conexas
+324	group	Manufacturing of products derived from petroleum and coal	Manufacturing of products derived from petroleum and coal	Fabricacion de productos derivados del petroleo y del carbon	Fabricacion de productos derivados del petroleo y del carbon
+325	group	Chemical industry	Chemical industry	Industria quimica	Industria quimica
+326	group	Plastic and rubber industry	Plastic and rubber industry	Industria del plastico y del hule	Industria del plastico y del hule
+327	group	Nonmetallic mineral products manufacturing	Nonmetallic mineral products manufacturing	Fabricacion de productos a base de minerales no metalicos	Fabricacion de productos a base de minerales no metalicos
+332	group	Metal products manufacturing	Metal products manufacturing	Fabricacion de productos metalicos	Fabricacion de productos metalicos
+333	group	Machinery and equipment manufacturing	Machinery and equipment manufacturing	Fabricacion de maquinaria y equipo	Fabricacion de maquinaria y equipo
+334	group	Manufacturing of computer, communications, and measuring equipment, and other electronic equipment, components and appliances manufacturing	Manufacturing of computer, communications, and measuring equipment, and other electronic equipment, components and appliances manufacturing	Fabricacion de equipo de computacion, comunicacion, medicion y de otros equipos, componentes y accesorios electronicos	Fabricacion de equipo de computacion, comunicacion, medicion y de otros equipos, componentes y accesorios electronicos
+335	group	Electric appliances, accessories and electric power generation equipment manufacturing	Electric appliances, accessories and electric power generation equipment manufacturing	Fabricacion de accesorios, aparatos electricos y equipo de generacion de energia electrica	Fabricacion de accesorios, aparatos electricos y equipo de generacion de energia electrica
+336	group	Transportation equipment manufacturing	Transportation equipment manufacturing	Fabricacion de equipo de transporte	Fabricacion de equipo de transporte
+337	group	Furniture, mattresses and blinds manufacturing	Furniture, mattresses and blinds manufacturing	Fabricacion de muebles, colchones y persianas	Fabricacion de muebles, colchones y persianas
+339	group	Other manufacturing industries	Other manufacturing industries	Otras industrias manufactureras	Otras industrias manufactureras
+431	group	Wholesale trade of groceries, food, beverages, ice and tobacco	Wholesale trade of groceries, food, beverages, ice and tobacco	Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco	Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco
+432	group	Wholesale trade of textile products and footwear	Wholesale trade of textile products and footwear	Comercio al por mayor de productos textiles y calzado	Comercio al por mayor de productos textiles y calzado
+433	group	Wholesale trade of pharmaceutical and perfumery products, recreational goods, and small and major household appliances	Wholesale trade of pharmaceutical and perfumery products, recreational goods, and small and major household appliances	Comercio al por mayor de productos farmaceuticos, de perfumeria, articulos para el esparcimiento, electrodomesticos menores y aparatos de linea blanca	Comercio al por mayor de productos farmaceuticos, de perfumeria, articulos para el esparcimiento, electrodomesticos menores y aparatos de linea blanca
+434	group	Wholesale trade of agricultural, forestry and industrial raw materials, and waste materials	Wholesale trade of agricultural, forestry and industrial raw materials, and waste materials	Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho	Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho
+435	group	Wholesale trade of agricultural, industrial, commercial and services machinery, equipment and furniture, and other general purpose machinery and equipment	Wholesale trade of agricultural, industrial, commercial and services machinery, equipment and furniture, and other general purpose machinery and equipment	Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general	Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general
+436	group	Wholesale trade of trucks and new parts for automobiles, pickup trucks and trucks	Wholesale trade of trucks and new parts for automobiles, pickup trucks and trucks	Comercio al por mayor de camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones	Comercio al por mayor de camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones
+437	group	Wholesale trade intermediation	Wholesale trade intermediation	Intermediacion de comercio al por mayor	Intermediacion de comercio al por mayor
+461	group	Retail trade of groceries, food, beverages, ice and tobacco	Retail trade of groceries, food, beverages, ice and tobacco	Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco	Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco
+462	group	Retail trade in self-service shops and department stores	Retail trade in self-service shops and department stores	Comercio al por menor en tiendas de autoservicio y departamentales	Comercio al por menor en tiendas de autoservicio y departamentales
+463	group	Retail trade of textile products, costume jewelry, clothing accessories and footwear	Retail trade of textile products, costume jewelry, clothing accessories and footwear	Comercio al por menor de productos textiles, bisuteria, accesorios de vestir y calzado	Comercio al por menor de productos textiles, bisuteria, accesorios de vestir y calzado
+464	group	Retail trade of health care items	Retail trade of health care items	Comercio al por menor de articulos para el cuidado de la salud	Comercio al por menor de articulos para el cuidado de la salud
+465	group	Retail trade of stationery supplies, recreational and other personal goods	Retail trade of stationery supplies, recreational and other personal goods	Comercio al por menor de articulos de papeleria, para el esparcimiento y otros articulos de uso personal	Comercio al por menor de articulos de papeleria, para el esparcimiento y otros articulos de uso personal
+466	group	Retail trade of household goods, computers, interior decorative articles and used goods	Retail trade of household goods, computers, interior decorative articles and used goods	Comercio al por menor de enseres domesticos, computadoras, articulos para la decoracion de interiores y articulos usados	Comercio al por menor de enseres domesticos, computadoras, articulos para la decoracion de interiores y articulos usados
+467	group	Retail trade of hardware and glass	Retail trade of hardware and glass	Comercio al por menor de articulos de ferreteria, tlapaleria y vidrios	Comercio al por menor de articulos de ferreteria, tlapaleria y vidrios
+468	group	Retail trade of motor vehicles, parts, fuels and lubricants	Retail trade of motor vehicles, parts, fuels and lubricants	Comercio al por menor de vehiculos de motor, refacciones, combustibles y lubricantes	Comercio al por menor de vehiculos de motor, refacciones, combustibles y lubricantes
+469	group	Retail trade exclusively through Internet, and printed catalogs, television and similar media	Retail trade exclusively through Internet, and printed catalogs, television and similar media	Comercio al por menor exclusivamente a traves de Internet, y catalogos impresos, television y similares	Comercio al por menor exclusivamente a traves de Internet, y catalogos impresos, television y similares
+481	group	Air transportation	Air transportation	Transporte aereo	Transporte aereo
+482	group	Rail transportation	Rail transportation	Transporte por ferrocarril	Transporte por ferrocarril
+483	group	Water transportation	Water transportation	Transporte por agua	Transporte por agua
+484	group	Freight truck transportation	Freight truck transportation	Autotransporte de carga	Autotransporte de carga
+485	group	Passenger transportation by road, except by rail	Passenger transportation by road, except by rail	Transporte terrestre de pasajeros, excepto por ferrocarril	Transporte terrestre de pasajeros, excepto por ferrocarril
+486	group	Pipeline transportation	Pipeline transportation	Transporte por ductos	Transporte por ductos
+487	group	Sightseeing transportation	Sightseeing transportation	Transporte turistico	Transporte turistico
+488	group	Services related to transportation	Services related to transportation	Servicios relacionados con el transporte	Servicios relacionados con el transporte
+491	group	Postal services	Postal services	Servicios postales	Servicios postales
+492	group	Courier and messenger services	Courier and messenger services	Servicios de mensajeria y paqueteria	Servicios de mensajeria y paqueteria
+493	group	Warehousing services	Warehousing services	Servicios de almacenamiento	Servicios de almacenamiento
+511	group	Newspaper, magazine, book, software and other materials publishing and integrated publishing/printing of these publications	Newspaper, magazine, book, software and other materials publishing and integrated publishing/printing of these publications	Edicion de periodicos, revistas, libros, software y otros materiales, y edicion de estas publicaciones integrada con la impresion	Edicion de periodicos, revistas, libros, software y otros materiales, y edicion de estas publicaciones integrada con la impresion
+512	group	Film and video industry, and sound recording industry	Film and video industry, and sound recording industry	Industria filmica y del video, e industria del sonido	Industria filmica y del video, e industria del sonido
+515	group	Radio and television	Radio and television	Radio y television	Radio y television
+516	group	Internet Publishing and Broadcasting	Internet Publishing and Broadcasting	Publicación y transmisión en Internet	Publicación y transmisión en Internet
+517	group	Other telecommunications	Other telecommunications	Otras telecomunicaciones	Otras telecomunicaciones
+518	group	Electronic data processing, hosting, and other related services	Electronic data processing, hosting, and other related services	Procesamiento electronico de informacion, hospedaje y otros servicios relacionados	Procesamiento electronico de informacion, hospedaje y otros servicios relacionados
+519	group	Other information services	Other information services	Otros servicios de informacion	Otros servicios de informacion
+521	group	Central bank	Central bank	Banca central	Banca central
+522	group	Credit and financial intermediation institutions, non-stock exchange	Credit and financial intermediation institutions, non-stock exchange	Instituciones de intermediacion crediticia y financiera no bursatil	Instituciones de intermediacion crediticia y financiera no bursatil
+523	group	Stock market, currency exchange and financial investment activities	Stock market, currency exchange and financial investment activities	Actividades bursatiles, cambiarias y de inversion financiera	Actividades bursatiles, cambiarias y de inversion financiera
+524	group	Surety, insurance and pension companies	Surety, insurance and pension companies	Companias de fianzas, seguros y pensiones	Companias de fianzas, seguros y pensiones
+531	group	Real estate services	Real estate services	Servicios inmobiliarios	Servicios inmobiliarios
+532	group	Rental of tangible goods	Rental of tangible goods	Servicios de alquiler de bienes muebles	Servicios de alquiler de bienes muebles
+533	group	Rental services of trademarks, patents and franchises	Rental services of trademarks, patents and franchises	Servicios de alquiler de marcas registradas, patentes y franquicias	Servicios de alquiler de marcas registradas, patentes y franquicias
+541	group	Professional, scientific and technical services	Professional, scientific and technical services	Servicios profesionales, cientificos y tecnicos	Servicios profesionales, cientificos y tecnicos
+551	group	Head offices	Head offices	Corporativos	Corporativos
+561	group	Business support services	Business support services	Servicios de apoyo a los negocios	Servicios de apoyo a los negocios
+562	group	Waste management and remediation services	Waste management and remediation services	Manejo de desechos y servicios de remediacion	Manejo de desechos y servicios de remediacion
+611	group	Educational services	Educational services	Servicios educativos	Servicios educativos
+621	group	Outpatient medical services and related services	Outpatient medical services and related services	Servicios medicos de consulta externa y servicios relacionados	Servicios medicos de consulta externa y servicios relacionados
+622	group	Hospitals	Hospitals	Hospitales	Hospitales
+623	group	Social assistance and health care residential facilities	Social assistance and health care residential facilities	Residencias de asistencia social y para el cuidado de la salud	Residencias de asistencia social y para el cuidado de la salud
+624	group	Other social assistance services	Other social assistance services	Otros servicios de asistencia social	Otros servicios de asistencia social
+711	group	Artistic, cultural and sporting services, and other related services	Artistic, cultural and sporting services, and other related services	Servicios artisticos, culturales y deportivos, y otros servicios relacionados	Servicios artisticos, culturales y deportivos, y otros servicios relacionados
+712	group	Museums, historical sites, zoos and similar institutions	Museums, historical sites, zoos and similar institutions	Museos, sitios historicos, zoologicos y similares	Museos, sitios historicos, zoologicos y similares
+713	group	Amusement services in recreational facilities and other recreational services	Amusement services in recreational facilities and other recreational services	Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos	Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+721	group	Temporary accommodation services	Temporary accommodation services	Servicios de alojamiento temporal	Servicios de alojamiento temporal
+722	group	Food and beverage preparation services	Food and beverage preparation services	Servicios de preparacion de alimentos y bebidas	Servicios de preparacion de alimentos y bebidas
+811	group	Repair and maintenance services	Repair and maintenance services	Servicios de reparacion y mantenimiento	Servicios de reparacion y mantenimiento
+812	group	Personal services	Personal services	Servicios personales	Servicios personales
+813	group	Associations and Organizations	Associations and Organizations	Asociaciones y organizaciones	Asociaciones y organizaciones
+814	group	Private households employing domestic personnel	Private households employing domestic personnel	Hogares con empleados domesticos	Hogares con empleados domesticos
+931	group	Legislative, governmental and justice administration activities	Legislative, governmental and justice administration activities	Actividades legislativas, gubernamentales y de imparticion de justicia	Actividades legislativas, gubernamentales y de imparticion de justicia
+932	group	Extraterritorial and international organizations	Extraterritorial and international organizations	Organismos internacionales y extraterritoriales	Organismos internacionales y extraterritoriales
+11	division	Agriculture, animal breeding and production, forestry, fishing and hunting	Agriculture, animal breeding and production, forestry, fishing and hunting	Agricultura, cria y explotacion de animales, aprovechamiento forestal, pesca y caza	Agricultura, cria y explotacion de animales, aprovechamiento forestal, pesca y caza
+21	division	Mining	Mining	Mineria	Mineria
+22	division	Electric power generation, transmission and distribution, water and gas supply through mains to final consumers	Electric power generation, transmission and distribution, water and gas supply through mains to final consumers	Generacion, transmision y distribucion de energia electrica, suministro de agua y de gas por ductos al consumidor final	Generacion, transmision y distribucion de energia electrica, suministro de agua y de gas por ductos al consumidor final
+23	division	Construction	Construction	Construccion	Construccion
+31	division	Manufacturing 1	Manufacturing 1	Industrias manufactureras 1	Industrias manufactureras 1
+32	division	Manufacturing 2	Manufacturing 2	Industrias manufactureras 2	Industrias manufactureras 2
+33	division	Manufacturing 3	Manufacturing 3	Industrias manufactureras 3	Industrias manufactureras 3
+43	division	Wholesale trade	Wholesale trade	Comercio al por mayor	Comercio al por mayor
+46	division	Retail trade	Retail trade	Comercio al por menor	Comercio al por menor
+48	division	Transportation, postal services and warehousing 1	Transportation, postal services and warehousing 1	Transportes, correos y almacenamiento 1	Transportes, correos y almacenamiento 1
+49	division	Transportation, postal services and warehousing 2	Transportation, postal services and warehousing 2	Transportes, correos y almacenamiento 2	Transportes, correos y almacenamiento 2
+51	division	Mass media information	Mass media information	Informacion en medios masivos	Informacion en medios masivos
+52	division	Financial and insurance services	Financial and insurance services	Servicios financieros y de seguros	Servicios financieros y de seguros
+53	division	Real estate services and tangible and intangible goods rental	Real estate services and tangible and intangible goods rental	Servicios inmobiliarios y de alquiler de bienes muebles e intangibles	Servicios inmobiliarios y de alquiler de bienes muebles e intangibles
+54	division	Professional, scientific and technical services	Professional, scientific and technical services	Servicios profesionales, cientificos y tecnicos	Servicios profesionales, cientificos y tecnicos
+55	division	Head offices	Head offices	Corporativos	Corporativos
+56	division	Business support services, waste management and remediation services	Business support services, waste management and remediation services	Servicios de apoyo a los negocios y manejo de desechos y servicios de remediacion	Servicios de apoyo a los negocios y manejo de desechos y servicios de remediacion
+61	division	Educational services	Educational services	Servicios educativos	Servicios educativos
+62	division	Health care and social assistance services	Health care and social assistance services	Servicios de salud y de asistencia social	Servicios de salud y de asistencia social
+71	division	Cultural and sporting recreation services and other recreational services	Cultural and sporting recreation services and other recreational services	Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos	Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos
+72	division	Temporary accommodation services and food and beverage preparation services	Temporary accommodation services and food and beverage preparation services	Servicios de alojamiento temporal y de preparacion de alimentos y bebidas	Servicios de alojamiento temporal y de preparacion de alimentos y bebidas
+81	division	Other services, except government activities	Other services, except government activities	Otros servicios excepto actividades gubernamentales	Otros servicios excepto actividades gubernamentales
+93	division	Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations	Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations	Actividades legislativas, gubernamentales, de imparticion de justicia y de organismos internacionales y extraterritoriales	Actividades legislativas, gubernamentales, de imparticion de justicia y de organismos internacionales y extraterritoriales
+1	section	Textiles & Furniture	Textiles & Furniture	Textiles y Muebles	Textiles y Muebles
+2	section	Vegetables, Animals, Foodstuffs, Wood	Vegetables, Animals, Foodstuffs, Wood	Verduras, Animales, Alimentos, y Madera	Verduras, Animales, Alimentos, y Madera
+3	section	Stone & Glass	Stone & Glass	Piedra y Vidrio	Piedra y Vidrio
+4	section	Minerals	Minerals	Minerales	Minerales
+5	section	Metals	Metals	Metales	Metales
+6	section	Chemicals & Plastics	Chemicals & Plastics	Químicos y Plásticos	Químicos y Plásticos
+7	section	Transportation	Transportation	Vehículos de Transporte	Vehículos de Transporte
+8	section	Machinery	Machinery	Maquinaria	Maquinaria
+9	section	Electronics	Electronics	Electrónicos	Electrónicos
+10	section	Social Services	Social Services	Servicios Sociales	Servicios Sociales
+11	section	Utilities	Utilities	Servicios Públicos	Servicios Públicos
+12	section	Construction	Construction	Construcción	Construcción
+13	section	Transport & Communications	Transport & Communications	Transporte y Comunicaciones	Transporte y Comunicaciones
+14	section	Commerce	Commerce	Comercio	Comercio
+15	section	Financial & Business Services	Financial & Business Services	Servicios Financieros y Empresariales	Servicios Financieros y Empresariales
