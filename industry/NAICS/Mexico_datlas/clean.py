@@ -31,6 +31,7 @@ if __name__ == "__main__":
     # can do here.
 
     parent_code_table = parent_code_table[~parent_code_table.duplicated(["code", "level"])]
+    parent_code_table = parent_code_table.reset_index(drop=True)
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
 
     names = pd.read_table("in/Mexico_industry_master - Names.tsv", encoding="utf-8")
