@@ -26,6 +26,7 @@ if __name__ == "__main__":
     h = Hierarchy(["1digit", "2digit", "3digit", "4digit"])
 
     parent_code_table = ordered_table_to_parent_code_table(sinco, h)
+    parent_code_table = parent_code_table.reset_index(drop=True)
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
 
     c = Classification(parent_id_table, h)
