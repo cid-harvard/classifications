@@ -32,10 +32,19 @@ if __name__ == "__main__":
 
     parent_code_table = parent_code_table[~parent_code_table.duplicated(["code", "level"])]
     parent_code_table = parent_code_table.reset_index(drop=True)
+
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
 
     names = pd.read_table("in/Mexico_industry_master - Names.tsv", encoding="utf-8")
     parent_id_table = parent_id_table.merge(names, on=["code", "level"], how="outer")
+
+    # We also decided to rename the one category these things fall into to be
+    # "Other manufacturing industries", since that seems to fit well and is
+    # less confusing.
+
+    metals_section = (parent_id_table.level == "section") & (parent_id_table.code == 5)
+    parent_id_table.loc[metals_section, ("name_en", "name_short_en")] = u"Manufacturing Industries"
+    parent_id_table.loc[metals_section, ("name_es", "name_short_es")] = u"Industrias Manufactureras"
 
     parent_id_table["name"] = parent_id_table["name_en"]
     parent_id_table.code = parent_id_table.code.astype(str)
