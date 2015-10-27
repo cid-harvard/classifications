@@ -90,6 +90,19 @@ if __name__ == "__main__":
     parent_id_table["name_short_en"] = parent_id_table["name_en"]
     parent_id_table["name_short_es"] = parent_id_table["name_es"]
 
+    # Get rid of antiquated colonial names of states
+    state_level = (parent_id_table.level == "department")
+    coahuila = (parent_id_table.code == "05")
+    michoacan = (parent_id_table.code == "16")
+    veracruz = (parent_id_table.code == "30")
+
+    name_fields = ("name", "name_en", "name_es", "name_short_en",
+                   "name_short_es")
+
+    parent_id_table.loc[state_level & coahuila, name_fields] = u"Coahuila"
+    parent_id_table.loc[state_level & michoacan, name_fields] = u"Michoac\u00e1n"
+    parent_id_table.loc[state_level & veracruz, name_fields] = u"Veracruz"
+
     h = Hierarchy(["country", "department", "msa", "municipality"])
     c = Classification(parent_id_table, h)
 
