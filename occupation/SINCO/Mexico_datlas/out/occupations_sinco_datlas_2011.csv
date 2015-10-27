@@ -1,4 +1,4 @@
-"id","name_es","name_en","name_short_es","name_short_en","code","level","parent_id","name"
+"","name_es","name_en","name_short_es","name_short_en","code","level","parent_id","name"
 0,"Funcionarios, directores y jefes","Officers, directors and managers","Funcionarios, directores y jefes","Officers, directors and managers","1","1digit","","Officers, directors and managers"
 1,"Funcionarios y altas autoridades de los sectores público, privado y social","Officers and senior officials of the public, private and social sectors","Altos funcionarios de sectores público, privado y social","Senior officials of the public, private and social sectors","11","2digit",0.0,"Officers and senior officials of the public, private and social sectors"
 2,"Funcionarios, legisladores y autoridades gubernamentales","Officers, legislators and government authorities","Funcionarios, legisladores y autoridades gubernamentales","Officers, legislators and government authorities","111","3digit",1.0,"Officers, legislators and government authorities"

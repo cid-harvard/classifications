@@ -11,7 +11,8 @@ if __name__ == "__main__":
     sinco = pd.read_table("in/Mexico Occupations (SINCO 2011) - Classification with translations.tsv",
                           encoding="utf-8",
                           dtype={"code": unicode})
-    sinco = sinco.set_index("id")
+    sinco = sinco.rename(columns={"id": ""})
+    sinco = sinco.set_index("")
     sinco = sinco[["name_es", "name_en", "name_short_es", "name_short_en", "code", "level", "parent_id"]]
 
     sinco["name"] = sinco["name_en"]
