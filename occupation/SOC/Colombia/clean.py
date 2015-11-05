@@ -13,19 +13,16 @@ if __name__ == "__main__":
     h = Hierarchy(["major_group", "minor_group", "broad_occupation", "detailed_occupation"])
     fields = {
         "major_group": ["name_en_major_group", "name_es_major_group"],
-        "minor_group": ["name_en_minor_group", "name_es_minor_group"],
+        "minor_group": ["name_en_minor_group", "name_es_minor_group", "name_short_es_minor_group"],
         "broad_occupation": ["name_en_broad_occupation", "name_es_broad_occupation"],
         "detailed_occupation": ["name_en_detailed_occupation", "name_es_detailed_occupation", "name_short_es_detailed_occupation"],
     }
 
-    # TODO: get proper names for broad occupations
-    df["name_es_broad_occupation"] = df["name_en_broad_occupation"]
-    df["name_es_minor_group"] = df["name_en_minor_group"]
-
+    # TODO: no short names for these
     df["name_short_es_broad_occupation"] = ""
-    df["name_short_es_minor_group"] = ""
     df["name_short_es_major_group"] = ""
 
+    from IPython import embed; embed()
     df = repeated_table_to_parent_id_table(df, h, fields)
 
     df["name_short_en"] = df["name_en"]
