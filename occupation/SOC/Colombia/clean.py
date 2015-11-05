@@ -22,7 +22,6 @@ if __name__ == "__main__":
     df["name_short_es_broad_occupation"] = ""
     df["name_short_es_major_group"] = ""
 
-    from IPython import embed; embed()
     df = repeated_table_to_parent_id_table(df, h, fields)
 
     df["name_short_en"] = df["name_en"]
