@@ -1,252 +1,261 @@
-"","alpha3","code","name_es","level","name","parent_id"
-0,"ABW","27","Aruba","country","Aruba",""
-1,"AFG","13","Afganistán","country","Afghanistan",""
-2,"AGO","40","Angola","country","Angola",""
-3,"AIA","41","Anguilla","country","Anguilla",""
-4,"ALA","15","Aland,islas","country","Åland Islands",""
-5,"ALB","17","Albania","country","Albania",""
-6,"AND","37","Andorra","country","Andorra",""
-7,"ANT","47","Antillas Neerlandesas","country","Netherlands Antilles",""
-8,"ARE","244","Emiratos Arabes Unidos","country","United Arab Emirates",""
-9,"ARG","63","Argentina","country","Argentina",""
-10,"ARM","26","Armenia","country","Armenia",""
-11,"ASM","690","Samoa Americana","country","American Samoa",""
-12,"ATA","24","Antartida","country","Antarctica",""
-13,"ATF","786","Territorios Franceses del Sur","country","French Southern Territories",""
-14,"ATG","43","Antigua y Barbuda","country","Antigua and Barbuda",""
-15,"AUS","69","Australia","country","Australia",""
-16,"AUT","72","Austria","country","Austria",""
-17,"AZE","74","Azerbaiyán","country","Azerbaijan",""
-18,"BDI","115","Burundi","country","Burundi",""
-19,"BEL","87","Bélgica","country","Belgium",""
-20,"BEN","229","Benin","country","Benin",""
-21,"BES","98","Bonaire,San Eustatius y Saba","country","Bonaire, Sint Eustatius and Saba",""
-22,"BFA","31","Burkina Faso","country","Burkina Faso",""
-23,"BGD","81","Bangladesh","country","Bangladesh",""
-24,"BGR","111","Bulgaria","country","Bulgaria",""
-25,"BHR","80","Bahrein","country","Bahrain",""
-26,"BHS","77","Bahamas","country","Bahamas",""
-27,"BIH","29","Bosnia y Herzegovina","country","Bosnia and Herzegovina",""
-28,"BLM","693","San Bartolome","country","Saint Barthélemy",""
-29,"BLR","91","Belarús","country","Belarus",""
-30,"BLZ","88","Belice","country","Belize",""
-31,"BMU","90","Bermudas","country","Bermuda",""
-32,"BOL","97","Bolivia","country","Bolivia (Plurinational State of)",""
-33,"BRA","105","Brasil","country","Brazil",""
-34,"BRB","83","Barbados","country","Barbados",""
-35,"BRN","108","Brunei Darussalam","country","Brunei Darussalam",""
-36,"BTN","119","Bután","country","Bhutan",""
-37,"BVT","102","Bouvet,isla","country","Bouvet Island",""
-38,"BWA","101","Botswana","country","Botswana",""
-39,"CAF","640","República Centroafricana","country","Central African Republic",""
-40,"CAN","149","Canadá","country","Canada",""
-41,"CCK","165","Cocos (Keeling),Islas","country","Cocos (Keeling) Islands",""
-42,"CHE","767","Suiza","country","Switzerland",""
-43,"CHL","211","Chile","country","Chile",""
-44,"CHN","215","China","country","China",""
-45,"CIV","193","Costa de Marfil","country","Côte d'Ivoire",""
-46,"CMR","145","Camerún, República Unida del","country","Cameroon",""
-47,"COD","888","Rep. Democrática del Congo","country","Congo (Democratic Republic of the)",""
-48,"COG","177","Congo, República del","country","Congo",""
-49,"COK","183","Cook, Islas","country","Cook Islands",""
-50,"COL","169","Colombia","country","Colombia",""
-51,"COM","173","Comoras","country","Comoros",""
-52,"CPV","127","Cabo Verde","country","Cabo Verde",""
-53,"CRI","196","Costa Rica","country","Costa Rica",""
-54,"CUB","199","Cuba","country","Cuba",""
-55,"CUW","200","Curazao","country","Curaçao",""
-56,"CXR","511","Navidad (Christmas),Isla","country","Christmas Island",""
-57,"CYM","137","Caimán, Islas","country","Cayman Islands",""
-58,"CYP","221","Chipre","country","Cyprus",""
-59,"CZE","644","Republica Checa","country","Czech Republic",""
-60,"DEU","23","Alemania","country","Germany",""
-61,"DJI","783","Djibouti","country","Djibouti",""
-62,"DMA","235","Dominica","country","Dominica",""
-63,"DNK","232","Dinamarca","country","Denmark",""
-64,"DOM","647","República Dominicana","country","Dominican Republic",""
-65,"DZA","59","Argelia","country","Algeria",""
-66,"ECU","239","Ecuador","country","Ecuador",""
-67,"EGY","240","Egipto","country","Egypt",""
-68,"ERI","243","Eritrea","country","Eritrea",""
-69,"ESH","685","Sahara Occidental","country","Western Sahara",""
-70,"ESP","245","España","country","Spain",""
-71,"EST","251","Estonia","country","Estonia",""
-72,"ETH","253","Etiopía","country","Ethiopia",""
-73,"FIN","271","Finlandia","country","Finland",""
-74,"FJI","870","Fiji","country","Fiji",""
-75,"FRA","275","Francia","country","France",""
-76,"FRO","259","Feroe, Islas","country","Faroe Islands",""
-77,"FSM","494","Micronesia, Estados Federa de","country","Micronesia (Federated States of)",""
-78,"GAB","281","Gabón","country","Gabon",""
-79,"GBR","628","Reino Unido","country","United Kingdom of Great Britain and Northern Ireland",""
-80,"GEO","287","Georgia","country","Georgia",""
-81,"GGY","327","Guernsey","country","Guernsey",""
-82,"GHA","289","Ghana","country","Ghana",""
-83,"GIB","293","Gibraltar","country","Gibraltar",""
-84,"GIN","329","Guinea","country","Guinea",""
-85,"GLP","309","Guadalupe","country","Guadeloupe",""
-86,"GMB","285","Gambia","country","Gambia",""
-87,"GNB","334","Guinea Bissau","country","Guinea-Bissau",""
-88,"GNQ","331","Guinea Ecuatorial","country","Equatorial Guinea",""
-89,"GRC","301","Grecia","country","Greece",""
-90,"GRD","297","Granada","country","Grenada",""
-91,"GRL","305","Groenlandia","country","Greenland",""
-92,"GTM","317","Guatemala","country","Guatemala",""
-93,"GUF","325","Guayana Francesa","country","French Guiana",""
-94,"GUM","313","Guam","country","Guam",""
-95,"GUY","337","Guyana","country","Guyana",""
-96,"HKG","351","Hong Kong","country","Hong Kong",""
-97,"HMD","343","Heard y Mc Donald,islas","country","Heard Island and McDonald Islands",""
-98,"HND","345","Honduras","country","Honduras",""
-99,"HRV","198","Croacia","country","Croatia",""
-100,"HTI","341","Haití","country","Haiti",""
-101,"HUN","355","Hungría","country","Hungary",""
-102,"IDN","365","Indonesia","country","Indonesia",""
-103,"IMN","468","Man,isla de","country","Isle of Man",""
-104,"IND","361","India","country","India",""
-105,"IOT","787","Territorio Británico Océano Indico","country","British Indian Ocean Territory",""
-106,"IRL","375","Irlanda (Eire)","country","Ireland",""
-107,"IRN","372","Irán","country","Iran (Islamic Republic of)",""
-108,"IRQ","369","Irak","country","Iraq",""
-109,"ISL","379","Islandia","country","Iceland",""
-110,"ISR","383","Israel","country","Israel",""
-111,"ITA","386","Italia","country","Italy",""
-112,"JAM","391","Jamaica","country","Jamaica",""
-113,"JEY","401","Jersey","country","Jersey",""
-114,"JOR","403","Jordania","country","Jordan",""
-115,"JPN","399","Japón","country","Japan",""
-116,"KAZ","406","Kazajstán","country","Kazakhstan",""
-117,"KEN","410","Kenia","country","Kenya",""
-118,"KGZ","412","Kirguistán","country","Kyrgyzstan",""
-119,"KHM","141","Camboya","country","Cambodia",""
-120,"KIR","411","Kiribati","country","Kiribati",""
-121,"KNA","695","Saint kitts y nevis","country","Saint Kitts and Nevis",""
-122,"KOR","190","Corea (Sur), República de","country","Korea (Republic of)",""
-123,"KWT","413","Kuwait","country","Kuwait",""
-124,"LAO","420","Laos, República Popular Democrática de","country","Lao People's Democratic Republic",""
-125,"LBN","431","Libano","country","Lebanon",""
-126,"LBR","434","Liberia","country","Liberia",""
-127,"LBY","438","Libia","country","Libya",""
-128,"LCA","715","Santa Lucía","country","Saint Lucia",""
-129,"LIE","440","Liechtenstein","country","Liechtenstein",""
-130,"LKA","750","Sri Lanka","country","Sri Lanka",""
-131,"LSO","426","Lesotho","country","Lesotho",""
-132,"LTU","443","Lituania","country","Lithuania",""
-133,"LUX","445","Luxemburgo","country","Luxembourg",""
-134,"LVA","429","Letonia","country","Latvia",""
-135,"MAC","447","Macao","country","Macao",""
-136,"MAF","698","San Martin (Parte francesa)","country","Saint Martin (French part)",""
-137,"MAR","474","Marruecos","country","Morocco",""
-138,"MCO","498","Mónaco","country","Monaco",""
-139,"MDA","496","Moldavia","country","Moldova (Republic of)",""
-140,"MDG","450","Madagascar","country","Madagascar",""
-141,"MDV","461","Maldivas","country","Maldives",""
-142,"MEX","493","México","country","Mexico",""
-143,"MHL","472","Marshall, Islas","country","Marshall Islands",""
-144,"MKD","448","Macedonia","country","Macedonia (the former Yugoslav Republic of)",""
-145,"MLI","464","Malí","country","Mali",""
-146,"MLT","467","Malta","country","Malta",""
-147,"MMR","93","Myanmar","country","Myanmar",""
-148,"MNE","500","Montenegro","country","Montenegro",""
-149,"MNG","497","Mongolia","country","Mongolia",""
-150,"MNP","469","Marianas septentrionales, islas","country","Northern Mariana Islands",""
-151,"MOZ","505","Mozambique","country","Mozambique",""
-152,"MRT","488","Mauritania","country","Mauritania",""
-153,"MSR","501","Montserrat, Isla","country","Montserrat",""
-154,"MTQ","477","Martinica","country","Martinique",""
-155,"MUS","485","Mauricio","country","Mauritius",""
-156,"MWI","458","Malawi","country","Malawi",""
-157,"MYS","455","Malasia","country","Malaysia",""
-158,"MYT","489","Mayote","country","Mayotte",""
-159,"NAM","507","Namibia","country","Namibia",""
-160,"NCL","542","Nueva Caledonia","country","New Caledonia",""
-161,"NER","525","Níger","country","Niger",""
-162,"NFK","535","Norfolk, Isla","country","Norfolk Island",""
-163,"NGA","528","Nigeria","country","Nigeria",""
-164,"NIC","521","Nicaragua","country","Nicaragua",""
-165,"NIU","531","Niue, Isla","country","Niue",""
-166,"NLD","573","Países Bajos","country","Netherlands",""
-167,"NOR","538","Noruega","country","Norway",""
-168,"NPL","517","Nepal","country","Nepal",""
-169,"NRU","508","Nauru","country","Nauru",""
-170,"NZL","548","Nueva Zelanda","country","New Zealand",""
-171,"OMN","556","Omán","country","Oman",""
-172,"PAK","576","Pakistán","country","Pakistan",""
-173,"PAN","580","Panamá","country","Panama",""
-174,"PCN","593","Pitcairn, Isla","country","Pitcairn",""
-175,"PER","589","Perú","country","Peru",""
-176,"PHL","267","Filipinas","country","Philippines",""
-177,"PLW","578","Palau, Islas","country","Palau",""
-178,"PNG","545","Papúa Nueva Guinea","country","Papua New Guinea",""
-179,"POL","603","Polonia","country","Poland",""
-180,"PRI","611","Puerto Rico","country","Puerto Rico",""
-181,"PRK","187","Corea (Norte), República  Popular Democrática","country","Korea (Democratic People's Republic of)",""
-182,"PRT","607","Portugal","country","Portugal",""
-183,"PRY","586","Paraguay","country","Paraguay",""
-184,"PSE","579","Estado de Palestina","country","Palestine, State of",""
-185,"PYF","599","Polinesia Francesa","country","French Polynesia",""
-186,"QAT","618","Qatar","country","Qatar",""
-187,"REU","660","Reunión","country","Réunion",""
-188,"ROU","670","Rumania","country","Romania",""
-189,"RUS","676","Rusia","country","Russian Federation",""
-190,"RWA","675","Ruanda","country","Rwanda",""
-191,"SAU","53","Arabia Saudita","country","Saudi Arabia",""
-192,"SCG","688","Serbia y Montenegro","country","Serbia and Montenegro",""
-193,"SDN","759","Sudán","country","Sudan",""
-194,"SEN","728","Senegal","country","Senegal",""
-195,"SGP","741","Singapur","country","Singapore",""
-196,"SHN","710","Santa Elena","country","Saint Helena, Ascension and Tristan da Cunha",""
-197,"SJM","772","Svalbard Y Jan mayen, islas","country","Svalbard and Jan Mayen",""
-198,"SLB","677","Salomón, Islas","country","Solomon Islands",""
-199,"SLE","735","Sierra Leona","country","Sierra Leone",""
-200,"SLV","242","El Salvador","country","El Salvador",""
-201,"SMR","697","San Marino","country","San Marino",""
-202,"SOM","748","Somalia","country","Somalia",""
-203,"SPM","700","San Pedro y Miguelón","country","Saint Pierre and Miquelon",""
-204,"SRB","729","Serbia","country","Serbia",""
-205,"SSD","760","Sudan del Sur","country","South Sudan",""
-206,"STP","720","Santo Tomé y Príncipe","country","Sao Tome and Principe",""
-207,"SUR","770","Surinam","country","Suriname",""
-208,"SVK","246","Eslovaquia","country","Slovakia",""
-209,"SVN","247","Eslovenia","country","Slovenia",""
-210,"SWE","764","Suecia","country","Sweden",""
-211,"SWZ","773","Swazilandia","country","Swaziland",""
-212,"SXM","699","San Martin (Parte Holandesa)","country","Sint Maarten (Dutch part)",""
-213,"SYC","731","Seychelles","country","Seychelles",""
-214,"SYR","744","Siria, República Árabe de","country","Syrian Arab Republic",""
-215,"TCA","823","Turcas y Caicos, Islas","country","Turks and Caicos Islands",""
-216,"TCD","203","Chad","country","Chad",""
-217,"TGO","800","Togo","country","Togo",""
-218,"THA","776","Tailandia","country","Thailand",""
-219,"TJK","774","Tayikistán","country","Tajikistan",""
-220,"TKL","805","Tokelau","country","Tokelau",""
-221,"TKM","825","Turkmenistán","country","Turkmenistan",""
-222,"TLS","788","Timor del Este","country","Timor-Leste",""
-223,"TON","810","Tonga","country","Tonga",""
-224,"TTO","815","Trinidad y Tobago","country","Trinidad and Tobago",""
-225,"TUN","820","Túnez","country","Tunisia",""
-226,"TUR","827","Turquía","country","Turkey",""
-227,"TUV","828","Tuvalu","country","Tuvalu",""
-228,"TWN","218","Taiwan","country","Taiwan, Province of China",""
-229,"TZA","780","Tanzania, República Unida de","country","Tanzania, United Republic of",""
-230,"UGA","833","Uganda","country","Uganda",""
-231,"UKR","830","Ucrania","country","Ukraine",""
-232,"UMI","566","Islas Ultramarinas Menores de los estados uni","country","United States Minor Outlying Islands",""
-233,"URY","845","Uruguay","country","Uruguay",""
-234,"USA","249","Estados Unidos","country","United States of America",""
-235,"UZB","847","Uzbekistan","country","Uzbekistan",""
-236,"VAT","159","Santa Sede","country","Holy See",""
-237,"VCT","705","San Vicente y las Granadinas","country","Saint Vincent and the Grenadines",""
-238,"VEN","850","Venezuela,Republica Bolivariana","country","Venezuela (Bolivarian Republic of)",""
-239,"VGB","863","Virgenes Britanicas, Islas","country","Virgin Islands (British)",""
-240,"VIR","866","Virgenes de los Estados Unidos,islas","country","Virgin Islands (U.S.)",""
-241,"VNM","855","Viet Nam","country","Viet Nam",""
-242,"VUT","551","Vanuatu","country","Vanuatu",""
-243,"WLF","875","Wallis y Futuna, Islas","country","Wallis and Futuna",""
-244,"WSM","687","Samoa","country","Samoa",""
-245,"YEM","880","Yemen","country","Yemen",""
-246,"ZAF","756","Sudáfrica, República de","country","South Africa",""
-247,"ZMB","890","Zambia","country","Zambia",""
-248,"ZWE","665","Zimbabwe","country","Zimbabwe",""
-249,"ZZZ","999","No Declarados","country","Not Declared",""
-250,"XCF","XCF","Zonas Francas","country","Special Economic Zones",""
+,alpha3,code,level,name,name_es,parent_id
+0,ABW,27,country,Aruba,Aruba,258
+1,AFG,13,country,Afghanistan,Afganist��n,252
+2,AGO,40,country,Angola,Angola,251
+3,AIA,41,country,Anguilla,Anguilla,258
+4,ALB,17,country,Albania,Albania,254
+5,AND,37,country,Andorra,Andorra,254
+6,ANT,47,country,Netherlands Antilles,Antillas Neerlandesas,258
+7,ARE,244,country,United Arab Emirates,Emiratos Arabes Unidos,252
+8,ARG,63,country,Argentina,Argentina,256
+9,ARM,26,country,Armenia,Armenia,252
+10,ATG,43,country,Antigua and Barbuda,Antigua y Barbuda,258
+11,AUS,69,country,Australia,Australia,253
+12,AUT,72,country,Austria,Austria,254
+13,AZE,74,country,Azerbaijan,Azerbaiy��n,252
+14,BDI,115,country,Burundi,Burundi,251
+15,BEL,87,country,Belgium,B̩lgica,254
+16,BEN,229,country,Benin,Benin,251
+17,BFA,31,country,Burkina Faso,Burkina Faso,251
+18,BGD,81,country,Bangladesh,Bangladesh,252
+19,BGR,111,country,Bulgaria,Bulgaria,254
+20,BHR,80,country,Bahrain,Bahrein,252
+21,BHS,77,country,Bahamas,Bahamas,258
+22,BIH,29,country,Bosnia and Herzegovina,Bosnia y Herzegovina,254
+23,BLR,91,country,Belarus,Belar̼s,254
+24,BLZ,88,country,Belize,Belice,257
+25,BMU,90,country,Bermuda,Bermudas,255
+26,BOL,97,country,Bolivia (Plurinational State of),Bolivia,256
+27,BRA,105,country,Brazil,Brasil,256
+28,BRB,83,country,Barbados,Barbados,258
+29,BRN,108,country,Brunei Darussalam,Brunei Darussalam,252
+30,BTN,119,country,Bhutan,But��n,252
+31,BWA,101,country,Botswana,Botswana,251
+32,CAF,640,country,Central African Republic,Rep̼blica Centroafricana,251
+33,CAN,149,country,Canada,Canad��,255
+34,CCK,165,country,Cocos (Keeling) Islands,"Cocos (Keeling),Islas",253
+35,CHE,767,country,Switzerland,Suiza,254
+36,CHL,211,country,Chile,Chile,256
+37,CHN,215,country,China,China,252
+38,CIV,193,country,C̫te d'Ivoire,Costa de Marfil,251
+39,CMR,145,country,Cameroon,"Camer̼n, Rep̼blica Unida del",251
+40,COD,888,country,Congo (Democratic Republic of the),Rep. Democr��tica del Congo,251
+41,COG,177,country,Congo,"Congo, Rep̼blica del",251
+42,COK,183,country,Cook Islands,"Cook, Islas",253
+43,COL,169,country,Colombia,Colombia,256
+44,COM,173,country,Comoros,Comoras,251
+45,CPV,127,country,Cabo Verde,Cabo Verde,251
+46,CRI,196,country,Costa Rica,Costa Rica,257
+47,CUB,199,country,Cuba,Cuba,258
+48,CYM,137,country,Cayman Islands,"Caim��n, Islas",258
+49,CYP,221,country,Cyprus,Chipre,252
+50,CZE,644,country,Czech Republic,Republica Checa,254
+51,DEU,23,country,Germany,Alemania,254
+52,DJI,783,country,Djibouti,Djibouti,251
+53,DMA,235,country,Dominica,Dominica,258
+54,DNK,232,country,Denmark,Dinamarca,254
+55,DOM,647,country,Dominican Republic,Rep̼blica Dominicana,258
+56,DZA,59,country,Algeria,Argelia,251
+57,ECU,239,country,Ecuador,Ecuador,256
+58,EGY,240,country,Egypt,Egipto,251
+59,ERI,243,country,Eritrea,Eritrea,251
+60,ESH,685,country,Western Sahara,Sahara Occidental,251
+61,ESP,245,country,Spain,Espa̱a,254
+62,EST,251,country,Estonia,Estonia,254
+63,ETH,253,country,Ethiopia,Etiop�_a,251
+64,FIN,271,country,Finland,Finlandia,254
+65,FJI,870,country,Fiji,Fiji,253
+66,FRA,275,country,France,Francia,254
+67,GAB,281,country,Gabon,Gab�_n,251
+68,GBR,628,country,United Kingdom of Great Britain and Northern Ireland,Reino Unido,254
+69,GEO,287,country,Georgia,Georgia,252
+70,GHA,289,country,Ghana,Ghana,251
+71,GIB,293,country,Gibraltar,Gibraltar,254
+72,GIN,329,country,Guinea,Guinea,251
+73,GLP,309,country,Guadeloupe,Guadalupe,258
+74,GMB,285,country,Gambia,Gambia,251
+75,GNB,334,country,Guinea-Bissau,Guinea Bissau,251
+76,GNQ,331,country,Equatorial Guinea,Guinea Ecuatorial,251
+77,GRC,301,country,Greece,Grecia,254
+78,GRD,297,country,Grenada,Granada,258
+79,GRL,305,country,Greenland,Groenlandia,255
+80,GTM,317,country,Guatemala,Guatemala,257
+81,GUF,325,country,French Guiana,Guayana Francesa,256
+82,GUM,313,country,Guam,Guam,253
+83,GUY,337,country,Guyana,Guyana,256
+84,HKG,351,country,Hong Kong,Hong Kong,252
+85,HND,345,country,Honduras,Honduras,257
+86,HRV,198,country,Croatia,Croacia,254
+87,HTI,341,country,Haiti,Hait�_,258
+88,HUN,355,country,Hungary,Hungr�_a,254
+89,IDN,365,country,Indonesia,Indonesia,252
+90,IND,361,country,India,India,252
+91,IRL,375,country,Ireland,Irlanda (Eire),254
+92,IRN,372,country,Iran (Islamic Republic of),Ir��n,252
+93,IRQ,369,country,Iraq,Irak,252
+94,ISL,379,country,Iceland,Islandia,254
+95,ISR,383,country,Israel,Israel,252
+96,ITA,386,country,Italy,Italia,254
+97,JAM,391,country,Jamaica,Jamaica,258
+98,JOR,403,country,Jordan,Jordania,252
+99,JPN,399,country,Japan,Jap�_n,252
+100,KAZ,406,country,Kazakhstan,Kazajst��n,252
+101,KEN,410,country,Kenya,Kenia,251
+102,KGZ,412,country,Kyrgyzstan,Kirguist��n,252
+103,KHM,141,country,Cambodia,Camboya,252
+104,KIR,411,country,Kiribati,Kiribati,253
+105,KNA,695,country,Saint Kitts and Nevis,Saint kitts y nevis,258
+106,KOR,190,country,Korea (Republic of),"Corea (Sur), Rep̼blica de",252
+107,KWT,413,country,Kuwait,Kuwait,252
+108,LAO,420,country,Lao People's Democratic Republic,"Laos, Rep̼blica Popular Democr��tica de",252
+109,LBN,431,country,Lebanon,Libano,252
+110,LBR,434,country,Liberia,Liberia,251
+111,LBY,438,country,Libya,Libia,251
+112,LCA,715,country,Saint Lucia,Santa Luc�_a,258
+113,LIE,440,country,Liechtenstein,Liechtenstein,254
+114,LKA,750,country,Sri Lanka,Sri Lanka,252
+115,LSO,426,country,Lesotho,Lesotho,251
+116,LTU,443,country,Lithuania,Lituania,254
+117,LUX,445,country,Luxembourg,Luxemburgo,254
+118,LVA,429,country,Latvia,Letonia,254
+119,MAC,447,country,Macao,Macao,252
+120,MAR,474,country,Morocco,Marruecos,251
+121,MCO,498,country,Monaco,M�_naco,254
+122,MDA,496,country,Moldova (Republic of),Moldavia,254
+123,MDG,450,country,Madagascar,Madagascar,251
+124,MDV,461,country,Maldives,Maldivas,252
+125,MEX,493,country,Mexico,M̩xico,257
+126,MHL,472,country,Marshall Islands,"Marshall, Islas",253
+127,MKD,448,country,Macedonia (the former Yugoslav Republic of),Macedonia,254
+128,MLI,464,country,Mali,Mal�_,251
+129,MLT,467,country,Malta,Malta,254
+130,MMR,93,country,Myanmar,Myanmar,252
+131,MNE,500,country,Montenegro,Montenegro,254
+132,MNG,497,country,Mongolia,Mongolia,252
+133,MNP,469,country,Northern Mariana Islands,"Marianas septentrionales, islas",253
+134,MOZ,505,country,Mozambique,Mozambique,251
+135,MRT,488,country,Mauritania,Mauritania,251
+136,MSR,501,country,Montserrat,"Montserrat, Isla",258
+137,MTQ,477,country,Martinique,Martinica,258
+138,MUS,485,country,Mauritius,Mauricio,251
+139,MWI,458,country,Malawi,Malawi,251
+140,MYS,455,country,Malaysia,Malasia,252
+141,NAM,507,country,Namibia,Namibia,251
+142,NCL,542,country,New Caledonia,Nueva Caledonia,253
+143,NER,525,country,Niger,N�_ger,251
+144,NFK,535,country,Norfolk Island,"Norfolk, Isla",253
+145,NGA,528,country,Nigeria,Nigeria,251
+146,NIC,521,country,Nicaragua,Nicaragua,257
+147,NIU,531,country,Niue,"Niue, Isla",253
+148,NOR,538,country,Norway,Noruega,254
+149,NPL,517,country,Nepal,Nepal,252
+150,NRU,508,country,Nauru,Nauru,253
+151,NZL,548,country,New Zealand,Nueva Zelanda,253
+152,OMN,556,country,Oman,Om��n,252
+153,PAK,576,country,Pakistan,Pakist��n,252
+154,PAN,580,country,Panama,Panam��,257
+155,PCN,593,country,Pitcairn,"Pitcairn, Isla",253
+156,PER,589,country,Peru,Per̼,256
+157,PHL,267,country,Philippines,Filipinas,252
+158,PLW,578,country,Palau,"Palau, Islas",253
+159,PNG,545,country,Papua New Guinea,Pap̼a Nueva Guinea,253
+160,POL,603,country,Poland,Polonia,254
+161,PRI,611,country,Puerto Rico,Puerto Rico,258
+162,PRK,187,country,Korea (Democratic People's Republic of),"Corea (Norte), Rep̼blica  Popular Democr��tica",252
+163,PRT,607,country,Portugal,Portugal,254
+164,PRY,586,country,Paraguay,Paraguay,256
+165,PSE,579,country,"Palestine, State of",Estado de Palestina,252
+166,PYF,599,country,French Polynesia,Polinesia Francesa,253
+167,QAT,618,country,Qatar,Qatar,252
+168,REU,660,country,R̩union,Reuni�_n,251
+169,RUS,676,country,Russian Federation,Rusia,254
+170,RWA,675,country,Rwanda,Ruanda,251
+171,SAU,53,country,Saudi Arabia,Arabia Saudita,252
+172,SDN,759,country,Sudan,Sud��n,251
+173,SEN,728,country,Senegal,Senegal,251
+174,SGP,741,country,Singapore,Singapur,252
+175,SHN,710,country,"Saint Helena, Ascension and Tristan da Cunha",Santa Elena,251
+176,SJM,772,country,Svalbard and Jan Mayen,"Svalbard Y Jan mayen, islas",254
+177,SLB,677,country,Solomon Islands,"Salom�_n, Islas",253
+178,SLE,735,country,Sierra Leone,Sierra Leona,251
+179,SLV,242,country,El Salvador,El Salvador,257
+180,SMR,697,country,San Marino,San Marino,254
+181,SOM,748,country,Somalia,Somalia,251
+182,SPM,700,country,Saint Pierre and Miquelon,San Pedro y Miguel�_n,255
+183,SRB,729,country,Serbia,Serbia,254
+184,STP,720,country,Sao Tome and Principe,Santo Tom̩ y Pr�_ncipe,251
+185,SUR,770,country,Suriname,Surinam,256
+186,SVK,246,country,Slovakia,Eslovaquia,254
+187,SVN,247,country,Slovenia,Eslovenia,254
+188,SWE,764,country,Sweden,Suecia,254
+189,SWZ,773,country,Swaziland,Swazilandia,251
+190,SYC,731,country,Seychelles,Seychelles,251
+191,SYR,744,country,Syrian Arab Republic,"Siria, Rep̼blica ́rabe de",252
+192,TCA,823,country,Turks and Caicos Islands,"Turcas y Caicos, Islas",258
+193,TCD,203,country,Chad,Chad,251
+194,TGO,800,country,Togo,Togo,251
+195,THA,776,country,Thailand,Tailandia,252
+196,TJK,774,country,Tajikistan,Tayikist��n,252
+197,TKL,805,country,Tokelau,Tokelau,253
+198,TKM,825,country,Turkmenistan,Turkmenist��n,252
+199,TON,810,country,Tonga,Tonga,253
+200,TTO,815,country,Trinidad and Tobago,Trinidad y Tobago,258
+201,TUN,820,country,Tunisia,T̼nez,251
+202,TUR,827,country,Turkey,Turqu�_a,252
+203,TUV,828,country,Tuvalu,Tuvalu,253
+204,TWN,218,country,"Taiwan, Province of China",Taiwan,252
+205,TZA,780,country,"Tanzania, United Republic of","Tanzania, Rep̼blica Unida de",251
+206,UGA,833,country,Uganda,Uganda,251
+207,UKR,830,country,Ukraine,Ucrania,254
+208,URY,845,country,Uruguay,Uruguay,256
+209,USA,249,country,United States of America,Estados Unidos,255
+210,UZB,847,country,Uzbekistan,Uzbekistan,252
+211,VCT,705,country,Saint Vincent and the Grenadines,San Vicente y las Granadinas,258
+212,VEN,850,country,Venezuela (Bolivarian Republic of),"Venezuela,Republica Bolivariana",256
+213,VGB,863,country,Virgin Islands (British),"Virgenes Britanicas, Islas",258
+214,VIR,866,country,Virgin Islands (U.S.),"Virgenes de los Estados Unidos,islas",258
+215,VNM,855,country,Viet Nam,Viet Nam,252
+216,VUT,551,country,Vanuatu,Vanuatu,253
+217,WLF,875,country,Wallis and Futuna,"Wallis y Futuna, Islas",253
+218,WSM,687,country,Samoa,Samoa,253
+219,YEM,880,country,Yemen,Yemen,252
+220,ZAF,756,country,South Africa,"Sud��frica, Rep̼blica de",251
+221,ZMB,890,country,Zambia,Zambia,251
+222,ZWE,665,country,Zimbabwe,Zimbabwe,251
+223,ALA,15,country,��land Islands,"Aland,islas",254
+224,ASM,690,country,American Samoa,Samoa Americana,253
+225,ATA,24,country,Antarctica,Antartida,259
+226,ATF,786,country,French Southern Territories,Territorios Franceses del Sur,259
+227,BES,98,country,"Bonaire, Sint Eustatius and Saba","Bonaire,San Eustatius y Saba",258
+228,BLM,693,country,Saint Barth̩lemy,San Bartolome,254
+229,BVT,102,country,Bouvet Island,"Bouvet,isla",259
+230,CUW,200,country,Cura̤ao,Curazao,258
+231,CXR,511,country,Christmas Island,"Navidad (Christmas),Isla",252
+232,FRO,259,country,Faroe Islands,"Feroe, Islas",254
+233,FSM,494,country,Micronesia (Federated States of),"Micronesia, Estados Federa de",253
+234,GGY,327,country,Guernsey,Guernsey,254
+235,HMD,343,country,Heard Island and McDonald Islands,"Heard y Mc Donald,islas",259
+236,IMN,468,country,Isle of Man,"Man,isla de",254
+237,IOT,787,country,British Indian Ocean Territory,Territorio Brit��nico Oc̩ano Indico,252
+238,JEY,401,country,Jersey,Jersey,254
+239,MAF,698,country,Saint Martin (French part),San Martin (Parte francesa),258
+240,MYT,489,country,Mayotte,Mayote,251
+241,NLD,573,country,Netherlands,Pa�_ses Bajos,254
+242,ROU,670,country,Romania,Rumania,254
+243,SCG,688,country,Serbia and Montenegro,Serbia y Montenegro,254
+244,SSD,760,country,South Sudan,Sudan del Sur,251
+245,SXM,699,country,Sint Maarten (Dutch part),San Martin (Parte Holandesa),258
+246,TLS,788,country,Timor-Leste,Timor del Este,252
+247,UMI,566,country,United States Minor Outlying Islands,Islas Ultramarinas Menores de los estados uni,253
+248,VAT,159,country,Holy See,Santa Sede,254
+249,ZZZ,999,country,Not Declared,No Declarados,259
+250,XCF,XCF,country,Special Economic Zones,Zonas Francas,259
+251,,1,region,Africa,́frica,
+252,,2,region,Asia,Asia,
+253,,3,region,Oceania,Ocean�_a,
+254,,4,region,Europe,Europa,
+255,,5,region,North America,Am̩rica del norte,
+256,,6,region,South America,Am̩rica del sur,
+257,,7,region,Central America ,Centroam̩rica,
+258,,8,region,Carribean,Caribe,
+259,,9,region,Other,Otros,
