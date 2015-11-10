@@ -425,18 +425,12 @@ code	level	name_en	name_short_en	name_es	name_short_es
 72	division	Temporary accommodation services and food and beverage preparation services	Temporary accommodation services and food and beverage preparation services	Servicios de alojamiento temporal y de preparacion de alimentos y bebidas	Servicios de alojamiento temporal y de preparacion de alimentos y bebidas
 81	division	Other services, except government activities	Other services, except government activities	Otros servicios excepto actividades gubernamentales	Otros servicios excepto actividades gubernamentales
 93	division	Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations	Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations	Actividades legislativas, gubernamentales, de imparticion de justicia y de organismos internacionales y extraterritoriales	Actividades legislativas, gubernamentales, de imparticion de justicia y de organismos internacionales y extraterritoriales
-1	section	Textiles & Furniture	Textiles & Furniture	Textiles y Muebles	Textiles y Muebles
-2	section	Vegetables, Animals, Foodstuffs, Wood	Vegetables, Animals, Foodstuffs, Wood	Verduras, Animales, Alimentos, y Madera	Verduras, Animales, Alimentos, y Madera
-3	section	Stone & Glass	Stone & Glass	Piedra y Vidrio	Piedra y Vidrio
-4	section	Minerals	Minerals	Minerales	Minerales
-5	section	Metals	Metals	Metales	Metales
-6	section	Chemicals & Plastics	Chemicals & Plastics	Químicos y Plásticos	Químicos y Plásticos
-7	section	Transportation	Transportation	Vehículos de Transporte	Vehículos de Transporte
-8	section	Machinery	Machinery	Maquinaria	Maquinaria
-9	section	Electronics	Electronics	Electrónicos	Electrónicos
-10	section	Social Services	Social Services	Servicios Sociales	Servicios Sociales
-11	section	Utilities	Utilities	Servicios Públicos	Servicios Públicos
-12	section	Construction	Construction	Construcción	Construcción
-13	section	Transport & Communications	Transport & Communications	Transporte y Comunicaciones	Transporte y Comunicaciones
-14	section	Commerce	Commerce	Comercio	Comercio
-15	section	Financial & Business Services	Financial & Business Services	Servicios Financieros y Empresariales	Servicios Financieros y Empresariales
+1	section	Agriculture	Agriculture	Agricultura	Agricultura
+2	section	Mining & Oil	Mining & Oil	Minería y Petróleo	Minería y Petróleo
+3	section	Manufacturing & Construction	Manufacturing & Construction	Manufactura y Construcción	Manufactura y Construcción
+4	section	Commerce	Commerce	Comercio	Comercio
+5	section	Utilities, Transport & Communications	Utilities, Transport & Communications	Electricidad, Transporte y Comunicaciones	Electricidad, Transporte y Comunicaciones
+6	section	Finance, Real Estate & Professional Services	Finance, Real Estate & Professional Services	Servicios Financieros, Immobiliarios y Profesionales	Servicios Financieros, Immobiliarios y Profesionales
+7	section	Business & Related Services	Business & Related Services	Servicios Empresariales y Relacionados	Servicios Empresariales y Relacionados
+8	section	Education & Health Services	Education & Health Services	Servicios de Educación y Salud	Servicios de Educación y Salud
+9	section	Government Activities	Government Activities	Actividades Gubernamentales	Actividades Gubernamentales
