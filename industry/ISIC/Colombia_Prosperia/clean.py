@@ -25,7 +25,8 @@ if __name__ == "__main__":
             "division": [],
             "class": [],
 
-        }).sort_values(by=["level", "code"])
+        }).sort_values(by=["level", "code"])\
+        .reset_index(drop=True)
 
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table = parent_id_table.merge(names)
