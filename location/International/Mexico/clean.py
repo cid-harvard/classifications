@@ -6,7 +6,10 @@ from classification import (Hierarchy, repeated_table_to_parent_id_table,
 
 if __name__ == "__main__":
 
-    df = pd.read_csv("./in/Mexico Country codes - continents - Countries.csv", encoding="utf-8")\
+    df = pd.read_csv("./in/Mexico Country codes - continents - Countries.csv",
+                     encoding="utf-8",
+                     dtype={"continent_code": str}
+                     )\
         .rename(columns={"continent_code":"parent_code"})\
         .drop("total_export", axis=1)
     df["level"] = "country"
