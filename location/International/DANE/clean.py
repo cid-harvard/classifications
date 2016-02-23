@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     df = df.merge(iso, on="alpha3", how="left")
 
-    mex = pd.read_csv("../Mexico/Mexico Country codes - continents - Countries.csv")
+    mex = pd.read_csv("../Mexico/in/Mexico Country codes - continents - Countries.csv")
     mex = mex[["code", "name_es", "name_short_es", "continent_code"]]
 
     df = df.merge(mex, how = "left", left_on = "alpha3", right_on = "code", suffixes=('_col', '_mex'))
@@ -28,24 +28,24 @@ if __name__ == "__main__":
 
     df = pd.concat([df, missing])
     df = df[~df.continent_code.isnull()].reset_index(drop = True)
-    
+
     df["level"] = "country"
-    
+
     df = df.rename(columns={
         "code_col": "code",
         "name_es_col": "name_es",
         "continent_code": "parent_code"
         })
-        
+
     assert df.loc[6, "name"] is pd.np.nan
     df.loc[6, "name"] = u"Netherlands Antilles"
-    
-    regions = pd.read_table("./in/Mexico Country codes - continents - Continents - Regions.tsv", encoding="utf-8")
+
+    regions = pd.read_table("../Mexico/in/Mexico Country codes - continents - Continents - Regions.tsv", encoding="utf-8")
     df = pd.concat([df, regions]).reset_index(drop=True)
-    
+
     h = Hierarchy(["region", "country"])
     parent_id_table = parent_code_table_to_parent_id_table(df, h)
-    
+
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/locations_international_dane.csv")
