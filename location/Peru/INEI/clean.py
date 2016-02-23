@@ -1,5 +1,6 @@
 import pandas as pd
 
+from fix_spanish_title_case import fix_spanish_title_case
 from classification import (Hierarchy, parent_code_table_to_parent_id_table,
                             Classification)
 
@@ -39,6 +40,8 @@ if __name__ == "__main__":
         return row
 
     df = df.apply(fix_levels, axis=1)
+
+    df.name = df.name.map(fix_spanish_title_case, na_action="ignore")
 
     h = Hierarchy(["country", "department", "province", "district"])
     df.level = df.level.astype("category", categories=h, ordered=True)

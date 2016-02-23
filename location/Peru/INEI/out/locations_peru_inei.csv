@@ -16,7 +16,7 @@
 14,"140000","Lambayeque","department",0.0
 15,"150000","Lima","department",0.0
 16,"160000","Loreto","department",0.0
-17,"170000","Madre De Dios","department",0.0
+17,"170000","Madre de Dios","department",0.0
 18,"180000","Moquegua","department",0.0
 19,"190000","Pasco","department",0.0
 20,"200000","Piura","department",0.0
@@ -30,7 +30,7 @@
 28,"010300","Bongara","province",1.0
 29,"010400","Condorcanqui","province",1.0
 30,"010500","Luya","province",1.0
-31,"010600","Rodriguez De Mendoza","province",1.0
+31,"010600","Rodriguez de Mendoza","province",1.0
 32,"010700","Utcubamba","province",1.0
 33,"020100","Huaraz","province",2.0
 34,"020200","Aija","province",2.0
@@ -74,7 +74,7 @@
 72,"050500","La Mar","province",5.0
 73,"050600","Lucanas","province",5.0
 74,"050700","Parinacochas","province",5.0
-75,"050800","Paucar Del Sara Sara","province",5.0
+75,"050800","Paucar del Sara Sara","province",5.0
 76,"050900","Sucre","province",5.0
 77,"051000","Victor Fajardo","province",5.0
 78,"051100","Vilcas Huaman","province",5.0
@@ -114,7 +114,7 @@
 112,"090700","Tayacaja","province",9.0
 113,"100100","Huanuco","province",10.0
 114,"100200","Ambo","province",10.0
-115,"100300","Dos De Mayo","province",10.0
+115,"100300","Dos de Mayo","province",10.0
 116,"100400","Huacaybamba","province",10.0
 117,"100500","Huamalies","province",10.0
 118,"100600","Leoncio Prado","province",10.0
@@ -146,7 +146,7 @@
 144,"130700","Pacasmayo","province",13.0
 145,"130800","Pataz","province",13.0
 146,"130900","Sanchez Carrion","province",13.0
-147,"131000","Santiago De Chuco","province",13.0
+147,"131000","Santiago de Chuco","province",13.0
 148,"131100","Gran Chimu","province",13.0
 149,"131200","Viru","province",13.0
 150,"140100","Chiclayo","province",14.0
@@ -168,7 +168,7 @@
 166,"160400","Mariscal Ramon Castilla","province",16.0
 167,"160500","Requena","province",16.0
 168,"160600","Ucayali","province",16.0
-169,"160700","Datem Del Marañon","province",16.0
+169,"160700","Datem del Marañon","province",16.0
 170,"170100","Tambopata","province",17.0
 171,"170200","Manu","province",17.0
 172,"170300","Tahuamanu","province",17.0
@@ -195,7 +195,7 @@
 193,"210700","Lampa","province",21.0
 194,"210800","Melgar","province",21.0
 195,"210900","Moho","province",21.0
-196,"211000","San Antonio De Putina","province",21.0
+196,"211000","San Antonio de Putina","province",21.0
 197,"211100","San Roman","province",21.0
 198,"211200","Sandia","province",21.0
 199,"211300","Yunguyo","province",21.0
@@ -237,8 +237,8 @@
 235,"010115","Montevideo","district",26.0
 236,"010116","Olleros","district",26.0
 237,"010117","Quinjalca","district",26.0
-238,"010118","San Fco De Daguas","district",26.0
-239,"010119","San Isidro De Maino","district",26.0
+238,"010118","San Fco de Daguas","district",26.0
+239,"010119","San Isidro de Maino","district",26.0
 240,"010120","Soloco","district",26.0
 241,"010121","Sonche","district",26.0
 242,"010201","Bagua","district",27.0
@@ -278,9 +278,9 @@
 276,"010514","Pisuquia","district",30.0
 277,"010515","Providencia","district",30.0
 278,"010516","San Cristobal","district",30.0
-279,"010517","San Francisco De Yeso","district",30.0
+279,"010517","San Francisco de Yeso","district",30.0
 280,"010518","San Jeronimo","district",30.0
-281,"010519","San Juan De Lopecancha","district",30.0
+281,"010519","San Juan de Lopecancha","district",30.0
 282,"010520","Santa Catalina","district",30.0
 283,"010521","Santo Tomas","district",30.0
 284,"010522","Tingo","district",30.0
@@ -326,7 +326,7 @@
 324,"020303","Chaccho","district",35.0
 325,"020304","Chingas","district",35.0
 326,"020305","Mirgas","district",35.0
-327,"020306","San Juan De Rontoy","district",35.0
+327,"020306","San Juan de Rontoy","district",35.0
 328,"020401","Chacas","district",36.0
 329,"020402","Acochaca","district",36.0
 330,"020501","Chiquian","district",37.0
@@ -342,7 +342,7 @@
 340,"020511","La Primavera","district",37.0
 341,"020512","Mangas","district",37.0
 342,"020513","Pacllon","district",37.0
-343,"020514","San Miguel De Corpanqui","district",37.0
+343,"020514","San Miguel de Corpanqui","district",37.0
 344,"020515","Ticllos","district",37.0
 345,"020601","Carhuaz","district",38.0
 346,"020602","Acopampa","district",38.0
@@ -351,7 +351,7 @@
 349,"020605","Ataquero","district",38.0
 350,"020606","Marcara","district",38.0
 351,"020607","Pariahuanca","district",38.0
-352,"020608","San Miguel De Aco","district",38.0
+352,"020608","San Miguel de Aco","district",38.0
 353,"020609","Shilla","district",38.0
 354,"020610","Tinco","district",38.0
 355,"020611","Yungar","district",38.0
@@ -372,7 +372,7 @@
 370,"021001","Huari","district",42.0
 371,"021002","Anra","district",42.0
 372,"021003","Cajay","district",42.0
-373,"021004","Chavin De Huantar","district",42.0
+373,"021004","Chavin de Huantar","district",42.0
 374,"021005","Huacachi","district",42.0
 375,"021006","Huacchis","district",42.0
 376,"021007","Huachis","district",42.0
@@ -383,7 +383,7 @@
 381,"021012","Rahuapampa","district",42.0
 382,"021013","Rapayan","district",42.0
 383,"021014","San Marcos","district",42.0
-384,"021015","San Pedro De Chana","district",42.0
+384,"021015","San Pedro de Chana","district",42.0
 385,"021016","Uco","district",42.0
 386,"021101","Huarmey","district",43.0
 387,"021102","Cochapeti","district",43.0
@@ -415,9 +415,9 @@
 413,"021405","Cochas","district",46.0
 414,"021406","Congas","district",46.0
 415,"021407","Llipa","district",46.0
-416,"021408","San Cristobal De Rajan","district",46.0
+416,"021408","San Cristobal de Rajan","district",46.0
 417,"021409","San Pedro","district",46.0
-418,"021410","Santiago De Chilcas","district",46.0
+418,"021410","Santiago de Chilcas","district",46.0
 419,"021501","Cabana","district",47.0
 420,"021502","Bolognesi","district",47.0
 421,"021503","Conchucos","district",47.0
@@ -444,7 +444,7 @@
 442,"021709","Tapacocha","district",49.0
 443,"021710","Ticapampa","district",49.0
 444,"021801","Chimbote","district",50.0
-445,"021802","Caceres Del Peru","district",50.0
+445,"021802","Caceres del Peru","district",50.0
 446,"021803","Coishco","district",50.0
 447,"021804","Macate","district",50.0
 448,"021805","Moro","district",50.0
@@ -477,7 +477,7 @@
 475,"030105","Huanipaca","district",53.0
 476,"030106","Lambrama","district",53.0
 477,"030107","Pichirhua","district",53.0
-478,"030108","San Pedro De Cachora","district",53.0
+478,"030108","San Pedro de Cachora","district",53.0
 479,"030109","Tamburco","district",53.0
 480,"030201","Andahuaylas","district",54.0
 481,"030202","Andarapa","district",54.0
@@ -490,10 +490,10 @@
 488,"030209","Pacucha","district",54.0
 489,"030210","Pampachiri","district",54.0
 490,"030211","Pomacocha","district",54.0
-491,"030212","San Antonio De Cachi","district",54.0
+491,"030212","San Antonio de Cachi","district",54.0
 492,"030213","San Jeronimo","district",54.0
-493,"030214","San Miguel De Chaccrampa","district",54.0
-494,"030215","Sta Maria De Chicmo","district",54.0
+493,"030214","San Miguel de Chaccrampa","district",54.0
+494,"030215","Sta Maria de Chicmo","district",54.0
 495,"030216","Talavera","district",54.0
 496,"030217","Tumay Huaraca","district",54.0
 497,"030218","Turpo","district",54.0
@@ -515,7 +515,7 @@
 513,"030408","Justo Apu Sahuaraura","district",56.0
 514,"030409","Lucre","district",56.0
 515,"030410","Pocohuanca","district",56.0
-516,"030411","San Juan De Chacna","district",56.0
+516,"030411","San Juan de Chacna","district",56.0
 517,"030412","Sanaica","district",56.0
 518,"030413","Soraya","district",56.0
 519,"030414","Tapairihua","district",56.0
@@ -567,10 +567,10 @@
 565,"040115","Quequena","district",60.0
 566,"040116","Sabandia","district",60.0
 567,"040117","Sachaca","district",60.0
-568,"040118","San Juan De Siguas","district",60.0
-569,"040119","San Juan De Tarucani","district",60.0
-570,"040120","Santa Isabel De Siguas","district",60.0
-571,"040121","Sta Rita De Siguas","district",60.0
+568,"040118","San Juan de Siguas","district",60.0
+569,"040119","San Juan de Tarucani","district",60.0
+570,"040120","Santa Isabel de Siguas","district",60.0
+571,"040121","Sta Rita de Siguas","district",60.0
 572,"040122","Socabaya","district",60.0
 573,"040123","Tiabaya","district",60.0
 574,"040124","Uchumayo","district",60.0
@@ -583,7 +583,7 @@
 581,"040202","Jose Maria Quimper","district",61.0
 582,"040203","Mariano N Valcarcel","district",61.0
 583,"040204","Mariscal Caceres","district",61.0
-584,"040205","Nicolas De Pierola","district",61.0
+584,"040205","Nicolas de Pierola","district",61.0
 585,"040206","Ocona","district",61.0
 586,"040207","Quilca","district",61.0
 587,"040208","Samuel Pastor","district",61.0
@@ -627,7 +627,7 @@
 625,"040511","Lluta","district",64.0
 626,"040512","Maca","district",64.0
 627,"040513","Madrigal","district",64.0
-628,"040514","San Antonio De Chuca","district",64.0
+628,"040514","San Antonio de Chuca","district",64.0
 629,"040515","Sibayo","district",64.0
 630,"040516","Tapay","district",64.0
 631,"040517","Tisco","district",64.0
@@ -647,7 +647,7 @@
 645,"040703","Dean Valdivia","district",66.0
 646,"040704","Islay","district",66.0
 647,"040705","Mejia","district",66.0
-648,"040706","Punta De Bombon","district",66.0
+648,"040706","Punta de Bombon","district",66.0
 649,"040801","Cotahuasi","district",67.0
 650,"040802","Alca","district",67.0
 651,"040803","Charcana","district",67.0
@@ -667,9 +667,9 @@
 665,"050106","Ocros","district",68.0
 666,"050107","Pacaycasa","district",68.0
 667,"050108","Quinua","district",68.0
-668,"050109","San Jose De Ticllas","district",68.0
+668,"050109","San Jose de Ticllas","district",68.0
 669,"050110","San Juan Bautista","district",68.0
-670,"050111","Santiago De Pischa","district",68.0
+670,"050111","Santiago de Pischa","district",68.0
 671,"050112","Socos","district",68.0
 672,"050113","Tambillo","district",68.0
 673,"050114","Vinchos","district",68.0
@@ -677,13 +677,13 @@
 675,"050201","Cangallo","district",69.0
 676,"050202","Chuschi","district",69.0
 677,"050203","Los Morochucos","district",69.0
-678,"050204","Maria Parado De Bellido","district",69.0
+678,"050204","Maria Parado de Bellido","district",69.0
 679,"050205","Paras","district",69.0
 680,"050206","Totos","district",69.0
 681,"050301","Sancos","district",70.0
 682,"050302","Carapo","district",70.0
 683,"050303","Sacsamarca","district",70.0
-684,"050304","Santiago De Lucanamarca","district",70.0
+684,"050304","Santiago de Lucanamarca","district",70.0
 685,"050401","Huanta","district",71.0
 686,"050402","Ayahuanco","district",71.0
 687,"050403","Huamanguilla","district",71.0
@@ -717,9 +717,9 @@
 715,"050615","San Cristobal","district",73.0
 716,"050616","San Juan","district",73.0
 717,"050617","San Pedro","district",73.0
-718,"050618","San Pedro De Palco","district",73.0
+718,"050618","San Pedro de Palco","district",73.0
 719,"050619","Sancos","district",73.0
-720,"050620","Sta Ana De Huaycahuacho","district",73.0
+720,"050620","Sta Ana de Huaycahuacho","district",73.0
 721,"050621","Santa Lucia","district",73.0
 722,"050701","Coracora","district",74.0
 723,"050702","Chumpi","district",74.0
@@ -727,7 +727,7 @@
 725,"050704","Pacapausa","district",74.0
 726,"050705","Pullo","district",74.0
 727,"050706","Puyusca","district",74.0
-728,"050707","San Fco De Ravacayco","district",74.0
+728,"050707","San Fco de Ravacayco","district",74.0
 729,"050708","Upahuacho","district",74.0
 730,"050801","Pausa","district",75.0
 731,"050802","Colta","district",75.0
@@ -736,8 +736,8 @@
 734,"050805","Marcabamba","district",75.0
 735,"050806","Oyolo","district",75.0
 736,"050807","Pararca","district",75.0
-737,"050808","San Javier De Alpabamba","district",75.0
-738,"050809","San Jose De Ushua","district",75.0
+737,"050808","San Javier de Alpabamba","district",75.0
+738,"050809","San Jose de Ushua","district",75.0
 739,"050810","Sara Sara","district",75.0
 740,"050901","Querobamba","district",76.0
 741,"050902","Belen","district",76.0
@@ -746,9 +746,9 @@
 744,"050905","Huacana","district",76.0
 745,"050906","Morcolla","district",76.0
 746,"050907","Paico","district",76.0
-747,"050908","San Pedro De Larcay","district",76.0
-748,"050909","San Salvador De Quije","district",76.0
-749,"050910","Santiago De Paucaray","district",76.0
+747,"050908","San Pedro de Larcay","district",76.0
+748,"050909","San Salvador de Quije","district",76.0
+749,"050910","Santiago de Paucaray","district",76.0
 750,"050911","Soras","district",76.0
 751,"051001","Huancapi","district",77.0
 752,"051002","Alcamenca","district",77.0
@@ -777,7 +777,7 @@
 775,"060105","Encanada","district",79.0
 776,"060106","Jesus","district",79.0
 777,"060107","Llacanora","district",79.0
-778,"060108","Los Banos Del Inca","district",79.0
+778,"060108","Los Banos del Inca","district",79.0
 779,"060109","Magdalena","district",79.0
 780,"060110","Matara","district",79.0
 781,"060111","Namora","district",79.0
@@ -797,7 +797,7 @@
 795,"060309","Sorochuco","district",81.0
 796,"060310","Sucre","district",81.0
 797,"060311","Utco","district",81.0
-798,"060312","La Libertad De Pallan","district",81.0
+798,"060312","La Libertad de Pallan","district",81.0
 799,"060401","Chota","district",82.0
 800,"060402","Anguia","district",82.0
 801,"060403","Chadin","district",82.0
@@ -813,7 +813,7 @@
 811,"060413","Paccha","district",82.0
 812,"060414","Pion","district",82.0
 813,"060415","Querocoto","district",82.0
-814,"060416","San Juan De Licupis","district",82.0
+814,"060416","San Juan de Licupis","district",82.0
 815,"060417","Tacabamba","district",82.0
 816,"060418","Tocmoche","district",82.0
 817,"060419","Chalamarca","district",82.0
@@ -822,7 +822,7 @@
 820,"060503","Cupisnique","district",83.0
 821,"060504","Guzmango","district",83.0
 822,"060505","San Benito","district",83.0
-823,"060506","Sta Cruz De Toledo","district",83.0
+823,"060506","Sta Cruz de Toledo","district",83.0
 824,"060507","Tantarica","district",83.0
 825,"060508","Yonan","district",83.0
 826,"060601","Cutervo","district",84.0
@@ -832,11 +832,11 @@
 830,"060605","La Ramada","district",84.0
 831,"060606","Pimpingos","district",84.0
 832,"060607","Querocotillo","district",84.0
-833,"060608","San Andres De Cutervo","district",84.0
-834,"060609","San Juan De Cutervo","district",84.0
-835,"060610","San Luis De Lucma","district",84.0
+833,"060608","San Andres de Cutervo","district",84.0
+834,"060609","San Juan de Cutervo","district",84.0
+835,"060610","San Luis de Lucma","district",84.0
 836,"060611","Santa Cruz","district",84.0
-837,"060612","Santo Domingo De La Capilla","district",84.0
+837,"060612","Santo Domingo de la Capilla","district",84.0
 838,"060613","Santo Tomas","district",84.0
 839,"060614","Socota","district",84.0
 840,"060615","Toribio Casanova","district",84.0
@@ -853,14 +853,14 @@
 851,"060808","Pucara","district",86.0
 852,"060809","Sallique","district",86.0
 853,"060810","San Felipe","district",86.0
-854,"060811","San Jose Del Alto","district",86.0
+854,"060811","San Jose del Alto","district",86.0
 855,"060812","Santa Rosa","district",86.0
 856,"060901","San Ignacio","district",87.0
 857,"060902","Chirinos","district",87.0
 858,"060903","Huarango","district",87.0
 859,"060904","La Coipa","district",87.0
 860,"060905","Namballe","district",87.0
-861,"060906","San Jose De Lourdes","district",87.0
+861,"060906","San Jose de Lourdes","district",87.0
 862,"060907","Tabaconas","district",87.0
 863,"061001","Pedro Galvez","district",88.0
 864,"061002","Chancay","district",88.0
@@ -879,7 +879,7 @@
 877,"061108","Nanchoc","district",89.0
 878,"061109","Niepos","district",89.0
 879,"061110","San Gregorio","district",89.0
-880,"061111","San Silvestre De Cochan","district",89.0
+880,"061111","San Silvestre de Cochan","district",89.0
 881,"061112","Tongod","district",89.0
 882,"061113","Union Agua Blanca","district",89.0
 883,"061201","San Pablo","district",90.0
@@ -899,7 +899,7 @@
 897,"061311","Yauyucan","district",91.0
 898,"070101","Callao","district",92.0
 899,"070102","Bellavista","district",92.0
-900,"070103","Carmen De La Legua-Reynoso","district",92.0
+900,"070103","Carmen de la Legua-Reynoso","district",92.0
 901,"070104","La Perla","district",92.0
 902,"070105","La Punta","district",92.0
 903,"070106","Ventanilla","district",92.0
@@ -1047,8 +1047,8 @@
 1045,"090307","Huanca Huanca","district",108.0
 1046,"090308","Huayllay Grande","district",108.0
 1047,"090309","Julcamarca","district",108.0
-1048,"090310","San Antonio De Antaparco","district",108.0
-1049,"090311","Sto Tomas De Pata","district",108.0
+1048,"090310","San Antonio de Antaparco","district",108.0
+1049,"090311","Sto Tomas de Pata","district",108.0
 1050,"090312","Secclla","district",108.0
 1051,"090401","Castrovirreyna","district",109.0
 1052,"090402","Arma","district",109.0
@@ -1070,8 +1070,8 @@
 1068,"090505","La Merced","district",110.0
 1069,"090506","Locroja","district",110.0
 1070,"090507","Paucarbamba","district",110.0
-1071,"090508","San Miguel De Mayoc","district",110.0
-1072,"090509","San Pedro De Coris","district",110.0
+1071,"090508","San Miguel de Mayoc","district",110.0
+1072,"090509","San Pedro de Coris","district",110.0
 1073,"090510","Pachamarca","district",110.0
 1074,"090601","Huaytara","district",111.0
 1075,"090602","Ayavi","district",111.0
@@ -1082,12 +1082,12 @@
 1080,"090607","Pilpichaca","district",111.0
 1081,"090608","Querco","district",111.0
 1082,"090609","Quito Arma","district",111.0
-1083,"090610","San Antonio De Cusicancha","district",111.0
-1084,"090611","San Francisco De Sangayaico","district",111.0
+1083,"090610","San Antonio de Cusicancha","district",111.0
+1084,"090611","San Francisco de Sangayaico","district",111.0
 1085,"090612","San Isidro","district",111.0
-1086,"090613","Santiago De Chocorvos","district",111.0
-1087,"090614","Santiago De Quirahuara","district",111.0
-1088,"090615","Santo Domingo De Capilla","district",111.0
+1086,"090613","Santiago de Chocorvos","district",111.0
+1087,"090614","Santiago de Quirahuara","district",111.0
+1088,"090615","Santo Domingo de Capilla","district",111.0
 1089,"090616","Tambo","district",111.0
 1090,"090701","Pampas","district",112.0
 1091,"090702","Acostambo","district",112.0
@@ -1102,7 +1102,7 @@
 1100,"090713","Quishuar","district",112.0
 1101,"090714","Salcabamba","district",112.0
 1102,"090715","Salcahuasi","district",112.0
-1103,"090716","San Marcos De Rocchac","district",112.0
+1103,"090716","San Marcos de Rocchac","district",112.0
 1104,"090717","Surcubamba","district",112.0
 1105,"090718","Tintay Puncu","district",112.0
 1106,"100101","Huanuco","district",113.0
@@ -1111,9 +1111,9 @@
 1109,"100104","Churubamba","district",113.0
 1110,"100105","Margos","district",113.0
 1111,"100106","Quisqui","district",113.0
-1112,"100107","San Fco De Cayran","district",113.0
-1113,"100108","San Pedro De Chaulan","district",113.0
-1114,"100109","Sta Maria Del Valle","district",113.0
+1112,"100107","San Fco de Cayran","district",113.0
+1113,"100108","San Pedro de Chaulan","district",113.0
+1114,"100109","Sta Maria del Valle","district",113.0
 1115,"100110","Yarumayo","district",113.0
 1116,"100111","Pillco Marca","district",113.0
 1117,"100201","Ambo","district",114.0
@@ -1139,7 +1139,7 @@
 1137,"100404","Pinra","district",116.0
 1138,"100501","Llata","district",117.0
 1139,"100502","Arancay","district",117.0
-1140,"100503","Chavin De Pariarca","district",117.0
+1140,"100503","Chavin de Pariarca","district",117.0
 1141,"100504","Jacas Grande","district",117.0
 1142,"100505","Jircan","district",117.0
 1143,"100506","Miraflores","district",117.0
@@ -1162,7 +1162,7 @@
 1160,"100803","Molino","district",120.0
 1161,"100804","Umari","district",120.0
 1162,"100901","Puerto Inca","district",121.0
-1163,"100902","Codo Del Pozuzo","district",121.0
+1163,"100902","Codo del Pozuzo","district",121.0
 1164,"100903","Honoria","district",121.0
 1165,"100904","Tournavista","district",121.0
 1166,"100905","Yuyapichis","district",121.0
@@ -1171,8 +1171,8 @@
 1169,"101003","Jivia","district",122.0
 1170,"101004","Queropalca","district",122.0
 1171,"101005","Rondos","district",122.0
-1172,"101006","San Francisco De Asis","district",122.0
-1173,"101007","San Miguel De Cauri","district",122.0
+1172,"101006","San Francisco de Asis","district",122.0
+1173,"101007","San Miguel de Cauri","district",122.0
 1174,"101101","Chavinillo","district",123.0
 1175,"101102","Cahuac","district",123.0
 1176,"101103","Chacabamba","district",123.0
@@ -1189,12 +1189,12 @@
 1187,"110106","Parcona","district",124.0
 1188,"110107","Pueblo Nuevo","district",124.0
 1189,"110108","Salas","district",124.0
-1190,"110109","San Jose De Los Molinos","district",124.0
+1190,"110109","San Jose de los Molinos","district",124.0
 1191,"110110","San Juan Bautista","district",124.0
 1192,"110111","Santiago","district",124.0
 1193,"110112","Subtanjalla","district",124.0
 1194,"110113","Tate","district",124.0
-1195,"110114","Yauca Del Rosario","district",124.0
+1195,"110114","Yauca del Rosario","district",124.0
 1196,"110201","Chincha Alta","district",125.0
 1197,"110202","Alto Laran","district",125.0
 1198,"110203","Chavin","district",125.0
@@ -1202,10 +1202,10 @@
 1200,"110205","El Carmen","district",125.0
 1201,"110206","Grocio Prado","district",125.0
 1202,"110207","Pueblo Nuevo","district",125.0
-1203,"110208","San Juan De Yanac","district",125.0
-1204,"110209","San Pedro De Huacarpana","district",125.0
+1203,"110208","San Juan de Yanac","district",125.0
+1204,"110209","San Pedro de Huacarpana","district",125.0
 1205,"110210","Sunampe","district",125.0
-1206,"110211","Tambo De Mora","district",125.0
+1206,"110211","Tambo de Mora","district",125.0
 1207,"110301","Nazca","district",126.0
 1208,"110302","Changuillo","district",126.0
 1209,"110303","El Ingenio","district",126.0
@@ -1246,11 +1246,11 @@
 1244,"120127","Quichuay","district",129.0
 1245,"120128","Quilcas","district",129.0
 1246,"120129","San Agustin","district",129.0
-1247,"120130","San Jeronimo De Tunan","district",129.0
+1247,"120130","San Jeronimo de Tunan","district",129.0
 1248,"120132","Sano","district",129.0
 1249,"120133","Sapallanga","district",129.0
 1250,"120134","Sicaya","district",129.0
-1251,"120135","Sto Domingo De Acobamba","district",129.0
+1251,"120135","Sto Domingo de Acobamba","district",129.0
 1252,"120136","Viques","district",129.0
 1253,"120201","Concepcion","district",130.0
 1254,"120202","Aco","district",130.0
@@ -1263,14 +1263,14 @@
 1261,"120209","Mcal Castilla","district",130.0
 1262,"120210","Matahuasi","district",130.0
 1263,"120211","Mito","district",130.0
-1264,"120212","Nueve De Julio","district",130.0
+1264,"120212","Nueve de Julio","district",130.0
 1265,"120213","Orcotuna","district",130.0
-1266,"120214","San Jose De Quero","district",130.0
-1267,"120215","Sta Rosa De Ocopa","district",130.0
+1266,"120214","San Jose de Quero","district",130.0
+1267,"120215","Sta Rosa de Ocopa","district",130.0
 1268,"120301","Chanchamayo","district",131.0
 1269,"120302","Perene","district",131.0
 1270,"120303","Pichanaqui","district",131.0
-1271,"120304","San Luis De Shuaro","district",131.0
+1271,"120304","San Luis de Shuaro","district",131.0
 1272,"120305","San Ramon","district",131.0
 1273,"120306","Vitoc","district",131.0
 1274,"120401","Jauja","district",132.0
@@ -1301,7 +1301,7 @@
 1299,"120426","Pomacancha","district",132.0
 1300,"120427","Ricran","district",132.0
 1301,"120428","San Lorenzo","district",132.0
-1302,"120429","San Pedro De Chunan","district",132.0
+1302,"120429","San Pedro de Chunan","district",132.0
 1303,"120430","Sausa","district",132.0
 1304,"120431","Sincos","district",132.0
 1305,"120432","Tunan Marca","district",132.0
@@ -1326,7 +1326,7 @@
 1324,"120705","La Union","district",135.0
 1325,"120706","Palca","district",135.0
 1326,"120707","Palcamayo","district",135.0
-1327,"120708","San Pedro De Cajas","district",135.0
+1327,"120708","San Pedro de Cajas","district",135.0
 1328,"120709","Tapo","district",135.0
 1329,"120801","La Oroya","district",136.0
 1330,"120802","Chacapalpa","district",136.0
@@ -1334,8 +1334,8 @@
 1332,"120804","Marcapomacocha","district",136.0
 1333,"120805","Morococha","district",136.0
 1334,"120806","Paccha","district",136.0
-1335,"120807","Sta Barbara De Carhuacayan","district",136.0
-1336,"120808","Sta Rosa De Sacco","district",136.0
+1335,"120807","Sta Barbara de Carhuacayan","district",136.0
+1336,"120808","Sta Rosa de Sacco","district",136.0
 1337,"120809","Suitucancha","district",136.0
 1338,"120810","Yauli","district",136.0
 1339,"120901","Chupaca","district",137.0
@@ -1343,13 +1343,13 @@
 1341,"120903","Chongos Bajo","district",137.0
 1342,"120904","Huachac","district",137.0
 1343,"120905","Huamancaca Chico","district",137.0
-1344,"120906","San Juan De Iscos","district",137.0
-1345,"120907","San Juan De Jarpa","district",137.0
-1346,"120908","Tres De Diciembre","district",137.0
+1344,"120906","San Juan de Iscos","district",137.0
+1345,"120907","San Juan de Jarpa","district",137.0
+1346,"120908","Tres de Diciembre","district",137.0
 1347,"120909","Yanacancha","district",137.0
 1348,"130101","Trujillo","district",138.0
 1349,"130102","El Porvenir","district",138.0
-1350,"130103","Florencia De Mora","district",138.0
+1350,"130103","Florencia de Mora","district",138.0
 1351,"130104","Huanchaco","district",138.0
 1352,"130105","La Esperanza","district",138.0
 1353,"130106","Laredo","district",138.0
@@ -1361,10 +1361,10 @@
 1359,"130201","Ascope","district",139.0
 1360,"130202","Chicama","district",139.0
 1361,"130203","Chocope","district",139.0
-1362,"130204","Magdalena De Cao","district",139.0
+1362,"130204","Magdalena de Cao","district",139.0
 1363,"130205","Paijan","district",139.0
 1364,"130206","Razuri","district",139.0
-1365,"130207","Santiago De Cao","district",139.0
+1365,"130207","Santiago de Cao","district",139.0
 1366,"130208","Casa Grande","district",139.0
 1367,"130301","Bolivar","district",140.0
 1368,"130302","Bambamarca","district",140.0
@@ -1389,7 +1389,7 @@
 1387,"130611","Salpo","district",143.0
 1388,"130613","Sinsicap","district",143.0
 1389,"130614","Usquil","district",143.0
-1390,"130701","San Pedro De Lloc","district",144.0
+1390,"130701","San Pedro de Lloc","district",144.0
 1391,"130702","Guadalupe","district",144.0
 1392,"130703","Jequetepeque","district",144.0
 1393,"130704","Pacasmayo","district",144.0
@@ -1404,7 +1404,7 @@
 1402,"130808","Parcoy","district",145.0
 1403,"130809","Pataz","district",145.0
 1404,"130810","Pias","district",145.0
-1405,"130811","Santiago De Challas","district",145.0
+1405,"130811","Santiago de Challas","district",145.0
 1406,"130812","Taurija","district",145.0
 1407,"130813","Urpay","district",145.0
 1408,"130901","Huamachuco","district",146.0
@@ -1415,13 +1415,13 @@
 1413,"130906","Sanagoran","district",146.0
 1414,"130907","Sarin","district",146.0
 1415,"130908","Sartimbamba","district",146.0
-1416,"131001","Santiago De Chuco","district",147.0
+1416,"131001","Santiago de Chuco","district",147.0
 1417,"131002","Angasmarca","district",147.0
 1418,"131003","Cachicadan","district",147.0
 1419,"131004","Mollebamba","district",147.0
 1420,"131005","Mollepata","district",147.0
 1421,"131006","Quiruvilca","district",147.0
-1422,"131007","Santa Cruz De Chuca","district",147.0
+1422,"131007","Santa Cruz de Chuca","district",147.0
 1423,"131008","Sitabamba","district",147.0
 1424,"131101","Cascas","district",148.0
 1425,"131102","Lucma","district",148.0
@@ -1487,7 +1487,7 @@
 1485,"150117","Los Olivos","district",153.0
 1486,"150118","Lurigancho","district",153.0
 1487,"150119","Lurin","district",153.0
-1488,"150120","Magdalena Del Mar","district",153.0
+1488,"150120","Magdalena del Mar","district",153.0
 1489,"150121","Pueblo Libre","district",153.0
 1490,"150122","Miraflores","district",153.0
 1491,"150123","Pachacamac","district",153.0
@@ -1499,18 +1499,18 @@
 1497,"150129","San Bartolo","district",153.0
 1498,"150130","San Borja","district",153.0
 1499,"150131","San Isidro","district",153.0
-1500,"150132","San Juan De Lurigancho","district",153.0
-1501,"150133","San Juan De Miraflores","district",153.0
+1500,"150132","San Juan de Lurigancho","district",153.0
+1501,"150133","San Juan de Miraflores","district",153.0
 1502,"150134","San Luis","district",153.0
-1503,"150135","San Martin De Porres","district",153.0
+1503,"150135","San Martin de Porres","district",153.0
 1504,"150136","San Miguel","district",153.0
 1505,"150137","Santa Anita","district",153.0
-1506,"150138","Sta Maria Del Mar","district",153.0
+1506,"150138","Sta Maria del Mar","district",153.0
 1507,"150139","Santa Rosa","district",153.0
-1508,"150140","Santiago De Surco","district",153.0
+1508,"150140","Santiago de Surco","district",153.0
 1509,"150141","Surquillo","district",153.0
 1510,"150142","Villa El Salvador","district",153.0
-1511,"150143","Villa Maria Del Triunfo","district",153.0
+1511,"150143","Villa Maria del Triunfo","district",153.0
 1512,"150201","Barranca","district",154.0
 1513,"150202","Paramonga","district",154.0
 1514,"150203","Pativilca","district",154.0
@@ -1527,8 +1527,8 @@
 1525,"150404","Huaros","district",156.0
 1526,"150405","Lachaqui","district",156.0
 1527,"150406","San Buenaventura","district",156.0
-1528,"150407","Santa Rosa De Quives","district",156.0
-1529,"150501","San Vicente De Canete","district",157.0
+1528,"150407","Santa Rosa de Quives","district",156.0
+1529,"150501","San Vicente de Canete","district",157.0
 1530,"150502","Asia","district",157.0
 1531,"150503","Calango","district",157.0
 1532,"150504","Cerro Azul","district",157.0
@@ -1542,7 +1542,7 @@
 1540,"150512","Quilmana","district",157.0
 1541,"150513","San Antonio","district",157.0
 1542,"150514","San Luis","district",157.0
-1543,"150515","Santa Cruz De Flores","district",157.0
+1543,"150515","Santa Cruz de Flores","district",157.0
 1544,"150516","Zuniga","district",157.0
 1545,"150601","Huaral","district",158.0
 1546,"150602","Atavillos Alto","district",158.0
@@ -1552,10 +1552,10 @@
 1550,"150606","Ihuari","district",158.0
 1551,"150607","Lampian","district",158.0
 1552,"150608","Pacaraos","district",158.0
-1553,"150609","San Miguel De Acos","district",158.0
-1554,"150610","Sta Cruz De Andamarca","district",158.0
+1553,"150609","San Miguel de Acos","district",158.0
+1554,"150610","Sta Cruz de Andamarca","district",158.0
 1555,"150611","Sumbilca","district",158.0
-1556,"150612","Veintisiete De Noviembre","district",158.0
+1556,"150612","Veintisiete de Noviembre","district",158.0
 1557,"150701","Matucana","district",159.0
 1558,"150702","Antioquia","district",159.0
 1559,"150703","Callahuanca","district",159.0
@@ -1570,27 +1570,27 @@
 1568,"150712","Laraos","district",159.0
 1569,"150713","Mariatana","district",159.0
 1570,"150714","Ricardo Palma","district",159.0
-1571,"150715","San Andres De Tupicocha","district",159.0
+1571,"150715","San Andres de Tupicocha","district",159.0
 1572,"150716","San Antonio","district",159.0
 1573,"150717","San Bartolome","district",159.0
 1574,"150718","San Damian","district",159.0
-1575,"150719","San Juan De Iris","district",159.0
-1576,"150720","San Juan De Tantaranche","district",159.0
-1577,"150721","San Lorenzo De Quinti","district",159.0
+1575,"150719","San Juan de Iris","district",159.0
+1576,"150720","San Juan de Tantaranche","district",159.0
+1577,"150721","San Lorenzo de Quinti","district",159.0
 1578,"150722","San Mateo","district",159.0
-1579,"150723","San Mateo De Otao","district",159.0
+1579,"150723","San Mateo de Otao","district",159.0
 1580,"150724","Casta","district",159.0
-1581,"150725","San Pedro De Huancayre","district",159.0
+1581,"150725","San Pedro de Huancayre","district",159.0
 1582,"150726","Sangallaya","district",159.0
-1583,"150727","Santa Cruz De Cocachacra","district",159.0
+1583,"150727","Santa Cruz de Cocachacra","district",159.0
 1584,"150728","Santa Eulalia","district",159.0
-1585,"150729","Santiago De Anchucaya","district",159.0
-1586,"150730","Santiago De Tuna","district",159.0
-1587,"150731","Santo Domingo De Los Olleros","district",159.0
+1585,"150729","Santiago de Anchucaya","district",159.0
+1586,"150730","Santiago de Tuna","district",159.0
+1587,"150731","Santo Domingo de los Olleros","district",159.0
 1588,"150732","Surco","district",159.0
 1589,"150801","Huacho","district",160.0
 1590,"150802","Ambar","district",160.0
-1591,"150803","Caleta De Carquin","district",160.0
+1591,"150803","Caleta de Carquin","district",160.0
 1592,"150804","Checras","district",160.0
 1593,"150805","Hualmay","district",160.0
 1594,"150806","Huaura","district",160.0
@@ -1632,7 +1632,7 @@
 1630,"151024","Quinches","district",162.0
 1631,"151025","Quinocay","district",162.0
 1632,"151026","San Joaquin","district",162.0
-1633,"151027","San Pedro De Pilas","district",162.0
+1633,"151027","San Pedro de Pilas","district",162.0
 1634,"151028","Tanta","district",162.0
 1635,"151029","Tauripampa","district",162.0
 1636,"151030","Tomas","district",162.0
@@ -1696,7 +1696,7 @@
 1694,"170104","Laberinto","district",170.0
 1695,"170201","Manu","district",171.0
 1696,"170202","Fitzcarrald","district",171.0
-1697,"170203","Madre De Dios","district",171.0
+1697,"170203","Madre de Dios","district",171.0
 1698,"170204","Huepetuhe","district",171.0
 1699,"170301","Inapari","district",172.0
 1700,"170302","Iberia","district",172.0
@@ -1728,7 +1728,7 @@
 1726,"190105","Ninacaca","district",176.0
 1727,"190106","Pallanchacra","district",176.0
 1728,"190107","Paucartambo","district",176.0
-1729,"190108","San Fco De Asis De Yarusyacan","district",176.0
+1729,"190108","San Fco de Asis de Yarusyacan","district",176.0
 1730,"190109","Simon Bolivar","district",176.0
 1731,"190110","Ticlacayan","district",176.0
 1732,"190111","Tinyahuarco","district",176.0
@@ -1738,8 +1738,8 @@
 1736,"190202","Chacayan","district",177.0
 1737,"190203","Goyllarisquizga","district",177.0
 1738,"190204","Paucar","district",177.0
-1739,"190205","San Pedro De Pillao","district",177.0
-1740,"190206","Santa Ana De Tusi","district",177.0
+1739,"190205","San Pedro de Pillao","district",177.0
+1740,"190206","Santa Ana de Tusi","district",177.0
 1741,"190207","Tapuc","district",177.0
 1742,"190208","Vilcabamba","district",177.0
 1743,"190301","Oxapampa","district",178.0
@@ -1770,10 +1770,10 @@
 1768,"200210","Suyo","district",180.0
 1769,"200301","Huancabamba","district",181.0
 1770,"200302","Canchaque","district",181.0
-1771,"200303","El Carmen De La Frontera","district",181.0
+1771,"200303","El Carmen de la Frontera","district",181.0
 1772,"200304","Huarmaca","district",181.0
 1773,"200305","Lalaquiz","district",181.0
-1774,"200306","San Miguel De El Faique","district",181.0
+1774,"200306","San Miguel de El Faique","district",181.0
 1775,"200307","Sondor","district",181.0
 1776,"200308","Sondorillo","district",181.0
 1777,"200401","Chulucanas","district",182.0
@@ -1782,14 +1782,14 @@
 1780,"200404","La Matanza","district",182.0
 1781,"200405","Morropon","district",182.0
 1782,"200406","Salitral","district",182.0
-1783,"200407","San Juan De Bigote","district",182.0
-1784,"200408","Santa Catalina De Mossa","district",182.0
+1783,"200407","San Juan de Bigote","district",182.0
+1784,"200408","Santa Catalina de Mossa","district",182.0
 1785,"200409","Santo Domingo","district",182.0
 1786,"200410","Yamango","district",182.0
 1787,"200501","Paita","district",183.0
 1788,"200502","Amotape","district",183.0
 1789,"200503","Arenal","district",183.0
-1790,"200504","Pueblo Nuevo De Colan","district",183.0
+1790,"200504","Pueblo Nuevo de Colan","district",183.0
 1791,"200505","La Huaca","district",183.0
 1792,"200506","Tamarindo","district",183.0
 1793,"200507","Vichayal","district",183.0
@@ -1808,7 +1808,7 @@
 1806,"200705","Los Organos","district",185.0
 1807,"200706","Mancora","district",185.0
 1808,"200801","Sechura","district",186.0
-1809,"200802","Bellavista De La Union","district",186.0
+1809,"200802","Bellavista de la Union","district",186.0
 1810,"200803","Bernal","district",186.0
 1811,"200804","Cristo Nos Valga","district",186.0
 1812,"200805","Vice","district",186.0
@@ -1840,8 +1840,8 @@
 1838,"210210","Saman","district",188.0
 1839,"210211","San Anton","district",188.0
 1840,"210212","San Jose","district",188.0
-1841,"210213","San Juan De Salinas","district",188.0
-1842,"210214","Stgo De Pupuja","district",188.0
+1841,"210213","San Juan de Salinas","district",188.0
+1842,"210214","Stgo de Pupuja","district",188.0
 1843,"210215","Tirapata","district",188.0
 1844,"210301","Macusani","district",189.0
 1845,"210302","Ajoyani","district",189.0
@@ -1911,10 +1911,10 @@
 1909,"211204","Patambuco","district",198.0
 1910,"211205","Phara","district",198.0
 1911,"211206","Quiaca","district",198.0
-1912,"211207","San Juan Del Oro","district",198.0
+1912,"211207","San Juan del Oro","district",198.0
 1913,"211208","Yanahuaya","district",198.0
 1914,"211209","Alto Inambari","district",198.0
-1915,"211210","San Pedro De Putina Punco","district",198.0
+1915,"211210","San Pedro de Putina Punco","district",198.0
 1916,"211301","Yunguyo","district",199.0
 1917,"211302","Anapia","district",199.0
 1918,"211303","Copani","district",199.0
@@ -1934,7 +1934,7 @@
 1932,"220204","Huallaga","district",201.0
 1933,"220205","San Pablo","district",201.0
 1934,"220206","San Rafael","district",201.0
-1935,"220301","San Jose De Sisa","district",202.0
+1935,"220301","San Jose de Sisa","district",202.0
 1936,"220302","Agua Blanca","district",202.0
 1937,"220303","San Martin","district",202.0
 1938,"220304","Santa Rosa","district",202.0
@@ -1944,15 +1944,15 @@
 1942,"220403","El Eslabon","district",203.0
 1943,"220404","Piscoyacu","district",203.0
 1944,"220405","Sacanche","district",203.0
-1945,"220406","Tingo De Saposoa","district",203.0
+1945,"220406","Tingo de Saposoa","district",203.0
 1946,"220501","Lamas","district",204.0
-1947,"220502","Alonso De Alvarado","district",204.0
+1947,"220502","Alonso de Alvarado","district",204.0
 1948,"220503","Barranquita","district",204.0
 1949,"220504","Caynarachi","district",204.0
 1950,"220505","Cunumbuqui","district",204.0
 1951,"220506","Pinto Recodo","district",204.0
 1952,"220507","Rumisapa","district",204.0
-1953,"220508","San Roque De Cumbaza","district",204.0
+1953,"220508","San Roque de Cumbaza","district",204.0
 1954,"220509","Shanao","district",204.0
 1955,"220510","Tabalosos","district",204.0
 1956,"220511","Zapatero","district",204.0
@@ -1969,7 +1969,7 @@
 1967,"220706","San Cristobal","district",206.0
 1968,"220707","San Hilarion","district",206.0
 1969,"220708","Shamboyacu","district",206.0
-1970,"220709","Tingo De Ponasa","district",206.0
+1970,"220709","Tingo de Ponasa","district",206.0
 1971,"220710","Tres Unidos","district",206.0
 1972,"220801","Rioja","district",207.0
 1973,"220802","Awajun","district",207.0
@@ -1988,7 +1988,7 @@
 1986,"220906","El Porvenir","district",208.0
 1987,"220907","Huimbayoc","district",208.0
 1988,"220908","Juan Guerra","district",208.0
-1989,"220909","La Banda De Shilcayo","district",208.0
+1989,"220909","La Banda de Shilcayo","district",208.0
 1990,"220910","Morales","district",208.0
 1991,"220911","Papaplaya","district",208.0
 1992,"220912","San Antonio","district",208.0
@@ -2000,7 +2000,7 @@
 1998,"221004","Shunte","district",209.0
 1999,"221005","Uchiza","district",209.0
 2000,"230101","Tacna","district",210.0
-2001,"230102","Alto De La Alianza","district",210.0
+2001,"230102","Alto de la Alianza","district",210.0
 2002,"230103","Calana","district",210.0
 2003,"230104","Ciudad Nueva","district",210.0
 2004,"230105","Inclan","district",210.0
@@ -2029,12 +2029,12 @@
 2027,"240101","Tumbes","district",214.0
 2028,"240102","Corrales","district",214.0
 2029,"240103","La Cruz","district",214.0
-2030,"240104","Pampas De Hospital","district",214.0
+2030,"240104","Pampas de Hospital","district",214.0
 2031,"240105","San Jacinto","district",214.0
-2032,"240106","San Juan De La Virgen","district",214.0
+2032,"240106","San Juan de la Virgen","district",214.0
 2033,"240201","Zorritos","district",215.0
 2034,"240202","Casitas","district",215.0
-2035,"240203","Canoas De Punta Sal","district",215.0
+2035,"240203","Canoas de Punta Sal","district",215.0
 2036,"240301","Zarumilla","district",216.0
 2037,"240302","Aguas Verdes","district",216.0
 2038,"240303","Matapalo","district",216.0
