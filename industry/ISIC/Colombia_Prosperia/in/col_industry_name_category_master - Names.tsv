@@ -1,6 +1,6 @@
 code	level	name_sp_full	name_es	name_short_es	name_en	name_short_en
 111	class	Producción especializada del café	Producción especializada del café	Café	Growing of coffee	Coffee
-112	class	Producción especializada de flor de corte bajo cubierta y al aire libre	Producción especializada de flor de corte	Flores Cortadas	Growing of flowers, cut	Cut Flowers
+112	class	Producción especializada de flor de corte bajo cubierta y al aire libre	Producción especializada de flor de corte	Flores cortadas	Growing of flowers, cut	Cut flowers
 113	class	Producción especializada de banano	Producción especializada de banano	Banano	Growing of bananas	Bananas
 114	class	Producción especializada de caña de azúcar	Producción especializada de caña de azúcar	Caña de azúcar	Growing of sugarcane	Sugar cane
 115	class	Producción especializada de cereales y oleaginosas	Producción especializada de cereales y oleaginosas	Cereales y oleaginosas	Growing of cereals	Grains and oilseeds
@@ -463,7 +463,7 @@ code	level	name_sp_full	name_es	name_short_es	name_en	name_short_en
 24	division	Fabricación de sustancias y productos químicos	Fabricación de sustancias y productos químicos	Químicos	Manufacture of chemicals and chemical products	Chemicals
 25	division	Fabricación de productos de caucho y de plástico	Fabricación de productos de caucho y de plástico	Productos de caucho y de plástico	Manufacture of rubber and plastics products	Rubber and plastics products
 26	division	Fabricación de otros productos minerales no metálicos	Fabricación de otros productos minerales no metálicos	Otros productos minerales no metálicos	Manufacture of other non-metallic mineral products	Other non-metallic mineral products
-27	division	Fabricación de productos metalúrgicos básicos	Fabricación de productos metalúrgicos básicos	Productos metalúrgicos básicos	Manufacture of basic metals	Basic metlas
+27	division	Fabricación de productos metalúrgicos básicos	Fabricación de productos metalúrgicos básicos	Productos metalúrgicos básicos	Manufacture of basic metals	Basic metals
 28	division	Fabricación de productos elaborados de metal, excepto maquinaria y equipo	Fabricación de productos elaborados de metal, excepto maquinaria y equipo	Productos de metal exc.maquinaria y equipo	Manufacture of fabricated metal products, except machinery and equipment	Fabricated metal products, except machinery and equipment
 29	division	Fabricación de maquinaria y equipo ncp	Fabricación de maquinaria y equipo ncp	Maquinaria y equipo ncp	Manufacture of machinery and equipment n.e.c.	Machinery and equipment nec
 30	division	Fabricación de maquinaria de oficina, contabilidad e informática	Fabricación de maquinaria de oficina, contabilidad e informática	Maquinaria de oficina, contabilidad e informática	Manufacture of office, accounting and computing machinery	Office, accounting and computing machinery
