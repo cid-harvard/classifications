@@ -1,5 +1,6 @@
 import pandas as pd
 
+from fix_spanish_title_case import fix_spanish_title_case
 from classification import (Hierarchy, repeated_table_to_parent_id_table,
                             parent_code_table_to_parent_id_table,
                             Classification)
@@ -26,10 +27,29 @@ if __name__ == "__main__":
     df.municipality_name = df.municipality_name.str.title()
     df.population_center_name = df.population_center_name.str.title()
 
+    df.department_name = df.department_name.map(fix_spanish_title_case, na_action="ignore")
+    df.municipality_name = df.municipality_name.map(fix_spanish_title_case, na_action="ignore")
+    df.population_center_name = df.population_center_name.map(fix_spanish_title_case, na_action="ignore")
+
     h = Hierarchy(["department", "municipality", "population_center"])
 
-    parent_code_table = repeated_table_to_parent_id_table(df, h)
+    df = df.rename(columns={"department_name": "name_department",
+                            "municipality_name": "name_municipality",
+                            "population_center_name": "name_population_center",
+                            })
+
+    parent_code_table = repeated_table_to_parent_id_table(
+        df, h,
+        level_fields={
+            "department": ["name_department"],
+            "municipality": ["name_municipality"],
+            "population_center": ["name_population_center"],
+        }
+    )
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
+
+    # Reorder columns to keep diff clean
+    parent_id_table = parent_id_table.ix[:, ["code", "name", "level", "parent_id"]]
 
     c = Classification(parent_id_table, h)
 
