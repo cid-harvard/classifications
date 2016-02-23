@@ -42,6 +42,10 @@ if __name__ == "__main__":
     df = df.apply(fix_levels, axis=1)
 
     df.name = df.name.map(fix_spanish_title_case, na_action="ignore")
+    df["name_es"] = df.name
+    df["name_en"] = df.name
+    df["name_short_es"] = df.name
+    df["name_short_en"] = df.name
 
     h = Hierarchy(["country", "department", "province", "district"])
     df.level = df.level.astype("category", categories=h, ordered=True)
