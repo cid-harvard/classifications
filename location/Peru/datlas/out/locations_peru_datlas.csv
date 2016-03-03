@@ -1,0 +1,222 @@
+"","code","name","level","name_es","name_en","name_short_es","name_short_en","parent_id"
+0,"000000","Peru","country","Peru","Peru","Peru","Peru",""
+1,"010000","Amazonas","department","Amazonas","Amazonas","Amazonas","Amazonas",0.0
+2,"020000","Ancash","department","Ancash","Ancash","Ancash","Ancash",0.0
+3,"030000","Apurimac","department","Apurimac","Apurimac","Apurimac","Apurimac",0.0
+4,"040000","Arequipa","department","Arequipa","Arequipa","Arequipa","Arequipa",0.0
+5,"050000","Ayacucho","department","Ayacucho","Ayacucho","Ayacucho","Ayacucho",0.0
+6,"060000","Cajamarca","department","Cajamarca","Cajamarca","Cajamarca","Cajamarca",0.0
+7,"070000","Callao","department","Callao","Callao","Callao","Callao",0.0
+8,"080000","Cusco","department","Cusco","Cusco","Cusco","Cusco",0.0
+9,"090000","Huancavelica","department","Huancavelica","Huancavelica","Huancavelica","Huancavelica",0.0
+10,"100000","Huanuco","department","Huanuco","Huanuco","Huanuco","Huanuco",0.0
+11,"110000","Ica","department","Ica","Ica","Ica","Ica",0.0
+12,"120000","Junin","department","Junin","Junin","Junin","Junin",0.0
+13,"130000","La Libertad","department","La Libertad","La Libertad","La Libertad","La Libertad",0.0
+14,"140000","Lambayeque","department","Lambayeque","Lambayeque","Lambayeque","Lambayeque",0.0
+15,"150000","Lima","department","Lima","Lima","Lima","Lima",0.0
+16,"160000","Loreto","department","Loreto","Loreto","Loreto","Loreto",0.0
+17,"170000","Madre de Dios","department","Madre de Dios","Madre de Dios","Madre de Dios","Madre de Dios",0.0
+18,"180000","Moquegua","department","Moquegua","Moquegua","Moquegua","Moquegua",0.0
+19,"190000","Pasco","department","Pasco","Pasco","Pasco","Pasco",0.0
+20,"200000","Piura","department","Piura","Piura","Piura","Piura",0.0
+21,"210000","Puno","department","Puno","Puno","Puno","Puno",0.0
+22,"220000","San Martin","department","San Martin","San Martin","San Martin","San Martin",0.0
+23,"230000","Tacna","department","Tacna","Tacna","Tacna","Tacna",0.0
+24,"240000","Tumbes","department","Tumbes","Tumbes","Tumbes","Tumbes",0.0
+25,"250000","Ucayali","department","Ucayali","Ucayali","Ucayali","Ucayali",0.0
+26,"010100","Chachapoyas","msa","Chachapoyas","Chachapoyas","Chachapoyas","Chachapoyas",1.0
+27,"010200","Bagua","msa","Bagua","Bagua","Bagua","Bagua",1.0
+28,"010300","Bongara","msa","Bongara","Bongara","Bongara","Bongara",1.0
+29,"010400","Condorcanqui","msa","Condorcanqui","Condorcanqui","Condorcanqui","Condorcanqui",1.0
+30,"010500","Luya","msa","Luya","Luya","Luya","Luya",1.0
+31,"010600","Rodriguez de Mendoza","msa","Rodriguez de Mendoza","Rodriguez de Mendoza","Rodriguez de Mendoza","Rodriguez de Mendoza",1.0
+32,"010700","Utcubamba","msa","Utcubamba","Utcubamba","Utcubamba","Utcubamba",1.0
+33,"020100","Huaraz","msa","Huaraz","Huaraz","Huaraz","Huaraz",2.0
+34,"020200","Aija","msa","Aija","Aija","Aija","Aija",2.0
+35,"020300","Antonio Raimondi","msa","Antonio Raimondi","Antonio Raimondi","Antonio Raimondi","Antonio Raimondi",2.0
+36,"020400","Asuncion","msa","Asuncion","Asuncion","Asuncion","Asuncion",2.0
+37,"020500","Bolognesi","msa","Bolognesi","Bolognesi","Bolognesi","Bolognesi",2.0
+38,"020600","Carhuaz","msa","Carhuaz","Carhuaz","Carhuaz","Carhuaz",2.0
+39,"020700","Carlos Fermin Fitzcarrald","msa","Carlos Fermin Fitzcarrald","Carlos Fermin Fitzcarrald","Carlos Fermin Fitzcarrald","Carlos Fermin Fitzcarrald",2.0
+40,"020800","Casma","msa","Casma","Casma","Casma","Casma",2.0
+41,"020900","Corongo","msa","Corongo","Corongo","Corongo","Corongo",2.0
+42,"021000","Huari","msa","Huari","Huari","Huari","Huari",2.0
+43,"021100","Huarmey","msa","Huarmey","Huarmey","Huarmey","Huarmey",2.0
+44,"021200","Huaylas","msa","Huaylas","Huaylas","Huaylas","Huaylas",2.0
+45,"021300","Mariscal Luzuriaga","msa","Mariscal Luzuriaga","Mariscal Luzuriaga","Mariscal Luzuriaga","Mariscal Luzuriaga",2.0
+46,"021400","Ocros","msa","Ocros","Ocros","Ocros","Ocros",2.0
+47,"021500","Pallasca","msa","Pallasca","Pallasca","Pallasca","Pallasca",2.0
+48,"021600","Pomabamba","msa","Pomabamba","Pomabamba","Pomabamba","Pomabamba",2.0
+49,"021700","Recuay","msa","Recuay","Recuay","Recuay","Recuay",2.0
+50,"021800","Santa","msa","Santa","Santa","Santa","Santa",2.0
+51,"021900","Sihuas","msa","Sihuas","Sihuas","Sihuas","Sihuas",2.0
+52,"022000","Yungay","msa","Yungay","Yungay","Yungay","Yungay",2.0
+53,"030100","Abancay","msa","Abancay","Abancay","Abancay","Abancay",3.0
+54,"030200","Andahuaylas","msa","Andahuaylas","Andahuaylas","Andahuaylas","Andahuaylas",3.0
+55,"030300","Antabamba","msa","Antabamba","Antabamba","Antabamba","Antabamba",3.0
+56,"030400","Aymaraes","msa","Aymaraes","Aymaraes","Aymaraes","Aymaraes",3.0
+57,"030500","Cotabambas","msa","Cotabambas","Cotabambas","Cotabambas","Cotabambas",3.0
+58,"030600","Chincheros","msa","Chincheros","Chincheros","Chincheros","Chincheros",3.0
+59,"030700","Grau","msa","Grau","Grau","Grau","Grau",3.0
+60,"040100","Arequipa","msa","Arequipa","Arequipa","Arequipa","Arequipa",4.0
+61,"040200","Camana","msa","Camana","Camana","Camana","Camana",4.0
+62,"040300","Caraveli","msa","Caraveli","Caraveli","Caraveli","Caraveli",4.0
+63,"040400","Castilla","msa","Castilla","Castilla","Castilla","Castilla",4.0
+64,"040500","Caylloma","msa","Caylloma","Caylloma","Caylloma","Caylloma",4.0
+65,"040600","Condesuyos","msa","Condesuyos","Condesuyos","Condesuyos","Condesuyos",4.0
+66,"040700","Islay","msa","Islay","Islay","Islay","Islay",4.0
+67,"040800","La Union","msa","La Union","La Union","La Union","La Union",4.0
+68,"050100","Huamanga","msa","Huamanga","Huamanga","Huamanga","Huamanga",5.0
+69,"050200","Cangallo","msa","Cangallo","Cangallo","Cangallo","Cangallo",5.0
+70,"050300","Huanca Sancos","msa","Huanca Sancos","Huanca Sancos","Huanca Sancos","Huanca Sancos",5.0
+71,"050400","Huanta","msa","Huanta","Huanta","Huanta","Huanta",5.0
+72,"050500","La Mar","msa","La Mar","La Mar","La Mar","La Mar",5.0
+73,"050600","Lucanas","msa","Lucanas","Lucanas","Lucanas","Lucanas",5.0
+74,"050700","Parinacochas","msa","Parinacochas","Parinacochas","Parinacochas","Parinacochas",5.0
+75,"050800","Paucar del Sara Sara","msa","Paucar del Sara Sara","Paucar del Sara Sara","Paucar del Sara Sara","Paucar del Sara Sara",5.0
+76,"050900","Sucre","msa","Sucre","Sucre","Sucre","Sucre",5.0
+77,"051000","Victor Fajardo","msa","Victor Fajardo","Victor Fajardo","Victor Fajardo","Victor Fajardo",5.0
+78,"051100","Vilcas Huaman","msa","Vilcas Huaman","Vilcas Huaman","Vilcas Huaman","Vilcas Huaman",5.0
+79,"060100","Cajamarca","msa","Cajamarca","Cajamarca","Cajamarca","Cajamarca",6.0
+80,"060200","Cajabamba","msa","Cajabamba","Cajabamba","Cajabamba","Cajabamba",6.0
+81,"060300","Celendin","msa","Celendin","Celendin","Celendin","Celendin",6.0
+82,"060400","Chota","msa","Chota","Chota","Chota","Chota",6.0
+83,"060500","Contumaza","msa","Contumaza","Contumaza","Contumaza","Contumaza",6.0
+84,"060600","Cutervo","msa","Cutervo","Cutervo","Cutervo","Cutervo",6.0
+85,"060700","Hualgayoc","msa","Hualgayoc","Hualgayoc","Hualgayoc","Hualgayoc",6.0
+86,"060800","Jaen","msa","Jaen","Jaen","Jaen","Jaen",6.0
+87,"060900","San Ignacio","msa","San Ignacio","San Ignacio","San Ignacio","San Ignacio",6.0
+88,"061000","San Marcos","msa","San Marcos","San Marcos","San Marcos","San Marcos",6.0
+89,"061100","San Miguel","msa","San Miguel","San Miguel","San Miguel","San Miguel",6.0
+90,"061200","San Pablo","msa","San Pablo","San Pablo","San Pablo","San Pablo",6.0
+91,"061300","Santa Cruz","msa","Santa Cruz","Santa Cruz","Santa Cruz","Santa Cruz",6.0
+92,"070100","Callao","msa","Callao","Callao","Callao","Callao",7.0
+93,"080100","Cusco","msa","Cusco","Cusco","Cusco","Cusco",8.0
+94,"080200","Acomayo","msa","Acomayo","Acomayo","Acomayo","Acomayo",8.0
+95,"080300","Anta","msa","Anta","Anta","Anta","Anta",8.0
+96,"080400","Calca","msa","Calca","Calca","Calca","Calca",8.0
+97,"080500","Canas","msa","Canas","Canas","Canas","Canas",8.0
+98,"080600","Canchis","msa","Canchis","Canchis","Canchis","Canchis",8.0
+99,"080700","Chumbivilcas","msa","Chumbivilcas","Chumbivilcas","Chumbivilcas","Chumbivilcas",8.0
+100,"080800","Espinar","msa","Espinar","Espinar","Espinar","Espinar",8.0
+101,"080900","La Convencion","msa","La Convencion","La Convencion","La Convencion","La Convencion",8.0
+102,"081000","Paruro","msa","Paruro","Paruro","Paruro","Paruro",8.0
+103,"081100","Paucartambo","msa","Paucartambo","Paucartambo","Paucartambo","Paucartambo",8.0
+104,"081200","Quispicanchis","msa","Quispicanchis","Quispicanchis","Quispicanchis","Quispicanchis",8.0
+105,"081300","Urubamba","msa","Urubamba","Urubamba","Urubamba","Urubamba",8.0
+106,"090100","Huancavelica","msa","Huancavelica","Huancavelica","Huancavelica","Huancavelica",9.0
+107,"090200","Acobamba","msa","Acobamba","Acobamba","Acobamba","Acobamba",9.0
+108,"090300","Angaraes","msa","Angaraes","Angaraes","Angaraes","Angaraes",9.0
+109,"090400","Castrovirreyna","msa","Castrovirreyna","Castrovirreyna","Castrovirreyna","Castrovirreyna",9.0
+110,"090500","Churcampa","msa","Churcampa","Churcampa","Churcampa","Churcampa",9.0
+111,"090600","Huaytara","msa","Huaytara","Huaytara","Huaytara","Huaytara",9.0
+112,"090700","Tayacaja","msa","Tayacaja","Tayacaja","Tayacaja","Tayacaja",9.0
+113,"100100","Huanuco","msa","Huanuco","Huanuco","Huanuco","Huanuco",10.0
+114,"100200","Ambo","msa","Ambo","Ambo","Ambo","Ambo",10.0
+115,"100300","Dos de Mayo","msa","Dos de Mayo","Dos de Mayo","Dos de Mayo","Dos de Mayo",10.0
+116,"100400","Huacaybamba","msa","Huacaybamba","Huacaybamba","Huacaybamba","Huacaybamba",10.0
+117,"100500","Huamalies","msa","Huamalies","Huamalies","Huamalies","Huamalies",10.0
+118,"100600","Leoncio Prado","msa","Leoncio Prado","Leoncio Prado","Leoncio Prado","Leoncio Prado",10.0
+119,"100700","Maranon","msa","Maranon","Maranon","Maranon","Maranon",10.0
+120,"100800","Pachitea","msa","Pachitea","Pachitea","Pachitea","Pachitea",10.0
+121,"100900","Puerto Inca","msa","Puerto Inca","Puerto Inca","Puerto Inca","Puerto Inca",10.0
+122,"101000","Lauricocha","msa","Lauricocha","Lauricocha","Lauricocha","Lauricocha",10.0
+123,"101100","Yarowilca","msa","Yarowilca","Yarowilca","Yarowilca","Yarowilca",10.0
+124,"110100","Ica","msa","Ica","Ica","Ica","Ica",11.0
+125,"110200","Chincha","msa","Chincha","Chincha","Chincha","Chincha",11.0
+126,"110300","Nazca","msa","Nazca","Nazca","Nazca","Nazca",11.0
+127,"110400","Palpa","msa","Palpa","Palpa","Palpa","Palpa",11.0
+128,"110500","Pisco","msa","Pisco","Pisco","Pisco","Pisco",11.0
+129,"120100","Huancayo","msa","Huancayo","Huancayo","Huancayo","Huancayo",12.0
+130,"120200","Concepcion","msa","Concepcion","Concepcion","Concepcion","Concepcion",12.0
+131,"120300","Chanchamayo","msa","Chanchamayo","Chanchamayo","Chanchamayo","Chanchamayo",12.0
+132,"120400","Jauja","msa","Jauja","Jauja","Jauja","Jauja",12.0
+133,"120500","Junin","msa","Junin","Junin","Junin","Junin",12.0
+134,"120600","Satipo","msa","Satipo","Satipo","Satipo","Satipo",12.0
+135,"120700","Tarma","msa","Tarma","Tarma","Tarma","Tarma",12.0
+136,"120800","Yauli","msa","Yauli","Yauli","Yauli","Yauli",12.0
+137,"120900","Chupaca","msa","Chupaca","Chupaca","Chupaca","Chupaca",12.0
+138,"130100","Trujillo","msa","Trujillo","Trujillo","Trujillo","Trujillo",13.0
+139,"130200","Ascope","msa","Ascope","Ascope","Ascope","Ascope",13.0
+140,"130300","Bolivar","msa","Bolivar","Bolivar","Bolivar","Bolivar",13.0
+141,"130400","Chepen","msa","Chepen","Chepen","Chepen","Chepen",13.0
+142,"130500","Julcan","msa","Julcan","Julcan","Julcan","Julcan",13.0
+143,"130600","Otuzco","msa","Otuzco","Otuzco","Otuzco","Otuzco",13.0
+144,"130700","Pacasmayo","msa","Pacasmayo","Pacasmayo","Pacasmayo","Pacasmayo",13.0
+145,"130800","Pataz","msa","Pataz","Pataz","Pataz","Pataz",13.0
+146,"130900","Sanchez Carrion","msa","Sanchez Carrion","Sanchez Carrion","Sanchez Carrion","Sanchez Carrion",13.0
+147,"131000","Santiago de Chuco","msa","Santiago de Chuco","Santiago de Chuco","Santiago de Chuco","Santiago de Chuco",13.0
+148,"131100","Gran Chimu","msa","Gran Chimu","Gran Chimu","Gran Chimu","Gran Chimu",13.0
+149,"131200","Viru","msa","Viru","Viru","Viru","Viru",13.0
+150,"140100","Chiclayo","msa","Chiclayo","Chiclayo","Chiclayo","Chiclayo",14.0
+151,"140200","Ferrenafe","msa","Ferrenafe","Ferrenafe","Ferrenafe","Ferrenafe",14.0
+152,"140300","Lambayeque","msa","Lambayeque","Lambayeque","Lambayeque","Lambayeque",14.0
+153,"150100","Lima","msa","Lima","Lima","Lima","Lima",15.0
+154,"150200","Barranca","msa","Barranca","Barranca","Barranca","Barranca",15.0
+155,"150300","Cajatambo","msa","Cajatambo","Cajatambo","Cajatambo","Cajatambo",15.0
+156,"150400","Canta","msa","Canta","Canta","Canta","Canta",15.0
+157,"150500","Canete","msa","Canete","Canete","Canete","Canete",15.0
+158,"150600","Huaral","msa","Huaral","Huaral","Huaral","Huaral",15.0
+159,"150700","Huarochiri","msa","Huarochiri","Huarochiri","Huarochiri","Huarochiri",15.0
+160,"150800","Huaura","msa","Huaura","Huaura","Huaura","Huaura",15.0
+161,"150900","Oyon","msa","Oyon","Oyon","Oyon","Oyon",15.0
+162,"151000","Yauyos","msa","Yauyos","Yauyos","Yauyos","Yauyos",15.0
+163,"160100","Maynas","msa","Maynas","Maynas","Maynas","Maynas",16.0
+164,"160200","Alto Amazonas","msa","Alto Amazonas","Alto Amazonas","Alto Amazonas","Alto Amazonas",16.0
+165,"160300","Loreto","msa","Loreto","Loreto","Loreto","Loreto",16.0
+166,"160400","Mariscal Ramon Castilla","msa","Mariscal Ramon Castilla","Mariscal Ramon Castilla","Mariscal Ramon Castilla","Mariscal Ramon Castilla",16.0
+167,"160500","Requena","msa","Requena","Requena","Requena","Requena",16.0
+168,"160600","Ucayali","msa","Ucayali","Ucayali","Ucayali","Ucayali",16.0
+169,"160700","Datem del Marañon","msa","Datem del Marañon","Datem del Marañon","Datem del Marañon","Datem del Marañon",16.0
+170,"170100","Tambopata","msa","Tambopata","Tambopata","Tambopata","Tambopata",17.0
+171,"170200","Manu","msa","Manu","Manu","Manu","Manu",17.0
+172,"170300","Tahuamanu","msa","Tahuamanu","Tahuamanu","Tahuamanu","Tahuamanu",17.0
+173,"180100","Mariscal Nieto","msa","Mariscal Nieto","Mariscal Nieto","Mariscal Nieto","Mariscal Nieto",18.0
+174,"180200","General Sanchez Cerro","msa","General Sanchez Cerro","General Sanchez Cerro","General Sanchez Cerro","General Sanchez Cerro",18.0
+175,"180300","Ilo","msa","Ilo","Ilo","Ilo","Ilo",18.0
+176,"190100","Pasco","msa","Pasco","Pasco","Pasco","Pasco",19.0
+177,"190200","Daniel Alcides Carrion","msa","Daniel Alcides Carrion","Daniel Alcides Carrion","Daniel Alcides Carrion","Daniel Alcides Carrion",19.0
+178,"190300","Oxapampa","msa","Oxapampa","Oxapampa","Oxapampa","Oxapampa",19.0
+179,"200100","Piura","msa","Piura","Piura","Piura","Piura",20.0
+180,"200200","Ayabaca","msa","Ayabaca","Ayabaca","Ayabaca","Ayabaca",20.0
+181,"200300","Huancabamba","msa","Huancabamba","Huancabamba","Huancabamba","Huancabamba",20.0
+182,"200400","Morropon","msa","Morropon","Morropon","Morropon","Morropon",20.0
+183,"200500","Paita","msa","Paita","Paita","Paita","Paita",20.0
+184,"200600","Sullana","msa","Sullana","Sullana","Sullana","Sullana",20.0
+185,"200700","Talara","msa","Talara","Talara","Talara","Talara",20.0
+186,"200800","Sechura","msa","Sechura","Sechura","Sechura","Sechura",20.0
+187,"210100","Puno","msa","Puno","Puno","Puno","Puno",21.0
+188,"210200","Azangaro","msa","Azangaro","Azangaro","Azangaro","Azangaro",21.0
+189,"210300","Carabaya","msa","Carabaya","Carabaya","Carabaya","Carabaya",21.0
+190,"210400","Chucuito","msa","Chucuito","Chucuito","Chucuito","Chucuito",21.0
+191,"210500","El Collao","msa","El Collao","El Collao","El Collao","El Collao",21.0
+192,"210600","Huancane","msa","Huancane","Huancane","Huancane","Huancane",21.0
+193,"210700","Lampa","msa","Lampa","Lampa","Lampa","Lampa",21.0
+194,"210800","Melgar","msa","Melgar","Melgar","Melgar","Melgar",21.0
+195,"210900","Moho","msa","Moho","Moho","Moho","Moho",21.0
+196,"211000","San Antonio de Putina","msa","San Antonio de Putina","San Antonio de Putina","San Antonio de Putina","San Antonio de Putina",21.0
+197,"211100","San Roman","msa","San Roman","San Roman","San Roman","San Roman",21.0
+198,"211200","Sandia","msa","Sandia","Sandia","Sandia","Sandia",21.0
+199,"211300","Yunguyo","msa","Yunguyo","Yunguyo","Yunguyo","Yunguyo",21.0
+200,"220100","Moyobamba","msa","Moyobamba","Moyobamba","Moyobamba","Moyobamba",22.0
+201,"220200","Bellavista","msa","Bellavista","Bellavista","Bellavista","Bellavista",22.0
+202,"220300","El Dorado","msa","El Dorado","El Dorado","El Dorado","El Dorado",22.0
+203,"220400","Huallaga","msa","Huallaga","Huallaga","Huallaga","Huallaga",22.0
+204,"220500","Lamas","msa","Lamas","Lamas","Lamas","Lamas",22.0
+205,"220600","Mariscal Caceres","msa","Mariscal Caceres","Mariscal Caceres","Mariscal Caceres","Mariscal Caceres",22.0
+206,"220700","Picota","msa","Picota","Picota","Picota","Picota",22.0
+207,"220800","Rioja","msa","Rioja","Rioja","Rioja","Rioja",22.0
+208,"220900","San Martin","msa","San Martin","San Martin","San Martin","San Martin",22.0
+209,"221000","Tocache","msa","Tocache","Tocache","Tocache","Tocache",22.0
+210,"230100","Tacna","msa","Tacna","Tacna","Tacna","Tacna",23.0
+211,"230200","Candarave","msa","Candarave","Candarave","Candarave","Candarave",23.0
+212,"230300","Jorge Basadre","msa","Jorge Basadre","Jorge Basadre","Jorge Basadre","Jorge Basadre",23.0
+213,"230400","Tarata","msa","Tarata","Tarata","Tarata","Tarata",23.0
+214,"240100","Tumbes","msa","Tumbes","Tumbes","Tumbes","Tumbes",24.0
+215,"240200","Contralmirante Villar","msa","Contralmirante Villar","Contralmirante Villar","Contralmirante Villar","Contralmirante Villar",24.0
+216,"240300","Zarumilla","msa","Zarumilla","Zarumilla","Zarumilla","Zarumilla",24.0
+217,"250100","Coronel Portillo","msa","Coronel Portillo","Coronel Portillo","Coronel Portillo","Coronel Portillo",25.0
+218,"250200","Atalaya","msa","Atalaya","Atalaya","Atalaya","Atalaya",25.0
+219,"250300","Padre Abad","msa","Padre Abad","Padre Abad","Padre Abad","Padre Abad",25.0
+220,"250400","Purus","msa","Purus","Purus","Purus","Purus",25.0
