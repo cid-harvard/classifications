@@ -1,0 +1,262 @@
+"","code_alpha2","code_alpha3","code_numeric","level","name_en","name_es","name","code","parent_id"
+0,"AW","ABW","533","country","Aruba","Aruba","Aruba","ABW",259.0
+1,"AF","AFG","004","country","Afghanistan","Afganistán","Afghanistan","AFG",253.0
+2,"AO","AGO","024","country","Angola","Angola","Angola","AGO",252.0
+3,"AI","AIA","660","country","Anguilla","Anguila","Anguilla","AIA",259.0
+4,"AX","ALA","248","country","Åland Islands","Islas Åland","Åland Islands","ALA",255.0
+5,"AL","ALB","008","country","Albania","Albania","Albania","ALB",255.0
+6,"AD","AND","020","country","Andorra","Andorra","Andorra","AND",255.0
+7,"AE","ARE","784","country","United Arab Emirates","Emiratos Árabes Unidos","United Arab Emirates","ARE",253.0
+8,"AR","ARG","032","country","Argentina","Argentina","Argentina","ARG",257.0
+9,"AM","ARM","051","country","Armenia","Armenia","Armenia","ARM",253.0
+10,"AS","ASM","016","country","American Samoa","Samoa Americana","American Samoa","ASM",254.0
+11,"AQ","ATA","010","country","Antarctica","Antártida","Antarctica","ATA",260.0
+12,"TF","ATF","260","country","French Southern Territories","Territorios Australes Franceses","French Southern Territories","ATF",260.0
+13,"AG","ATG","028","country","Antigua and Barbuda","Antigua y Barbuda","Antigua and Barbuda","ATG",259.0
+14,"AU","AUS","036","country","Australia","Australia","Australia","AUS",254.0
+15,"AT","AUT","040","country","Austria","Austria","Austria","AUT",255.0
+16,"AZ","AZE","031","country","Azerbaijan","Azerbaiyán","Azerbaijan","AZE",253.0
+17,"BI","BDI","108","country","Burundi","Burundi","Burundi","BDI",252.0
+18,"BE","BEL","056","country","Belgium","Bélgica","Belgium","BEL",255.0
+19,"BJ","BEN","204","country","Benin","Benín","Benin","BEN",252.0
+20,"BQ","BES","535","country","Caribbean Netherlands","Caribe neerlandés","Caribbean Netherlands","BES",259.0
+21,"BF","BFA","854","country","Burkina Faso","Burkina Faso","Burkina Faso","BFA",252.0
+22,"BD","BGD","050","country","Bangladesh","Bangladesh","Bangladesh","BGD",253.0
+23,"BG","BGR","100","country","Bulgaria","Bulgaria","Bulgaria","BGR",255.0
+24,"BH","BHR","048","country","Bahrain","Bahréin","Bahrain","BHR",253.0
+25,"BS","BHS","044","country","Bahamas","Bahamas","Bahamas","BHS",259.0
+26,"BA","BIH","070","country","Bosnia and Herzegovina","Bosnia-Herzegovina","Bosnia and Herzegovina","BIH",255.0
+27,"BL","BLM","652","country","Saint Barthélemy","San Bartolomé","Saint Barthélemy","BLM",255.0
+28,"BY","BLR","112","country","Belarus","Bielorrusia","Belarus","BLR",255.0
+29,"BZ","BLZ","084","country","Belize","Belice","Belize","BLZ",258.0
+30,"BM","BMU","060","country","Bermuda","Bermudas","Bermuda","BMU",256.0
+31,"BO","BOL","068","country","Bolivia","Bolivia","Bolivia","BOL",257.0
+32,"BR","BRA","076","country","Brazil","Brasil","Brazil","BRA",257.0
+33,"BB","BRB","052","country","Barbados","Barbados","Barbados","BRB",259.0
+34,"BN","BRN","096","country","Brunei","Brunéi","Brunei","BRN",253.0
+35,"BT","BTN","064","country","Bhutan","Bután","Bhutan","BTN",253.0
+36,"BV","BVT","074","country","Bouvet Island","Isla Bouvet","Bouvet Island","BVT",260.0
+37,"BW","BWA","072","country","Botswana","Botsuana","Botswana","BWA",252.0
+38,"CF","CAF","140","country","Central African Republic","República Centroafricana","Central African Republic","CAF",252.0
+39,"CA","CAN","124","country","Canada","Canadá","Canada","CAN",256.0
+40,"CC","CCK","166","country","Cocos [Keeling] Islands","Islas Cocos","Cocos [Keeling] Islands","CCK",254.0
+41,"CH","CHE","756","country","Switzerland","Suiza","Switzerland","CHE",255.0
+42,"CL","CHL","152","country","Chile","Chile","Chile","CHL",257.0
+43,"CN","CHN","156","country","China","China","China","CHN",253.0
+44,"CI","CIV","384","country","Côte d’Ivoire","Costa de Marfil","Côte d’Ivoire","CIV",252.0
+45,"CM","CMR","120","country","Cameroon","Camerún","Cameroon","CMR",252.0
+46,"CD","COD","180","country","Congo - Kinshasa","República Democrática del Congo","Congo - Kinshasa","COD",252.0
+47,"CG","COG","178","country","Congo - Brazzaville","Congo - Brazzaville","Congo - Brazzaville","COG",252.0
+48,"CK","COK","184","country","Cook Islands","Islas Cook","Cook Islands","COK",254.0
+49,"CO","COL","170","country","Colombia","Colombia","Colombia","COL",257.0
+50,"KM","COM","174","country","Comoros","Comoras","Comoros","COM",252.0
+51,"CV","CPV","132","country","Cape Verde","Cabo Verde","Cape Verde","CPV",252.0
+52,"CR","CRI","188","country","Costa Rica","Costa Rica","Costa Rica","CRI",258.0
+53,"CU","CUB","192","country","Cuba","Cuba","Cuba","CUB",259.0
+54,"CW","CUW","531","country","Curaçao","Curazao","Curaçao","CUW",259.0
+55,"CX","CXR","162","country","Christmas Island","Isla Christmas","Christmas Island","CXR",253.0
+56,"KY","CYM","136","country","Cayman Islands","Islas Caimán","Cayman Islands","CYM",259.0
+57,"CY","CYP","196","country","Cyprus","Chipre","Cyprus","CYP",253.0
+58,"CZ","CZE","203","country","Czech Republic","República Checa","Czech Republic","CZE",255.0
+59,"DE","DEU","276","country","Germany","Alemania","Germany","DEU",255.0
+60,"DJ","DJI","262","country","Djibouti","Yibuti","Djibouti","DJI",252.0
+61,"DM","DMA","212","country","Dominica","Dominica","Dominica","DMA",259.0
+62,"DK","DNK","208","country","Denmark","Dinamarca","Denmark","DNK",255.0
+63,"DO","DOM","214","country","Dominican Republic","República Dominicana","Dominican Republic","DOM",259.0
+64,"DZ","DZA","012","country","Algeria","Argelia","Algeria","DZA",252.0
+65,"EC","ECU","218","country","Ecuador","Ecuador","Ecuador","ECU",257.0
+66,"EG","EGY","818","country","Egypt","Egipto","Egypt","EGY",252.0
+67,"ER","ERI","232","country","Eritrea","Eritrea","Eritrea","ERI",252.0
+68,"EH","ESH","732","country","Western Sahara","Sáhara Occidental","Western Sahara","ESH",252.0
+69,"ES","ESP","724","country","Spain","España","Spain","ESP",255.0
+70,"EE","EST","233","country","Estonia","Estonia","Estonia","EST",255.0
+71,"ET","ETH","231","country","Ethiopia","Etiopía","Ethiopia","ETH",252.0
+72,"FI","FIN","246","country","Finland","Finlandia","Finland","FIN",255.0
+73,"FJ","FJI","242","country","Fiji","Fiyi","Fiji","FJI",254.0
+74,"FK","FLK","238","country","Falkland Islands","Islas Malvinas","Falkland Islands","FLK",257.0
+75,"FR","FRA","250","country","France","Francia","France","FRA",255.0
+76,"FO","FRO","234","country","Faroe Islands","Islas Feroe","Faroe Islands","FRO",255.0
+77,"FM","FSM","583","country","Micronesia","Micronesia","Micronesia","FSM",254.0
+78,"GA","GAB","266","country","Gabon","Gabón","Gabon","GAB",252.0
+79,"GB","GBR","826","country","United Kingdom","Reino Unido","United Kingdom","GBR",255.0
+80,"GE","GEO","268","country","Georgia","Georgia","Georgia","GEO",253.0
+81,"GG","GGY","831","country","Guernsey","Guernsey","Guernsey","GGY",255.0
+82,"GH","GHA","288","country","Ghana","Ghana","Ghana","GHA",252.0
+83,"GI","GIB","292","country","Gibraltar","Gibraltar","Gibraltar","GIB",255.0
+84,"GN","GIN","324","country","Guinea","Guinea","Guinea","GIN",252.0
+85,"GP","GLP","312","country","Guadeloupe","Guadalupe","Guadeloupe","GLP",259.0
+86,"GM","GMB","270","country","Gambia","Gambia","Gambia","GMB",252.0
+87,"GW","GNB","624","country","Guinea-Bissau","Guinea-Bissau","Guinea-Bissau","GNB",252.0
+88,"GQ","GNQ","226","country","Equatorial Guinea","Guinea Ecuatorial","Equatorial Guinea","GNQ",252.0
+89,"GR","GRC","300","country","Greece","Grecia","Greece","GRC",255.0
+90,"GD","GRD","308","country","Grenada","Granada","Grenada","GRD",259.0
+91,"GL","GRL","304","country","Greenland","Groenlandia","Greenland","GRL",256.0
+92,"GT","GTM","320","country","Guatemala","Guatemala","Guatemala","GTM",258.0
+93,"GF","GUF","254","country","French Guiana","Guayana Francesa","French Guiana","GUF",257.0
+94,"GU","GUM","316","country","Guam","Guam","Guam","GUM",254.0
+95,"GY","GUY","328","country","Guyana","Guyana","Guyana","GUY",257.0
+96,"HK","HKG","344","country","Hong Kong SAR China","Región Administrativa Especial de Hong Kong de la República Popular China","Hong Kong SAR China","HKG",253.0
+97,"HM","HMD","334","country","Heard Island and McDonald Islands","Islas Heard y McDonald","Heard Island and McDonald Islands","HMD",260.0
+98,"HN","HND","340","country","Honduras","Honduras","Honduras","HND",258.0
+99,"HR","HRV","191","country","Croatia","Croacia","Croatia","HRV",255.0
+100,"HT","HTI","332","country","Haiti","Haití","Haiti","HTI",259.0
+101,"HU","HUN","348","country","Hungary","Hungría","Hungary","HUN",255.0
+102,"ID","IDN","360","country","Indonesia","Indonesia","Indonesia","IDN",253.0
+103,"IM","IMN","833","country","Isle of Man","Isla de Man","Isle of Man","IMN",255.0
+104,"IN","IND","356","country","India","India","India","IND",253.0
+105,"IO","IOT","086","country","British Indian Ocean Territory","Territorio Británico del Océano Índico","British Indian Ocean Territory","IOT",253.0
+106,"IE","IRL","372","country","Ireland","Irlanda","Ireland","IRL",255.0
+107,"IR","IRN","364","country","Iran","Irán","Iran","IRN",253.0
+108,"IQ","IRQ","368","country","Iraq","Iraq","Iraq","IRQ",253.0
+109,"IS","ISL","352","country","Iceland","Islandia","Iceland","ISL",255.0
+110,"IL","ISR","376","country","Israel","Israel","Israel","ISR",253.0
+111,"IT","ITA","380","country","Italy","Italia","Italy","ITA",255.0
+112,"JM","JAM","388","country","Jamaica","Jamaica","Jamaica","JAM",259.0
+113,"JE","JEY","832","country","Jersey","Jersey","Jersey","JEY",255.0
+114,"JO","JOR","400","country","Jordan","Jordania","Jordan","JOR",253.0
+115,"JP","JPN","392","country","Japan","Japón","Japan","JPN",253.0
+116,"KZ","KAZ","398","country","Kazakhstan","Kazajistán","Kazakhstan","KAZ",253.0
+117,"KE","KEN","404","country","Kenya","Kenia","Kenya","KEN",252.0
+118,"KG","KGZ","417","country","Kyrgyzstan","Kirguistán","Kyrgyzstan","KGZ",253.0
+119,"KH","KHM","116","country","Cambodia","Camboya","Cambodia","KHM",253.0
+120,"KI","KIR","296","country","Kiribati","Kiribati","Kiribati","KIR",254.0
+121,"KN","KNA","659","country","Saint Kitts and Nevis","San Cristóbal y Nieves","Saint Kitts and Nevis","KNA",259.0
+122,"KR","KOR","410","country","South Korea","Corea del Sur","South Korea","KOR",253.0
+123,"KW","KWT","414","country","Kuwait","Kuwait","Kuwait","KWT",253.0
+124,"LA","LAO","418","country","Laos","Laos","Laos","LAO",253.0
+125,"LB","LBN","422","country","Lebanon","Líbano","Lebanon","LBN",253.0
+126,"LR","LBR","430","country","Liberia","Liberia","Liberia","LBR",252.0
+127,"LY","LBY","434","country","Libya","Libia","Libya","LBY",252.0
+128,"LC","LCA","662","country","Saint Lucia","Santa Lucía","Saint Lucia","LCA",259.0
+129,"LI","LIE","438","country","Liechtenstein","Liechtenstein","Liechtenstein","LIE",255.0
+130,"LK","LKA","144","country","Sri Lanka","Sri Lanka","Sri Lanka","LKA",253.0
+131,"LS","LSO","426","country","Lesotho","Lesoto","Lesotho","LSO",252.0
+132,"LT","LTU","440","country","Lithuania","Lituania","Lithuania","LTU",255.0
+133,"LU","LUX","442","country","Luxembourg","Luxemburgo","Luxembourg","LUX",255.0
+134,"LV","LVA","428","country","Latvia","Letonia","Latvia","LVA",255.0
+135,"MO","MAC","446","country","Macau SAR China","Región Administrativa Especial de Macao de la República Popular China","Macau SAR China","MAC",253.0
+136,"MF","MAF","663","country","Saint Martin","San Martín","Saint Martin","MAF",259.0
+137,"MA","MAR","504","country","Morocco","Marruecos","Morocco","MAR",252.0
+138,"MC","MCO","492","country","Monaco","Mónaco","Monaco","MCO",255.0
+139,"MD","MDA","498","country","Moldova","Moldavia","Moldova","MDA",255.0
+140,"MG","MDG","450","country","Madagascar","Madagascar","Madagascar","MDG",252.0
+141,"MV","MDV","462","country","Maldives","Maldivas","Maldives","MDV",253.0
+142,"MX","MEX","484","country","Mexico","México","Mexico","MEX",258.0
+143,"MH","MHL","584","country","Marshall Islands","Islas Marshall","Marshall Islands","MHL",254.0
+144,"MK","MKD","807","country","Macedonia","Macedonia","Macedonia","MKD",255.0
+145,"ML","MLI","466","country","Mali","Mali","Mali","MLI",252.0
+146,"MT","MLT","470","country","Malta","Malta","Malta","MLT",255.0
+147,"MM","MMR","104","country","Myanmar [Burma]","Myanmar [Birmania]","Myanmar [Burma]","MMR",253.0
+148,"ME","MNE","499","country","Montenegro","Montenegro","Montenegro","MNE",255.0
+149,"MN","MNG","496","country","Mongolia","Mongolia","Mongolia","MNG",253.0
+150,"MP","MNP","580","country","Northern Mariana Islands","Islas Marianas del Norte","Northern Mariana Islands","MNP",254.0
+151,"MZ","MOZ","508","country","Mozambique","Mozambique","Mozambique","MOZ",252.0
+152,"MR","MRT","478","country","Mauritania","Mauritania","Mauritania","MRT",252.0
+153,"MS","MSR","500","country","Montserrat","Montserrat","Montserrat","MSR",259.0
+154,"MQ","MTQ","474","country","Martinique","Martinica","Martinique","MTQ",259.0
+155,"MU","MUS","480","country","Mauritius","Mauricio","Mauritius","MUS",252.0
+156,"MW","MWI","454","country","Malawi","Malaui","Malawi","MWI",252.0
+157,"MY","MYS","458","country","Malaysia","Malasia","Malaysia","MYS",253.0
+158,"YT","MYT","175","country","Mayotte","Mayotte","Mayotte","MYT",252.0
+159,"NA","NAM","516","country","Namibia","Namibia","Namibia","NAM",252.0
+160,"NC","NCL","540","country","New Caledonia","Nueva Caledonia","New Caledonia","NCL",254.0
+161,"NE","NER","562","country","Niger","Níger","Niger","NER",252.0
+162,"NF","NFK","574","country","Norfolk Island","Isla Norfolk","Norfolk Island","NFK",254.0
+163,"NG","NGA","566","country","Nigeria","Nigeria","Nigeria","NGA",252.0
+164,"NI","NIC","558","country","Nicaragua","Nicaragua","Nicaragua","NIC",258.0
+165,"NU","NIU","570","country","Niue","Isla Niue","Niue","NIU",254.0
+166,"NL","NLD","528","country","Netherlands","Países Bajos","Netherlands","NLD",255.0
+167,"NO","NOR","578","country","Norway","Noruega","Norway","NOR",255.0
+168,"NP","NPL","524","country","Nepal","Nepal","Nepal","NPL",253.0
+169,"NR","NRU","520","country","Nauru","Nauru","Nauru","NRU",254.0
+170,"NZ","NZL","554","country","New Zealand","Nueva Zelanda","New Zealand","NZL",254.0
+171,"OM","OMN","512","country","Oman","Omán","Oman","OMN",253.0
+172,"PK","PAK","586","country","Pakistan","Pakistán","Pakistan","PAK",253.0
+173,"PA","PAN","591","country","Panama","Panamá","Panama","PAN",258.0
+174,"PN","PCN","612","country","Pitcairn Islands","Islas Pitcairn","Pitcairn Islands","PCN",254.0
+175,"PE","PER","604","country","Peru","Perú","Peru","PER",257.0
+176,"PH","PHL","608","country","Philippines","Filipinas","Philippines","PHL",253.0
+177,"PW","PLW","585","country","Palau","Palau","Palau","PLW",254.0
+178,"PG","PNG","598","country","Papua New Guinea","Papúa Nueva Guinea","Papua New Guinea","PNG",254.0
+179,"PL","POL","616","country","Poland","Polonia","Poland","POL",255.0
+180,"PR","PRI","630","country","Puerto Rico","Puerto Rico","Puerto Rico","PRI",259.0
+181,"KP","PRK","408","country","North Korea","Corea del Norte","North Korea","PRK",253.0
+182,"PT","PRT","620","country","Portugal","Portugal","Portugal","PRT",255.0
+183,"PY","PRY","600","country","Paraguay","Paraguay","Paraguay","PRY",257.0
+184,"PS","PSE","275","country","Palestinian Territories","Territorios Palestinos","Palestinian Territories","PSE",253.0
+185,"PF","PYF","258","country","French Polynesia","Polinesia Francesa","French Polynesia","PYF",254.0
+186,"QA","QAT","634","country","Qatar","Qatar","Qatar","QAT",253.0
+187,"RE","REU","638","country","Réunion","Reunión","Réunion","REU",252.0
+188,"RO","ROU","642","country","Romania","Rumanía","Romania","ROU",255.0
+189,"RU","RUS","643","country","Russia","Rusia","Russia","RUS",255.0
+190,"RW","RWA","646","country","Rwanda","Ruanda","Rwanda","RWA",252.0
+191,"SA","SAU","682","country","Saudi Arabia","Arabia Saudí","Saudi Arabia","SAU",253.0
+192,"SD","SDN","729","country","Sudan","Sudán","Sudan","SDN",252.0
+193,"SN","SEN","686","country","Senegal","Senegal","Senegal","SEN",252.0
+194,"SG","SGP","702","country","Singapore","Singapur","Singapore","SGP",253.0
+195,"GS","SGS","239","country","South Georgia and the South Sandwich Islands","Islas Georgia del Sur y Sandwich del Sur","South Georgia and the South Sandwich Islands","SGS",257.0
+196,"SH","SHN","654","country","Saint Helena","Santa Elena","Saint Helena","SHN",252.0
+197,"SJ","SJM","744","country","Svalbard and Jan Mayen","Svalbard y Jan Mayen","Svalbard and Jan Mayen","SJM",255.0
+198,"SB","SLB","090","country","Solomon Islands","Islas Salomón","Solomon Islands","SLB",254.0
+199,"SL","SLE","694","country","Sierra Leone","Sierra Leona","Sierra Leone","SLE",252.0
+200,"SV","SLV","222","country","El Salvador","El Salvador","El Salvador","SLV",258.0
+201,"SM","SMR","674","country","San Marino","San Marino","San Marino","SMR",255.0
+202,"SO","SOM","706","country","Somalia","Somalia","Somalia","SOM",252.0
+203,"PM","SPM","666","country","Saint Pierre and Miquelon","San Pedro y Miquelón","Saint Pierre and Miquelon","SPM",256.0
+204,"RS","SRB","688","country","Serbia","Serbia","Serbia","SRB",255.0
+205,"SS","SSD","728","country","South Sudan","Sudán del Sur","South Sudan","SSD",252.0
+206,"ST","STP","678","country","São Tomé and Príncipe","Santo Tomé y Príncipe","São Tomé and Príncipe","STP",252.0
+207,"SR","SUR","740","country","Suriname","Surinam","Suriname","SUR",257.0
+208,"SK","SVK","703","country","Slovakia","Eslovaquia","Slovakia","SVK",255.0
+209,"SI","SVN","705","country","Slovenia","Eslovenia","Slovenia","SVN",255.0
+210,"SE","SWE","752","country","Sweden","Suecia","Sweden","SWE",255.0
+211,"SZ","SWZ","748","country","Swaziland","Suazilandia","Swaziland","SWZ",252.0
+212,"SX","SXM","534","country","Sint Maarten","Sint Maarten","Sint Maarten","SXM",259.0
+213,"SC","SYC","690","country","Seychelles","Seychelles","Seychelles","SYC",252.0
+214,"SY","SYR","760","country","Syria","Siria","Syria","SYR",253.0
+215,"TC","TCA","796","country","Turks and Caicos Islands","Islas Turcas y Caicos","Turks and Caicos Islands","TCA",259.0
+216,"TD","TCD","148","country","Chad","Chad","Chad","TCD",252.0
+217,"TG","TGO","768","country","Togo","Togo","Togo","TGO",252.0
+218,"TH","THA","764","country","Thailand","Tailandia","Thailand","THA",253.0
+219,"TJ","TJK","762","country","Tajikistan","Tayikistán","Tajikistan","TJK",253.0
+220,"TK","TKL","772","country","Tokelau","Tokelau","Tokelau","TKL",254.0
+221,"TM","TKM","795","country","Turkmenistan","Turkmenistán","Turkmenistan","TKM",253.0
+222,"TL","TLS","626","country","Timor-Leste","Timor Oriental","Timor-Leste","TLS",253.0
+223,"TO","TON","776","country","Tonga","Tonga","Tonga","TON",254.0
+224,"TT","TTO","780","country","Trinidad and Tobago","Trinidad y Tobago","Trinidad and Tobago","TTO",259.0
+225,"TN","TUN","788","country","Tunisia","Túnez","Tunisia","TUN",252.0
+226,"TR","TUR","792","country","Turkey","Turquía","Turkey","TUR",253.0
+227,"TV","TUV","798","country","Tuvalu","Tuvalu","Tuvalu","TUV",254.0
+228,"TW","TWN","158","country","Taiwan","Taiwán","Taiwan","TWN",253.0
+229,"TZ","TZA","834","country","Tanzania","Tanzania","Tanzania","TZA",252.0
+230,"UG","UGA","800","country","Uganda","Uganda","Uganda","UGA",252.0
+231,"UA","UKR","804","country","Ukraine","Ucrania","Ukraine","UKR",255.0
+232,"UM","UMI","581","country","U.S. Outlying Islands","Islas menores alejadas de los Estados Unidos","U.S. Outlying Islands","UMI",254.0
+233,"UY","URY","858","country","Uruguay","Uruguay","Uruguay","URY",257.0
+234,"US","USA","840","country","United States","Estados Unidos","United States","USA",256.0
+235,"UZ","UZB","860","country","Uzbekistan","Uzbekistán","Uzbekistan","UZB",253.0
+236,"VA","VAT","336","country","Vatican City","Ciudad del Vaticano","Vatican City","VAT",255.0
+237,"VC","VCT","670","country","Saint Vincent and the Grenadines","San Vicente y las Granadinas","Saint Vincent and the Grenadines","VCT",259.0
+238,"VE","VEN","862","country","Venezuela","Venezuela","Venezuela","VEN",257.0
+239,"VG","VGB","092","country","British Virgin Islands","Islas Vírgenes Británicas","British Virgin Islands","VGB",259.0
+240,"VI","VIR","850","country","U.S. Virgin Islands","Islas Vírgenes de los Estados Unidos","U.S. Virgin Islands","VIR",259.0
+241,"VN","VNM","704","country","Vietnam","Vietnam","Vietnam","VNM",253.0
+242,"VU","VUT","548","country","Vanuatu","Vanuatu","Vanuatu","VUT",254.0
+243,"WF","WLF","876","country","Wallis and Futuna","Wallis y Futuna","Wallis and Futuna","WLF",254.0
+244,"WS","WSM","882","country","Samoa","Samoa","Samoa","WSM",254.0
+245,"YE","YEM","887","country","Yemen","Yemen","Yemen","YEM",253.0
+246,"ZA","ZAF","710","country","South Africa","Sudáfrica","South Africa","ZAF",252.0
+247,"ZM","ZMB","894","country","Zambia","Zambia","Zambia","ZMB",252.0
+248,"ZW","ZWE","716","country","Zimbabwe","Zimbabue","Zimbabwe","ZWE",252.0
+249,"ZZ","ZZZ",999,"country","Unknown","No Especificado","Unknown","ZZZ",260.0
+250,"XO","XXO",987,"country","Other","Otro","Other","XXO",260.0
+251,"XF","XXF",978,"country","Free Zones","Zonas Francas","Free Zones","XXF",260.0
+252,"1","1","1","region","Africa","África","Africa","1",""
+253,"2","2","2","region","Asia","Asia","Asia","2",""
+254,"3","3","3","region","Oceania","Oceanía","Oceania","3",""
+255,"4","4","4","region","Europe","Europa","Europe","4",""
+256,"5","5","5","region","North America","Norteamérica","North America","5",""
+257,"6","6","6","region","South America","Sudamérica","South America","6",""
+258,"7","7","7","region","Central America ","Centroamérica","Central America ","7",""
+259,"8","8","8","region","Carribean","Caribe","Carribean","8",""
+260,"9","9","9","region","Other","Otro","Other","9",""

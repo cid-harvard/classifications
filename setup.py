@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="linnaeus",
-    version="v0.0.55",
+    version="v0.0.56",
     author="Mali Akmanalp <Harvard CID>",
     description=("Harvard CID's classification tools."),
     url="http://github.com/cid-harvard/classifications/",
@@ -33,6 +33,7 @@ setup(
             'location/Peru/datlas/out/locations_peru_datlas.csv',
             'location/International/DANE/out/locations_international_dane.csv',
             'location/International/Mexico/out/locations_international_mexico.csv',
+            'location/International/ISO-CID/out/locations_international_iso_cid.csv',
         ]
     }
 )
