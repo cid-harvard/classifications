@@ -175,11 +175,8 @@ class Classification(object):
         assert self.table.index.hasnans is False
         assert self.table.index.values[0] == 0
 
-        # Use gauss's trick to check that the index is 0,1,2,3 ... n
-        index_size = self.table.index.size
-        sum_guess = (index_size - 1) * (index_size) / 2
-        actual_sum = sum(self.table.index)
-        assert sum_guess == actual_sum
+        # Check that index is in sorted order
+        assert sorted(self.table.index) == self.table.index.tolist()
 
         assert (self.table[["name", "level", "code"]].isnull()
                 .any().any() == False)
