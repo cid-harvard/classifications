@@ -1,3 +1,4 @@
+# -*- coding: utf8 -*-
 import pandas as pd
 
 from fix_spanish_title_case import fix_spanish_title_case
@@ -17,10 +18,20 @@ if __name__ == "__main__":
     df = df[["code", "name"]]
     df = df[~df.code.isnull()]
 
+    df.name = df.name.map(fix_spanish_title_case, na_action="ignore")
+    df["name_es"] = df.name
+    df["name_en"] = df.name
+    df["name_short_es"] = df.name
+    df["name_short_en"] = df.name
+
     # This adds a highest level element that represents the whole country
     peru = pd.Series({
         "code": "000000",
-        "name": "Peru",
+        "name": u"Peru",
+        "name_es": u"Perú",
+        "name_short_es": u"Perú",
+        "name_en": u"Peru",
+        "name_short_en": u"Peru",
     })
     df = pd.concat([pd.DataFrame(peru).T, df])
 
@@ -41,12 +52,6 @@ if __name__ == "__main__":
 
     df = df.apply(fix_levels, axis=1)
 
-    df.name = df.name.map(fix_spanish_title_case, na_action="ignore")
-    df["name_es"] = df.name
-    df["name_en"] = df.name
-    df["name_short_es"] = df.name
-    df["name_short_en"] = df.name
-
     h = Hierarchy(["country", "department", "province", "district"])
     df.level = df.level.astype("category", categories=h, ordered=True)
 
@@ -62,6 +67,8 @@ if __name__ == "__main__":
 
     # Drop the "locality" level since we don't use it
     #parent_code_table = parent_code_table[parent_code_table.level != "locality"]
+
+    parent_id_table = parent_id_table[["code","name","level","name_es","name_en","name_short_es","name_short_en","parent_id"]]
 
     c = Classification(parent_id_table, h)
 
