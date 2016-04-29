@@ -71,7 +71,7 @@ code	level	name_en	name_es	name_short_es	name_short_en
 0807	4digit	Melons (including watermelons) and papayas (papaws), fresh	Melones, sandías y papayas, frescos.	Melones y papayas	Melons and papayas
 0808	4digit	Apples, pears and quinces, fresh	Manzanas, peras y membrillos, frescos.	Manzanas, peras y membrillos	Apples, pears and quinces
 0809	4digit	Apricots, cherries, peaches (including nectarines), plums (including prune plums) and sloes, fresh	Chabacanos (damascos, albaricoques), cerezas, duraznos (melocotones) (incluidos los griñones y nectarinas), ciruelas y endrinas, frescos.	Chabacanos	Apricots, cherries, peaches, plums
-0810	4digit	Other fruit, fresh	Las demás frutas u otros frutos, frescos.	Otras frutas frescas	Other fresh fruit
+0810	4digit	Other fruit, fresh (incl. berries)	Las demás frutas u otros frutos, frescos (incl. fresas)	Otras frutas frescas (incl. fresas)	Other fresh fruit (incl. berries)
 0811	4digit	Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter	Frutas y otros frutos, sin cocer o cocidos en agua o vapor, congelados, incluso con adición de azúcar u otro edulcorante.	Frutas y frutos secos, congelados	Fruits and nuts, frozen
 0812	4digit	Fruit and nuts, provisionally preserved (for example, by sulfur dioxide gas, in brine, in sulfur water or in other preservative solutions), but unsuitable in that state for immediate consumption	Frutas y otros frutos, conservados provisionalmente (por ejemplo: con gas sulfuroso o con agua salada, sulfurosa o adicionada de otras sustancias para dicha conservación), pero todavía impropios para consumo inmediato.	Frutas y frutos secos, conservados provisionalmente	Fruits and nuts, provisionally preserved
 0813	4digit	Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of this chapter	Frutas y otros frutos, secos, excepto los de las partidas 08.01 a 08.06; mezclas de frutas u otros frutos, secos, o de frutos de cáscara de este Capítulo.	Otras frutas secas	Fruits, dried
@@ -246,7 +246,7 @@ code	level	name_en	name_es	name_short_es	name_short_en
 2613	4digit	Molybdenum ores and concentrates	Minerales de molibdeno y sus concentrados.	Minerales de molibdeno	Molybdenum ore
 2614	4digit	Titanium ores and concentrates	Minerales de titanio y sus concentrados.	Minerales de titanio	Titanium ore
 2615	4digit	Niobium (columbium), tantalum, vanadium or zirconium ores and concentrates	Minerales de niobio, tantalio, vanadio o circonio, y sus concentrados.	Minerales de niobio, tantalio, etc.	Niobium, tntalum etc. ores
-2616	4digit	Precious metal ores and concentrates	Minerales de los metales preciosos y sus concentrados.	Minerales de los metales preciosos	Precious metal ores
+2616	4digit	Precious metal ores and concentrates (incl. silver)	Minerales de los metales preciosos y sus concentrados (incl. plata)	Minerales de los metales preciosos (incl. plata)	Precious metal ores (incl. silver)
 2617	4digit	Other ores and concentrates	Los demás minerales y sus concentrados.	Los demás minerales	Other ores
 2618	4digit	Granulated slag (slag sand) from the manufacture or iron or steel	Escorias granuladas (arena de escorias) de la siderurgia.	Escorias granuladas de la siderurgia	Granulated iron or steel slag
 2619	4digit	Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel	Escorias (excepto las granuladas), batiduras y demás desperdicios de la siderurgia.	Escorias de la siderurgia	Iron or steel slag
