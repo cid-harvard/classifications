@@ -32,7 +32,7 @@ if __name__ == "__main__":
         row.name_short_en = row.name_short_en + " (unknown province)"
         row.name_es = row.name_es + " (provincia desconocida)"
         row.name_short_es = row.name_short_es + " (provincia desconocida)"
-        row.name = row.name_en
+        row["name"] = row.name_en
         return row
 
     others = df[df.level == "department"].apply(create_others, axis=1)

@@ -218,29 +218,29 @@
 218,"250200","Atalaya","msa","Atalaya","Atalaya","Atalaya","Atalaya",25.0
 219,"250300","Padre Abad","msa","Padre Abad","Padre Abad","Padre Abad","Padre Abad",25.0
 220,"250400","Purus","msa","Purus","Purus","Purus","Purus",25.0
-221,"019900","Amazonas","msa","Amazonas (provincia desconocida)","Amazonas (unknown province)","Amazonas (provincia desconocida)","Amazonas (unknown province)",1.0
-222,"029900","Ancash","msa","Ancash (provincia desconocida)","Ancash (unknown province)","Ancash (provincia desconocida)","Ancash (unknown province)",2.0
-223,"039900","Apurimac","msa","Apurimac (provincia desconocida)","Apurimac (unknown province)","Apurimac (provincia desconocida)","Apurimac (unknown province)",3.0
-224,"049900","Arequipa","msa","Arequipa (provincia desconocida)","Arequipa (unknown province)","Arequipa (provincia desconocida)","Arequipa (unknown province)",4.0
-225,"059900","Ayacucho","msa","Ayacucho (provincia desconocida)","Ayacucho (unknown province)","Ayacucho (provincia desconocida)","Ayacucho (unknown province)",5.0
-226,"069900","Cajamarca","msa","Cajamarca (provincia desconocida)","Cajamarca (unknown province)","Cajamarca (provincia desconocida)","Cajamarca (unknown province)",6.0
-227,"079900","Callao","msa","Callao (provincia desconocida)","Callao (unknown province)","Callao (provincia desconocida)","Callao (unknown province)",7.0
-228,"089900","Cusco","msa","Cusco (provincia desconocida)","Cusco (unknown province)","Cusco (provincia desconocida)","Cusco (unknown province)",8.0
-229,"099900","Huancavelica","msa","Huancavelica (provincia desconocida)","Huancavelica (unknown province)","Huancavelica (provincia desconocida)","Huancavelica (unknown province)",9.0
-230,"109900","Huanuco","msa","Huanuco (provincia desconocida)","Huanuco (unknown province)","Huanuco (provincia desconocida)","Huanuco (unknown province)",10.0
-231,"119900","Ica","msa","Ica (provincia desconocida)","Ica (unknown province)","Ica (provincia desconocida)","Ica (unknown province)",11.0
-232,"129900","Junin","msa","Junin (provincia desconocida)","Junin (unknown province)","Junin (provincia desconocida)","Junin (unknown province)",12.0
-233,"139900","La Libertad","msa","La Libertad (provincia desconocida)","La Libertad (unknown province)","La Libertad (provincia desconocida)","La Libertad (unknown province)",13.0
-234,"149900","Lambayeque","msa","Lambayeque (provincia desconocida)","Lambayeque (unknown province)","Lambayeque (provincia desconocida)","Lambayeque (unknown province)",14.0
-235,"159900","Lima","msa","Lima (provincia desconocida)","Lima (unknown province)","Lima (provincia desconocida)","Lima (unknown province)",15.0
-236,"169900","Loreto","msa","Loreto (provincia desconocida)","Loreto (unknown province)","Loreto (provincia desconocida)","Loreto (unknown province)",16.0
-237,"179900","Madre de Dios","msa","Madre de Dios (provincia desconocida)","Madre de Dios (unknown province)","Madre de Dios (provincia desconocida)","Madre de Dios (unknown province)",17.0
-238,"189900","Moquegua","msa","Moquegua (provincia desconocida)","Moquegua (unknown province)","Moquegua (provincia desconocida)","Moquegua (unknown province)",18.0
-239,"199900","Pasco","msa","Pasco (provincia desconocida)","Pasco (unknown province)","Pasco (provincia desconocida)","Pasco (unknown province)",19.0
-240,"209900","Piura","msa","Piura (provincia desconocida)","Piura (unknown province)","Piura (provincia desconocida)","Piura (unknown province)",20.0
-241,"219900","Puno","msa","Puno (provincia desconocida)","Puno (unknown province)","Puno (provincia desconocida)","Puno (unknown province)",21.0
-242,"229900","San Martin","msa","San Martin (provincia desconocida)","San Martin (unknown province)","San Martin (provincia desconocida)","San Martin (unknown province)",22.0
-243,"239900","Tacna","msa","Tacna (provincia desconocida)","Tacna (unknown province)","Tacna (provincia desconocida)","Tacna (unknown province)",23.0
-244,"249900","Tumbes","msa","Tumbes (provincia desconocida)","Tumbes (unknown province)","Tumbes (provincia desconocida)","Tumbes (unknown province)",24.0
-245,"259900","Ucayali","msa","Ucayali (provincia desconocida)","Ucayali (unknown province)","Ucayali (provincia desconocida)","Ucayali (unknown province)",25.0
+221,"019900","Amazonas (unknown province)","msa","Amazonas (provincia desconocida)","Amazonas (unknown province)","Amazonas (provincia desconocida)","Amazonas (unknown province)",1.0
+222,"029900","Ancash (unknown province)","msa","Ancash (provincia desconocida)","Ancash (unknown province)","Ancash (provincia desconocida)","Ancash (unknown province)",2.0
+223,"039900","Apurimac (unknown province)","msa","Apurimac (provincia desconocida)","Apurimac (unknown province)","Apurimac (provincia desconocida)","Apurimac (unknown province)",3.0
+224,"049900","Arequipa (unknown province)","msa","Arequipa (provincia desconocida)","Arequipa (unknown province)","Arequipa (provincia desconocida)","Arequipa (unknown province)",4.0
+225,"059900","Ayacucho (unknown province)","msa","Ayacucho (provincia desconocida)","Ayacucho (unknown province)","Ayacucho (provincia desconocida)","Ayacucho (unknown province)",5.0
+226,"069900","Cajamarca (unknown province)","msa","Cajamarca (provincia desconocida)","Cajamarca (unknown province)","Cajamarca (provincia desconocida)","Cajamarca (unknown province)",6.0
+227,"079900","Callao (unknown province)","msa","Callao (provincia desconocida)","Callao (unknown province)","Callao (provincia desconocida)","Callao (unknown province)",7.0
+228,"089900","Cusco (unknown province)","msa","Cusco (provincia desconocida)","Cusco (unknown province)","Cusco (provincia desconocida)","Cusco (unknown province)",8.0
+229,"099900","Huancavelica (unknown province)","msa","Huancavelica (provincia desconocida)","Huancavelica (unknown province)","Huancavelica (provincia desconocida)","Huancavelica (unknown province)",9.0
+230,"109900","Huanuco (unknown province)","msa","Huanuco (provincia desconocida)","Huanuco (unknown province)","Huanuco (provincia desconocida)","Huanuco (unknown province)",10.0
+231,"119900","Ica (unknown province)","msa","Ica (provincia desconocida)","Ica (unknown province)","Ica (provincia desconocida)","Ica (unknown province)",11.0
+232,"129900","Junin (unknown province)","msa","Junin (provincia desconocida)","Junin (unknown province)","Junin (provincia desconocida)","Junin (unknown province)",12.0
+233,"139900","La Libertad (unknown province)","msa","La Libertad (provincia desconocida)","La Libertad (unknown province)","La Libertad (provincia desconocida)","La Libertad (unknown province)",13.0
+234,"149900","Lambayeque (unknown province)","msa","Lambayeque (provincia desconocida)","Lambayeque (unknown province)","Lambayeque (provincia desconocida)","Lambayeque (unknown province)",14.0
+235,"159900","Lima (unknown province)","msa","Lima (provincia desconocida)","Lima (unknown province)","Lima (provincia desconocida)","Lima (unknown province)",15.0
+236,"169900","Loreto (unknown province)","msa","Loreto (provincia desconocida)","Loreto (unknown province)","Loreto (provincia desconocida)","Loreto (unknown province)",16.0
+237,"179900","Madre de Dios (unknown province)","msa","Madre de Dios (provincia desconocida)","Madre de Dios (unknown province)","Madre de Dios (provincia desconocida)","Madre de Dios (unknown province)",17.0
+238,"189900","Moquegua (unknown province)","msa","Moquegua (provincia desconocida)","Moquegua (unknown province)","Moquegua (provincia desconocida)","Moquegua (unknown province)",18.0
+239,"199900","Pasco (unknown province)","msa","Pasco (provincia desconocida)","Pasco (unknown province)","Pasco (provincia desconocida)","Pasco (unknown province)",19.0
+240,"209900","Piura (unknown province)","msa","Piura (provincia desconocida)","Piura (unknown province)","Piura (provincia desconocida)","Piura (unknown province)",20.0
+241,"219900","Puno (unknown province)","msa","Puno (provincia desconocida)","Puno (unknown province)","Puno (provincia desconocida)","Puno (unknown province)",21.0
+242,"229900","San Martin (unknown province)","msa","San Martin (provincia desconocida)","San Martin (unknown province)","San Martin (provincia desconocida)","San Martin (unknown province)",22.0
+243,"239900","Tacna (unknown province)","msa","Tacna (provincia desconocida)","Tacna (unknown province)","Tacna (provincia desconocida)","Tacna (unknown province)",23.0
+244,"249900","Tumbes (unknown province)","msa","Tumbes (provincia desconocida)","Tumbes (unknown province)","Tumbes (provincia desconocida)","Tumbes (unknown province)",24.0
+245,"259900","Ucayali (unknown province)","msa","Ucayali (provincia desconocida)","Ucayali (unknown province)","Ucayali (provincia desconocida)","Ucayali (unknown province)",25.0
 246,"159800","Callao","msa","Callao","Callao","Callao","Callao",15.0
