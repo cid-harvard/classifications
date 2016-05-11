@@ -42,6 +42,10 @@ if __name__ == "__main__":
                                        "name_es", "name_short_es",
                                        "name_short_en", "parent_id"]]
 
+    hs92_codes = pd.read_csv("./in/hs92_codes.csv", dtype=str)
+    codes_to_drop = (parent_id_table.level == "4digit") & (~parent_id_table.code.isin(hs92_codes.code))
+    parent_id_table = parent_id_table[~codes_to_drop]
+
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/products_colombia_prospedia.csv")
