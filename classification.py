@@ -50,6 +50,26 @@ def ordered_table_to_parent_code_table(df, hierarchy):
 
 
 def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
+    """
+    Convert from the "merged" table format to a parent_id format, e.g.
+
+      level1  level0
+      cats    animals
+      dogs    animals
+      cod     fish
+      salmon  fish
+
+    into:
+
+      code    level   name
+      cats    level1  Cats
+
+    and to do that, specify level_fields=
+      {
+          "level0": [],
+          "level1": []
+      }
+    """
 
     # Check there is a code and name field for every entry in the hierarchy
     for level in hierarchy:
