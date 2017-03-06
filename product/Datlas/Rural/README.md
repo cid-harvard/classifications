@@ -1,3 +1,3 @@
-This is basically HS92, with names generously translated by Ryan.
+This is the rural agricultural classifications for Datlas 2.0.
 
-[here](https://docs.google.com/spreadsheets/d/1yLhTZ6cV6aWLJkJmAQGRIEGKFSEeF_dwMtCA3YagOzI/edit#gid=0)
+- [Livestock](https://docs.google.com/spreadsheets/d/1eTJMg5jaKDS2ohkhr9AA8Lo7gUR0XOtbfZvkcYJpmVQ/edit#gid=1207195644)
