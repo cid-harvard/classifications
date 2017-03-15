@@ -35,7 +35,7 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
 def ordered_table_to_parent_code_table(df, hierarchy):
 
     # Mapping of current level -> code
-    hier_index = dict(zip(hierarchy, [None] * 4))
+    hier_index = dict(list(zip(hierarchy, [None] * 4)))
 
     df["parent_code"] = np.NaN
 
@@ -81,7 +81,7 @@ def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
     # etc.
     codes = ["{}_code".format(x) for x in hierarchy]
     assert df[codes].duplicated().any() == False
-    assert pd.Series(hierarchy).isin(level_fields.keys()).all()
+    assert pd.Series(hierarchy).isin(list(level_fields.keys())).all()
 
 
     new_table = []
