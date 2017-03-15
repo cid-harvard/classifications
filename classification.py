@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from six import string_types
 
 import collections
 import os.path
@@ -131,7 +132,7 @@ class Hierarchy(collections.Mapping):
     def __getitem__(self, item):
         if type(item) == int:
             return self.items[item]
-        elif isinstance(item, basestring):
+        elif isinstance(item, string_types):
             return self.items.index(item)
         else:
             raise KeyError("Don't know how to find {} in hierarchy\
@@ -146,7 +147,7 @@ class Hierarchy(collections.Mapping):
     def move(self, item, amount):
         if type(item) == int:
             index = item
-        elif isinstance(item, basestring):
+        elif isinstance(item, string_types):
             index = self[item]
         else:
             raise KeyError("Don't know how to find {} in hierarchy\

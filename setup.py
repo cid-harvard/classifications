@@ -12,6 +12,7 @@ setup(
     },
     install_requires=[
         'unidecode',
+        'six'
     ],
     package_data={
         '': [
