@@ -233,16 +233,14 @@ class Classification(object):
         # Shortcut
         df = self.table
 
-        # Mapping: id -> parent_id
+        # Table of all ids and all parents
+        parent_table = df[["parent_id"]]
+
+        # Mapping to traverse with: id -> parent_id at a given from_level
         parents = df.loc[df.level == from_level, ["parent_id"]]
 
-        # Returns parent's parent
-        def traverse_up(x):
-            x.parent_id = df.loc[int(x.parent_id)].parent_id
-            return x
-
         for _ in range(from_index - to_index - 1):
-            parents = parents.apply(traverse_up, axis=1)
+            parents.parent_id = parents.parent_id.map(parent_table.parent_id)
 
         parents.columns = [to_level]
         parents.index.name = from_level
