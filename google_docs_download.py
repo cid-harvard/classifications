@@ -3,6 +3,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 
 from io import BytesIO
+import os.path
+
 
 def bytes_to_df(data):
     io = BytesIO()
@@ -10,7 +12,13 @@ def bytes_to_df(data):
     io.seek(0)
     return pd.read_csv(io)
 
-def get_classification_from_gdrive(url, credentials_path='creds.json'):
+
+def get_classification_from_gdrive(url, credentials_path=None):
+
+    if credentials_path is None:
+        dir = os.path.dirname(__file__)
+        credentials_path = os.path.join(dir, 'creds.json')
+
     credentials = ServiceAccountCredentials.from_json_keyfile_name(
         credentials_path,
         [
