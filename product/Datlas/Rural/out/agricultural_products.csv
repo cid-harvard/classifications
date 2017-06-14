@@ -1,0 +1,35 @@
+"","code","name","level","name_en","name_es","parent_id"
+0,"total","Total","level0","Total","Total",""
+1,"agroind","Total Agroindustries","level1","Total Agroindustries","Total Agroindustries",0.0
+2,"cocoa","Cocoa","level2","Cocoa","Cocoa",1.0
+3,"coffee","Coffee","level2","Coffee","Coffee",1.0
+4,"cotton","Cotton","level2","Cotton","Cotton",1.0
+5,"other agroind","Other Agroindustries","level2","Other Agroindustries","Other Agroindustries",1.0
+6,"palm","Palm","level2","Palm","Palm",1.0
+7,"panela cane","Panela Cane","level2","Panela Cane","Panela Cane",1.0
+8,"rubber","Rubber","level2","Rubber","Rubber",1.0
+9,"sugar cane","Sugar Cane","level2","Sugar Cane","Sugar Cane",1.0
+10,"tobacco","Tobacco","level2","Tobacco","Tobacco",1.0
+11,"cereals","Cereals","level1","Cereals","Cereals",0.0
+12,"other cereals","Other Cereals","level2","Other Cereals","Other Cereals",11.0
+13,"rice","Rice","level2","Rice","Rice",11.0
+14,"white corn","White Corn","level2","White Corn","White Corn",11.0
+15,"yellow corn","Yellow Corn","level2","Yellow Corn","Yellow Corn",11.0
+16,"fruits","Fruits","level1","Fruits","Fruits",0.0
+17,"avocado","Avocado","level2","Avocado","Avocado",16.0
+18,"banana expo","Banana Expo","level2","Banana Expo","Banana Expo",16.0
+19,"banana other","Other Banana","level2","Other Banana","Other Banana",16.0
+20,"citrics","Citrics","level2","Citrics","Citrics",16.0
+21,"other fruits","Other Fruits","level2","Other Fruits","Other Fruits",16.0
+22,"papaya","Papaya","level2","Papaya","Papaya",16.0
+23,"pinneaple","Pinneaple","level2","Pinneaple","Pinneaple",16.0
+24,"greens","Greens","level1","Greens","Greens",0.0
+25,"flowers & foliage","Flowers & Foliage","level2","Flowers & Foliage","Flowers & Foliage",24.0
+26,"forest plants","Forest Plants","level2","Forest Plants","Forest Plants",24.0
+27,"herbs","Herbs","level2","Herbs","Herbs",24.0
+28,"vegetables","Vegetables","level2","Vegetables","Vegetables",24.0
+29,"pltubers","Tubers","level1","Tubers","Tubers",0.0
+30,"other tubers","Other Tubers","level2","Other Tubers","Other Tubers",29.0
+31,"plantain","Plantain","level2","Plantain","Plantain",29.0
+32,"potatoes","Potatoes","level2","Potatoes","Potatoes",29.0
+33,"yucca","Yucca","level2","Yucca","Yucca",29.0
