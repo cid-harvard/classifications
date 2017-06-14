@@ -26,7 +26,8 @@ if __name__ == "__main__":
     parent_id_table["name"] = parent_id_table.name_en
 
     parent_id_table = parent_id_table[["code", "name", "level", "name_en",
-                                       "name_es", "parent_id"]]
+                                       "name_es", "name_short_en",
+                                       "name_short_es", "parent_id"]]
 
     c = Classification(parent_id_table, h)
 
