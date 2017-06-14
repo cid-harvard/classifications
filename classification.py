@@ -6,6 +6,7 @@ import collections
 import os.path
 
 import csv
+import datetime
 
 from unidecode import unidecode
 
@@ -305,4 +306,4 @@ class Classification(object):
                 if col.isnull().all():
                     merged_table[column] = col.astype(float)
 
-        merged_table.to_stata(path, encoding="latin-1", write_index=False)
+        merged_table.to_stata(path, encoding="latin-1", write_index=False, time_stamp=datetime.datetime.utcfromtimestamp(0))
