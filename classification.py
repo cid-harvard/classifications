@@ -253,7 +253,7 @@ class Classification(object):
         data = None
         prev_level = None
 
-        for level in reversed(self.levels):
+        for level in reversed(list(self.levels)):
 
             levelize = lambda x: x + "_" + level
             prev_levelize = lambda x: x + "_" + prev_level
