@@ -1,9 +1,8 @@
-DOWNLOAD = PYTHONPATH=../../../ python -B download_sheets.py
-CLEAN = PYTHONPATH=../../../ python -B clean_livestock.py
+PYTHON_PREFIX = PYTHONPATH=../../../ python -B
 
 LIVESTOCK = in/Livestock_Hierarchy.tsv in/Livestock_Names.tsv
 AGPRODUCTS = in/AgProducts_Hierarchy.tsv in/AgProducts_Names.tsv
 FARMTYPE = in/FarmType_Hierarchy.tsv in/FarmType_Names.tsv
 
-: |> $(DOWNLOAD) |> $(LIVESTOCK) $(AGPRODUCTS) $(FARMTYPE)
-: $(LIVESTOCK) |> $(CLEAN) |> out/livestock.csv out/livestock.dta
+: |> $(PYTHON_PREFIX) download_sheets.py |> $(LIVESTOCK) $(AGPRODUCTS) $(FARMTYPE)
+: $(LIVESTOCK) |> $(PYTHON_PREFIX) clean_livestock.py |> out/livestock.csv out/livestock.dta
