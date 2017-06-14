@@ -5,10 +5,10 @@ from classification import (Hierarchy, repeated_table_to_parent_id_table,
                             Classification)
 
 if __name__ == "__main__":
-    names = pd.read_table("./in/Livestock - Names.tsv", encoding="utf-8",
+    names = pd.read_table("./in/Livestock_Names.tsv", encoding="utf-8",
                           dtype={"code": str})
 
-    hierarchy = pd.read_table("./in/Livestock - Hierarchy.tsv", encoding="utf-8")
+    hierarchy = pd.read_table("./in/Livestock_Hierarchy.tsv", encoding="utf-8")
     hierarchy.columns = ["level1_code", "level0_code"]
 
     fields = {
