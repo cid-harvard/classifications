@@ -7,3 +7,4 @@ FARMTYPE = in/FarmType_Hierarchy.tsv in/FarmType_Names.tsv
 : |> $(PYTHON_PREFIX) download_sheets.py |> $(LIVESTOCK) $(AGPRODUCTS) $(FARMTYPE)
 : $(LIVESTOCK) |> $(PYTHON_PREFIX) clean_livestock.py |> out/livestock.csv out/livestock.dta
 : $(AGPRODUCTS) |> $(PYTHON_PREFIX) clean_agproducts.py |> out/agricultural_products.csv out/agricultural_products.dta
+: $(FARMTYPE) |> $(PYTHON_PREFIX) clean_farmtype.py |> out/farm_type.csv out/farm_type.dta

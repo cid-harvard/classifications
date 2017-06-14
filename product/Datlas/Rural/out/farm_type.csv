@@ -1,0 +1,7 @@
+"","code","name","level","name_en","name_es","parent_id"
+0,"total","Total","level0","Total","Total",""
+1,"With agriculture activities","With agriculture activities","level1","With agriculture activities","Con actividades agrícolas",0.0
+2,"With agriculture activities owned by a resident natural person","With agriculture activities owned by a resident natural person","level2","With agriculture activities owned by a resident natural person","Con actividades agrícolas pertenecientes a personas naturales residentes",1.0
+3,"With agriculture activities owned by others","With agriculture activities owned by others","level2","With agriculture activities owned by others","Con actividades agrí­colas pertenecientes a otros",1.0
+4,"With agriculture activities owned by a non resident natural person","With agriculture activities owned by a non resident natural person","level2","With agriculture activities owned by a non resident natural person","Con actividades agrí­colas pertenecientes a personas naturales no residentes",1.0
+5,"With non agriculture activities","With non agriculture activities","level1","With non agriculture activities","Con actividades no agrícolas",0.0
