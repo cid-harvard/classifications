@@ -6,11 +6,11 @@ from io import BytesIO
 import os.path
 
 
-def bytes_to_df(data):
+def bytes_to_df(data, **kwargs):
     io = BytesIO()
     io.write(data)
     io.seek(0)
-    return pd.read_csv(io)
+    return pd.read_csv(io, **kwargs)
 
 
 def get_classification_from_gdrive(url, credentials_path=None):
@@ -31,7 +31,7 @@ def get_classification_from_gdrive(url, credentials_path=None):
     sheet = gc.open_by_url(url)
     hierarchy_sheet, names_sheet = sheet.worksheets()
 
-    hierarchy = bytes_to_df(hierarchy_sheet.export())
-    names = bytes_to_df(names_sheet.export())
+    hierarchy = bytes_to_df(hierarchy_sheet.export(), dtype="str")
+    names = bytes_to_df(names_sheet.export(), dtype={"code":"str"})
 
     return hierarchy, names
