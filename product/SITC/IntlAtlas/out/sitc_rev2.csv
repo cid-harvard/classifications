@@ -1,0 +1,1108 @@
+"","code","name","level","name_en","name_es","name_short_en","name_short_es","parent_id"
+0,"0","Food and live animals chiefly for food","level0","Food and live animals chiefly for food","","Food & live animals for food","",""
+1,"00","Live animals chiefly for food","level1","Live animals chiefly for food","","Live animals chiefly for food","",0.0
+2,"001","Live animals chiefly for food","level2","Live animals chiefly for food","","Live animals chiefly for food","",1.0
+3,"0011","Animals of the bovine species (including buffaloes), live","level3","Animals of the bovine species (including buffaloes), live","","Animals of the bovine species (including buffaloes), live","",2.0
+4,"0012","Sheep and goats, live","level3","Sheep and goats, live","","Sheep and goats, live","",2.0
+5,"0014","Poultry, live","level3","Poultry, live","","Poultry, live","",2.0
+6,"01","Meat and preparations","level1","Meat and preparations","","Meat and preparations","",0.0
+7,"011","Meat and edible meat offal, fresh, chilled or frozen","level2","Meat and edible meat offal, fresh, chilled or frozen","","Meat and edible meat offal, fresh, chilled or frozen","",6.0
+8,"0111","Bovine meat, fresh, chilled or frozen","level3","Bovine meat, fresh, chilled or frozen","","Bovine meat, fresh, chilled or frozen","",7.0
+9,"0118","Other fresh, chilled or frozen meat or edible meat offal","level3","Other fresh, chilled or frozen meat or edible meat offal","","Other fresh, chilled or frozen meat or edible meat offal","",7.0
+10,"02","Dairy products and birds' eggs","level1","Dairy products and birds' eggs","","Dairy products and birds' eggs","",0.0
+11,"022","Milk and cream","level2","Milk and cream","","Milk and cream","",10.0
+12,"0224","Milk and cream, preserved, concentrated or sweetened","level3","Milk and cream, preserved, concentrated or sweetened","","Milk and cream, preserved, concentrated or sweetened","",11.0
+13,"03","Fish, crustacean and molluscs, and preparations thereof","level1","Fish, crustacean and molluscs, and preparations thereof","","Fish, crustacean and molluscs, and preparations thereof","",0.0
+14,"035","Fish, dried, salted or in brine; smoked fish","level2","Fish, dried, salted or in brine; smoked fish","","Fish, dried, salted or in brine; smoked fish","",13.0
+15,"0350","Fish, dried, salted or in brine; smoked fish","level3","Fish, dried, salted or in brine; smoked fish","","Fish, dried, salted or in brine; smoked fish","",14.0
+16,"04","Cereals and cereal preparations","level1","Cereals and cereal preparations","","Cereals and cereal preparations","",0.0
+17,"042","Rice","level2","Rice","","Rice","",16.0
+18,"0421","Rice in the husk or husked, but not farther prepared","level3","Rice in the husk or husked, but not farther prepared","","Rice in the husk or husked, but not farther prepared","",17.0
+19,"0422","Rice, semi-milled or wholly milled","level3","Rice, semi-milled or wholly milled","","Rice, semi-milled or wholly milled","",17.0
+20,"045","Cereals, unmilled","level2","Cereals, unmilled","","Cereals, unmilled","",16.0
+21,"0459","Buckwheat, millet, etc, and other cereals, unmilled, nes","level3","Buckwheat, millet, etc, and other cereals, unmilled, nes","","Buckwheat, millet, etc, and other cereals, unmilled, nes","",20.0
+22,"046","Meal and flour of wheat and flour of meslin","level2","Meal and flour of wheat and flour of meslin","","Meal and flour of wheat and flour of meslin","",16.0
+23,"0460","Meal and flour of wheat and flour of meslin","level3","Meal and flour of wheat and flour of meslin","","Meal and flour of wheat and flour of meslin","",22.0
+24,"047","Other cereal meals and flour","level2","Other cereal meals and flour","","Other cereal meals and flour","",16.0
+25,"0470","Other cereal meals and flour","level3","Other cereal meals and flour","","Other cereal meals and flour","",24.0
+26,"048","Cereal, flour or starch preparations of fruits or vegetables","level2","Cereal, flour or starch preparations of fruits or vegetables","","Cereal, flour or starch preparations of fruits or vegetables","",16.0
+27,"0481","Cereal grains, worked or prepared, not elsewhere specified","level3","Cereal grains, worked or prepared, not elsewhere specified","","Cereal grains, worked or prepared, not elsewhere specified","",26.0
+28,"0484","Bakery products","level3","Bakery products","","Bakery products","",26.0
+29,"05","Vegetables and fruit","level1","Vegetables and fruit","","Vegetables and fruit","",0.0
+30,"054","Vegetables, fresh or simply preserved; roots and tubers, nes","level2","Vegetables, fresh or simply preserved; roots and tubers, nes","","Vegetables, fresh or simply preserved; roots and tubers, nes","",29.0
+31,"0545","Other fresh or chilled vegetables","level3","Other fresh or chilled vegetables","","Other fresh or chilled vegetables","",30.0
+32,"0546","Vegetables, frozen or in temporary preservative","level3","Vegetables, frozen or in temporary preservative","","Vegetables, frozen or in temporary preservative","",30.0
+33,"0548","Vegetable products roots and tubers, nes, fresh, dried","level3","Vegetable products roots and tubers, nes, fresh, dried","","Vegetable products roots and tubers, nes, fresh, dried","",30.0
+34,"056","Vegetables, roots and tubers, prepared or preserved, nes","level2","Vegetables, roots and tubers, prepared or preserved, nes","","Vegetables, roots and tubers, prepared or preserved, nes","",29.0
+35,"0564","Flour, meals and flakes of potatoes, fruit and vegetables, nes","level3","Flour, meals and flakes of potatoes, fruit and vegetables, nes","","Flour, meals and flakes of potatoes, fruit and vegetables, nes","",34.0
+36,"0565","Vegetables, prepared or preserved, nes","level3","Vegetables, prepared or preserved, nes","","Vegetables, prepared or preserved, nes","",34.0
+37,"057","Fruit and nuts, fresh, dried","level2","Fruit and nuts, fresh, dried","","Fruit and nuts, fresh, dried","",29.0
+38,"0571","Oranges, mandarins, etc, fresh or dried","level3","Oranges, mandarins, etc, fresh or dried","","Oranges, mandarins, etc, fresh or dried","",37.0
+39,"0572","Other citrus fruits, fresh or dried","level3","Other citrus fruits, fresh or dried","","Other citrus fruits, fresh or dried","",37.0
+40,"0575","Grapes, fresh or dried","level3","Grapes, fresh or dried","","Grapes, fresh or dried","",37.0
+41,"0577","Nuts edible, fresh or dried","level3","Nuts edible, fresh or dried","","Nuts edible, fresh or dried","",37.0
+42,"0579","Fruit, fresh or dried, nes","level3","Fruit, fresh or dried, nes","","Fruit, fresh or dried, nes","",37.0
+43,"058","Fruit, preserved, and fruits preparations","level2","Fruit, preserved, and fruits preparations","","Fruit, preserved, and fruits preparations","",29.0
+44,"0585","Fruit or vegetable juices","level3","Fruit or vegetable juices","","Fruit or vegetable juices","",43.0
+45,"0586","Fruit, temporarily preserved","level3","Fruit, temporarily preserved","","Fruit, temporarily preserved","",43.0
+46,"0589","Fruit prepared or preserved, nes","level3","Fruit prepared or preserved, nes","","Fruit prepared or preserved, nes","",43.0
+47,"06","Sugar, sugar preparations and honey","level1","Sugar, sugar preparations and honey","","Sugar, sugar preparations and honey","",0.0
+48,"062","Sugar confectionery and preparations, non-chocolate","level2","Sugar confectionery and preparations, non-chocolate","","Sugar confectionery and preparations, non-chocolate","",47.0
+49,"0620","Sugar confectionery and preparations, non-chocolate","level3","Sugar confectionery and preparations, non-chocolate","","Sugar confectionery and preparations, non-chocolate","",48.0
+50,"07","Coffee, tea, cocoa, spices, and manufactures thereof","level1","Coffee, tea, cocoa, spices, and manufactures thereof","","Coffee, tea, cocoa, spices, and manufactures thereof","",0.0
+51,"071","Coffee and coffee substitutes","level2","Coffee and coffee substitutes","","Coffee and coffee substitutes","",50.0
+52,"0711","Coffee green, roasted; coffee substitutes containing coffee","level3","Coffee green, roasted; coffee substitutes containing coffee","","Coffee green, roasted; coffee substitutes containing coffee","",51.0
+53,"072","Cocoa","level2","Cocoa","","Cocoa","",50.0
+54,"0723","Cocoa butter and paste","level3","Cocoa butter and paste","","Cocoa butter and paste","",53.0
+55,"075","Spices","level2","Spices","","Spices","",50.0
+56,"0752","Spices, except pepper and pimento","level3","Spices, except pepper and pimento","","Spices, except pepper and pimento","",55.0
+57,"08","Feeding stuff for animals (not including unmilled cereals)","level1","Feeding stuff for animals (not including unmilled cereals)","","Feeding stuff for animals (not including unmilled cereals)","",0.0
+58,"081","Feeding stuff for animals (not including unmilled cereals)","level2","Feeding stuff for animals (not including unmilled cereals)","","Feeding stuff for animals (not including unmilled cereals)","",57.0
+59,"0811","Hay and fodder, green or dry","level3","Hay and fodder, green or dry","","Hay and fodder, green or dry","",58.0
+60,"0812","Bran, sharps and other residues derives of cereals","level3","Bran, sharps and other residues derives of cereals","","Bran, sharps and other residues derives of cereals","",58.0
+61,"0813","Oilcake and other residues (except dregs)","level3","Oilcake and other residues (except dregs)","","Oilcake and other residues (except dregs)","",58.0
+62,"0814","Flours and meals, of meat, fish,etc, unfit for human; greaves","level3","Flours and meals, of meat, fish,etc, unfit for human; greaves","","Flours and meals, of meat, fish,etc, unfit for human; greaves","",58.0
+63,"0819","Food waste and prepared animal feed, nes","level3","Food waste and prepared animal feed, nes","","Food waste and prepared animal feed, nes","",58.0
+64,"09","Miscellaneous edible products and preparations","level1","Miscellaneous edible products and preparations","","Miscellaneous edible products and preparations","",0.0
+65,"091","Margarine and shortening","level2","Margarine and shortening","","Margarine and shortening","",64.0
+66,"0914","Margarine, imitation lard and other prepared edible fats, nes","level3","Margarine, imitation lard and other prepared edible fats, nes","","Margarine, imitation lard and other prepared edible fats, nes","",65.0
+67,"098","Edible products and preparations, nes","level2","Edible products and preparations, nes","","Edible products and preparations, nes","",64.0
+68,"0980","Edible products and preparations, nes","level3","Edible products and preparations, nes","","Edible products and preparations, nes","",67.0
+69,"1","Beverages and tobacco","level0","Beverages and tobacco","","Drinks and tobacco","",""
+70,"11","Beverages","level1","Beverages","","Beverages","",69.0
+71,"111","Non-alcoholic beverages, nes","level2","Non-alcoholic beverages, nes","","Non-alcoholic beverages, nes","",70.0
+72,"1110","Non-alcoholic beverages, nes","level3","Non-alcoholic beverages, nes","","Non-alcoholic beverages, nes","",71.0
+73,"112","Alcoholic beverages","level2","Alcoholic beverages","","Alcoholic beverages","",70.0
+74,"1121","Wine of fresh grapes etc","level3","Wine of fresh grapes etc","","Wine of fresh grapes etc","",73.0
+75,"1124","Distilled alcoholic beverages, nes","level3","Distilled alcoholic beverages, nes","","Distilled alcoholic beverages, nes","",73.0
+76,"12","Tobacco and tobacco manufactures","level1","Tobacco and tobacco manufactures","","Tobacco and tobacco manufactures","",69.0
+77,"121","Tobacco unmanufactured; tobacco refuse","level2","Tobacco unmanufactured; tobacco refuse","","Tobacco unmanufactured; tobacco refuse","",76.0
+78,"1211","Tobacco, not stripped","level3","Tobacco, not stripped","","Tobacco, not stripped","",77.0
+79,"1212","Tobacco, wholly or partly stripped","level3","Tobacco, wholly or partly stripped","","Tobacco, wholly or partly stripped","",77.0
+80,"2","Crude materials, inedible, except fuels","level0","Crude materials, inedible, except fuels","","Crude materials (inedible)","",""
+81,"21","Hides, skins and furskins, raw","level1","Hides, skins and furskins, raw","","Hides, skins and furskins, raw","",80.0
+82,"211","Hides and skins, excluding furs, raw","level2","Hides and skins, excluding furs, raw","","Hides and skins, excluding furs, raw","",81.0
+83,"2119","Hides and skins, nes; waste and used leather","level3","Hides and skins, nes; waste and used leather","","Hides and skins, nes; waste and used leather","",82.0
+84,"212","Furskins, raw","level2","Furskins, raw","","Furskins, raw","",81.0
+85,"2120","Furskins, raw","level3","Furskins, raw","","Furskins, raw","",84.0
+86,"23","Crude rubber (including synthetic and reclaimed)","level1","Crude rubber (including synthetic and reclaimed)","","Crude rubber (including synthetic and reclaimed)","",80.0
+87,"232","Natural rubber latex; rubber and gums","level2","Natural rubber latex; rubber and gums","","Natural rubber latex; rubber and gums","",86.0
+88,"2320","Natural rubber latex; natural rubber and gums","level3","Natural rubber latex; natural rubber and gums","","Natural rubber latex; natural rubber and gums","",87.0
+89,"233","Synthetic rubber, latex, etc; waste, scrap of unhardened rubber","level2","Synthetic rubber, latex, etc; waste, scrap of unhardened rubber","","Synthetic rubber, latex, etc; waste, scrap of unhardened rubber","",86.0
+90,"2331","Synthetic rubber, latex; factice derived from oils","level3","Synthetic rubber, latex; factice derived from oils","","Synthetic rubber, latex; factice derived from oils","",89.0
+91,"2332","Reclaimed rubber, waste, scrap of unhardened rubber","level3","Reclaimed rubber, waste, scrap of unhardened rubber","","Reclaimed rubber, waste, scrap of unhardened rubber","",89.0
+92,"24","Cork and wood","level1","Cork and wood","","Cork and wood","",80.0
+93,"244","Cork, natural, raw and waste","level2","Cork, natural, raw and waste","","Cork, natural, raw and waste","",92.0
+94,"2440","Cork, natural, raw and waste","level3","Cork, natural, raw and waste","","Cork, natural, raw and waste","",93.0
+95,"245","Fuel wood and wood charcoal","level2","Fuel wood and wood charcoal","","Fuel wood and wood charcoal","",92.0
+96,"2450","Fuel wood and wood charcoal","level3","Fuel wood and wood charcoal","","Fuel wood and wood charcoal","",95.0
+97,"246","Pulpwood (including chips and wood waste)","level2","Pulpwood (including chips and wood waste)","","Pulpwood (including chips and wood waste)","",92.0
+98,"2460","Pulpwood (including chips and wood waste)","level3","Pulpwood (including chips and wood waste)","","Pulpwood (including chips and wood waste)","",97.0
+99,"247","Other wood in the rough or roughly squared","level2","Other wood in the rough or roughly squared","","Other wood in the rough or roughly squared","",92.0
+100,"2471","Sawlogs and veneer logs, of coniferous species","level3","Sawlogs and veneer logs, of coniferous species","","Sawlogs and veneer logs, of coniferous species","",99.0
+101,"2472","Sawlogs and veneer logs, of non-coniferous species","level3","Sawlogs and veneer logs, of non-coniferous species","","Sawlogs and veneer logs, of non-coniferous species","",99.0
+102,"248","Wood, simply worked, and railway sleepers of wood","level2","Wood, simply worked, and railway sleepers of wood","","Wood, simply worked, and railway sleepers of wood","",92.0
+103,"2482","Wood of coniferous species, sawn, planed, tongued, grooved, etc","level3","Wood of coniferous species, sawn, planed, tongued, grooved, etc","","Wood of coniferous species, sawn, planed, tongued, grooved, etc","",102.0
+104,"2483","Wood, non-coniferous species, sawn, planed, tongued, grooved, etc","level3","Wood, non-coniferous species, sawn, planed, tongued, grooved, etc","","Wood, non-coniferous species, sawn, planed, tongued, grooved, etc","",102.0
+105,"25","Pulp and waste paper","level1","Pulp and waste paper","","Pulp and waste paper","",80.0
+106,"251","Pulp and waste paper","level2","Pulp and waste paper","","Pulp and waste paper","",105.0
+107,"2517","Chemical wood pulp, soda or sulphate","level3","Chemical wood pulp, soda or sulphate","","Chemical wood pulp, soda or sulphate","",106.0
+108,"2518","Chemical wood pulp, sulphite","level3","Chemical wood pulp, sulphite","","Chemical wood pulp, sulphite","",106.0
+109,"2519","Other cellulosic pulps","level3","Other cellulosic pulps","","Other cellulosic pulps","",106.0
+110,"26","Textile fibres (not wool tops) and their wastes (not in yarn)","level1","Textile fibres (not wool tops) and their wastes (not in yarn)","","Textile fibres (not wool tops) and their wastes (not in yarn)","",80.0
+111,"261","Silk","level2","Silk","","Silk","",110.0
+112,"2614","Silk worm cocoons and silk waste","level3","Silk worm cocoons and silk waste","","Silk worm cocoons and silk waste","",111.0
+113,"265","Vegetable textile fibres, excluding cotton, jute, and waste","level2","Vegetable textile fibres, excluding cotton, jute, and waste","","Vegetable textile fibres, excluding cotton, jute, and waste","",110.0
+114,"2651","Flax and ramie, flax tow, ramie noils, and waste","level3","Flax and ramie, flax tow, ramie noils, and waste","","Flax and ramie, flax tow, ramie noils, and waste","",113.0
+115,"2659","Vegetable textile fibres, nes, and waste","level3","Vegetable textile fibres, nes, and waste","","Vegetable textile fibres, nes, and waste","",113.0
+116,"266","Synthetic fibres suitable for spinning","level2","Synthetic fibres suitable for spinning","","Synthetic fibres suitable for spinning","",110.0
+117,"2665","Discontinuous synthetic fibres, not carded or combed","level3","Discontinuous synthetic fibres, not carded or combed","","Discontinuous synthetic fibres, not carded or combed","",116.0
+118,"2666","Continuous filament tow for synthetic (discontinuous) fibres","level3","Continuous filament tow for synthetic (discontinuous) fibres","","Continuous filament tow for synthetic (discontinuous) fibres","",116.0
+119,"2667","Discontinuous synthetic fibres, carded or combed","level3","Discontinuous synthetic fibres, carded or combed","","Discontinuous synthetic fibres, carded or combed","",116.0
+120,"267","Other man-made fibres suitable for spinning, and waste","level2","Other man-made fibres suitable for spinning, and waste","","Other man-made fibres suitable for spinning, and waste","",110.0
+121,"2671","Regenerated fibre suitable for spinning","level3","Regenerated fibre suitable for spinning","","Regenerated fibre suitable for spinning","",120.0
+122,"2672","Waste of man-made fibres, not carded or combed","level3","Waste of man-made fibres, not carded or combed","","Waste of man-made fibres, not carded or combed","",120.0
+123,"268","Wool and other animal hair (excluding tops)","level2","Wool and other animal hair (excluding tops)","","Wool and other animal hair (excluding tops)","",110.0
+124,"2685","Horsehair and other coarse animal hair, not carded or combed","level3","Horsehair and other coarse animal hair, not carded or combed","","Horsehair and other coarse animal hair, not carded or combed","",123.0
+125,"2686","Waste of sheep's or lambs' wool, or of other animal hair, nes","level3","Waste of sheep's or lambs' wool, or of other animal hair, nes","","Waste of sheep's or lambs' wool, or of other animal hair, nes","",123.0
+126,"269","Old clothing and other old textile articles; rags","level2","Old clothing and other old textile articles; rags","","Old clothing and other old textile articles; rags","",110.0
+127,"2690","Old clothing and other old textile articles; rags","level3","Old clothing and other old textile articles; rags","","Old clothing and other old textile articles; rags","",126.0
+128,"27","Crude fertilizer and crude minerals","level1","Crude fertilizer and crude minerals","","Crude fertilizer and crude minerals","",80.0
+129,"271","Fertilizers, crude","level2","Fertilizers, crude","","Fertilizers, crude","",128.0
+130,"2713","Natural calcium phosphates, natural aluminium, etc","level3","Natural calcium phosphates, natural aluminium, etc","","Natural calcium phosphates, natural aluminium, etc","",129.0
+131,"273","Stone, sand and gravel","level2","Stone, sand and gravel","","Stone, sand and gravel","",128.0
+132,"2731","Building and monumental (dimension) stone, roughly squared, split","level3","Building and monumental (dimension) stone, roughly squared, split","","Building and monumental (dimension) stone, roughly squared, split","",131.0
+133,"2732","Gypsum, plasters, limestone flux and calcareous stone","level3","Gypsum, plasters, limestone flux and calcareous stone","","Gypsum, plasters, limestone flux and calcareous stone","",131.0
+134,"277","Natural abrasives, nes","level2","Natural abrasives, nes","","Natural abrasives, nes","",128.0
+135,"2772","Other natural abrasives","level3","Other natural abrasives","","Other natural abrasives","",134.0
+136,"278","Other crude minerals","level2","Other crude minerals","","Other crude minerals","",128.0
+137,"2782","Clay and other refractory minerals, nes","level3","Clay and other refractory minerals, nes","","Clay and other refractory minerals, nes","",136.0
+138,"2785","Quartz, mica, felspar, fluorspar, cryolite and chiolite","level3","Quartz, mica, felspar, fluorspar, cryolite and chiolite","","Quartz, mica, felspar, fluorspar, cryolite and chiolite","",136.0
+139,"2786","Slag, scalings, dross and similar waste, nes","level3","Slag, scalings, dross and similar waste, nes","","Slag, scalings, dross and similar waste, nes","",136.0
+140,"2789","Minerals, crude, nes","level3","Minerals, crude, nes","","Minerals, crude, nes","",136.0
+141,"28","Metalliferous ores and metal scrap","level1","Metalliferous ores and metal scrap","","Metalliferous ores and metal scrap","",80.0
+142,"282","Waste and scrap metal of iron or steel","level2","Waste and scrap metal of iron or steel","","Waste and scrap metal of iron or steel","",141.0
+143,"2820","Waste and scrap metal of iron or steel","level3","Waste and scrap metal of iron or steel","","Waste and scrap metal of iron or steel","",142.0
+144,"287","Ores and concentrates of base metals, nes","level2","Ores and concentrates of base metals, nes","","Ores and concentrates of base metals, nes","",141.0
+145,"2871","Copper ore and concentrates; copper matte; cement copper","level3","Copper ore and concentrates; copper matte; cement copper","","Copper ore and concentrates; copper matte; cement copper","",144.0
+146,"2872","Nickel ores and concentrates; nickel mattes, etc","level3","Nickel ores and concentrates; nickel mattes, etc","","Nickel ores and concentrates; nickel mattes, etc","",144.0
+147,"2873","Aluminium ores and concentrates (including alumina)","level3","Aluminium ores and concentrates (including alumina)","","Aluminium ores and concentrates (including alumina)","",144.0
+148,"2879","Ores and concentrates of other non-ferrous base metals","level3","Ores and concentrates of other non-ferrous base metals","","Ores and concentrates of other non-ferrous base metals","",144.0
+149,"288","Non-ferrous base metal waste and scrap, nes","level2","Non-ferrous base metal waste and scrap, nes","","Non-ferrous base metal waste and scrap, nes","",141.0
+150,"2882","Other non-ferrous base metal waste and scrap, nes","level3","Other non-ferrous base metal waste and scrap, nes","","Other non-ferrous base metal waste and scrap, nes","",149.0
+151,"289","Ores and concentrates of precious metals, waste, scrap","level2","Ores and concentrates of precious metals, waste, scrap","","Ores and concentrates of precious metals, waste, scrap","",141.0
+152,"2890","Ores and concentrates of precious metals, waste, scrap","level3","Ores and concentrates of precious metals, waste, scrap","","Ores and concentrates of precious metals, waste, scrap","",151.0
+153,"29","Crude animal and vegetable materials, nes","level1","Crude animal and vegetable materials, nes","","Crude animal and vegetable materials, nes","",80.0
+154,"291","Crude animal materials, nes","level2","Crude animal materials, nes","","Crude animal materials, nes","",153.0
+155,"2911","Bones, ivory, horns, coral, shells and similar products","level3","Bones, ivory, horns, coral, shells and similar products","","Bones, ivory, horns, coral, shells and similar products","",154.0
+156,"2919","Other materials of animal origin, nes","level3","Other materials of animal origin, nes","","Other materials of animal origin, nes","",154.0
+157,"292","Crude vegetable materials, nes","level2","Crude vegetable materials, nes","","Crude vegetable materials, nes","",153.0
+158,"2926","Live plants, bulbs, etc","level3","Live plants, bulbs, etc","","Live plants, bulbs, etc","",157.0
+159,"2927","Cut flowers and foliage","level3","Cut flowers and foliage","","Cut flowers and foliage","",157.0
+160,"2929","Other materials of vegetable origin, nes","level3","Other materials of vegetable origin, nes","","Other materials of vegetable origin, nes","",157.0
+161,"3","Mineral fuels, lubricants and related materials","level0","Mineral fuels, lubricants and related materials","","Fuels, lubricants & related materials","",""
+162,"32","Coal, coke and briquettes","level1","Coal, coke and briquettes","","Coal, coke and briquettes","",161.0
+163,"323","Briquettes; coke and semi-coke; lignite or peat; retort carbon","level2","Briquettes; coke and semi-coke; lignite or peat; retort carbon","","Briquettes; coke and semi-coke; lignite or peat; retort carbon","",162.0
+164,"3231","Briquettes, ovoids, from coal, lignite or peat","level3","Briquettes, ovoids, from coal, lignite or peat","","Briquettes, ovoids, from coal, lignite or peat","",163.0
+165,"3232","Coke and semi-coke of coal, of lignite or peat; retort carbon","level3","Coke and semi-coke of coal, of lignite or peat; retort carbon","","Coke and semi-coke of coal, of lignite or peat; retort carbon","",163.0
+166,"33","Petroleum, petroleum products and related materials","level1","Petroleum, petroleum products and related materials","","Petroleum, petroleum products and related materials","",161.0
+167,"334","Petroleum products, refined","level2","Petroleum products, refined","","Petroleum products, refined","",166.0
+168,"3341","Gasoline and other light oils","level3","Gasoline and other light oils","","Gasoline and other light oils","",167.0
+169,"3342","Kerosene and other medium oils","level3","Kerosene and other medium oils","","Kerosene and other medium oils","",167.0
+170,"3345","Lubricating petroleum oils, and preparations, nes","level3","Lubricating petroleum oils, and preparations, nes","","Lubricating petroleum oils, and preparations, nes","",167.0
+171,"335","Residual petroleum products, nes and related materials","level2","Residual petroleum products, nes and related materials","","Residual petroleum products, nes and related materials","",166.0
+172,"3351","Petroleum jelly and mineral waxes","level3","Petroleum jelly and mineral waxes","","Petroleum jelly and mineral waxes","",171.0
+173,"3352","Mineral tars and products","level3","Mineral tars and products","","Mineral tars and products","",171.0
+174,"3353","Mineral tar pitch, pitch coke","level3","Mineral tar pitch, pitch coke","","Mineral tar pitch, pitch coke","",171.0
+175,"3354","Petroleum bitumen, petroleum coke and bituminous mixtures, nes","level3","Petroleum bitumen, petroleum coke and bituminous mixtures, nes","","Petroleum bitumen, petroleum coke and bituminous mixtures, nes","",171.0
+176,"34","Gas, natural and manufactured","level1","Gas, natural and manufactured","","Gas, natural and manufactured","",161.0
+177,"341","Gas, natural and manufactured","level2","Gas, natural and manufactured","","Gas, natural and manufactured","",176.0
+178,"3413","Petroleum gases and other gaseous hydrocarbons, nes, liquefied","level3","Petroleum gases and other gaseous hydrocarbons, nes, liquefied","","Petroleum gases and other gaseous hydrocarbons, nes, liquefied","",177.0
+179,"4","Animal and vegetable oils, fats and waxes","level0","Animal and vegetable oils, fats and waxes","","Animal and vegetable oils, fats and waxes","",""
+180,"41","Animal oils and fats","level1","Animal oils and fats","","Animal oils and fats","",179.0
+181,"411","Animal oils and fats","level2","Animal oils and fats","","Animal oils and fats","",180.0
+182,"4111","Fat and oils of fish and marine mammals","level3","Fat and oils of fish and marine mammals","","Fat and oils of fish and marine mammals","",181.0
+183,"4113","Animals oils, fats and greases, nes","level3","Animals oils, fats and greases, nes","","Animals oils, fats and greases, nes","",181.0
+184,"42","Fixed vegetable oils and fats","level1","Fixed vegetable oils and fats","","Fixed vegetable oils and fats","",179.0
+185,"423","Fixed vegetable oils, soft, crude refined or purified","level2","Fixed vegetable oils, soft, crude refined or purified","","Fixed vegetable oils, soft, crude refined or purified","",184.0
+186,"4239","Other fixed vegetable oils, soft","level3","Other fixed vegetable oils, soft","","Other fixed vegetable oils, soft","",185.0
+187,"43","Animal and vegetable oils and fats, processed, and waxes","level1","Animal and vegetable oils and fats, processed, and waxes","","Animal and vegetable oils and fats, processed, and waxes","",179.0
+188,"431","Animal and vegetable oils and fats, processed, and waxes","level2","Animal and vegetable oils and fats, processed, and waxes","","Animal and vegetable oils and fats, processed, and waxes","",187.0
+189,"4313","Fatty acids, acid oils, and residues; degras","level3","Fatty acids, acid oils, and residues; degras","","Fatty acids, acid oils, and residues; degras","",188.0
+190,"4314","Waxes of animal or vegetable origin","level3","Waxes of animal or vegetable origin","","Waxes of animal or vegetable origin","",188.0
+191,"5","Chemicals and related products, nes","level0","Chemicals and related products, nes","","Chemicals and related products","",""
+192,"51","Organic chemicals","level1","Organic chemicals","","Organic chemicals","",191.0
+193,"511","Hydrocarbons, nes, and derivatives","level2","Hydrocarbons, nes, and derivatives","","Hydrocarbons, nes, and derivatives","",192.0
+194,"5111","Acyclic hydrocarbons","level3","Acyclic hydrocarbons","","Acyclic hydrocarbons","",193.0
+195,"5112","Cyclic hydrocarbons","level3","Cyclic hydrocarbons","","Cyclic hydrocarbons","",193.0
+196,"5113","Halogenated derivatives of hydrocarbons","level3","Halogenated derivatives of hydrocarbons","","Halogenated derivatives of hydrocarbons","",193.0
+197,"512","Alcohols, phenols etc, and their derivatives","level2","Alcohols, phenols etc, and their derivatives","","Alcohols, phenols etc, and their derivatives","",192.0
+198,"5121","Acyclic alcohols, and their derivatives","level3","Acyclic alcohols, and their derivatives","","Acyclic alcohols, and their derivatives","",197.0
+199,"5123","Phenols and phenol-alcohols, and their derivatives","level3","Phenols and phenol-alcohols, and their derivatives","","Phenols and phenol-alcohols, and their derivatives","",197.0
+200,"513","Carboxylic acids, and their derivatives","level2","Carboxylic acids, and their derivatives","","Carboxylic acids, and their derivatives","",192.0
+201,"5137","Monocarboxylic acids and their derivatives","level3","Monocarboxylic acids and their derivatives","","Monocarboxylic acids and their derivatives","",200.0
+202,"5138","Polycarboxylic acids and their derivatives","level3","Polycarboxylic acids and their derivatives","","Polycarboxylic acids and their derivatives","",200.0
+203,"514","Nitrogen-function compounds","level2","Nitrogen-function compounds","","Nitrogen-function compounds","",192.0
+204,"5148","Other nitrogen-function compounds","level3","Other nitrogen-function compounds","","Other nitrogen-function compounds","",203.0
+205,"515","Organo-inorganic and heterocyclic compounds","level2","Organo-inorganic and heterocyclic compounds","","Organo-inorganic and heterocyclic compounds","",192.0
+206,"5155","Other organo-inorganic compounds","level3","Other organo-inorganic compounds","","Other organo-inorganic compounds","",205.0
+207,"5156","Heterocyclic compound; nucleic acids","level3","Heterocyclic compound; nucleic acids","","Heterocyclic compound; nucleic acids","",205.0
+208,"5157","Sulphonamides, sultones and sultams","level3","Sulphonamides, sultones and sultams","","Sulphonamides, sultones and sultams","",205.0
+209,"516","Other organic chemicals","level2","Other organic chemicals","","Other organic chemicals","",192.0
+210,"5161","Ethers, epoxides, acetals","level3","Ethers, epoxides, acetals","","Ethers, epoxides, acetals","",209.0
+211,"5162","Aldehyde, ketone and quinone-function compounds","level3","Aldehyde, ketone and quinone-function compounds","","Aldehyde, ketone and quinone-function compounds","",209.0
+212,"5163","Inorganic esters, their salts and derivatives","level3","Inorganic esters, their salts and derivatives","","Inorganic esters, their salts and derivatives","",209.0
+213,"5169","Organic chemicals, nes","level3","Organic chemicals, nes","","Organic chemicals, nes","",209.0
+214,"52","Inorganic chemicals","level1","Inorganic chemicals","","Inorganic chemicals","",191.0
+215,"522","Inorganic chemical elements, oxides and halogen salts","level2","Inorganic chemical elements, oxides and halogen salts","","Inorganic chemical elements, oxides and halogen salts","",214.0
+216,"5221","Chemical elements","level3","Chemical elements","","Chemical elements","",215.0
+217,"5222","Inorganic acids and oxygen compounds of non-metals","level3","Inorganic acids and oxygen compounds of non-metals","","Inorganic acids and oxygen compounds of non-metals","",215.0
+218,"5223","Halogen and sulphur compounds of non-metals","level3","Halogen and sulphur compounds of non-metals","","Halogen and sulphur compounds of non-metals","",215.0
+219,"5224","Metallic oxides of zinc, iron, lead, chromium etc","level3","Metallic oxides of zinc, iron, lead, chromium etc","","Metallic oxides of zinc, iron, lead, chromium etc","",215.0
+220,"5225","Inorganic bases and metallic oxides, hydroxides and peroxides","level3","Inorganic bases and metallic oxides, hydroxides and peroxides","","Inorganic bases and metallic oxides, hydroxides and peroxides","",215.0
+221,"523","Other inorganic chemicals; compounds of precious metals","level2","Other inorganic chemicals; compounds of precious metals","","Other inorganic chemicals; compounds of precious metals","",214.0
+222,"5231","Metallic salts and peroxysalts of inorganic acids","level3","Metallic salts and peroxysalts of inorganic acids","","Metallic salts and peroxysalts of inorganic acids","",221.0
+223,"5232","Metallic salts and peroxysalts of inorganic acids","level3","Metallic salts and peroxysalts of inorganic acids","","Metallic salts and peroxysalts of inorganic acids","",221.0
+224,"5233","Salts of metallic acids; compounds of precious metals","level3","Salts of metallic acids; compounds of precious metals","","Salts of metallic acids; compounds of precious metals","",221.0
+225,"5239","Inorganic chemical products, nes","level3","Inorganic chemical products, nes","","Inorganic chemical products, nes","",221.0
+226,"524","Radioactive and associated material","level2","Radioactive and associated material","","Radioactive and associated material","",214.0
+227,"5249","Other radio-active and associated materials","level3","Other radio-active and associated materials","","Other radio-active and associated materials","",226.0
+228,"53","Dyeing, tanning and colouring materials","level1","Dyeing, tanning and colouring materials","","Dyeing, tanning and colouring materials","",191.0
+229,"531","Synthetic dye, natural indigo, lakes","level2","Synthetic dye, natural indigo, lakes","","Synthetic dye, natural indigo, lakes","",228.0
+230,"5312","Synthetic organic luminophores, indigo, lakes","level3","Synthetic organic luminophores, indigo, lakes","","Synthetic organic luminophores, indigo, lakes","",229.0
+231,"532","Dyeing and tanning extracts, and synthetic tanning materials","level2","Dyeing and tanning extracts, and synthetic tanning materials","","Dyeing and tanning extracts, and synthetic tanning materials","",228.0
+232,"5322","Dyeing, tanning extracts, tannins and their derivatives","level3","Dyeing, tanning extracts, tannins and their derivatives","","Dyeing, tanning extracts, tannins and their derivatives","",231.0
+233,"533","Pigments, paints, varnishes and related materials","level2","Pigments, paints, varnishes and related materials","","Pigments, paints, varnishes and related materials","",228.0
+234,"5334","Varnishes and lacquers; distempers etc","level3","Varnishes and lacquers; distempers etc","","Varnishes and lacquers; distempers etc","",233.0
+235,"5335","Glazes, driers, putty etc","level3","Glazes, driers, putty etc","","Glazes, driers, putty etc","",233.0
+236,"54","Medicinal and pharmaceutical products","level1","Medicinal and pharmaceutical products","","Medicinal and pharmaceutical products","",191.0
+237,"541","Medicinal and pharmaceutical products","level2","Medicinal and pharmaceutical products","","Medicinal and pharmaceutical products","",236.0
+238,"5413","Antibiotics, not put up as medicaments","level3","Antibiotics, not put up as medicaments","","Antibiotics, not put up as medicaments","",237.0
+239,"5415","Hormones, natural, or reproduce by synthesis, in bulk","level3","Hormones, natural, or reproduce by synthesis, in bulk","","Hormones, natural, or reproduce by synthesis, in bulk","",237.0
+240,"5416","Glycosides, glands, antisera, vaccines and similar products","level3","Glycosides, glands, antisera, vaccines and similar products","","Glycosides, glands, antisera, vaccines and similar products","",237.0
+241,"5417","Medicaments (including veterinary medicaments)","level3","Medicaments (including veterinary medicaments)","","Medicaments (including veterinary medicaments)","",237.0
+242,"5419","Pharmaceutical goods, other than medicaments","level3","Pharmaceutical goods, other than medicaments","","Pharmaceutical goods, other than medicaments","",237.0
+243,"56","Fertilizers, manufactured","level1","Fertilizers, manufactured","","Fertilizers, manufactured","",191.0
+244,"562","Fertilizers, manufactured","level2","Fertilizers, manufactured","","Fertilizers, manufactured","",243.0
+245,"5621","Mineral or chemical fertilizers, nitrogenous","level3","Mineral or chemical fertilizers, nitrogenous","","Mineral or chemical fertilizers, nitrogenous","",244.0
+246,"5622","Mineral or chemical fertilizers, phosphatic","level3","Mineral or chemical fertilizers, phosphatic","","Mineral or chemical fertilizers, phosphatic","",244.0
+247,"5623","Mineral or chemical fertilizer, potassic","level3","Mineral or chemical fertilizer, potassic","","Mineral or chemical fertilizer, potassic","",244.0
+248,"5629","Fertilizers, nes","level3","Fertilizers, nes","","Fertilizers, nes","",244.0
+249,"57","Explosives and pyrotechnic products","level1","Explosives and pyrotechnic products","","Explosives and pyrotechnic products","",191.0
+250,"572","Explosives and pyrotechnic products","level2","Explosives and pyrotechnic products","","Explosives and pyrotechnic products","",249.0
+251,"5721","Propellent powders and other prepared explosives","level3","Propellent powders and other prepared explosives","","Propellent powders and other prepared explosives","",250.0
+252,"58","Artificial resins and plastic materials, and cellulose esters etc","level1","Artificial resins and plastic materials, and cellulose esters etc","","Artificial resins and plastic materials, and cellulose esters etc","",191.0
+253,"582","Condensation, polycondensation and polyaddition products","level2","Condensation, polycondensation and polyaddition products","","Condensation, polycondensation and polyaddition products","",252.0
+254,"5821","Phenoplasts","level3","Phenoplasts","","Phenoplasts","",253.0
+255,"5822","Aminoplasts","level3","Aminoplasts","","Aminoplasts","",253.0
+256,"5823","Alkyds and other polyesters","level3","Alkyds and other polyesters","","Alkyds and other polyesters","",253.0
+257,"5824","Polyamides","level3","Polyamides","","Polyamides","",253.0
+258,"5825","Polyurethanes","level3","Polyurethanes","","Polyurethanes","",253.0
+259,"5826","Epoxide resins","level3","Epoxide resins","","Epoxide resins","",253.0
+260,"583","Polymerization and copolymerization products","level2","Polymerization and copolymerization products","","Polymerization and copolymerization products","",252.0
+261,"5831","Polyethylene","level3","Polyethylene","","Polyethylene","",260.0
+262,"5832","Polypropylene","level3","Polypropylene","","Polypropylene","",260.0
+263,"5833","Polystyrene and its copolymers","level3","Polystyrene and its copolymers","","Polystyrene and its copolymers","",260.0
+264,"5834","Polyvinyl chloride","level3","Polyvinyl chloride","","Polyvinyl chloride","",260.0
+265,"5835","Copolymers of vinyl chloride and vinyl acetate","level3","Copolymers of vinyl chloride and vinyl acetate","","Copolymers of vinyl chloride and vinyl acetate","",260.0
+266,"5836","Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers","level3","Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers","","Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers","",260.0
+267,"584","Regenerated cellulose; derivatives of cellulose; vulcanized fibre","level2","Regenerated cellulose; derivatives of cellulose; vulcanized fibre","","Regenerated cellulose; derivatives of cellulose; vulcanized fibre","",252.0
+268,"5842","Cellulose nitrates","level3","Cellulose nitrates","","Cellulose nitrates","",267.0
+269,"5843","Cellulose acetates","level3","Cellulose acetates","","Cellulose acetates","",267.0
+270,"5849","Other chemical derivatives of cellulose; vulcanized fibre","level3","Other chemical derivatives of cellulose; vulcanized fibre","","Other chemical derivatives of cellulose; vulcanized fibre","",267.0
+271,"585","Other artificial resins and plastic materials","level2","Other artificial resins and plastic materials","","Other artificial resins and plastic materials","",252.0
+272,"5852","Other artificial plastic materials, nes","level3","Other artificial plastic materials, nes","","Other artificial plastic materials, nes","",271.0
+273,"59","Chemical materials and products, nes","level1","Chemical materials and products, nes","","Chemical materials and products, nes","",191.0
+274,"591","Pesticides, disinfectants","level2","Pesticides, disinfectants","","Pesticides, disinfectants","",273.0
+275,"5914","Disinfectants, etc, for sale by retail or as preparation","level3","Disinfectants, etc, for sale by retail or as preparation","","Disinfectants, etc, for sale by retail or as preparation","",274.0
+276,"592","Starches, insulin and wheat gluten; albuminoidal substances; glues","level2","Starches, insulin and wheat gluten; albuminoidal substances; glues","","Starches, insulin and wheat gluten; albuminoidal substances; glues","",273.0
+277,"5921","Starches, insulin and wheat gluten","level3","Starches, insulin and wheat gluten","","Starches, insulin and wheat gluten","",276.0
+278,"5922","Albuminoid substances; glues","level3","Albuminoid substances; glues","","Albuminoid substances; glues","",276.0
+279,"598","Miscellaneous chemical products, nes","level2","Miscellaneous chemical products, nes","","Miscellaneous chemical products, nes","",273.0
+280,"5981","Woods and resin-based chemical products","level3","Woods and resin-based chemical products","","Woods and resin-based chemical products","",279.0
+281,"5983","Organic chemical products, nes","level3","Organic chemical products, nes","","Organic chemical products, nes","",279.0
+282,"5989","Chemical products and preparations, nes","level3","Chemical products and preparations, nes","","Chemical products and preparations, nes","",279.0
+283,"6","Manufactured goods classified chiefly by materials","level0","Manufactured goods classified chiefly by materials","","Manufactured goods","",""
+284,"61","Leather, leather manufactures, nes, and dressed furskins","level1","Leather, leather manufactures, nes, and dressed furskins","","Leather, leather manufactures, nes, and dressed furskins","",283.0
+285,"611","Leather","level2","Leather","","Leather","",284.0
+286,"6116","Leather of other hides or skins","level3","Leather of other hides or skins","","Leather of other hides or skins","",285.0
+287,"6118","Leather, specially dressed or finished, nes","level3","Leather, specially dressed or finished, nes","","Leather, specially dressed or finished, nes","",285.0
+288,"62","Rubber manufactures, nes","level1","Rubber manufactures, nes","","Rubber manufactures, nes","",283.0
+289,"621","Materials of rubber","level2","Materials of rubber","","Materials of rubber","",288.0
+290,"6210","Materials of rubber","level3","Materials of rubber","","Materials of rubber","",289.0
+291,"625","Rubber tires, tire cases, inner and flaps, for wheels of all kinds","level2","Rubber tires, tire cases, inner and flaps, for wheels of all kinds","","Rubber tires, tire cases, inner and flaps, for wheels of all kinds","",288.0
+292,"6259","Other tires, tire cases, tire flaps and inner tubes, etc","level3","Other tires, tire cases, tire flaps and inner tubes, etc","","Other tires, tire cases, tire flaps and inner tubes, etc","",291.0
+293,"628","Articles of rubber, nes","level2","Articles of rubber, nes","","Articles of rubber, nes","",288.0
+294,"6289","Other articles of rubber, nes","level3","Other articles of rubber, nes","","Other articles of rubber, nes","",293.0
+295,"63","Cork and wood, cork manufactures","level1","Cork and wood, cork manufactures","","Cork and wood, cork manufactures","",283.0
+296,"633","Cork manufactures","level2","Cork manufactures","","Cork manufactures","",295.0
+297,"6330","Cork manufactures","level3","Cork manufactures","","Cork manufactures","",296.0
+298,"634","Veneers, plywood, ""improved"" wood and other wood, worked, nes","level2","Veneers, plywood, ""improved"" wood and other wood, worked, nes","","Veneers, plywood, ""improved"" wood and other wood, worked, nes","",295.0
+299,"6343","Improved wood and reconstituted wood","level3","Improved wood and reconstituted wood","","Improved wood and reconstituted wood","",298.0
+300,"6344","Wood-based panels, nes","level3","Wood-based panels, nes","","Wood-based panels, nes","",298.0
+301,"6349","Wood, simply shaped, nes","level3","Wood, simply shaped, nes","","Wood, simply shaped, nes","",298.0
+302,"635","Wood manufactures, nes","level2","Wood manufactures, nes","","Wood manufactures, nes","",295.0
+303,"6354","Manufactures of wood for domestic or decorative use","level3","Manufactures of wood for domestic or decorative use","","Manufactures of wood for domestic or decorative use","",302.0
+304,"6359","Manufactured articles of wood, nes","level3","Manufactured articles of wood, nes","","Manufactured articles of wood, nes","",302.0
+305,"64","Paper, paperboard, and articles of pulp, of paper or of paperboard","level1","Paper, paperboard, and articles of pulp, of paper or of paperboard","","Paper, paperboard, and articles of pulp, of paper or of paperboard","",283.0
+306,"641","Paper and paperboard","level2","Paper and paperboard","","Paper and paperboard","",305.0
+307,"6412","Printing paper and writing paper, in rolls or sheets","level3","Printing paper and writing paper, in rolls or sheets","","Printing paper and writing paper, in rolls or sheets","",306.0
+308,"6413","Kraft paper and paperboard, in rolls or sheets","level3","Kraft paper and paperboard, in rolls or sheets","","Kraft paper and paperboard, in rolls or sheets","",306.0
+309,"6415","Paper and paperboard, in rolls or sheets, nes","level3","Paper and paperboard, in rolls or sheets, nes","","Paper and paperboard, in rolls or sheets, nes","",306.0
+310,"6416","Fibre building board of wood or other vegetable material","level3","Fibre building board of wood or other vegetable material","","Fibre building board of wood or other vegetable material","",306.0
+311,"6417","Paper and paperboard, creped, crinkled, etc, in rolls or sheets","level3","Paper and paperboard, creped, crinkled, etc, in rolls or sheets","","Paper and paperboard, creped, crinkled, etc, in rolls or sheets","",306.0
+312,"6418","Paper and paperboard, coated, impregnated, etc, in rolls or sheets","level3","Paper and paperboard, coated, impregnated, etc, in rolls or sheets","","Paper and paperboard, coated, impregnated, etc, in rolls or sheets","",306.0
+313,"6419","Converted paper and paperboard, nes","level3","Converted paper and paperboard, nes","","Converted paper and paperboard, nes","",306.0
+314,"642","Paper and paperboard, precut, and articles of paper or paperboard","level2","Paper and paperboard, precut, and articles of paper or paperboard","","Paper and paperboard, precut, and articles of paper or paperboard","",305.0
+315,"6424","Paper and paperboard cut to size or shape, nes","level3","Paper and paperboard cut to size or shape, nes","","Paper and paperboard cut to size or shape, nes","",314.0
+316,"6428","Articles of paper pulp, paper, paperboard or cellulose wadding, nes","level3","Articles of paper pulp, paper, paperboard or cellulose wadding, nes","","Articles of paper pulp, paper, paperboard or cellulose wadding, nes","",314.0
+317,"65","Textile yarn, fabrics, made-up articles, nes, and related products","level1","Textile yarn, fabrics, made-up articles, nes, and related products","","Textile yarn, fabrics, made-up articles, nes, and related products","",283.0
+318,"651","Textile yarn","level2","Textile yarn","","Textile yarn","",317.0
+319,"6511","Silk yarn and spun from noil or waste; silkworm gut","level3","Silk yarn and spun from noil or waste; silkworm gut","","Silk yarn and spun from noil or waste; silkworm gut","",318.0
+320,"6512","Yarn of wool or animal hair (including wool tops)","level3","Yarn of wool or animal hair (including wool tops)","","Yarn of wool or animal hair (including wool tops)","",318.0
+321,"6513","Cotton yarn","level3","Cotton yarn","","Cotton yarn","",318.0
+322,"6514","Yarn 85% of synthetic fibres, not for retail; monofil, strip, etc","level3","Yarn 85% of synthetic fibres, not for retail; monofil, strip, etc","","Yarn 85% of synthetic fibres, not for retail; monofil, strip, etc","",318.0
+323,"6515","Yarn containing 85% or more of synthetic fibres, put up for retail","level3","Yarn containing 85% or more of synthetic fibres, put up for retail","","Yarn containing 85% or more of synthetic fibres, put up for retail","",318.0
+324,"6516","Yarn containing less than 85% of discontinuous synthetic fibres","level3","Yarn containing less than 85% of discontinuous synthetic fibres","","Yarn containing less than 85% of discontinuous synthetic fibres","",318.0
+325,"6517","Yarn of regenerated fibres, not for retail, monofil, strip, etc","level3","Yarn of regenerated fibres, not for retail, monofil, strip, etc","","Yarn of regenerated fibres, not for retail, monofil, strip, etc","",318.0
+326,"6518","Yarn of regenerated fibres, put up for retail sale","level3","Yarn of regenerated fibres, put up for retail sale","","Yarn of regenerated fibres, put up for retail sale","",318.0
+327,"6519","Yarn of textile fibres, nes","level3","Yarn of textile fibres, nes","","Yarn of textile fibres, nes","",318.0
+328,"652","Cotton fabrics, woven (not including narrow or special fabrics)","level2","Cotton fabrics, woven (not including narrow or special fabrics)","","Cotton fabrics, woven (not including narrow or special fabrics)","",317.0
+329,"6521","Cotton fabrics, woven, unbleached, not mercerized","level3","Cotton fabrics, woven, unbleached, not mercerized","","Cotton fabrics, woven, unbleached, not mercerized","",328.0
+330,"6522","Cotton fabrics, woven, bleached, dyed, etc, or otherwise finished","level3","Cotton fabrics, woven, bleached, dyed, etc, or otherwise finished","","Cotton fabrics, woven, bleached, dyed, etc, or otherwise finished","",328.0
+331,"653","Fabrics, woven, of man-made fibres (not narrow or special fabrics)","level2","Fabrics, woven, of man-made fibres (not narrow or special fabrics)","","Fabrics, woven, of man-made fibres (not narrow or special fabrics)","",317.0
+332,"6531","Fabrics, woven, of continuous synthetic textile materials","level3","Fabrics, woven, of continuous synthetic textile materials","","Fabrics, woven, of continuous synthetic textile materials","",331.0
+333,"6534","Fabrics, woven, less 85% of discontinuous synthetic fibres","level3","Fabrics, woven, less 85% of discontinuous synthetic fibres","","Fabrics, woven, less 85% of discontinuous synthetic fibres","",331.0
+334,"6535","Fabric, woven of continuous regenerated textile materials","level3","Fabric, woven of continuous regenerated textile materials","","Fabric, woven of continuous regenerated textile materials","",331.0
+335,"6538","Fabrics, woven, less 85% of discontinuous regenerated fibres","level3","Fabrics, woven, less 85% of discontinuous regenerated fibres","","Fabrics, woven, less 85% of discontinuous regenerated fibres","",331.0
+336,"6539","Pile and chenille fabrics, woven, of man-made fibres","level3","Pile and chenille fabrics, woven, of man-made fibres","","Pile and chenille fabrics, woven, of man-made fibres","",331.0
+337,"654","Textile fabrics, woven, other than cotton or man-made fibres","level2","Textile fabrics, woven, other than cotton or man-made fibres","","Textile fabrics, woven, other than cotton or man-made fibres","",317.0
+338,"6542","Fabrics, woven, 85% plus of sheep's or lambs' wool or of fine hair","level3","Fabrics, woven, 85% plus of sheep's or lambs' wool or of fine hair","","Fabrics, woven, 85% plus of sheep's or lambs' wool or of fine hair","",337.0
+339,"6543","Fabrics, woven, of sheep's or lambs' wool or of fine hair, nes","level3","Fabrics, woven, of sheep's or lambs' wool or of fine hair, nes","","Fabrics, woven, of sheep's or lambs' wool or of fine hair, nes","",337.0
+340,"6549","Fabrics, woven, nes","level3","Fabrics, woven, nes","","Fabrics, woven, nes","",337.0
+341,"655","Knitted or crocheted fabrics (including tubular, etc, fabrics)","level2","Knitted or crocheted fabrics (including tubular, etc, fabrics)","","Knitted or crocheted fabrics (including tubular, etc, fabrics)","",317.0
+342,"6552","Knitted, not elastic nor rubberized, of fibres other than synthetic","level3","Knitted, not elastic nor rubberized, of fibres other than synthetic","","Knitted, not elastic nor rubberized, of fibres other than synthetic","",341.0
+343,"656","Tulle, lace, embroidery, ribbons, trimmings and other small wares","level2","Tulle, lace, embroidery, ribbons, trimmings and other small wares","","Tulle, lace, embroidery, ribbons, trimmings and other small wares","",317.0
+344,"6560","Tulle, lace, embroidery, ribbons, trimmings and other small wares","level3","Tulle, lace, embroidery, ribbons, trimmings and other small wares","","Tulle, lace, embroidery, ribbons, trimmings and other small wares","",343.0
+345,"657","Special textile fabrics and related products","level2","Special textile fabrics and related products","","Special textile fabrics and related products","",317.0
+346,"6573","Coated or impregnated textile fabrics and products, nes","level3","Coated or impregnated textile fabrics and products, nes","","Coated or impregnated textile fabrics and products, nes","",345.0
+347,"6575","Twine, cordage, ropes and cables and manufactures thereof","level3","Twine, cordage, ropes and cables and manufactures thereof","","Twine, cordage, ropes and cables and manufactures thereof","",345.0
+348,"6576","Hat shapes, hat-forms, hat bodies and hoods","level3","Hat shapes, hat-forms, hat bodies and hoods","","Hat shapes, hat-forms, hat bodies and hoods","",345.0
+349,"6577","Wadding, wicks and textiles fabrics for use in machinery or plant","level3","Wadding, wicks and textiles fabrics for use in machinery or plant","","Wadding, wicks and textiles fabrics for use in machinery or plant","",345.0
+350,"6579","Special products of textile materials","level3","Special products of textile materials","","Special products of textile materials","",345.0
+351,"658","Made-up articles, wholly or chiefly of textile materials, nes","level2","Made-up articles, wholly or chiefly of textile materials, nes","","Made-up articles, wholly or chiefly of textile materials, nes","",317.0
+352,"6582","Tarpaulins, sails, tents, camping goods, etc, of textile fabrics","level3","Tarpaulins, sails, tents, camping goods, etc, of textile fabrics","","Tarpaulins, sails, tents, camping goods, etc, of textile fabrics","",351.0
+353,"6583","Travelling rugs, blankets (non electric), not knitted or crocheted","level3","Travelling rugs, blankets (non electric), not knitted or crocheted","","Travelling rugs, blankets (non electric), not knitted or crocheted","",351.0
+354,"6584","Linens and furnishing articles of textile, not knitted or crocheted","level3","Linens and furnishing articles of textile, not knitted or crocheted","","Linens and furnishing articles of textile, not knitted or crocheted","",351.0
+355,"6589","Other made-up articles of textile materials, nes","level3","Other made-up articles of textile materials, nes","","Other made-up articles of textile materials, nes","",351.0
+356,"659","Floor coverings, etc","level2","Floor coverings, etc","","Floor coverings, etc","",317.0
+357,"6591","Linoleum and similar floor covering","level3","Linoleum and similar floor covering","","Linoleum and similar floor covering","",356.0
+358,"6592","Carpets, carpeting and rugs, knotted","level3","Carpets, carpeting and rugs, knotted","","Carpets, carpeting and rugs, knotted","",356.0
+359,"6594","Carpets, rugs, mats, of wool or fine animal hair","level3","Carpets, rugs, mats, of wool or fine animal hair","","Carpets, rugs, mats, of wool or fine animal hair","",356.0
+360,"6595","Carpets, rugs, mats, of man-made textile materials, nes","level3","Carpets, rugs, mats, of man-made textile materials, nes","","Carpets, rugs, mats, of man-made textile materials, nes","",356.0
+361,"6596","Carpets, rugs, mats, of other textile materials, nes","level3","Carpets, rugs, mats, of other textile materials, nes","","Carpets, rugs, mats, of other textile materials, nes","",356.0
+362,"66","Non-metallic mineral manufactures, nes","level1","Non-metallic mineral manufactures, nes","","Non-metallic mineral manufactures, nes","",283.0
+363,"661","Lime, cement, and fabricated construction materials","level2","Lime, cement, and fabricated construction materials","","Lime, cement, and fabricated construction materials","",362.0
+364,"6613","Building and monumental stone, worked, and articles thereof","level3","Building and monumental stone, worked, and articles thereof","","Building and monumental stone, worked, and articles thereof","",363.0
+365,"6618","Construction materials, of asbestos-cement or fibre-cements, etc","level3","Construction materials, of asbestos-cement or fibre-cements, etc","","Construction materials, of asbestos-cement or fibre-cements, etc","",363.0
+366,"662","Clay and refractory construction materials","level2","Clay and refractory construction materials","","Clay and refractory construction materials","",362.0
+367,"6623","Refractory bricks and other refractory construction materials","level3","Refractory bricks and other refractory construction materials","","Refractory bricks and other refractory construction materials","",366.0
+368,"6624","Non-refractory ceramic bricks, tiles, pipes and similar products","level3","Non-refractory ceramic bricks, tiles, pipes and similar products","","Non-refractory ceramic bricks, tiles, pipes and similar products","",366.0
+369,"663","Mineral manufactures, nes","level2","Mineral manufactures, nes","","Mineral manufactures, nes","",362.0
+370,"6633","Manufactures of mineral materials, nes (other than ceramic)","level3","Manufactures of mineral materials, nes (other than ceramic)","","Manufactures of mineral materials, nes (other than ceramic)","",369.0
+371,"6638","Manufactures of asbestos; friction materials","level3","Manufactures of asbestos; friction materials","","Manufactures of asbestos; friction materials","",369.0
+372,"6639","Articles of ceramic materials, nes","level3","Articles of ceramic materials, nes","","Articles of ceramic materials, nes","",369.0
+373,"664","Glass","level2","Glass","","Glass","",362.0
+374,"6641","Glass in the mass, in balls, rods or tubes (nonoptical); waste","level3","Glass in the mass, in balls, rods or tubes (nonoptical); waste","","Glass in the mass, in balls, rods or tubes (nonoptical); waste","",373.0
+375,"6649","Glass, nes","level3","Glass, nes","","Glass, nes","",373.0
+376,"665","Glassware","level2","Glassware","","Glassware","",362.0
+377,"6651","Bottles etc of glass","level3","Bottles etc of glass","","Bottles etc of glass","",376.0
+378,"6658","Articles made of glass, nes","level3","Articles made of glass, nes","","Articles made of glass, nes","",376.0
+379,"667","Pearl, precious and semi-precious stones, unworked or worked","level2","Pearl, precious and semi-precious stones, unworked or worked","","Pearl, precious and semi-precious stones, unworked or worked","",362.0
+380,"6672","Diamonds (non-industrial), not mounted or set","level3","Diamonds (non-industrial), not mounted or set","","Diamonds (non-industrial), not mounted or set","",379.0
+381,"67","Iron and steel","level1","Iron and steel","","Iron and steel","",283.0
+382,"671","Pig and sponge iron, spiegeleisen, etc, and ferro-alloys","level2","Pig and sponge iron, spiegeleisen, etc, and ferro-alloys","","Pig and sponge iron, spiegeleisen, etc, and ferro-alloys","",381.0
+383,"6713","Iron and steel powders, shot or sponge","level3","Iron and steel powders, shot or sponge","","Iron and steel powders, shot or sponge","",382.0
+384,"6716","Ferro-alloys","level3","Ferro-alloys","","Ferro-alloys","",382.0
+385,"672","Ingots and other primary forms, of iron or steel","level2","Ingots and other primary forms, of iron or steel","","Ingots and other primary forms, of iron or steel","",381.0
+386,"6724","Puddled bars, pilings; ingots, blocks, lumps, etc, of iron or steel","level3","Puddled bars, pilings; ingots, blocks, lumps, etc, of iron or steel","","Puddled bars, pilings; ingots, blocks, lumps, etc, of iron or steel","",385.0
+387,"6725","Blooms, billets, slabs and sheet bars, of iron or steel","level3","Blooms, billets, slabs and sheet bars, of iron or steel","","Blooms, billets, slabs and sheet bars, of iron or steel","",385.0
+388,"6727","Iron or steel coils for re-rolling","level3","Iron or steel coils for re-rolling","","Iron or steel coils for re-rolling","",385.0
+389,"673","Iron and steel bars, rods, shapes and sections","level2","Iron and steel bars, rods, shapes and sections","","Iron and steel bars, rods, shapes and sections","",381.0
+390,"6731","Wire rod of iron or steel","level3","Wire rod of iron or steel","","Wire rod of iron or steel","",389.0
+391,"6732","Bars, rods (not wire rod), from iron or steel; hollow mining drill","level3","Bars, rods (not wire rod), from iron or steel; hollow mining drill","","Bars, rods (not wire rod), from iron or steel; hollow mining drill","",389.0
+392,"6733","Angles, shapes, sections and sheet piling, of iron or steel","level3","Angles, shapes, sections and sheet piling, of iron or steel","","Angles, shapes, sections and sheet piling, of iron or steel","",389.0
+393,"674","Universals, plates, and sheets, of iron or steel","level2","Universals, plates, and sheets, of iron or steel","","Universals, plates, and sheets, of iron or steel","",381.0
+394,"6741","Universal plates of iron or steel","level3","Universal plates of iron or steel","","Universal plates of iron or steel","",393.0
+395,"6744","Sheet, plates, rolled of thickness 4,75mm plus, of iron or steel","level3","Sheet, plates, rolled of thickness 4,75mm plus, of iron or steel","","Sheet, plates, rolled of thickness 4,75mm plus, of iron or steel","",393.0
+396,"6745","Sheet, plates, rolled of thickness 3mm to 4,75mm, of iron or steel","level3","Sheet, plates, rolled of thickness 3mm to 4,75mm, of iron or steel","","Sheet, plates, rolled of thickness 3mm to 4,75mm, of iron or steel","",393.0
+397,"6746","Sheet, plates, rolled of thickness less 3mm, of iron or steel","level3","Sheet, plates, rolled of thickness less 3mm, of iron or steel","","Sheet, plates, rolled of thickness less 3mm, of iron or steel","",393.0
+398,"6749","Other sheet and plates, of iron or steel, worked","level3","Other sheet and plates, of iron or steel, worked","","Other sheet and plates, of iron or steel, worked","",393.0
+399,"675","Hoop and strip of iron or steel, hot-rolled or cold-rolled","level2","Hoop and strip of iron or steel, hot-rolled or cold-rolled","","Hoop and strip of iron or steel, hot-rolled or cold-rolled","",381.0
+400,"6750","Hoop and strip of iron or steel, hot-rolled or cold-rolled","level3","Hoop and strip of iron or steel, hot-rolled or cold-rolled","","Hoop and strip of iron or steel, hot-rolled or cold-rolled","",399.0
+401,"676","Rails and railway track construction materials, of iron or steel","level2","Rails and railway track construction materials, of iron or steel","","Rails and railway track construction materials, of iron or steel","",381.0
+402,"6760","Rails and railway track construction materials, of iron or steel","level3","Rails and railway track construction materials, of iron or steel","","Rails and railway track construction materials, of iron or steel","",401.0
+403,"677","Iron or steel wire (excluding wire rod), not insulated","level2","Iron or steel wire (excluding wire rod), not insulated","","Iron or steel wire (excluding wire rod), not insulated","",381.0
+404,"6770","Iron or steel wire (excluding wire rod), not insulated","level3","Iron or steel wire (excluding wire rod), not insulated","","Iron or steel wire (excluding wire rod), not insulated","",403.0
+405,"679","Iron, steel casting, forging and stamping, in the rough state, nes","level2","Iron, steel casting, forging and stamping, in the rough state, nes","","Iron, steel casting, forging and stamping, in the rough state, nes","",381.0
+406,"6794","Castings of iron or steel, in rough state","level3","Castings of iron or steel, in rough state","","Castings of iron or steel, in rough state","",405.0
+407,"68","Non-ferrous metals","level1","Non-ferrous metals","","Non-ferrous metals","",283.0
+408,"681","Silver, platinum and other metals of the platinum group","level2","Silver, platinum and other metals of the platinum group","","Silver, platinum and other metals of the platinum group","",407.0
+409,"6811","Silver, unwrought, unworked, or semi-manufactured","level3","Silver, unwrought, unworked, or semi-manufactured","","Silver, unwrought, unworked, or semi-manufactured","",408.0
+410,"6812","Metals of platinum group, unwrought, unworked, or semi-manufactured","level3","Metals of platinum group, unwrought, unworked, or semi-manufactured","","Metals of platinum group, unwrought, unworked, or semi-manufactured","",408.0
+411,"682","Copper","level2","Copper","","Copper","",407.0
+412,"6821","Copper and copper alloys, refined or not, unwrought","level3","Copper and copper alloys, refined or not, unwrought","","Copper and copper alloys, refined or not, unwrought","",411.0
+413,"6822","Copper and copper alloys, worked","level3","Copper and copper alloys, worked","","Copper and copper alloys, worked","",411.0
+414,"683","Nickel","level2","Nickel","","Nickel","",407.0
+415,"6832","Nickel and nickel alloys, worked","level3","Nickel and nickel alloys, worked","","Nickel and nickel alloys, worked","",414.0
+416,"684","Aluminium","level2","Aluminium","","Aluminium","",407.0
+417,"6842","Aluminium and aluminium alloys, worked","level3","Aluminium and aluminium alloys, worked","","Aluminium and aluminium alloys, worked","",416.0
+418,"685","Lead","level2","Lead","","Lead","",407.0
+419,"6851","Lead, and lead alloys, unwrought","level3","Lead, and lead alloys, unwrought","","Lead, and lead alloys, unwrought","",418.0
+420,"6852","Lead and lead alloys, worked","level3","Lead and lead alloys, worked","","Lead and lead alloys, worked","",418.0
+421,"686","Zinc","level2","Zinc","","Zinc","",407.0
+422,"6863","Zinc and zinc alloys worked","level3","Zinc and zinc alloys worked","","Zinc and zinc alloys worked","",421.0
+423,"687","Tin","level2","Tin","","Tin","",407.0
+424,"6872","Tin and tin alloys worked","level3","Tin and tin alloys worked","","Tin and tin alloys worked","",423.0
+425,"689","Miscellaneous non-ferrous base metals, employed in metallurgy","level2","Miscellaneous non-ferrous base metals, employed in metallurgy","","Miscellaneous non-ferrous base metals, employed in metallurgy","",407.0
+426,"6891","Tungsten, molybdenum, tantalum, magnesium, unwrought; waste, scrap","level3","Tungsten, molybdenum, tantalum, magnesium, unwrought; waste, scrap","","Tungsten, molybdenum, tantalum, magnesium, unwrought; waste, scrap","",425.0
+427,"6899","Base metals, nes and cermets, unwrought (including waste and scrap)","level3","Base metals, nes and cermets, unwrought (including waste and scrap)","","Base metals, nes and cermets, unwrought (including waste and scrap)","",425.0
+428,"69","Manufactures of metals, nes","level1","Manufactures of metals, nes","","Manufactures of metals, nes","",283.0
+429,"692","Metal containers for storage and transport","level2","Metal containers for storage and transport","","Metal containers for storage and transport","",428.0
+430,"6921","Iron, steel, aluminium reservoirs, tanks, etc, capacity 300 lt plus","level3","Iron, steel, aluminium reservoirs, tanks, etc, capacity 300 lt plus","","Iron, steel, aluminium reservoirs, tanks, etc, capacity 300 lt plus","",429.0
+431,"6924","Cask, drums, etc, of iron, steel, aluminium, for packing goods","level3","Cask, drums, etc, of iron, steel, aluminium, for packing goods","","Cask, drums, etc, of iron, steel, aluminium, for packing goods","",429.0
+432,"693","Wire products (excluding insulated electrical wire); fencing grills","level2","Wire products (excluding insulated electrical wire); fencing grills","","Wire products (excluding insulated electrical wire); fencing grills","",428.0
+433,"6931","Wire, cables, cordage, ropes, plaited bans, sling and the like","level3","Wire, cables, cordage, ropes, plaited bans, sling and the like","","Wire, cables, cordage, ropes, plaited bans, sling and the like","",432.0
+434,"6935","Gauze, cloth, grill, netting, reinforced fabric and the like","level3","Gauze, cloth, grill, netting, reinforced fabric and the like","","Gauze, cloth, grill, netting, reinforced fabric and the like","",432.0
+435,"694","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","level2","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","",428.0
+436,"6940","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","level3","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","",435.0
+437,"695","Tools for use in the hand or in machines","level2","Tools for use in the hand or in machines","","Tools for use in the hand or in machines","",428.0
+438,"6953","Other hand tools","level3","Other hand tools","","Other hand tools","",437.0
+439,"6954","Interchangeable tools for hand or machine tools (tips, blades, etc)","level3","Interchangeable tools for hand or machine tools (tips, blades, etc)","","Interchangeable tools for hand or machine tools (tips, blades, etc)","",437.0
+440,"696","Cutlery","level2","Cutlery","","Cutlery","",428.0
+441,"6960","Cutlery","level3","Cutlery","","Cutlery","",440.0
+442,"697","Household equipment of base metal, nes","level2","Household equipment of base metal, nes","","Household equipment of base metal, nes","",428.0
+443,"6973","Domestic, non-electric, heating, cooking apparatus, and parts, nes","level3","Domestic, non-electric, heating, cooking apparatus, and parts, nes","","Domestic, non-electric, heating, cooking apparatus, and parts, nes","",442.0
+444,"6974","Base metal domestic articles, nes, and parts thereof, nes","level3","Base metal domestic articles, nes, and parts thereof, nes","","Base metal domestic articles, nes, and parts thereof, nes","",442.0
+445,"6975","Base metal indoors sanitary ware, and parts thereof, nes","level3","Base metal indoors sanitary ware, and parts thereof, nes","","Base metal indoors sanitary ware, and parts thereof, nes","",442.0
+446,"6978","Household appliances, decorative article, etc, of base metal, nes","level3","Household appliances, decorative article, etc, of base metal, nes","","Household appliances, decorative article, etc, of base metal, nes","",442.0
+447,"699","Manufactures of base metal, nes","level2","Manufactures of base metal, nes","","Manufactures of base metal, nes","",428.0
+448,"6991","Locksmiths wares, safes, etc, and hardware, nes, of base metal","level3","Locksmiths wares, safes, etc, and hardware, nes, of base metal","","Locksmiths wares, safes, etc, and hardware, nes, of base metal","",447.0
+449,"6993","Pins, needles, etc, of iron, steel; metal fittings for clothing","level3","Pins, needles, etc, of iron, steel; metal fittings for clothing","","Pins, needles, etc, of iron, steel; metal fittings for clothing","",447.0
+450,"6994","Springs and leaves for springs, of iron, steel or copper","level3","Springs and leaves for springs, of iron, steel or copper","","Springs and leaves for springs, of iron, steel or copper","",447.0
+451,"6996","Miscellaneous articles of base metal","level3","Miscellaneous articles of base metal","","Miscellaneous articles of base metal","",447.0
+452,"6997","Articles of iron or steel, nes","level3","Articles of iron or steel, nes","","Articles of iron or steel, nes","",447.0
+453,"6998","Articles, nes, of copper, nickel, aluminium, lead, zinc and tin","level3","Articles, nes, of copper, nickel, aluminium, lead, zinc and tin","","Articles, nes, of copper, nickel, aluminium, lead, zinc and tin","",447.0
+454,"6999","Other base metal manufactures, nes; and of cermets","level3","Other base metal manufactures, nes; and of cermets","","Other base metal manufactures, nes; and of cermets","",447.0
+455,"7","Machinery and transport equipment","level0","Machinery and transport equipment","","Machinery & transport","",""
+456,"71","Power generating machinery and equipment","level1","Power generating machinery and equipment","","Power generating machinery and equipment","",455.0
+457,"711","Steam boilers and auxiliary plant; and parts thereof, nes","level2","Steam boilers and auxiliary plant; and parts thereof, nes","","Steam boilers and auxiliary plant; and parts thereof, nes","",456.0
+458,"7119","Parts, nes of boilers and auxiliary plant of headings 7111 and 7112","level3","Parts, nes of boilers and auxiliary plant of headings 7111 and 7112","","Parts, nes of boilers and auxiliary plant of headings 7111 and 7112","",457.0
+459,"713","Internal combustion piston engines, and parts thereof, nes","level2","Internal combustion piston engines, and parts thereof, nes","","Internal combustion piston engines, and parts thereof, nes","",456.0
+460,"7131","Internal combustion piston engines, for aircraft, and parts, nes","level3","Internal combustion piston engines, for aircraft, and parts, nes","","Internal combustion piston engines, for aircraft, and parts, nes","",459.0
+461,"7133","Internal combustion piston engines, marine propulsion","level3","Internal combustion piston engines, marine propulsion","","Internal combustion piston engines, marine propulsion","",459.0
+462,"714","Engines and motors, non-electric; parts, nes; group 714, item 71888","level2","Engines and motors, non-electric; parts, nes; group 714, item 71888","","Engines and motors, non-electric; parts, nes; group 714, item 71888","",456.0
+463,"7148","Gas turbines, nes","level3","Gas turbines, nes","","Gas turbines, nes","",462.0
+464,"7149","Parts, nes of the engines and motors of group 714 and item 71888","level3","Parts, nes of the engines and motors of group 714 and item 71888","","Parts, nes of the engines and motors of group 714 and item 71888","",462.0
+465,"716","Rotating electric plant and parts thereof, nes","level2","Rotating electric plant and parts thereof, nes","","Rotating electric plant and parts thereof, nes","",456.0
+466,"7162","Electric motors, generators (not direct current); generating sets","level3","Electric motors, generators (not direct current); generating sets","","Electric motors, generators (not direct current); generating sets","",465.0
+467,"718","Other power generating machinery and parts thereof, nes","level2","Other power generating machinery and parts thereof, nes","","Other power generating machinery and parts thereof, nes","",456.0
+468,"7188","Engines and motors, nes (wind, hot air engines, water wheel, etc)","level3","Engines and motors, nes (wind, hot air engines, water wheel, etc)","","Engines and motors, nes (wind, hot air engines, water wheel, etc)","",467.0
+469,"72","Machinery specialized for particular industries","level1","Machinery specialized for particular industries","","Machinery specialized for particular industries","",455.0
+470,"721","Agricultural machinery (excluding tractors) and parts thereof, nes","level2","Agricultural machinery (excluding tractors) and parts thereof, nes","","Agricultural machinery (excluding tractors) and parts thereof, nes","",469.0
+471,"7211","Agricultural and horticultural machinery for soil preparation, etc","level3","Agricultural and horticultural machinery for soil preparation, etc","","Agricultural and horticultural machinery for soil preparation, etc","",470.0
+472,"7212","Harvesting and threshing machines; fodder presses, etc; parts nes","level3","Harvesting and threshing machines; fodder presses, etc; parts nes","","Harvesting and threshing machines; fodder presses, etc; parts nes","",470.0
+473,"7213","Dairy machinery, nes (including milking machines), and parts nes","level3","Dairy machinery, nes (including milking machines), and parts nes","","Dairy machinery, nes (including milking machines), and parts nes","",470.0
+474,"7219","Agricultural machinery and appliances, nes, and parts thereof, nes","level3","Agricultural machinery and appliances, nes, and parts thereof, nes","","Agricultural machinery and appliances, nes, and parts thereof, nes","",470.0
+475,"723","Civil engineering, contractors' plant and equipment and parts, nes","level2","Civil engineering, contractors' plant and equipment and parts, nes","","Civil engineering, contractors' plant and equipment and parts, nes","",469.0
+476,"7234","Construction and mining machinery, nes","level3","Construction and mining machinery, nes","","Construction and mining machinery, nes","",475.0
+477,"724","Textile and leather machinery, and parts thereof, nes","level2","Textile and leather machinery, and parts thereof, nes","","Textile and leather machinery, and parts thereof, nes","",469.0
+478,"7243","Sewing machines, furniture, needles etc, and parts thereof, nes","level3","Sewing machines, furniture, needles etc, and parts thereof, nes","","Sewing machines, furniture, needles etc, and parts thereof, nes","",477.0
+479,"7244","Machines for extruding man-made textile; other textile machinery","level3","Machines for extruding man-made textile; other textile machinery","","Machines for extruding man-made textile; other textile machinery","",477.0
+480,"7245","Weaving, knitting, etc, machines, machines for preparing yarns, etc","level3","Weaving, knitting, etc, machines, machines for preparing yarns, etc","","Weaving, knitting, etc, machines, machines for preparing yarns, etc","",477.0
+481,"7246","Auxiliary machinery for use with those of headings 72451 to 72453","level3","Auxiliary machinery for use with those of headings 72451 to 72453","","Auxiliary machinery for use with those of headings 72451 to 72453","",477.0
+482,"7247","Textile machinery, nes for cleaning, cutting, etc, and parts nes","level3","Textile machinery, nes for cleaning, cutting, etc, and parts nes","","Textile machinery, nes for cleaning, cutting, etc, and parts nes","",477.0
+483,"725","Paper and paper manufacture machinery, and parts thereof, nes","level2","Paper and paper manufacture machinery, and parts thereof, nes","","Paper and paper manufacture machinery, and parts thereof, nes","",469.0
+484,"7251","Machinery for making, finishing cellulose pulp, paper or paperboard","level3","Machinery for making, finishing cellulose pulp, paper or paperboard","","Machinery for making, finishing cellulose pulp, paper or paperboard","",483.0
+485,"7259","Parts, nes of the machines falling within heading 725","level3","Parts, nes of the machines falling within heading 725","","Parts, nes of the machines falling within heading 725","",483.0
+486,"726","Printing, bookbinding machinery, and parts thereof, nes","level2","Printing, bookbinding machinery, and parts thereof, nes","","Printing, bookbinding machinery, and parts thereof, nes","",469.0
+487,"7263","Machinery, accessories for type-setting, for printing blocks, etc","level3","Machinery, accessories for type-setting, for printing blocks, etc","","Machinery, accessories for type-setting, for printing blocks, etc","",486.0
+488,"7264","Printing presses","level3","Printing presses","","Printing presses","",486.0
+489,"7267","Other printing machinery; machines for uses ancilliary to printing","level3","Other printing machinery; machines for uses ancilliary to printing","","Other printing machinery; machines for uses ancilliary to printing","",486.0
+490,"7268","Bookbinding machinery; parts thereof, nes","level3","Bookbinding machinery; parts thereof, nes","","Bookbinding machinery; parts thereof, nes","",486.0
+491,"7269","Parts, nes of machines falling within headings 72631, 7264, 7267","level3","Parts, nes of machines falling within headings 72631, 7264, 7267","","Parts, nes of machines falling within headings 72631, 7264, 7267","",486.0
+492,"727","Food-processing machines (non-domestic) and parts thereof, nes","level2","Food-processing machines (non-domestic) and parts thereof, nes","","Food-processing machines (non-domestic) and parts thereof, nes","",469.0
+493,"7271","Machinery for the grain milling industry; working cereals, parts","level3","Machinery for the grain milling industry; working cereals, parts","","Machinery for the grain milling industry; working cereals, parts","",492.0
+494,"7272","Other food-processing machinery and parts thereof, nes","level3","Other food-processing machinery and parts thereof, nes","","Other food-processing machinery and parts thereof, nes","",492.0
+495,"728","Other machinery, equipment, for specialized industries; parts nes","level2","Other machinery, equipment, for specialized industries; parts nes","","Other machinery, equipment, for specialized industries; parts nes","",469.0
+496,"7281","Machine-tools for specialized industries; parts or accessories, nes","level3","Machine-tools for specialized industries; parts or accessories, nes","","Machine-tools for specialized industries; parts or accessories, nes","",495.0
+497,"7283","Other mineral working machinery; and parts thereof, nes","level3","Other mineral working machinery; and parts thereof, nes","","Other mineral working machinery; and parts thereof, nes","",495.0
+498,"7284","Machinery for specialized industries and parts thereof, nes","level3","Machinery for specialized industries and parts thereof, nes","","Machinery for specialized industries and parts thereof, nes","",495.0
+499,"73","Metalworking machinery","level1","Metalworking machinery","","Metalworking machinery","",455.0
+500,"736","Metalworking machine-tools, parts and accessories thereof, nes","level2","Metalworking machine-tools, parts and accessories thereof, nes","","Metalworking machine-tools, parts and accessories thereof, nes","",499.0
+501,"7361","Metal cutting machine-tools","level3","Metal cutting machine-tools","","Metal cutting machine-tools","",500.0
+502,"7362","Metal forming machine-tool","level3","Metal forming machine-tool","","Metal forming machine-tool","",500.0
+503,"737","Metalworking machinery (other than machine-tools), and parts, nes","level2","Metalworking machinery (other than machine-tools), and parts, nes","","Metalworking machinery (other than machine-tools), and parts, nes","",499.0
+504,"7371","Metallurgy and metal foundry equipment, and parts thereof, nes","level3","Metallurgy and metal foundry equipment, and parts thereof, nes","","Metallurgy and metal foundry equipment, and parts thereof, nes","",503.0
+505,"7372","Rolling mills, rolls therefor, and parts, nes of rolling mills","level3","Rolling mills, rolls therefor, and parts, nes of rolling mills","","Rolling mills, rolls therefor, and parts, nes of rolling mills","",503.0
+506,"7373","Welding, brazing, cutting, etc machines and appliances, parts, nes","level3","Welding, brazing, cutting, etc machines and appliances, parts, nes","","Welding, brazing, cutting, etc machines and appliances, parts, nes","",503.0
+507,"74","General industrial machinery and equipment, nes, and parts of, nes","level1","General industrial machinery and equipment, nes, and parts of, nes","","General industrial machinery and equipment, nes, and parts of, nes","",455.0
+508,"741","Heating and cooling equipment and parts thereof, nes","level2","Heating and cooling equipment and parts thereof, nes","","Heating and cooling equipment and parts thereof, nes","",507.0
+509,"7413","Industrial and laboratory furnaces and ovens, etc, parts, nes","level3","Industrial and laboratory furnaces and ovens, etc, parts, nes","","Industrial and laboratory furnaces and ovens, etc, parts, nes","",508.0
+510,"7414","Non-domestic refrigerators and refrigerating equipment, parts, nes","level3","Non-domestic refrigerators and refrigerating equipment, parts, nes","","Non-domestic refrigerators and refrigerating equipment, parts, nes","",508.0
+511,"742","Pumps for liquids; liquid elevators; and parts thereof, nes","level2","Pumps for liquids; liquid elevators; and parts thereof, nes","","Pumps for liquids; liquid elevators; and parts thereof, nes","",507.0
+512,"7428","Other pumps for liquids and liquid elevators","level3","Other pumps for liquids and liquid elevators","","Other pumps for liquids and liquid elevators","",511.0
+513,"744","Mechanical handling equipment, and parts thereof, nes","level2","Mechanical handling equipment, and parts thereof, nes","","Mechanical handling equipment, and parts thereof, nes","",507.0
+514,"7441","Work trucks, of the type use in factories, dock areas, etc","level3","Work trucks, of the type use in factories, dock areas, etc","","Work trucks, of the type use in factories, dock areas, etc","",513.0
+515,"7442","Lifting, handling, loading machinery, telphers and conveyors","level3","Lifting, handling, loading machinery, telphers and conveyors","","Lifting, handling, loading machinery, telphers and conveyors","",513.0
+516,"745","Other non-electric machinery, tools and mechanical apparatus, nes","level2","Other non-electric machinery, tools and mechanical apparatus, nes","","Other non-electric machinery, tools and mechanical apparatus, nes","",507.0
+517,"7451","Power hand tools, pneumatic or non-electric, and parts thereof, nes","level3","Power hand tools, pneumatic or non-electric, and parts thereof, nes","","Power hand tools, pneumatic or non-electric, and parts thereof, nes","",516.0
+518,"7452","Other non-electrical machines and parts thereof, nes","level3","Other non-electrical machines and parts thereof, nes","","Other non-electrical machines and parts thereof, nes","",516.0
+519,"749","Non-electric parts and accessories of machinery, nes","level2","Non-electric parts and accessories of machinery, nes","","Non-electric parts and accessories of machinery, nes","",507.0
+520,"7499","Other non-electric parts and accessories of machinery, nes","level3","Other non-electric parts and accessories of machinery, nes","","Other non-electric parts and accessories of machinery, nes","",519.0
+521,"75","Office machines and automatic data processing equipment","level1","Office machines and automatic data processing equipment","","Office machines and automatic data processing equipment","",455.0
+522,"751","Office machines","level2","Office machines","","Office machines","",521.0
+523,"7511","Typewriters; cheque-writing machines","level3","Typewriters; cheque-writing machines","","Typewriters; cheque-writing machines","",522.0
+524,"7512","Calculating, accounting, cash registers, ticketing, etc, machines","level3","Calculating, accounting, cash registers, ticketing, etc, machines","","Calculating, accounting, cash registers, ticketing, etc, machines","",522.0
+525,"7518","Office machines, nes","level3","Office machines, nes","","Office machines, nes","",522.0
+526,"759","Parts, nes of and accessories for machines of headings 751 or 752","level2","Parts, nes of and accessories for machines of headings 751 or 752","","Parts, nes of and accessories for machines of headings 751 or 752","",521.0
+527,"7591","Parts, nes of and accessories for machines of headings 7511 or 7518","level3","Parts, nes of and accessories for machines of headings 7511 or 7518","","Parts, nes of and accessories for machines of headings 7511 or 7518","",526.0
+528,"76","Telecommunications, sound recording and reproducing equipment","level1","Telecommunications, sound recording and reproducing equipment","","Telecommunications, sound recording and reproducing equipment","",455.0
+529,"763","Gramophones, dictating machines and other sound recorders","level2","Gramophones, dictating machines and other sound recorders","","Gramophones, dictating machines and other sound recorders","",528.0
+530,"7631","Gramophones and record players, electric","level3","Gramophones and record players, electric","","Gramophones and record players, electric","",529.0
+531,"7638","Other sound recording and reproducer, nes; video recorders","level3","Other sound recording and reproducer, nes; video recorders","","Other sound recording and reproducer, nes; video recorders","",529.0
+532,"764","Telecommunication equipment, nes; parts and accessories, nes","level2","Telecommunication equipment, nes; parts and accessories, nes","","Telecommunication equipment, nes; parts and accessories, nes","",528.0
+533,"7648","Telecommunications equipment, nes","level3","Telecommunications equipment, nes","","Telecommunications equipment, nes","",532.0
+534,"7649","Parts, nes of and accessories for apparatus falling in heading 76","level3","Parts, nes of and accessories for apparatus falling in heading 76","","Parts, nes of and accessories for apparatus falling in heading 76","",532.0
+535,"77","Electric machinery, apparatus and appliances, nes, and parts, nes","level1","Electric machinery, apparatus and appliances, nes, and parts, nes","","Electric machinery, apparatus and appliances, nes, and parts, nes","",455.0
+536,"771","Electric power machinery, and parts thereof, nes","level2","Electric power machinery, and parts thereof, nes","","Electric power machinery, and parts thereof, nes","",535.0
+537,"7711","Transformers, electrical","level3","Transformers, electrical","","Transformers, electrical","",536.0
+538,"7712","Other electric power machinery, parts, nes","level3","Other electric power machinery, parts, nes","","Other electric power machinery, parts, nes","",536.0
+539,"773","Equipment for distribution of electricity","level2","Equipment for distribution of electricity","","Equipment for distribution of electricity","",535.0
+540,"7732","Electrical insulating equipment","level3","Electrical insulating equipment","","Electrical insulating equipment","",539.0
+541,"775","Household type equipment, nes","level2","Household type equipment, nes","","Household type equipment, nes","",535.0
+542,"7751","Household laundry equipment, nes","level3","Household laundry equipment, nes","","Household laundry equipment, nes","",541.0
+543,"7752","Domestic refrigerators and freezers","level3","Domestic refrigerators and freezers","","Domestic refrigerators and freezers","",541.0
+544,"7757","Domestic electro-mechanical appliances; and parts thereof, nes","level3","Domestic electro-mechanical appliances; and parts thereof, nes","","Domestic electro-mechanical appliances; and parts thereof, nes","",541.0
+545,"7758","Electro-thermic appliances, nes","level3","Electro-thermic appliances, nes","","Electro-thermic appliances, nes","",541.0
+546,"776","Thermionic, microcircuits, transistors, valves, etc","level2","Thermionic, microcircuits, transistors, valves, etc","","Thermionic, microcircuits, transistors, valves, etc","",535.0
+547,"7768","Crystals, and parts, nes of electronic components of heading 776","level3","Crystals, and parts, nes of electronic components of heading 776","","Crystals, and parts, nes of electronic components of heading 776","",546.0
+548,"778","Electrical machinery and apparatus, nes","level2","Electrical machinery and apparatus, nes","","Electrical machinery and apparatus, nes","",535.0
+549,"7781","Batteries and electric accumulators, and parts thereof, nes","level3","Batteries and electric accumulators, and parts thereof, nes","","Batteries and electric accumulators, and parts thereof, nes","",548.0
+550,"7782","Electric filament lamps and discharge lamps; arc-lamps","level3","Electric filament lamps and discharge lamps; arc-lamps","","Electric filament lamps and discharge lamps; arc-lamps","",548.0
+551,"7783","Automotive electrical equipment; and parts thereof, nes","level3","Automotive electrical equipment; and parts thereof, nes","","Automotive electrical equipment; and parts thereof, nes","",548.0
+552,"7788","Other electrical machinery and equipment, nes","level3","Other electrical machinery and equipment, nes","","Other electrical machinery and equipment, nes","",548.0
+553,"78","Road vehicles","level1","Road vehicles","","Road vehicles","",455.0
+554,"785","Cycles, scooters, motorized or not; invalid carriages","level2","Cycles, scooters, motorized or not; invalid carriages","","Cycles, scooters, motorized or not; invalid carriages","",553.0
+555,"7853","Invalid carriages; parts, nes of articles of heading 785","level3","Invalid carriages; parts, nes of articles of heading 785","","Invalid carriages; parts, nes of articles of heading 785","",554.0
+556,"786","Trailers, and other vehicles, not motorized, nes","level2","Trailers, and other vehicles, not motorized, nes","","Trailers, and other vehicles, not motorized, nes","",553.0
+557,"7861","Trailers and transports containers","level3","Trailers and transports containers","","Trailers and transports containers","",556.0
+558,"7868","Other not mechanically propelled vehicles; and parts, nes","level3","Other not mechanically propelled vehicles; and parts, nes","","Other not mechanically propelled vehicles; and parts, nes","",556.0
+559,"79","Other transport equipment","level1","Other transport equipment","","Other transport equipment","",455.0
+560,"791","Railway vehicles and associated equipment","level2","Railway vehicles and associated equipment","","Railway vehicles and associated equipment","",559.0
+561,"7915","Railway and tramway freight, etc, not mechanically propelled","level3","Railway and tramway freight, etc, not mechanically propelled","","Railway and tramway freight, etc, not mechanically propelled","",560.0
+562,"7919","Railway track fixtures, and fittings, etc, parts nes of heading 791","level3","Railway track fixtures, and fittings, etc, parts nes of heading 791","","Railway track fixtures, and fittings, etc, parts nes of heading 791","",560.0
+563,"792","Aircraft and associated equipment, and parts thereof, nes","level2","Aircraft and associated equipment, and parts thereof, nes","","Aircraft and associated equipment, and parts thereof, nes","",559.0
+564,"7928","Aircraft, nes and associated equipment","level3","Aircraft, nes and associated equipment","","Aircraft, nes and associated equipment","",563.0
+565,"793","Ships, boats and floating structures","level2","Ships, boats and floating structures","","Ships, boats and floating structures","",559.0
+566,"7932","Ships, boats and other vessels","level3","Ships, boats and other vessels","","Ships, boats and other vessels","",565.0
+567,"7938","Tugs, special purpose vessels and floating structures","level3","Tugs, special purpose vessels and floating structures","","Tugs, special purpose vessels and floating structures","",565.0
+568,"8","Miscellaneous manufactured articles","level0","Miscellaneous manufactured articles","","Other manufactured articles","",""
+569,"81","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","level1","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","",568.0
+570,"812","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","level2","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","",569.0
+571,"8124","Lighting fixture and fittings, lamps, lanterns, and parts, nes","level3","Lighting fixture and fittings, lamps, lanterns, and parts, nes","","Lighting fixture and fittings, lamps, lanterns, and parts, nes","",570.0
+572,"82","Furniture and parts thereof","level1","Furniture and parts thereof","","Furniture and parts thereof","",568.0
+573,"821","Furniture and parts thereof","level2","Furniture and parts thereof","","Furniture and parts thereof","",572.0
+574,"8211","Chairs and other seats; and parts thereof, nes","level3","Chairs and other seats; and parts thereof, nes","","Chairs and other seats; and parts thereof, nes","",573.0
+575,"8212","Furniture for medical, surgical, dental or veterinary practice","level3","Furniture for medical, surgical, dental or veterinary practice","","Furniture for medical, surgical, dental or veterinary practice","",573.0
+576,"8219","Other furniture and parts thereof, nes","level3","Other furniture and parts thereof, nes","","Other furniture and parts thereof, nes","",573.0
+577,"83","Travel goods, handbags and similar containers","level1","Travel goods, handbags and similar containers","","Travel goods, handbags and similar containers","",568.0
+578,"831","Travel goods, handbags etc, of leather, plastics, textile, others","level2","Travel goods, handbags etc, of leather, plastics, textile, others","","Travel goods, handbags etc, of leather, plastics, textile, others","",577.0
+579,"8310","Travel goods, handbags etc, of leather, plastics, textile, others","level3","Travel goods, handbags etc, of leather, plastics, textile, others","","Travel goods, handbags etc, of leather, plastics, textile, others","",578.0
+580,"84","Articles of apparel and clothing accessories","level1","Articles of apparel and clothing accessories","","Articles of apparel and clothing accessories","",568.0
+581,"842","Men's and boys' outerwear, textile fabrics not knitted or crocheted","level2","Men's and boys' outerwear, textile fabrics not knitted or crocheted","","Men's and boys' outerwear, textile fabrics not knitted or crocheted","",580.0
+582,"8421","Men's and boys' outerwear, textile fabrics not knitted or crocheted; overcoats and other coats","level3","Men's and boys' outerwear, textile fabrics not knitted or crocheted; overcoats and other coats","","Men's and boys' outerwear, textile fabrics not knitted or crocheted; overcoats and other coats","",581.0
+583,"8422","Men's and boys' outerwear, textile fabrics not knitted or crocheted; suits","level3","Men's and boys' outerwear, textile fabrics not knitted or crocheted; suits","","Men's and boys' outerwear, textile fabrics not knitted or crocheted; suits","",581.0
+584,"8423","Men's and boys' outerwear, textile fabrics not knitted or crocheted; trousers, breeches and the like","level3","Men's and boys' outerwear, textile fabrics not knitted or crocheted; trousers, breeches and the like","","Men's and boys' outerwear, textile fabrics not knitted or crocheted; trousers, breeches and the like","",581.0
+585,"8424","Men's and boys' outerwear, textile fabrics not knitted or crocheted; jackets, blazers and the like","level3","Men's and boys' outerwear, textile fabrics not knitted or crocheted; jackets, blazers and the like","","Men's and boys' outerwear, textile fabrics not knitted or crocheted; jackets, blazers and the like","",581.0
+586,"8429","Men's and boys' outerwear, textile fabrics not knitted or crocheted; other outer garments","level3","Men's and boys' outerwear, textile fabrics not knitted or crocheted; other outer garments","","Men's and boys' outerwear, textile fabrics not knitted or crocheted; other outer garments","",581.0
+587,"843","Womens, girls, infants outerwear, textile, not knitted or crocheted","level2","Womens, girls, infants outerwear, textile, not knitted or crocheted","","Womens, girls, infants outerwear, textile, not knitted or crocheted","",580.0
+588,"8431","Womens, girls, infants outerwear, textile, not knitted or crocheted; coats and jackets","level3","Womens, girls, infants outerwear, textile, not knitted or crocheted; coats and jackets","","Womens, girls, infants outerwear, textile, not knitted or crocheted; coats and jackets","",587.0
+589,"8432","Womens, girls, infants outerwear, textile, not knitted or crocheted; suits and costumes","level3","Womens, girls, infants outerwear, textile, not knitted or crocheted; suits and costumes","","Womens, girls, infants outerwear, textile, not knitted or crocheted; suits and costumes","",587.0
+590,"8433","Womens, girls, infants outerwear, textile, not knitted or crocheted; dresses","level3","Womens, girls, infants outerwear, textile, not knitted or crocheted; dresses","","Womens, girls, infants outerwear, textile, not knitted or crocheted; dresses","",587.0
+591,"8434","Womens, girls, infants outerwear, textile, not knitted or crocheted; skirts","level3","Womens, girls, infants outerwear, textile, not knitted or crocheted; skirts","","Womens, girls, infants outerwear, textile, not knitted or crocheted; skirts","",587.0
+592,"8435","Womens, girls, infants outerwear, textile, not knitted or crocheted; blouses","level3","Womens, girls, infants outerwear, textile, not knitted or crocheted; blouses","","Womens, girls, infants outerwear, textile, not knitted or crocheted; blouses","",587.0
+593,"8439","Womens, girls, infants outerwear, textile, not knitted or crocheted; other outer garments of textile fabrics, not knitted, crocheted","level3","Womens, girls, infants outerwear, textile, not knitted or crocheted; other outer garments of textile fabrics, not knitted, crocheted","","Womens, girls, infants outerwear, textile, not knitted or crocheted; other outer garments of textile fabrics, not knitted, crocheted","",587.0
+594,"844","Under garments of textile fabrics, not knitted or crocheted","level2","Under garments of textile fabrics, not knitted or crocheted","","Under garments of textile fabrics, not knitted or crocheted","",580.0
+595,"8441","Under garments of textile fabrics, not knitted or crocheted; mens and boys shirts","level3","Under garments of textile fabrics, not knitted or crocheted; mens and boys shirts","","Under garments of textile fabrics, not knitted or crocheted; mens and boys shirts","",594.0
+596,"8442","Under garments of textile fabrics, not knitted or crocheted; mens, boys under garments; other than shirts","level3","Under garments of textile fabrics, not knitted or crocheted; mens, boys under garments; other than shirts","","Under garments of textile fabrics, not knitted or crocheted; mens, boys under garments; other than shirts","",594.0
+597,"8443","Under garments of textile fabrics, not knitted or crocheted; womens, girls, infants under garments, textile, not knitted, etc","level3","Under garments of textile fabrics, not knitted or crocheted; womens, girls, infants under garments, textile, not knitted, etc","","Under garments of textile fabrics, not knitted or crocheted; womens, girls, infants under garments, textile, not knitted, etc","",594.0
+598,"845","Outerwear knitted or crocheted, not elastic nor rubberized","level2","Outerwear knitted or crocheted, not elastic nor rubberized","","Outerwear knitted or crocheted, not elastic nor rubberized","",580.0
+599,"8451","Outerwear knitted or crocheted, not elastic nor rubberized; jerseys, pullovers, slip-overs, cardigans, etc","level3","Outerwear knitted or crocheted, not elastic nor rubberized; jerseys, pullovers, slip-overs, cardigans, etc","","Outerwear knitted or crocheted, not elastic nor rubberized; jerseys, pullovers, slip-overs, cardigans, etc","",598.0
+600,"8452","Outerwear knitted or crocheted, not elastic nor rubberized; womens, girls, infants, suits, dresses, etc, knitted, crocheted","level3","Outerwear knitted or crocheted, not elastic nor rubberized; womens, girls, infants, suits, dresses, etc, knitted, crocheted","","Outerwear knitted or crocheted, not elastic nor rubberized; womens, girls, infants, suits, dresses, etc, knitted, crocheted","",598.0
+601,"8459","Outerwear knitted or crocheted, not elastic nor rubberized; other, clothing accessories, non-elastic, knitted or crocheted","level3","Outerwear knitted or crocheted, not elastic nor rubberized; other, clothing accessories, non-elastic, knitted or crocheted","","Outerwear knitted or crocheted, not elastic nor rubberized; other, clothing accessories, non-elastic, knitted or crocheted","",598.0
+602,"846","Under-garments, knitted or crocheted","level2","Under-garments, knitted or crocheted","","Under-garments, knitted or crocheted","",580.0
+603,"8461","Under-garments, knitted or crocheted; of wool or fine animal hair, not elastic nor rubberized","level3","Under-garments, knitted or crocheted; of wool or fine animal hair, not elastic nor rubberized","","Under-garments, knitted or crocheted; of wool or fine animal hair, not elastic nor rubberized","",602.0
+604,"8462","Under-garments, knitted or crocheted; of cotton, not elastic nor rubberized","level3","Under-garments, knitted or crocheted; of cotton, not elastic nor rubberized","","Under-garments, knitted or crocheted; of cotton, not elastic nor rubberized","",602.0
+605,"8463","Under-garments, knitted or crocheted; of synthetic fibres not elastic nor rubberized","level3","Under-garments, knitted or crocheted; of synthetic fibres not elastic nor rubberized","","Under-garments, knitted or crocheted; of synthetic fibres not elastic nor rubberized","",602.0
+606,"8464","Under-garments, knitted or crocheted; of other fibres, not elastic nor rubberized","level3","Under-garments, knitted or crocheted; of other fibres, not elastic nor rubberized","","Under-garments, knitted or crocheted; of other fibres, not elastic nor rubberized","",602.0
+607,"8465","Corsets, garters, etc, not knitted or crocheted, elastic or not","level3","Corsets, garters, etc, not knitted or crocheted, elastic or not","","Corsets, garters, etc, not knitted or crocheted, elastic or not","",602.0
+608,"847","Clothing accessories, of textile fabrics, nes","level2","Clothing accessories, of textile fabrics, nes","","Clothing accessories, of textile fabrics, nes","",580.0
+609,"8471","Clothing accessories, of textile fabrics, not knitted or crocheted","level3","Clothing accessories, of textile fabrics, not knitted or crocheted","","Clothing accessories, of textile fabrics, not knitted or crocheted","",608.0
+610,"8472","Clothing accessories, knitted or crocheted, nes","level3","Clothing accessories, knitted or crocheted, nes","","Clothing accessories, knitted or crocheted, nes","",608.0
+611,"848","Articles of apparel, clothing accessories, non-textile, headgear","level2","Articles of apparel, clothing accessories, non-textile, headgear","","Articles of apparel, clothing accessories, non-textile, headgear","",580.0
+612,"8482","Articles of apparel, clothing accessories of plastic or rubber","level3","Articles of apparel, clothing accessories of plastic or rubber","","Articles of apparel, clothing accessories of plastic or rubber","",611.0
+613,"8483","Fur clothing (not headgear) and other articles made of furskins","level3","Fur clothing (not headgear) and other articles made of furskins","","Fur clothing (not headgear) and other articles made of furskins","",611.0
+614,"8484","Headgear and fitting thereof, nes","level3","Headgear and fitting thereof, nes","","Headgear and fitting thereof, nes","",611.0
+615,"85","Footwear","level1","Footwear","","Footwear","",568.0
+616,"851","Footwear","level2","Footwear","","Footwear","",615.0
+617,"8510","Footwear","level3","Footwear","","Footwear","",616.0
+618,"87","Professional, scientific, controlling instruments, apparatus, nes","level1","Professional, scientific, controlling instruments, apparatus, nes","","Professional, scientific, controlling instruments, apparatus, nes","",568.0
+619,"871","Optical instruments and apparatus","level2","Optical instruments and apparatus","","Optical instruments and apparatus","",618.0
+620,"8710","Optical instruments and apparatus","level3","Optical instruments and apparatus","","Optical instruments and apparatus","",619.0
+621,"872","Medical instruments and appliances, nes","level2","Medical instruments and appliances, nes","","Medical instruments and appliances, nes","",618.0
+622,"8720","Medical instruments and appliances, nes","level3","Medical instruments and appliances, nes","","Medical instruments and appliances, nes","",621.0
+623,"874","Measuring, checking, analysis, controlling instruments, nes, parts","level2","Measuring, checking, analysis, controlling instruments, nes, parts","","Measuring, checking, analysis, controlling instruments, nes, parts","",618.0
+624,"8741","Surveying, navigational, compasses, etc, instruments, nonelectrical","level3","Surveying, navigational, compasses, etc, instruments, nonelectrical","","Surveying, navigational, compasses, etc, instruments, nonelectrical","",623.0
+625,"8742","Drawing, marking-out and mathematical calculating instruments, etc","level3","Drawing, marking-out and mathematical calculating instruments, etc","","Drawing, marking-out and mathematical calculating instruments, etc","",623.0
+626,"8745","Measuring, controlling and scientific instruments, nes","level3","Measuring, controlling and scientific instruments, nes","","Measuring, controlling and scientific instruments, nes","",623.0
+627,"8748","Electrical measuring, controlling, etc, instruments, apparatus, nes","level3","Electrical measuring, controlling, etc, instruments, apparatus, nes","","Electrical measuring, controlling, etc, instruments, apparatus, nes","",623.0
+628,"88","Photographic equipment and supplies, optical goods; watches, etc","level1","Photographic equipment and supplies, optical goods; watches, etc","","Photographic equipment and supplies, optical goods; watches, etc","",568.0
+629,"881","Photographic apparatus and equipment, nes","level2","Photographic apparatus and equipment, nes","","Photographic apparatus and equipment, nes","",628.0
+630,"8811","Photographic cameras, flashlight apparatus, parts, accessories, nes","level3","Photographic cameras, flashlight apparatus, parts, accessories, nes","","Photographic cameras, flashlight apparatus, parts, accessories, nes","",629.0
+631,"8812","Cinematographic cameras, projectors, etc, parts, accessories, nes","level3","Cinematographic cameras, projectors, etc, parts, accessories, nes","","Cinematographic cameras, projectors, etc, parts, accessories, nes","",629.0
+632,"8813","Photographic and cinematographic apparatus and equipment, nes","level3","Photographic and cinematographic apparatus and equipment, nes","","Photographic and cinematographic apparatus and equipment, nes","",629.0
+633,"882","Photographic and cinematographic supplies","level2","Photographic and cinematographic supplies","","Photographic and cinematographic supplies","",628.0
+634,"8822","Photographic film, plates and paper (other than cinematograph film)","level3","Photographic film, plates and paper (other than cinematograph film)","","Photographic film, plates and paper (other than cinematograph film)","",633.0
+635,"884","Optical goods nes","level2","Optical goods nes","","Optical goods nes","",628.0
+636,"8841","Lenses and other optical elements of any material","level3","Lenses and other optical elements of any material","","Lenses and other optical elements of any material","",635.0
+637,"8842","Spectacles and spectacle frames","level3","Spectacles and spectacle frames","","Spectacles and spectacle frames","",635.0
+638,"885","Watches and clocks","level2","Watches and clocks","","Watches and clocks","",628.0
+639,"8851","Watches, watch movements and case","level3","Watches, watch movements and case","","Watches, watch movements and case","",638.0
+640,"8852","Clocks, clock movements and parts","level3","Clocks, clock movements and parts","","Clocks, clock movements and parts","",638.0
+641,"89","Miscellaneous manufactured articles, nes","level1","Miscellaneous manufactured articles, nes","","Miscellaneous manufactured articles, nes","",568.0
+642,"892","Printed matter","level2","Printed matter","","Printed matter","",641.0
+643,"8921","Printed books, pamphlets, maps and globes","level3","Printed books, pamphlets, maps and globes","","Printed books, pamphlets, maps and globes","",642.0
+644,"8924","Picture postcards, decalcomanias, etc, printed","level3","Picture postcards, decalcomanias, etc, printed","","Picture postcards, decalcomanias, etc, printed","",642.0
+645,"8928","Printed matter, nes","level3","Printed matter, nes","","Printed matter, nes","",642.0
+646,"893","Articles, nes of plastic materials","level2","Articles, nes of plastic materials","","Articles, nes of plastic materials","",641.0
+647,"8939","Miscellaneous articles of plastic","level3","Miscellaneous articles of plastic","","Miscellaneous articles of plastic","",646.0
+648,"894","Baby carriages, toys, games and sporting goods","level2","Baby carriages, toys, games and sporting goods","","Baby carriages, toys, games and sporting goods","",641.0
+649,"8942","Children's toys, indoor games, etc","level3","Children's toys, indoor games, etc","","Children's toys, indoor games, etc","",648.0
+650,"8946","Non-military arms and ammunition therefor","level3","Non-military arms and ammunition therefor","","Non-military arms and ammunition therefor","",648.0
+651,"8947","Other sporting goods and fairground amusements, etc","level3","Other sporting goods and fairground amusements, etc","","Other sporting goods and fairground amusements, etc","",648.0
+652,"895","Office and stationary supplies, nes","level2","Office and stationary supplies, nes","","Office and stationary supplies, nes","",641.0
+653,"8951","Office and stationary supplies, of base metal","level3","Office and stationary supplies, of base metal","","Office and stationary supplies, of base metal","",652.0
+654,"8952","Pens, pencils and, fountain pens","level3","Pens, pencils and, fountain pens","","Pens, pencils and, fountain pens","",652.0
+655,"8959","Other office and stationary supplies","level3","Other office and stationary supplies","","Other office and stationary supplies","",652.0
+656,"896","Works of art, collectors' pieces and antiques","level2","Works of art, collectors' pieces and antiques","","Works of art, collectors' pieces and antiques","",641.0
+657,"8960","Works of art, collectors' pieces and antiques","level3","Works of art, collectors' pieces and antiques","","Works of art, collectors' pieces and antiques","",656.0
+658,"897","Gold, silver ware, jewelry and articles of precious materials, nes","level2","Gold, silver ware, jewelry and articles of precious materials, nes","","Gold, silver ware, jewelry and articles of precious materials, nes","",641.0
+659,"8973","Precious jewellery, goldsmiths' or silversmiths' wares","level3","Precious jewellery, goldsmiths' or silversmiths' wares","","Precious jewellery, goldsmiths' or silversmiths' wares","",658.0
+660,"898","Musical instruments, parts and accessories thereof","level2","Musical instruments, parts and accessories thereof","","Musical instruments, parts and accessories thereof","",641.0
+661,"8981","Pianos, other string musical instruments","level3","Pianos, other string musical instruments","","Pianos, other string musical instruments","",660.0
+662,"8982","Musical instruments, nes","level3","Musical instruments, nes","","Musical instruments, nes","",660.0
+663,"8983","Sound recording tape, discs","level3","Sound recording tape, discs","","Sound recording tape, discs","",660.0
+664,"899","Other miscellaneous manufactured articles, nes","level2","Other miscellaneous manufactured articles, nes","","Other miscellaneous manufactured articles, nes","",641.0
+665,"8991","Articles and manufacture of carving, moulding materials, nes","level3","Articles and manufacture of carving, moulding materials, nes","","Articles and manufacture of carving, moulding materials, nes","",664.0
+666,"8993","Candles, matches, combustible products, etc","level3","Candles, matches, combustible products, etc","","Candles, matches, combustible products, etc","",664.0
+667,"8994","Umbrellas, canes and similar articles and parts thereof","level3","Umbrellas, canes and similar articles and parts thereof","","Umbrellas, canes and similar articles and parts thereof","",664.0
+668,"8996","Orthopaedic appliances, hearing aids, artificial parts of the body","level3","Orthopaedic appliances, hearing aids, artificial parts of the body","","Orthopaedic appliances, hearing aids, artificial parts of the body","",664.0
+669,"8997","Basketwork, wickerwork; brooms, paint rollers, etc","level3","Basketwork, wickerwork; brooms, paint rollers, etc","","Basketwork, wickerwork; brooms, paint rollers, etc","",664.0
+670,"8998","Small-wares and toilet articles, nes; sieves; tailors' dummies, etc","level3","Small-wares and toilet articles, nes; sieves; tailors' dummies, etc","","Small-wares and toilet articles, nes; sieves; tailors' dummies, etc","",664.0
+671,"8999","Manufactured goods, nes","level3","Manufactured goods, nes","","Manufactured goods, nes","",664.0
+672,"9","Commodities and transactions not classified elsewhere in the SITC","level0","Commodities and transactions not classified elsewhere in the SITC","","Other","",""
+673,"95","Armoured fighting vehicles, war firearms, ammunition, parts, nes","level1","Armoured fighting vehicles, war firearms, ammunition, parts, nes","","Armoured fighting vehicles, war firearms, ammunition, parts, nes","",672.0
+674,"951","Armoured fighting vehicles, war firearms, ammunition, parts, nes","level2","Armoured fighting vehicles, war firearms, ammunition, parts, nes","","Armoured fighting vehicles, war firearms, ammunition, parts, nes","",673.0
+675,"9510","Armoured fighting vehicles, war firearms, ammunition, parts, nes","level3","Armoured fighting vehicles, war firearms, ammunition, parts, nes","","Armoured fighting vehicles, war firearms, ammunition, parts, nes","",674.0
+676,"97","Gold, non-monetary (excluding gold ores and concentrates)","level1","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",672.0
+677,"971","Gold, non-monetary (excluding gold ores and concentrates)","level2","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",676.0
+678,"9710","Gold, non-monetary (excluding gold ores and concentrates)","level3","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",677.0
+679,"ZZ","Unknown","level1","Unknown","","Unknown","",672.0
+680,"ZZZ","Unknown","level2","Unknown","","Unknown","",679.0
+681,"ZZZZ","Unknown","level3","Unknown","","Unknown","",680.0
+682,"0013","Swine, live","level3","Swine, live","","Swine, live","",2.0
+683,"0015","Equine species, live","level3","Equine species, live","","Equine species, live","",2.0
+684,"0019","Live animals of a kind mainly used for human food, nes","level3","Live animals of a kind mainly used for human food, nes","","Live animals of a kind mainly used for human food, nes","",2.0
+685,"0112","Meat of sheep and goats, fresh, chilled or frozen","level3","Meat of sheep and goats, fresh, chilled or frozen","","Meat of sheep and goats, fresh, chilled or frozen","",7.0
+686,"0113","Pig meat fresh, chilled or frozen","level3","Pig meat fresh, chilled or frozen","","Pig meat fresh, chilled or frozen","",7.0
+687,"0114","Poultry, dead and edible offal, fresh, chilled or frozen","level3","Poultry, dead and edible offal, fresh, chilled or frozen","","Poultry, dead and edible offal, fresh, chilled or frozen","",7.0
+688,"0115","Meat of horses, asses, mules and hinnies, fresh, chilled or frozen","level3","Meat of horses, asses, mules and hinnies, fresh, chilled or frozen","","Meat of horses, asses, mules and hinnies, fresh, chilled or frozen","",7.0
+689,"0116","Edible offal of headings 0011-5 and 0015, fresh, chilled or frozen","level3","Edible offal of headings 0011-5 and 0015, fresh, chilled or frozen","","Edible offal of headings 0011-5 and 0015, fresh, chilled or frozen","",7.0
+690,"012","Meat and edible meat offal, in brine, dried, salted or smoked","level2","Meat and edible meat offal, in brine, dried, salted or smoked","","Meat and edible meat offal, in brine, dried, salted or smoked","",6.0
+691,"0121","Bacon, ham, other dried, salted or smoked meat of domestic swine","level3","Bacon, ham, other dried, salted or smoked meat of domestic swine","","Bacon, ham, other dried, salted or smoked meat of domestic swine","",690.0
+692,"0129","Meat and edible meat offal, nes, in brine, dried, salted or smoked","level3","Meat and edible meat offal, nes, in brine, dried, salted or smoked","","Meat and edible meat offal, nes, in brine, dried, salted or smoked","",690.0
+693,"014","Meat and edible meat offal, prepared, preserved, nes; fish extracts","level2","Meat and edible meat offal, prepared, preserved, nes; fish extracts","","Meat and edible meat offal, prepared, preserved, nes; fish extracts","",6.0
+694,"0141","Meat extracts and juices; fish extracts","level3","Meat extracts and juices; fish extracts","","Meat extracts and juices; fish extracts","",693.0
+695,"0142","Sausages and the like, of meat, meat offal or animal blood","level3","Sausages and the like, of meat, meat offal or animal blood","","Sausages and the like, of meat, meat offal or animal blood","",693.0
+696,"0149","Other prepared or preserved meat or meat offal","level3","Other prepared or preserved meat or meat offal","","Other prepared or preserved meat or meat offal","",693.0
+697,"0223","Milk and cream fresh, not concentrated or sweetened","level3","Milk and cream fresh, not concentrated or sweetened","","Milk and cream fresh, not concentrated or sweetened","",11.0
+698,"023","Butter","level2","Butter","","Butter","",10.0
+699,"0230","Butter","level3","Butter","","Butter","",698.0
+700,"024","Cheese and curd","level2","Cheese and curd","","Cheese and curd","",10.0
+701,"0240","Cheese and curd","level3","Cheese and curd","","Cheese and curd","",700.0
+702,"025","Eggs, birds', and egg yolks, fresh, dried or preserved","level2","Eggs, birds', and egg yolks, fresh, dried or preserved","","Eggs, birds', and egg yolks, fresh, dried or preserved","",10.0
+703,"0251","Eggs, birds', and egg yolks, fresh, dried or preserved, in shell","level3","Eggs, birds', and egg yolks, fresh, dried or preserved, in shell","","Eggs, birds', and egg yolks, fresh, dried or preserved, in shell","",702.0
+704,"0252","Eggs, birds', egg yolks, fresh, dried or preserved, not in shell","level3","Eggs, birds', egg yolks, fresh, dried or preserved, not in shell","","Eggs, birds', egg yolks, fresh, dried or preserved, not in shell","",702.0
+705,"034","Fish, fresh, chilled or frozen","level2","Fish, fresh, chilled or frozen","","Fish, fresh, chilled or frozen","",13.0
+706,"0341","Fish, fresh or chilled, excluding fillet","level3","Fish, fresh or chilled, excluding fillet","","Fish, fresh or chilled, excluding fillet","",705.0
+707,"0342","Fish, frozen, excluding fillets","level3","Fish, frozen, excluding fillets","","Fish, frozen, excluding fillets","",705.0
+708,"0343","Fish fillets, fresh or chilled","level3","Fish fillets, fresh or chilled","","Fish fillets, fresh or chilled","",705.0
+709,"0344","Fish fillets, frozen","level3","Fish fillets, frozen","","Fish fillets, frozen","",705.0
+710,"036","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","level2","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","",13.0
+711,"0360","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","level3","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","",710.0
+712,"037","Fish, crustaceans and molluscs, prepared or preserved, nes","level2","Fish, crustaceans and molluscs, prepared or preserved, nes","","Fish, crustaceans and molluscs, prepared or preserved, nes","",13.0
+713,"0371","Fish, prepared or preserved, nes","level3","Fish, prepared or preserved, nes","","Fish, prepared or preserved, nes","",712.0
+714,"0372","Crustaceans and molluscs, prepared or prepared, nes","level3","Crustaceans and molluscs, prepared or prepared, nes","","Crustaceans and molluscs, prepared or prepared, nes","",712.0
+715,"041","Wheat and meslin, unmilled","level2","Wheat and meslin, unmilled","","Wheat and meslin, unmilled","",16.0
+716,"0411","Durum wheat, unmilled","level3","Durum wheat, unmilled","","Durum wheat, unmilled","",715.0
+717,"0412","Other wheat and meslin, unmilled","level3","Other wheat and meslin, unmilled","","Other wheat and meslin, unmilled","",715.0
+718,"043","Barley, unmilled","level2","Barley, unmilled","","Barley, unmilled","",16.0
+719,"0430","Barley, unmilled","level3","Barley, unmilled","","Barley, unmilled","",718.0
+720,"044","Maize, unmilled","level2","Maize, unmilled","","Maize, unmilled","",16.0
+721,"0440","Maize, unmilled","level3","Maize, unmilled","","Maize, unmilled","",720.0
+722,"0451","Rye, unmilled","level3","Rye, unmilled","","Rye, unmilled","",20.0
+723,"0452","Oats, unmilled","level3","Oats, unmilled","","Oats, unmilled","",20.0
+724,"0482","Malt, roasted or not, including flour","level3","Malt, roasted or not, including flour","","Malt, roasted or not, including flour","",26.0
+725,"0483","Macaroni, spaghetti and similar products","level3","Macaroni, spaghetti and similar products","","Macaroni, spaghetti and similar products","",26.0
+726,"0488","Malt extract; cereals preparations with less 50% of cocoa","level3","Malt extract; cereals preparations with less 50% of cocoa","","Malt extract; cereals preparations with less 50% of cocoa","",26.0
+727,"0541","Potatoes, fresh or chilled, excluding sweet potatoes","level3","Potatoes, fresh or chilled, excluding sweet potatoes","","Potatoes, fresh or chilled, excluding sweet potatoes","",30.0
+728,"0542","Beans, peas, other leguminous vegetables, dried, shelled","level3","Beans, peas, other leguminous vegetables, dried, shelled","","Beans, peas, other leguminous vegetables, dried, shelled","",30.0
+729,"0544","Tomatoes, fresh or chilled","level3","Tomatoes, fresh or chilled","","Tomatoes, fresh or chilled","",30.0
+730,"0561","Vegetables (excluding leguminous), dried, evaporated, etc","level3","Vegetables (excluding leguminous), dried, evaporated, etc","","Vegetables (excluding leguminous), dried, evaporated, etc","",34.0
+731,"0573","Banana, plantain, fresh or dried","level3","Banana, plantain, fresh or dried","","Banana, plantain, fresh or dried","",37.0
+732,"0574","Apples, fresh","level3","Apples, fresh","","Apples, fresh","",37.0
+733,"0576","Figs, fresh or dried","level3","Figs, fresh or dried","","Figs, fresh or dried","",37.0
+734,"0582","Fruit, fruit-peel and parts of plants, preserved by sugar","level3","Fruit, fruit-peel and parts of plants, preserved by sugar","","Fruit, fruit-peel and parts of plants, preserved by sugar","",43.0
+735,"0583","Jams, jellies, marmalades, etc, as cooked preparations","level3","Jams, jellies, marmalades, etc, as cooked preparations","","Jams, jellies, marmalades, etc, as cooked preparations","",43.0
+736,"061","Sugar and honey","level2","Sugar and honey","","Sugar and honey","",47.0
+737,"0611","Sugars, beet and cane, raw, solid","level3","Sugars, beet and cane, raw, solid","","Sugars, beet and cane, raw, solid","",736.0
+738,"0612","Refined sugar etc","level3","Refined sugar etc","","Refined sugar etc","",736.0
+739,"0615","Molasses","level3","Molasses","","Molasses","",736.0
+740,"0616","Natural honey","level3","Natural honey","","Natural honey","",736.0
+741,"0619","Sugars and syrups nes; artificial honey; caramel","level3","Sugars and syrups nes; artificial honey; caramel","","Sugars and syrups nes; artificial honey; caramel","",736.0
+742,"0712","Coffee extracts, essences or concentrates","level3","Coffee extracts, essences or concentrates","","Coffee extracts, essences or concentrates","",51.0
+743,"0721","Cocoa beans, raw, roasted","level3","Cocoa beans, raw, roasted","","Cocoa beans, raw, roasted","",53.0
+744,"0722","Cocoa powder, unsweetened","level3","Cocoa powder, unsweetened","","Cocoa powder, unsweetened","",53.0
+745,"073","Chocolate and other preparations containing cocoa, nes","level2","Chocolate and other preparations containing cocoa, nes","","Chocolate and other preparations containing cocoa, nes","",50.0
+746,"0730","Chocolate and other preparations containing cocoa, nes","level3","Chocolate and other preparations containing cocoa, nes","","Chocolate and other preparations containing cocoa, nes","",745.0
+747,"074","Tea and mate","level2","Tea and mate","","Tea and mate","",50.0
+748,"0741","Tea","level3","Tea","","Tea","",747.0
+749,"0742","Mate","level3","Mate","","Mate","",747.0
+750,"0751","Pepper of ""piper""; pimento of ""capsicum or pimenta""","level3","Pepper of ""piper""; pimento of ""capsicum or pimenta""","","Pepper of ""piper""; pimento of ""capsicum or pimenta""","",55.0
+751,"0913","Lard, pig and poultry fat, rendered or solvent-extracted","level3","Lard, pig and poultry fat, rendered or solvent-extracted","","Lard, pig and poultry fat, rendered or solvent-extracted","",65.0
+752,"1122","Other fermented beverages, nes (cider, perry, mead, etc)","level3","Other fermented beverages, nes (cider, perry, mead, etc)","","Other fermented beverages, nes (cider, perry, mead, etc)","",73.0
+753,"1123","Beer made from malt (including ale, stout and porter)","level3","Beer made from malt (including ale, stout and porter)","","Beer made from malt (including ale, stout and porter)","",73.0
+754,"1213","Tobacco refuse","level3","Tobacco refuse","","Tobacco refuse","",77.0
+755,"122","Tobacco, manufactured","level2","Tobacco, manufactured","","Tobacco, manufactured","",76.0
+756,"1221","Cigars, cheroots: cigarillos","level3","Cigars, cheroots: cigarillos","","Cigars, cheroots: cigarillos","",755.0
+757,"1222","Cigarettes","level3","Cigarettes","","Cigarettes","",755.0
+758,"1223","Tobacco, manufactured; tobacco extract and essences","level3","Tobacco, manufactured; tobacco extract and essences","","Tobacco, manufactured; tobacco extract and essences","",755.0
+759,"2111","Bovine and equine hides, raw, whether or not split","level3","Bovine and equine hides, raw, whether or not split","","Bovine and equine hides, raw, whether or not split","",82.0
+760,"2112","Calf skins, raw, whether or not split","level3","Calf skins, raw, whether or not split","","Calf skins, raw, whether or not split","",82.0
+761,"2114","Goat and kid skins, raw, whether or not split","level3","Goat and kid skins, raw, whether or not split","","Goat and kid skins, raw, whether or not split","",82.0
+762,"2116","Sheep and lamb skin with the wool on, raw, whether or not split","level3","Sheep and lamb skin with the wool on, raw, whether or not split","","Sheep and lamb skin with the wool on, raw, whether or not split","",82.0
+763,"2117","Sheep and lamb skin without the wool, raw, whether or not split","level3","Sheep and lamb skin without the wool, raw, whether or not split","","Sheep and lamb skin without the wool, raw, whether or not split","",82.0
+764,"22","Oil seeds and oleaginous fruit","level1","Oil seeds and oleaginous fruit","","Oil seeds and oleaginous fruit","",80.0
+765,"222","Seeds and oleaginous fruit, whole or broken, for 'soft' fixed oil","level2","Seeds and oleaginous fruit, whole or broken, for 'soft' fixed oil","","Seeds and oleaginous fruit, whole or broken, for 'soft' fixed oil","",764.0
+766,"2221","Groundnuts, green","level3","Groundnuts, green","","Groundnuts, green","",765.0
+767,"2222","Soya beans","level3","Soya beans","","Soya beans","",765.0
+768,"2223","Cotton seeds","level3","Cotton seeds","","Cotton seeds","",765.0
+769,"2224","Sunflower seeds","level3","Sunflower seeds","","Sunflower seeds","",765.0
+770,"2225","Sesame seeds","level3","Sesame seeds","","Sesame seeds","",765.0
+771,"2226","Rape and colza seeds","level3","Rape and colza seeds","","Rape and colza seeds","",765.0
+772,"223","Seeds and oleaginous fruit, whole or broken, for other fixed oils","level2","Seeds and oleaginous fruit, whole or broken, for other fixed oils","","Seeds and oleaginous fruit, whole or broken, for other fixed oils","",764.0
+773,"2231","Copra","level3","Copra","","Copra","",772.0
+774,"2232","Palm nuts and kernels","level3","Palm nuts and kernels","","Palm nuts and kernels","",772.0
+775,"2234","Linseed","level3","Linseed","","Linseed","",772.0
+776,"2235","Castor oil seeds","level3","Castor oil seeds","","Castor oil seeds","",772.0
+777,"2238","Oil seeds and oleaginous fruits, nes","level3","Oil seeds and oleaginous fruits, nes","","Oil seeds and oleaginous fruits, nes","",772.0
+778,"2239","Flour or meals of oil seeds or oleaginous fruit, non-defatted","level3","Flour or meals of oil seeds or oleaginous fruit, non-defatted","","Flour or meals of oil seeds or oleaginous fruit, non-defatted","",772.0
+779,"2479","Pitprops, poles, piling, post and other wood in the rough, nes","level3","Pitprops, poles, piling, post and other wood in the rough, nes","","Pitprops, poles, piling, post and other wood in the rough, nes","",99.0
+780,"2481","Railway or tramway sleepers (ties) of wood","level3","Railway or tramway sleepers (ties) of wood","","Railway or tramway sleepers (ties) of wood","",102.0
+781,"2511","Waste paper and paperboard, etc","level3","Waste paper and paperboard, etc","","Waste paper and paperboard, etc","",106.0
+782,"2512","Mechanical wood pulp","level3","Mechanical wood pulp","","Mechanical wood pulp","",106.0
+783,"2516","Chemical wood pulp, dissolving grades","level3","Chemical wood pulp, dissolving grades","","Chemical wood pulp, dissolving grades","",106.0
+784,"2613","Raw silk (not thrown)","level3","Raw silk (not thrown)","","Raw silk (not thrown)","",111.0
+785,"263","Cotton","level2","Cotton","","Cotton","",110.0
+786,"2631","Raw cotton, excluding linters, not carded or combed","level3","Raw cotton, excluding linters, not carded or combed","","Raw cotton, excluding linters, not carded or combed","",785.0
+787,"2632","Cotton linters","level3","Cotton linters","","Cotton linters","",785.0
+788,"2633","Cotton waste, not carded or combed","level3","Cotton waste, not carded or combed","","Cotton waste, not carded or combed","",785.0
+789,"2634","Cotton, carded or combed","level3","Cotton, carded or combed","","Cotton, carded or combed","",785.0
+790,"264","Jute, other textile bast fibres, nes, raw, processed but not spun","level2","Jute, other textile bast fibres, nes, raw, processed but not spun","","Jute, other textile bast fibres, nes, raw, processed but not spun","",110.0
+791,"2640","Jute, other textile bast fibres, nes, raw, processed but not spun","level3","Jute, other textile bast fibres, nes, raw, processed but not spun","","Jute, other textile bast fibres, nes, raw, processed but not spun","",790.0
+792,"2652","True hemp, raw or processed but not spun, its tow and waste","level3","True hemp, raw or processed but not spun, its tow and waste","","True hemp, raw or processed but not spun, its tow and waste","",113.0
+793,"2654","Sisal, agave fibres, raw or processed but not spun, and waste","level3","Sisal, agave fibres, raw or processed but not spun, and waste","","Sisal, agave fibres, raw or processed but not spun, and waste","",113.0
+794,"2655","Manila hemp, raw or processed but not spun, its tow and waste","level3","Manila hemp, raw or processed but not spun, its tow and waste","","Manila hemp, raw or processed but not spun, its tow and waste","",113.0
+795,"2681","Wool greasy or fleece-washed of sheep or lambs","level3","Wool greasy or fleece-washed of sheep or lambs","","Wool greasy or fleece-washed of sheep or lambs","",123.0
+796,"2682","Wool degreased, uncombed of sheep or lambs","level3","Wool degreased, uncombed of sheep or lambs","","Wool degreased, uncombed of sheep or lambs","",123.0
+797,"2683","Fine animal hair, not carded or combed","level3","Fine animal hair, not carded or combed","","Fine animal hair, not carded or combed","",123.0
+798,"2687","Sheep's or lambs' wool, or of other animal hair, carded or combed","level3","Sheep's or lambs' wool, or of other animal hair, carded or combed","","Sheep's or lambs' wool, or of other animal hair, carded or combed","",123.0
+799,"2711","Animal or vegetable fertilizer, crude","level3","Animal or vegetable fertilizer, crude","","Animal or vegetable fertilizer, crude","",129.0
+800,"2712","Natural sodium nitrate","level3","Natural sodium nitrate","","Natural sodium nitrate","",129.0
+801,"2714","Potassium salts, natural, crude","level3","Potassium salts, natural, crude","","Potassium salts, natural, crude","",129.0
+802,"2733","Sands, excluding metal-bearing sands","level3","Sands, excluding metal-bearing sands","","Sands, excluding metal-bearing sands","",131.0
+803,"2734","Pebbles, gravel, crushed or broken stone, etc","level3","Pebbles, gravel, crushed or broken stone, etc","","Pebbles, gravel, crushed or broken stone, etc","",131.0
+804,"274","Sulphur and unroasted iron pyrites","level2","Sulphur and unroasted iron pyrites","","Sulphur and unroasted iron pyrites","",128.0
+805,"2741","Sulphur (other than sublimed, precipitated or colloidal)","level3","Sulphur (other than sublimed, precipitated or colloidal)","","Sulphur (other than sublimed, precipitated or colloidal)","",804.0
+806,"2742","Iron pyrites, unroasted","level3","Iron pyrites, unroasted","","Iron pyrites, unroasted","",804.0
+807,"2771","Industrial diamonds","level3","Industrial diamonds","","Industrial diamonds","",134.0
+808,"2783","Common salt; pure sodium chloride; salt liquors; sea water","level3","Common salt; pure sodium chloride; salt liquors; sea water","","Common salt; pure sodium chloride; salt liquors; sea water","",136.0
+809,"2784","Asbestos","level3","Asbestos","","Asbestos","",136.0
+810,"281","Iron ore and concentrates","level2","Iron ore and concentrates","","Iron ore and concentrates","",141.0
+811,"2814","Roasted iron pyrites","level3","Roasted iron pyrites","","Roasted iron pyrites","",810.0
+812,"2815","Iron ore and concentrates, not agglomerated","level3","Iron ore and concentrates, not agglomerated","","Iron ore and concentrates, not agglomerated","",810.0
+813,"2816","Iron ore agglomerates","level3","Iron ore agglomerates","","Iron ore agglomerates","",810.0
+814,"286","Ores and concentrates of uranium and thorium","level2","Ores and concentrates of uranium and thorium","","Ores and concentrates of uranium and thorium","",141.0
+815,"2860","Ores and concentrates of uranium and thorium","level3","Ores and concentrates of uranium and thorium","","Ores and concentrates of uranium and thorium","",814.0
+816,"2874","Lead ores and concentrates","level3","Lead ores and concentrates","","Lead ores and concentrates","",144.0
+817,"2875","Zinc ores and concentrates","level3","Zinc ores and concentrates","","Zinc ores and concentrates","",144.0
+818,"2876","Tin ores and concentrates","level3","Tin ores and concentrates","","Tin ores and concentrates","",144.0
+819,"2877","Manganese ore and concentrates","level3","Manganese ore and concentrates","","Manganese ore and concentrates","",144.0
+820,"2881","Ash and residues, nes","level3","Ash and residues, nes","","Ash and residues, nes","",149.0
+821,"2922","Natural gums, resins, lacs and balsams","level3","Natural gums, resins, lacs and balsams","","Natural gums, resins, lacs and balsams","",157.0
+822,"2923","Vegetable plaiting materials","level3","Vegetable plaiting materials","","Vegetable plaiting materials","",157.0
+823,"2924","Plants and parts of trees used in perfumery; in pharmacy; etc","level3","Plants and parts of trees used in perfumery; in pharmacy; etc","","Plants and parts of trees used in perfumery; in pharmacy; etc","",157.0
+824,"2925","Seeds, fruits and spores, nes, for planting","level3","Seeds, fruits and spores, nes, for planting","","Seeds, fruits and spores, nes, for planting","",157.0
+825,"322","Coal, lignite and peat","level2","Coal, lignite and peat","","Coal, lignite and peat","",162.0
+826,"3221","Anthracite, not agglomerated","level3","Anthracite, not agglomerated","","Anthracite, not agglomerated","",825.0
+827,"3222","Other coal, not agglomerated","level3","Other coal, not agglomerated","","Other coal, not agglomerated","",825.0
+828,"3223","Lignite, not agglomerated","level3","Lignite, not agglomerated","","Lignite, not agglomerated","",825.0
+829,"3224","Peat, not agglomerated","level3","Peat, not agglomerated","","Peat, not agglomerated","",825.0
+830,"333","Crude petroleum and oils obtained from bituminous minerals","level2","Crude petroleum and oils obtained from bituminous minerals","","Crude petroleum and oils obtained from bituminous minerals","",166.0
+831,"3330","Crude petroleum and oils obtained from bituminous materials","level3","Crude petroleum and oils obtained from bituminous materials","","Crude petroleum and oils obtained from bituminous materials","",830.0
+832,"3343","Gas oils","level3","Gas oils","","Gas oils","",167.0
+833,"3344","Fuel oils, nes","level3","Fuel oils, nes","","Fuel oils, nes","",167.0
+834,"3414","Petroleum gases, nes, in gaseous state","level3","Petroleum gases, nes, in gaseous state","","Petroleum gases, nes, in gaseous state","",177.0
+835,"3415","Coal gas, water gas and similar gases","level3","Coal gas, water gas and similar gases","","Coal gas, water gas and similar gases","",177.0
+836,"35","Electric current","level1","Electric current","","Electric current","",161.0
+837,"351","Electric current","level2","Electric current","","Electric current","",836.0
+838,"3510","Electric current","level3","Electric current","","Electric current","",837.0
+839,"4232","Soya bean oil","level3","Soya bean oil","","Soya bean oil","",185.0
+840,"4233","Cotton seed oil","level3","Cotton seed oil","","Cotton seed oil","",185.0
+841,"4234","Groundnut (peanut) oil","level3","Groundnut (peanut) oil","","Groundnut (peanut) oil","",185.0
+842,"4235","Olive oil","level3","Olive oil","","Olive oil","",185.0
+843,"4236","Sunflower seed oil","level3","Sunflower seed oil","","Sunflower seed oil","",185.0
+844,"424","Other fixed vegetable oils, fluid or solid, crude, refined","level2","Other fixed vegetable oils, fluid or solid, crude, refined","","Other fixed vegetable oils, fluid or solid, crude, refined","",184.0
+845,"4241","Linseed oil","level3","Linseed oil","","Linseed oil","",844.0
+846,"4242","Palm oil","level3","Palm oil","","Palm oil","",844.0
+847,"4243","Coconut (copra) oil","level3","Coconut (copra) oil","","Coconut (copra) oil","",844.0
+848,"4244","Palm kernel oil","level3","Palm kernel oil","","Palm kernel oil","",844.0
+849,"4245","Castor oil","level3","Castor oil","","Castor oil","",844.0
+850,"4249","Fixed vegetable oils, nes","level3","Fixed vegetable oils, nes","","Fixed vegetable oils, nes","",844.0
+851,"4311","Processed animal and vegetable oils","level3","Processed animal and vegetable oils","","Processed animal and vegetable oils","",188.0
+852,"4312","Hydrogenated animal or vegetable oils and fats","level3","Hydrogenated animal or vegetable oils and fats","","Hydrogenated animal or vegetable oils and fats","",188.0
+853,"5114","Hydrocarbons derivatives, nonhaloganeted","level3","Hydrocarbons derivatives, nonhaloganeted","","Hydrocarbons derivatives, nonhaloganeted","",193.0
+854,"5122","Cyclic alcohols, and their derivatives","level3","Cyclic alcohols, and their derivatives","","Cyclic alcohols, and their derivatives","",197.0
+855,"5139","Oxygen-function acids, and their derivatives","level3","Oxygen-function acids, and their derivatives","","Oxygen-function acids, and their derivatives","",200.0
+856,"5145","Amine-function compounds","level3","Amine-function compounds","","Amine-function compounds","",203.0
+857,"5146","Oxygen-function amino-compounds","level3","Oxygen-function amino-compounds","","Oxygen-function amino-compounds","",203.0
+858,"5147","Amide-function compounds; excluding urea","level3","Amide-function compounds; excluding urea","","Amide-function compounds; excluding urea","",203.0
+859,"5154","Organo-sulphur compounds","level3","Organo-sulphur compounds","","Organo-sulphur compounds","",205.0
+860,"5241","Radio-active chemical elements, isotopes etc","level3","Radio-active chemical elements, isotopes etc","","Radio-active chemical elements, isotopes etc","",226.0
+861,"5311","Synthetic organic dyestuffs, etc, natural indigo and colour lakes","level3","Synthetic organic dyestuffs, etc, natural indigo and colour lakes","","Synthetic organic dyestuffs, etc, natural indigo and colour lakes","",229.0
+862,"5323","Synthetic tanning substances; tanning preparations","level3","Synthetic tanning substances; tanning preparations","","Synthetic tanning substances; tanning preparations","",231.0
+863,"5331","Other colouring matter; inorganic products use as luminophores","level3","Other colouring matter; inorganic products use as luminophores","","Other colouring matter; inorganic products use as luminophores","",233.0
+864,"5332","Printing inks","level3","Printing inks","","Printing inks","",233.0
+865,"5411","Provitamins and vitamins","level3","Provitamins and vitamins","","Provitamins and vitamins","",237.0
+866,"5414","Vegetable alkaloids and derivatives, not put up as medicaments","level3","Vegetable alkaloids and derivatives, not put up as medicaments","","Vegetable alkaloids and derivatives, not put up as medicaments","",237.0
+867,"55","Oils and perfume materials; toilet and cleansing preparations","level1","Oils and perfume materials; toilet and cleansing preparations","","Oils and perfume materials; toilet and cleansing preparations","",191.0
+868,"551","Essential oils, perfume and flavour materials","level2","Essential oils, perfume and flavour materials","","Essential oils, perfume and flavour materials","",867.0
+869,"5513","Essential oil, resinoid, etc","level3","Essential oil, resinoid, etc","","Essential oil, resinoid, etc","",868.0
+870,"5514","Mixtures of odoriferous substances, used in perfumery, food etc","level3","Mixtures of odoriferous substances, used in perfumery, food etc","","Mixtures of odoriferous substances, used in perfumery, food etc","",868.0
+871,"553","Perfumery, cosmetics, toilet preparations, etc","level2","Perfumery, cosmetics, toilet preparations, etc","","Perfumery, cosmetics, toilet preparations, etc","",867.0
+872,"5530","Perfumery, cosmetics, toilet preparations, etc","level3","Perfumery, cosmetics, toilet preparations, etc","","Perfumery, cosmetics, toilet preparations, etc","",871.0
+873,"554","Soap, cleansing and polishing preparations","level2","Soap, cleansing and polishing preparations","","Soap, cleansing and polishing preparations","",867.0
+874,"5541","Soaps, organic products and preparations for use as soap","level3","Soaps, organic products and preparations for use as soap","","Soaps, organic products and preparations for use as soap","",873.0
+875,"5542","Organic surface-active agents, nes","level3","Organic surface-active agents, nes","","Organic surface-active agents, nes","",873.0
+876,"5543","Polishes and creams, for furniture, floors, footwear, metals etc","level3","Polishes and creams, for furniture, floors, footwear, metals etc","","Polishes and creams, for furniture, floors, footwear, metals etc","",873.0
+877,"5722","Fuses, caps, igniters, detonators","level3","Fuses, caps, igniters, detonators","","Fuses, caps, igniters, detonators","",250.0
+878,"5723","Pyrotechnic articles","level3","Pyrotechnic articles","","Pyrotechnic articles","",250.0
+879,"5827","Silicones","level3","Silicones","","Silicones","",253.0
+880,"5828","Ion exchangers of the condensation, polycondensation etc","level3","Ion exchangers of the condensation, polycondensation etc","","Ion exchangers of the condensation, polycondensation etc","",253.0
+881,"5829","Other condensation, polycodensation or polyaddition products","level3","Other condensation, polycodensation or polyaddition products","","Other condensation, polycodensation or polyaddition products","",253.0
+882,"5837","Polyvinyl acetate","level3","Polyvinyl acetate","","Polyvinyl acetate","",260.0
+883,"5838","Ion exchangers of the polymerization or copolymerization type","level3","Ion exchangers of the polymerization or copolymerization type","","Ion exchangers of the polymerization or copolymerization type","",260.0
+884,"5839","Other polymerization and copolymarization products","level3","Other polymerization and copolymarization products","","Other polymerization and copolymarization products","",260.0
+885,"5841","Regenerated cellulose","level3","Regenerated cellulose","","Regenerated cellulose","",267.0
+886,"5851","Modified natural resins etc; derivatives of natural rubber","level3","Modified natural resins etc; derivatives of natural rubber","","Modified natural resins etc; derivatives of natural rubber","",271.0
+887,"5911","Insecticides, for sale by retail or as preparations","level3","Insecticides, for sale by retail or as preparations","","Insecticides, for sale by retail or as preparations","",274.0
+888,"5912","Fungicides, for sale by retail or as preparation","level3","Fungicides, for sale by retail or as preparation","","Fungicides, for sale by retail or as preparation","",274.0
+889,"5913","Herbicides, for sale by retail or as preparation","level3","Herbicides, for sale by retail or as preparation","","Herbicides, for sale by retail or as preparation","",274.0
+890,"5982","Anti-knock preparation, anti-corrosive; viscosity improvers; etc","level3","Anti-knock preparation, anti-corrosive; viscosity improvers; etc","","Anti-knock preparation, anti-corrosive; viscosity improvers; etc","",279.0
+891,"6112","Composition leather, in slabs, sheets or rolls","level3","Composition leather, in slabs, sheets or rolls","","Composition leather, in slabs, sheets or rolls","",285.0
+892,"6113","Calf leather","level3","Calf leather","","Calf leather","",285.0
+893,"6114","Leather of other bovine cattle and equine leather","level3","Leather of other bovine cattle and equine leather","","Leather of other bovine cattle and equine leather","",285.0
+894,"6115","Sheep and lamb skin leather","level3","Sheep and lamb skin leather","","Sheep and lamb skin leather","",285.0
+895,"612","Manufactures of leather or of composition leather, nes; etc","level2","Manufactures of leather or of composition leather, nes; etc","","Manufactures of leather or of composition leather, nes; etc","",284.0
+896,"6121","Articles of leather use in machinery or mechanical appliances, etc","level3","Articles of leather use in machinery or mechanical appliances, etc","","Articles of leather use in machinery or mechanical appliances, etc","",895.0
+897,"6122","Saddlery and harness, of any material, for any kind of animal","level3","Saddlery and harness, of any material, for any kind of animal","","Saddlery and harness, of any material, for any kind of animal","",895.0
+898,"6123","Parts of footwear of any material except metal and asbestos","level3","Parts of footwear of any material except metal and asbestos","","Parts of footwear of any material except metal and asbestos","",895.0
+899,"6129","Other articles of leather or of composition leather","level3","Other articles of leather or of composition leather","","Other articles of leather or of composition leather","",895.0
+900,"613","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","level2","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","",284.0
+901,"6130","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","level3","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","",900.0
+902,"6251","Tires, pneumatic, new, for motor cars","level3","Tires, pneumatic, new, for motor cars","","Tires, pneumatic, new, for motor cars","",291.0
+903,"6252","Tires, pneumatic, new, for buses and lorries","level3","Tires, pneumatic, new, for buses and lorries","","Tires, pneumatic, new, for buses and lorries","",291.0
+904,"6253","Tires, pneumatic, new, for aircraft","level3","Tires, pneumatic, new, for aircraft","","Tires, pneumatic, new, for aircraft","",291.0
+905,"6254","Tires, pneumatic, new, for motorcycles and bicycles","level3","Tires, pneumatic, new, for motorcycles and bicycles","","Tires, pneumatic, new, for motorcycles and bicycles","",291.0
+906,"6281","Hygienic, pharmaceutical articles of unhardened vulcanized rubber","level3","Hygienic, pharmaceutical articles of unhardened vulcanized rubber","","Hygienic, pharmaceutical articles of unhardened vulcanized rubber","",293.0
+907,"6282","Transmission, conveyor or elevator belts, of vulcanized rubber","level3","Transmission, conveyor or elevator belts, of vulcanized rubber","","Transmission, conveyor or elevator belts, of vulcanized rubber","",293.0
+908,"6341","Wood sawn lengthwise, veneer sheets etc, up to 5 mm in thickness","level3","Wood sawn lengthwise, veneer sheets etc, up to 5 mm in thickness","","Wood sawn lengthwise, veneer sheets etc, up to 5 mm in thickness","",298.0
+909,"6342","Plywood consisting solely of sheets of wood","level3","Plywood consisting solely of sheets of wood","","Plywood consisting solely of sheets of wood","",298.0
+910,"6351","Wood packing cases, boxes, cases, crates, etc, complete","level3","Wood packing cases, boxes, cases, crates, etc, complete","","Wood packing cases, boxes, cases, crates, etc, complete","",302.0
+911,"6352","Casks, barrels; other coopers products and parts, including staves","level3","Casks, barrels; other coopers products and parts, including staves","","Casks, barrels; other coopers products and parts, including staves","",302.0
+912,"6353","Builders` carpentry and joinery (including prefabricated)","level3","Builders` carpentry and joinery (including prefabricated)","","Builders` carpentry and joinery (including prefabricated)","",302.0
+913,"6411","Newsprint","level3","Newsprint","","Newsprint","",306.0
+914,"6421","Packing containers, box files, etc, of paper, used in offices","level3","Packing containers, box files, etc, of paper, used in offices","","Packing containers, box files, etc, of paper, used in offices","",314.0
+915,"6422","Correspondence stationary","level3","Correspondence stationary","","Correspondence stationary","",314.0
+916,"6423","Registers, exercise books, file and book covers, etc, of paper","level3","Registers, exercise books, file and book covers, etc, of paper","","Registers, exercise books, file and book covers, etc, of paper","",314.0
+917,"6532","Fabrics, woven, 85% plus of discontinuous synthetic fibres","level3","Fabrics, woven, 85% plus of discontinuous synthetic fibres","","Fabrics, woven, 85% plus of discontinuous synthetic fibres","",331.0
+918,"6536","Fabrics, woven, 85% plus of discontinuous regenerated fibres","level3","Fabrics, woven, 85% plus of discontinuous regenerated fibres","","Fabrics, woven, 85% plus of discontinuous regenerated fibres","",331.0
+919,"6541","Fabrics, woven, of silk, of noil or other waste silk","level3","Fabrics, woven, of silk, of noil or other waste silk","","Fabrics, woven, of silk, of noil or other waste silk","",337.0
+920,"6544","Fabrics, woven, of flax or of ramie","level3","Fabrics, woven, of flax or of ramie","","Fabrics, woven, of flax or of ramie","",337.0
+921,"6545","Fabrics, woven of jute or other textile bast fibres of heading 2640","level3","Fabrics, woven of jute or other textile bast fibres of heading 2640","","Fabrics, woven of jute or other textile bast fibres of heading 2640","",337.0
+922,"6546","Fabrics of glass fibre (including narrow, pile fabrics, lace, etc)","level3","Fabrics of glass fibre (including narrow, pile fabrics, lace, etc)","","Fabrics of glass fibre (including narrow, pile fabrics, lace, etc)","",337.0
+923,"6551","Knitted etc, not elastic nor rubberized, of synthetic fibres","level3","Knitted etc, not elastic nor rubberized, of synthetic fibres","","Knitted etc, not elastic nor rubberized, of synthetic fibres","",341.0
+924,"6553","Knitted or crocheted fabrics, elastic or rubberized","level3","Knitted or crocheted fabrics, elastic or rubberized","","Knitted or crocheted fabrics, elastic or rubberized","",341.0
+925,"6571","Felt, articles of felt, nes, whether or not impregnated or coated","level3","Felt, articles of felt, nes, whether or not impregnated or coated","","Felt, articles of felt, nes, whether or not impregnated or coated","",345.0
+926,"6572","Bonded fibre fabrics, etc, whether or not impregnated or coated","level3","Bonded fibre fabrics, etc, whether or not impregnated or coated","","Bonded fibre fabrics, etc, whether or not impregnated or coated","",345.0
+927,"6574","Elastic fabrics and trimming (not knitted or crocheted)","level3","Elastic fabrics and trimming (not knitted or crocheted)","","Elastic fabrics and trimming (not knitted or crocheted)","",345.0
+928,"6581","Bags, sacks of textile materials, for the packing of goods","level3","Bags, sacks of textile materials, for the packing of goods","","Bags, sacks of textile materials, for the packing of goods","",351.0
+929,"6593","Kelem, Schumacks and Karamanie rugs and the like","level3","Kelem, Schumacks and Karamanie rugs and the like","","Kelem, Schumacks and Karamanie rugs and the like","",356.0
+930,"6597","Plaits, plaited products for all uses; straw envelopes for bottles","level3","Plaits, plaited products for all uses; straw envelopes for bottles","","Plaits, plaited products for all uses; straw envelopes for bottles","",356.0
+931,"6611","Lime, quick, slaked and hydraulic (no calcium oxide or hydroxide)","level3","Lime, quick, slaked and hydraulic (no calcium oxide or hydroxide)","","Lime, quick, slaked and hydraulic (no calcium oxide or hydroxide)","",363.0
+932,"6612","Cement","level3","Cement","","Cement","",363.0
+933,"6631","Hand polishing stone, grindstones, grinding wheels, etc","level3","Hand polishing stone, grindstones, grinding wheels, etc","","Hand polishing stone, grindstones, grinding wheels, etc","",369.0
+934,"6632","Abrasive power or grain, on a base of woven fabrics","level3","Abrasive power or grain, on a base of woven fabrics","","Abrasive power or grain, on a base of woven fabrics","",369.0
+935,"6635","Wool; expanding or insulating mineral materials, nes","level3","Wool; expanding or insulating mineral materials, nes","","Wool; expanding or insulating mineral materials, nes","",369.0
+936,"6637","Refractory goods, nes","level3","Refractory goods, nes","","Refractory goods, nes","",369.0
+937,"6642","Optical glass and elements of optical glass (unworked)","level3","Optical glass and elements of optical glass (unworked)","","Optical glass and elements of optical glass (unworked)","",373.0
+938,"6643","Drawn or blown glass (flashed glass), unworked, in rectangles","level3","Drawn or blown glass (flashed glass), unworked, in rectangles","","Drawn or blown glass (flashed glass), unworked, in rectangles","",373.0
+939,"6644","Glass, cast, rolled, etc, surface-ground, but no further worked","level3","Glass, cast, rolled, etc, surface-ground, but no further worked","","Glass, cast, rolled, etc, surface-ground, but no further worked","",373.0
+940,"6645","Cast, rolled glass (flashed or wired), unworked, in rectangles","level3","Cast, rolled glass (flashed or wired), unworked, in rectangles","","Cast, rolled glass (flashed or wired), unworked, in rectangles","",373.0
+941,"6646","Bricks, tiles, etc of pressed or moulded glass, used in building","level3","Bricks, tiles, etc of pressed or moulded glass, used in building","","Bricks, tiles, etc of pressed or moulded glass, used in building","",373.0
+942,"6647","Safety glass consisting of toughened or laminated glass, cut or not","level3","Safety glass consisting of toughened or laminated glass, cut or not","","Safety glass consisting of toughened or laminated glass, cut or not","",373.0
+943,"6648","Glass mirror, unframed, framed or backed","level3","Glass mirror, unframed, framed or backed","","Glass mirror, unframed, framed or backed","",373.0
+944,"6652","Glassware (other than heading 66582), for indoor decoration","level3","Glassware (other than heading 66582), for indoor decoration","","Glassware (other than heading 66582), for indoor decoration","",376.0
+945,"666","Pottery","level2","Pottery","","Pottery","",362.0
+946,"6664","Porcelain or china house ware","level3","Porcelain or china house ware","","Porcelain or china house ware","",945.0
+947,"6665","Articles of domestic or toilet purposes, of other kind of pottery","level3","Articles of domestic or toilet purposes, of other kind of pottery","","Articles of domestic or toilet purposes, of other kind of pottery","",945.0
+948,"6666","Ornaments, personal articles of porcelain, china, or ceramic, nes","level3","Ornaments, personal articles of porcelain, china, or ceramic, nes","","Ornaments, personal articles of porcelain, china, or ceramic, nes","",945.0
+949,"6671","Pearls, not mounted, set or strung","level3","Pearls, not mounted, set or strung","","Pearls, not mounted, set or strung","",379.0
+950,"6673","Precious and semi-precious stones, not mounted, set or strung","level3","Precious and semi-precious stones, not mounted, set or strung","","Precious and semi-precious stones, not mounted, set or strung","",379.0
+951,"6674","Synthetic or reconstructed precious or semi-precious stones","level3","Synthetic or reconstructed precious or semi-precious stones","","Synthetic or reconstructed precious or semi-precious stones","",379.0
+952,"6712","Pig iron, cast iron, spiegeleisen, in pigs, blocks, lumps, etc","level3","Pig iron, cast iron, spiegeleisen, in pigs, blocks, lumps, etc","","Pig iron, cast iron, spiegeleisen, in pigs, blocks, lumps, etc","",382.0
+953,"6747","Tinned sheets, plates of steel (not of high carbon or alloy steel)","level3","Tinned sheets, plates of steel (not of high carbon or alloy steel)","","Tinned sheets, plates of steel (not of high carbon or alloy steel)","",393.0
+954,"678","Tube, pipes and fittings, of iron or steel","level2","Tube, pipes and fittings, of iron or steel","","Tube, pipes and fittings, of iron or steel","",381.0
+955,"6781","Tubes and pipes, of cast iron","level3","Tubes and pipes, of cast iron","","Tubes and pipes, of cast iron","",954.0
+956,"6782","Seamless tubes, pipes; blanks for tubes and pipes, of iron or steel","level3","Seamless tubes, pipes; blanks for tubes and pipes, of iron or steel","","Seamless tubes, pipes; blanks for tubes and pipes, of iron or steel","",954.0
+957,"6783","Other tubes and pipes, of iron or steel","level3","Other tubes and pipes, of iron or steel","","Other tubes and pipes, of iron or steel","",954.0
+958,"6784","High-pressure hydro-electric conduit of steel","level3","High-pressure hydro-electric conduit of steel","","High-pressure hydro-electric conduit of steel","",954.0
+959,"6785","Tube and pipes fittings, of iron or steel","level3","Tube and pipes fittings, of iron or steel","","Tube and pipes fittings, of iron or steel","",954.0
+960,"6793","Steel and iron forging and stampings, in the rough state","level3","Steel and iron forging and stampings, in the rough state","","Steel and iron forging and stampings, in the rough state","",405.0
+961,"6831","Nickel and nickel alloys, unwrought","level3","Nickel and nickel alloys, unwrought","","Nickel and nickel alloys, unwrought","",414.0
+962,"6841","Aluminium and aluminium alloys, unwrought","level3","Aluminium and aluminium alloys, unwrought","","Aluminium and aluminium alloys, unwrought","",416.0
+963,"6861","Zinc and zinc alloys, unwrought","level3","Zinc and zinc alloys, unwrought","","Zinc and zinc alloys, unwrought","",421.0
+964,"6871","Tin and tin alloys, unwrought","level3","Tin and tin alloys, unwrought","","Tin and tin alloys, unwrought","",423.0
+965,"688","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","level2","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","",407.0
+966,"6880","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","level3","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","",965.0
+967,"691","Structures and parts, nes, of iron, steel or aluminium","level2","Structures and parts, nes, of iron, steel or aluminium","","Structures and parts, nes, of iron, steel or aluminium","",428.0
+968,"6911","Structures and parts of, of iron, steel; plates, rods, and the like","level3","Structures and parts of, of iron, steel; plates, rods, and the like","","Structures and parts of, of iron, steel; plates, rods, and the like","",967.0
+969,"6912","Structures and parts of, of aluminium; plates, rods, and the like","level3","Structures and parts of, of aluminium; plates, rods, and the like","","Structures and parts of, of aluminium; plates, rods, and the like","",967.0
+970,"6932","Barbed iron or steel wire: fencing wire","level3","Barbed iron or steel wire: fencing wire","","Barbed iron or steel wire: fencing wire","",432.0
+971,"6951","Hand tools, used in agriculture, horticulture or forestry","level3","Hand tools, used in agriculture, horticulture or forestry","","Hand tools, used in agriculture, horticulture or forestry","",437.0
+972,"6992","Chain and parts thereof, of iron or steel","level3","Chain and parts thereof, of iron or steel","","Chain and parts thereof, of iron or steel","",447.0
+973,"7111","Steam and other vapour-generated boilers; super-heated water boiler","level3","Steam and other vapour-generated boilers; super-heated water boiler","","Steam and other vapour-generated boilers; super-heated water boiler","",457.0
+974,"7112","Auxiliary plant for boilers of heading 7111; condensers","level3","Auxiliary plant for boilers of heading 7111; condensers","","Auxiliary plant for boilers of heading 7111; condensers","",457.0
+975,"712","Steam engines, turbines","level2","Steam engines, turbines","","Steam engines, turbines","",456.0
+976,"7126","Steam power units (mobile engines but not steam tractors, etc)","level3","Steam power units (mobile engines but not steam tractors, etc)","","Steam power units (mobile engines but not steam tractors, etc)","",975.0
+977,"7129","Parts, nes of steam power units","level3","Parts, nes of steam power units","","Parts, nes of steam power units","",975.0
+978,"7132","Motor vehicles piston engines, headings: 722; 78; 74411 and 95101","level3","Motor vehicles piston engines, headings: 722; 78; 74411 and 95101","","Motor vehicles piston engines, headings: 722; 78; 74411 and 95101","",459.0
+979,"7138","Internal combustion piston engines, nes","level3","Internal combustion piston engines, nes","","Internal combustion piston engines, nes","",459.0
+980,"7139","Piston engines parts, nes, falling in headings: 7132, 7133 and 7138","level3","Piston engines parts, nes, falling in headings: 7132, 7133 and 7138","","Piston engines parts, nes, falling in headings: 7132, 7133 and 7138","",459.0
+981,"7144","Reaction engines","level3","Reaction engines","","Reaction engines","",462.0
+982,"7161","Motors and generators, direct current","level3","Motors and generators, direct current","","Motors and generators, direct current","",465.0
+983,"7163","Rotary converters","level3","Rotary converters","","Rotary converters","",465.0
+984,"7169","Parts, nes, of rotating electric plant","level3","Parts, nes, of rotating electric plant","","Parts, nes, of rotating electric plant","",465.0
+985,"7187","Nuclear reactors, and parts thereof, nes","level3","Nuclear reactors, and parts thereof, nes","","Nuclear reactors, and parts thereof, nes","",467.0
+986,"722","Tractors (other than those falling in heading 74411 and 7832)","level2","Tractors (other than those falling in heading 74411 and 7832)","","Tractors (other than those falling in heading 74411 and 7832)","",469.0
+987,"7223","Track-laying tractors","level3","Track-laying tractors","","Track-laying tractors","",986.0
+988,"7224","Wheeled tractors (other than those falling in heading 74411, 7832)","level3","Wheeled tractors (other than those falling in heading 74411, 7832)","","Wheeled tractors (other than those falling in heading 74411, 7832)","",986.0
+989,"7233","Road rollers, mechanically propelled","level3","Road rollers, mechanically propelled","","Road rollers, mechanically propelled","",475.0
+990,"7239","Parts, nes of machinery and equipment of headings 72341 to 72346","level3","Parts, nes of machinery and equipment of headings 72341 to 72346","","Parts, nes of machinery and equipment of headings 72341 to 72346","",475.0
+991,"7248","Machinery for preparing, tanning, working leather, etc; parts nes","level3","Machinery for preparing, tanning, working leather, etc; parts nes","","Machinery for preparing, tanning, working leather, etc; parts nes","",477.0
+992,"7252","Machinery for making paper pulp, paper, paperboard; cutting machines","level3","Machinery for making paper pulp, paper, paperboard; cutting machines","","Machinery for making paper pulp, paper, paperboard; cutting machines","",483.0
+993,"7367","Other machines-tools for working metal or metal carbides, nes","level3","Other machines-tools for working metal or metal carbides, nes","","Other machines-tools for working metal or metal carbides, nes","",500.0
+994,"7368","Work holders, dividing heads for machine-tools, etc; tool holders","level3","Work holders, dividing heads for machine-tools, etc; tool holders","","Work holders, dividing heads for machine-tools, etc; tool holders","",500.0
+995,"7369","Parts, nes of and accessories for machine-tools of heading 736","level3","Parts, nes of and accessories for machine-tools of heading 736","","Parts, nes of and accessories for machine-tools of heading 736","",500.0
+996,"7411","Gas generators, and parts, nes of gas generators","level3","Gas generators, and parts, nes of gas generators","","Gas generators, and parts, nes of gas generators","",508.0
+997,"7412","Furnace burners; mechanical stokers, etc, and parts thereof, nes","level3","Furnace burners; mechanical stokers, etc, and parts thereof, nes","","Furnace burners; mechanical stokers, etc, and parts thereof, nes","",508.0
+998,"7415","Air conditioning machines and parts thereof, nes","level3","Air conditioning machines and parts thereof, nes","","Air conditioning machines and parts thereof, nes","",508.0
+999,"7416","Machinery, plant, laboratory equipment for heating and cooling, nes","level3","Machinery, plant, laboratory equipment for heating and cooling, nes","","Machinery, plant, laboratory equipment for heating and cooling, nes","",508.0
+1000,"7421","Reciprocating pumps (other than those of heading 74281)","level3","Reciprocating pumps (other than those of heading 74281)","","Reciprocating pumps (other than those of heading 74281)","",511.0
+1001,"7422","Centrifugal pumps (other than those of heading 74281)","level3","Centrifugal pumps (other than those of heading 74281)","","Centrifugal pumps (other than those of heading 74281)","",511.0
+1002,"7423","Rotary pumps (other than those of heading 74281)","level3","Rotary pumps (other than those of heading 74281)","","Rotary pumps (other than those of heading 74281)","",511.0
+1003,"7429","Parts, nes of pumps and liquids elevators falling in heading 742","level3","Parts, nes of pumps and liquids elevators falling in heading 742","","Parts, nes of pumps and liquids elevators falling in heading 742","",511.0
+1004,"743","Pumps, compressors; centrifuges; filtering apparatus; etc, parts","level2","Pumps, compressors; centrifuges; filtering apparatus; etc, parts","","Pumps, compressors; centrifuges; filtering apparatus; etc, parts","",507.0
+1005,"7431","Air pumps, vacuum pumps and air or gas compressors","level3","Air pumps, vacuum pumps and air or gas compressors","","Air pumps, vacuum pumps and air or gas compressors","",1004.0
+1006,"7432","Parts, nes of the pumps and compressor falling within heading 7431","level3","Parts, nes of the pumps and compressor falling within heading 7431","","Parts, nes of the pumps and compressor falling within heading 7431","",1004.0
+1007,"7433","Free-piston generators for gas turbines and parts thereof, nes","level3","Free-piston generators for gas turbines and parts thereof, nes","","Free-piston generators for gas turbines and parts thereof, nes","",1004.0
+1008,"7434","Fans, blowers and the like, and parts thereof, nes","level3","Fans, blowers and the like, and parts thereof, nes","","Fans, blowers and the like, and parts thereof, nes","",1004.0
+1009,"7435","Centrifuges","level3","Centrifuges","","Centrifuges","",1004.0
+1010,"7436","Filtering and purifying machinery, apparatus for liquids and gases","level3","Filtering and purifying machinery, apparatus for liquids and gases","","Filtering and purifying machinery, apparatus for liquids and gases","",1004.0
+1011,"7439","Parts, nes of the machines falling within headings 7435 and 7436","level3","Parts, nes of the machines falling within headings 7435 and 7436","","Parts, nes of the machines falling within headings 7435 and 7436","",1004.0
+1012,"7449","Parts, nes of the machinery falling within heading 7442","level3","Parts, nes of the machinery falling within heading 7442","","Parts, nes of the machinery falling within heading 7442","",513.0
+1013,"7491","Ball, roller or needle roller bearings","level3","Ball, roller or needle roller bearings","","Ball, roller or needle roller bearings","",519.0
+1014,"7492","Cocks, valves and similar appliances, for pipes boiler shells, etc","level3","Cocks, valves and similar appliances, for pipes boiler shells, etc","","Cocks, valves and similar appliances, for pipes boiler shells, etc","",519.0
+1015,"7493","Shaft, crank, bearing housing, pulley and pulley blocks, etc","level3","Shaft, crank, bearing housing, pulley and pulley blocks, etc","","Shaft, crank, bearing housing, pulley and pulley blocks, etc","",519.0
+1016,"752","Automatic data processing machines and units thereof","level2","Automatic data processing machines and units thereof","","Automatic data processing machines and units thereof","",521.0
+1017,"7521","Analogue and hybrid data processing machines","level3","Analogue and hybrid data processing machines","","Analogue and hybrid data processing machines","",1016.0
+1018,"7522","Complete digital data processing machines","level3","Complete digital data processing machines","","Complete digital data processing machines","",1016.0
+1019,"7523","Complete digital central processing units; digital processors","level3","Complete digital central processing units; digital processors","","Complete digital central processing units; digital processors","",1016.0
+1020,"7524","Digital central storage units, separately consigned","level3","Digital central storage units, separately consigned","","Digital central storage units, separately consigned","",1016.0
+1021,"7525","Peripheral units, including control and adapting units","level3","Peripheral units, including control and adapting units","","Peripheral units, including control and adapting units","",1016.0
+1022,"7528","Off-line data processing equipment, nes","level3","Off-line data processing equipment, nes","","Off-line data processing equipment, nes","",1016.0
+1023,"7599","Parts, nes of and accessories for machines of headings 7512 and 752","level3","Parts, nes of and accessories for machines of headings 7512 and 752","","Parts, nes of and accessories for machines of headings 7512 and 752","",526.0
+1024,"761","Television receivers","level2","Television receivers","","Television receivers","",528.0
+1025,"7611","Television receivers, colour","level3","Television receivers, colour","","Television receivers, colour","",1024.0
+1026,"7612","Television receivers, monochrome","level3","Television receivers, monochrome","","Television receivers, monochrome","",1024.0
+1027,"762","Radio-broadcast receivers","level2","Radio-broadcast receivers","","Radio-broadcast receivers","",528.0
+1028,"7621","Radio receivers for motor-vehicles","level3","Radio receivers for motor-vehicles","","Radio receivers for motor-vehicles","",1027.0
+1029,"7622","Portable radio receivers","level3","Portable radio receivers","","Portable radio receivers","",1027.0
+1030,"7628","Other radio receivers","level3","Other radio receivers","","Other radio receivers","",1027.0
+1031,"7641","Electrical line telephonic and telegraphic apparatus","level3","Electrical line telephonic and telegraphic apparatus","","Electrical line telephonic and telegraphic apparatus","",532.0
+1032,"7642","Microphones; loud-speakers; audio-frequency electric amplifiers","level3","Microphones; loud-speakers; audio-frequency electric amplifiers","","Microphones; loud-speakers; audio-frequency electric amplifiers","",532.0
+1033,"7643","Television, radio-broadcasting; transmitters, etc","level3","Television, radio-broadcasting; transmitters, etc","","Television, radio-broadcasting; transmitters, etc","",532.0
+1034,"772","Electrical apparatus for making and breaking electrical circuits","level2","Electrical apparatus for making and breaking electrical circuits","","Electrical apparatus for making and breaking electrical circuits","",535.0
+1035,"7721","Switches, relays, fuses, etc; switchboards and control panels, nes","level3","Switches, relays, fuses, etc; switchboards and control panels, nes","","Switches, relays, fuses, etc; switchboards and control panels, nes","",1034.0
+1036,"7722","Printed circuits, and parts thereof, nes","level3","Printed circuits, and parts thereof, nes","","Printed circuits, and parts thereof, nes","",1034.0
+1037,"7723","Fixed, variable resistors, other than heating resistors, parts, nes","level3","Fixed, variable resistors, other than heating resistors, parts, nes","","Fixed, variable resistors, other than heating resistors, parts, nes","",1034.0
+1038,"7731","Insulated electric wire, cable, bars, etc","level3","Insulated electric wire, cable, bars, etc","","Insulated electric wire, cable, bars, etc","",539.0
+1039,"774","Electro-medical and radiological equipment","level2","Electro-medical and radiological equipment","","Electro-medical and radiological equipment","",535.0
+1040,"7741","Electro-medical equipment","level3","Electro-medical equipment","","Electro-medical equipment","",1039.0
+1041,"7742","X-ray apparatus and equipment; accessories; and parts, nes","level3","X-ray apparatus and equipment; accessories; and parts, nes","","X-ray apparatus and equipment; accessories; and parts, nes","",1039.0
+1042,"7753","Domestic dishwashing machines","level3","Domestic dishwashing machines","","Domestic dishwashing machines","",541.0
+1043,"7754","Electric shavers and hair clippers, parts thereof, nes","level3","Electric shavers and hair clippers, parts thereof, nes","","Electric shavers and hair clippers, parts thereof, nes","",541.0
+1044,"7761","Television picture tubes, cathode ray","level3","Television picture tubes, cathode ray","","Television picture tubes, cathode ray","",546.0
+1045,"7762","Other electronic valves and tubes","level3","Other electronic valves and tubes","","Other electronic valves and tubes","",546.0
+1046,"7763","Diodes, transistors, photocells, etc","level3","Diodes, transistors, photocells, etc","","Diodes, transistors, photocells, etc","",546.0
+1047,"7764","Electronic microcircuits","level3","Electronic microcircuits","","Electronic microcircuits","",546.0
+1048,"7784","Electro-mechanical hand tools, and parts thereof, nes","level3","Electro-mechanical hand tools, and parts thereof, nes","","Electro-mechanical hand tools, and parts thereof, nes","",548.0
+1049,"781","Passenger motor vehicles (excluding buses)","level2","Passenger motor vehicles (excluding buses)","","Passenger motor vehicles (excluding buses)","",553.0
+1050,"7810","Passenger motor vehicles (excluding buses)","level3","Passenger motor vehicles (excluding buses)","","Passenger motor vehicles (excluding buses)","",1049.0
+1051,"782","Lorries and special purposes motor vehicles","level2","Lorries and special purposes motor vehicles","","Lorries and special purposes motor vehicles","",553.0
+1052,"7821","Motor vehicles for the transport of goods or materials","level3","Motor vehicles for the transport of goods or materials","","Motor vehicles for the transport of goods or materials","",1051.0
+1053,"7822","Special purpose motor lorries and vans","level3","Special purpose motor lorries and vans","","Special purpose motor lorries and vans","",1051.0
+1054,"783","Road motor vehicles, nes","level2","Road motor vehicles, nes","","Road motor vehicles, nes","",553.0
+1055,"7831","Public service type passenger motor vehicles","level3","Public service type passenger motor vehicles","","Public service type passenger motor vehicles","",1054.0
+1056,"7832","Road tractors for semi-trailers","level3","Road tractors for semi-trailers","","Road tractors for semi-trailers","",1054.0
+1057,"784","Motor vehicle parts and accessories, nes","level2","Motor vehicle parts and accessories, nes","","Motor vehicle parts and accessories, nes","",553.0
+1058,"7841","Chassis fitted with engines, for vehicles of headings 722, 781-783","level3","Chassis fitted with engines, for vehicles of headings 722, 781-783","","Chassis fitted with engines, for vehicles of headings 722, 781-783","",1057.0
+1059,"7842","Bodies, for vehicles of headings 722, 781-783","level3","Bodies, for vehicles of headings 722, 781-783","","Bodies, for vehicles of headings 722, 781-783","",1057.0
+1060,"7849","Other parts and accessories, for vehicles of headings 722, 781-783","level3","Other parts and accessories, for vehicles of headings 722, 781-783","","Other parts and accessories, for vehicles of headings 722, 781-783","",1057.0
+1061,"7851","Motorcycles, auto-cycles; side-cars of all kind, etc","level3","Motorcycles, auto-cycles; side-cars of all kind, etc","","Motorcycles, auto-cycles; side-cars of all kind, etc","",554.0
+1062,"7852","Cycles, not motorized","level3","Cycles, not motorized","","Cycles, not motorized","",554.0
+1063,"7911","Rail locomotives, electric","level3","Rail locomotives, electric","","Rail locomotives, electric","",560.0
+1064,"7912","Other rail locomotives; tenders","level3","Other rail locomotives; tenders","","Other rail locomotives; tenders","",560.0
+1065,"7913","Mechanically propelled railway, tramway, trolleys, etc","level3","Mechanically propelled railway, tramway, trolleys, etc","","Mechanically propelled railway, tramway, trolleys, etc","",560.0
+1066,"7914","Railway, tramway passenger coaches, etc, not mechanically propelled","level3","Railway, tramway passenger coaches, etc, not mechanically propelled","","Railway, tramway passenger coaches, etc, not mechanically propelled","",560.0
+1067,"7921","Helicopters","level3","Helicopters","","Helicopters","",563.0
+1068,"7922","Aircraft of an unladen weight not exceeding 2000 kg","level3","Aircraft of an unladen weight not exceeding 2000 kg","","Aircraft of an unladen weight not exceeding 2000 kg","",563.0
+1069,"7923","Aircraft of an unladen weight from 2000 kg to 15000 kg","level3","Aircraft of an unladen weight from 2000 kg to 15000 kg","","Aircraft of an unladen weight from 2000 kg to 15000 kg","",563.0
+1070,"7924","Aircraft of an unladen weight exceeding 15000 kg","level3","Aircraft of an unladen weight exceeding 15000 kg","","Aircraft of an unladen weight exceeding 15000 kg","",563.0
+1071,"7929","Parts, nes of the aircraft of heading 792","level3","Parts, nes of the aircraft of heading 792","","Parts, nes of the aircraft of heading 792","",563.0
+1072,"7931","Warships","level3","Warships","","Warships","",565.0
+1073,"7933","Ships, boats and other vessels for breaking up","level3","Ships, boats and other vessels for breaking up","","Ships, boats and other vessels for breaking up","",565.0
+1074,"8121","Central heating equipment, not electrically heated, parts, nes","level3","Central heating equipment, not electrically heated, parts, nes","","Central heating equipment, not electrically heated, parts, nes","",570.0
+1075,"8122","Ceramic plumbing fixtures","level3","Ceramic plumbing fixtures","","Ceramic plumbing fixtures","",570.0
+1076,"8481","Articles of apparel, clothing accessories of leather","level3","Articles of apparel, clothing accessories of leather","","Articles of apparel, clothing accessories of leather","",611.0
+1077,"873","Meters and counters, nes","level2","Meters and counters, nes","","Meters and counters, nes","",618.0
+1078,"8731","Gas, liquid and electricity supply or production meters; etc","level3","Gas, liquid and electricity supply or production meters; etc","","Gas, liquid and electricity supply or production meters; etc","",1077.0
+1079,"8732","Counting devices non-electrical; stroboscopes","level3","Counting devices non-electrical; stroboscopes","","Counting devices non-electrical; stroboscopes","",1077.0
+1080,"8743","Gas, liquid control instruments and apparatus, non-electrical","level3","Gas, liquid control instruments and apparatus, non-electrical","","Gas, liquid control instruments and apparatus, non-electrical","",623.0
+1081,"8744","Nonmechanical or electrical instruments for physical, etc, analysis","level3","Nonmechanical or electrical instruments for physical, etc, analysis","","Nonmechanical or electrical instruments for physical, etc, analysis","",623.0
+1082,"8749","Parts, nes, and accessories of headings 873, 8743, 87454 or 8748","level3","Parts, nes, and accessories of headings 873, 8743, 87454 or 8748","","Parts, nes, and accessories of headings 873, 8743, 87454 or 8748","",623.0
+1083,"8821","Chemical products and flashlight materials for use in photografy","level3","Chemical products and flashlight materials for use in photografy","","Chemical products and flashlight materials for use in photografy","",633.0
+1084,"883","Cinematograph film, exposed and developed","level2","Cinematograph film, exposed and developed","","Cinematograph film, exposed and developed","",628.0
+1085,"8830","Cinematograph film, exposed and developed","level3","Cinematograph film, exposed and developed","","Cinematograph film, exposed and developed","",1084.0
+1086,"8922","Newspapers, journals and periodicals","level3","Newspapers, journals and periodicals","","Newspapers, journals and periodicals","",642.0
+1087,"8931","Plastic packing containers, lids, stoppers and other closures","level3","Plastic packing containers, lids, stoppers and other closures","","Plastic packing containers, lids, stoppers and other closures","",646.0
+1088,"8932","Plastic sanitary and toilet articles","level3","Plastic sanitary and toilet articles","","Plastic sanitary and toilet articles","",646.0
+1089,"8933","Personal adornments and ornaments articles of plastic","level3","Personal adornments and ornaments articles of plastic","","Personal adornments and ornaments articles of plastic","",646.0
+1090,"8935","Articles of electric lighting of plastic","level3","Articles of electric lighting of plastic","","Articles of electric lighting of plastic","",646.0
+1091,"8941","Baby carriages and parts thereof, nes","level3","Baby carriages and parts thereof, nes","","Baby carriages and parts thereof, nes","",648.0
+1092,"8972","Imitation jewellery","level3","Imitation jewellery","","Imitation jewellery","",658.0
+1093,"8974","Other articles of precious metals or rolled precious metals, nes","level3","Other articles of precious metals or rolled precious metals, nes","","Other articles of precious metals or rolled precious metals, nes","",658.0
+1094,"8989","Parts, nes of and accessories for musical instruments; metronomes","level3","Parts, nes of and accessories for musical instruments; metronomes","","Parts, nes of and accessories for musical instruments; metronomes","",660.0
+1095,"91","Postal packages not classified according to kind","level1","Postal packages not classified according to kind","","Postal packages not classified according to kind","",672.0
+1096,"911","Postal packages not classified according to kind","level2","Postal packages not classified according to kind","","Postal packages not classified according to kind","",1095.0
+1097,"9110","Postal packages not classified according to kind","level3","Postal packages not classified according to kind","","Postal packages not classified according to kind","",1096.0
+1098,"93","Special transactions, commodity not classified according to class","level1","Special transactions, commodity not classified according to class","","Special transactions, commodity not classified according to class","",672.0
+1099,"931","Special transactions, commodity not classified according to class","level2","Special transactions, commodity not classified according to class","","Special transactions, commodity not classified according to class","",1098.0
+1100,"9310","Special transactions, commodity not classified according to class","level3","Special transactions, commodity not classified according to class","","Special transactions, commodity not classified according to class","",1099.0
+1101,"94","Animals, live, nes, (including zoo animals, pets, insects, etc)","level1","Animals, live, nes, (including zoo animals, pets, insects, etc)","","Animals, live, nes, (including zoo animals, pets, insects, etc)","",672.0
+1102,"941","Animals, live, nes, (including zoo animals, pets, insects, etc)","level2","Animals, live, nes, (including zoo animals, pets, insects, etc)","","Animals, live, nes, (including zoo animals, pets, insects, etc)","",1101.0
+1103,"9410","Animals, live, nes, (including zoo animals, pets, insects, etc)","level3","Animals, live, nes, (including zoo animals, pets, insects, etc)","","Animals, live, nes, (including zoo animals, pets, insects, etc)","",1102.0
+1104,"96","Coin (other than gold coin), not being legal tender","level1","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",672.0
+1105,"961","Coin (other than gold coin), not being legal tender","level2","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",1104.0
+1106,"9610","Coin (other than gold coin), not being legal tender","level3","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",1105.0
