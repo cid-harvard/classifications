@@ -1,35 +1,195 @@
 code	level	name_en	name_short_en	name_es	name_short_es
-total	level0	Total	Total	Total	Total
-cereals_total	level1	Cereals	Cereals	Cereals	Cereals
-pltubers_total	level1	Tubers	Tubers	Tubers	Tubers
-agroind_total	level1	Total Agroindustries	Total Agroindustries	Total Agroindustries	Total Agroindustries
-greens_total	level1	Greens	Greens	Greens	Greens
-fruits_total	level1	Fruits	Fruits	Fruits	Fruits
-palm	level2	Palm	Palm	Palm	Palm
-avocado	level2	Avocado	Avocado	Avocado	Avocado
-papaya	level2	Papaya	Papaya	Papaya	Papaya
-other fruits	level2	Other Fruits	Other Fruits	Other Fruits	Other Fruits
-banana expo	level2	Banana Expo	Banana Expo	Banana Expo	Banana Expo
-coffee	level2	Coffee	Coffee	Coffee	Coffee
-white corn	level2	White Corn	White Corn	White Corn	White Corn
-rice	level2	Rice	Rice	Rice	Rice
-yellow corn	level2	Yellow Corn	Yellow Corn	Yellow Corn	Yellow Corn
-other tubers	level2	Other Tubers	Other Tubers	Other Tubers	Other Tubers
-plantain	level2	Plantain	Plantain	Plantain	Plantain
-cotton	level2	Cotton	Cotton	Cotton	Cotton
-cocoa	level2	Cocoa	Cocoa	Cocoa	Cocoa
-other agroind	level2	Other Agroindustries	Other Agroindustries	Other Agroindustries	Other Agroindustries
-vegetables	level2	Vegetables	Vegetables	Vegetables	Vegetables
-forest plants	level2	Forest Plants	Forest Plants	Forest Plants	Forest Plants
-pinneaple	level2	Pinneaple	Pinneaple	Pinneaple	Pinneaple
-flowers & foliage	level2	Flowers & Foliage	Flowers & Foliage	Flowers & Foliage	Flowers & Foliage
-rubber	level2	Rubber	Rubber	Rubber	Rubber
-yucca	level2	Yucca	Yucca	Yucca	Yucca
-citrics	level2	Citrics	Citrics	Citrics	Citrics
-panela cane	level2	Panela Cane	Panela Cane	Panela Cane	Panela Cane
-potatoes	level2	Potatoes	Potatoes	Potatoes	Potatoes
-tobacco	level2	Tobacco	Tobacco	Tobacco	Tobacco
-banana other	level2	Other Banana	Other Banana	Other Banana	Other Banana
-other cereals	level2	Other Cereals	Other Cereals	Other Cereals	Other Cereals
-sugar cane	level2	Sugar Cane	Sugar Cane	Sugar Cane	Sugar Cane
-herbs	level2	Herbs	Herbs	Herbs	Herbs
+Todos los Productos	level0	All Products	All Products	Todos Los Productos	Todos Los Productos
+CEREALES	level1	Cereals	Cereals	Cereales	Cereales
+FIBRAS	level1	Fibers	Fibers	Fibras	Fibras
+FLORES Y FOLLAJES	level1	Flowers And Foliage	Flowers And Foliage	Flores Y Follajes	Flores Y Follajes
+FORESTALES	level1	Forestry	Forestry	Forestales	Forestales
+FRUTALES	level1	Fruits	Fruits	Frutales	Frutales
+AGUACATE	level2	Aguacate	Aguacate	Aguacate	Aguacate
+ALGARROBO	level2	Algarrobo	Algarrobo	Algarrobo	Algarrobo
+ALGODON	level2	Algodon	Algodon	Algodon	Algodon
+ANON	level2	Anon	Anon	Anon	Anon
+ARANDANO	level2	Arandano	Arandano	Arandano	Arandano
+ARROZ	level2	Arroz	Arroz	Arroz	Arroz
+AVENA	level2	Avena	Avena	Avena	Avena
+BANANO	level2	Banano	Banano	Banano	Banano
+CADUCIFOLIOS	level2	Caducifolios	Caducifolios	Caducifolios	Caducifolios
+CAUCHO	level2	Caucho	Caucho	Caucho	Caucho
+CAãA FLECHA	level2	Caãa Flecha	Caãa Flecha	Caãa Flecha	Caãa Flecha
+CEBADA	level2	Cebada	Cebada	Cebada	Cebada
+CENTENO	level2	Centeno	Centeno	Centeno	Centeno
+CITRICOS	level2	Citricos	Citricos	Citricos	Citricos
+COCO	level2	Coco	Coco	Coco	Coco
+CURUBA	level2	Curuba	Curuba	Curuba	Curuba
+ESPARTO	level2	Esparto	Esparto	Esparto	Esparto
+ESTROPAJO	level2	Estropajo	Estropajo	Estropajo	Estropajo
+FEIJOA	level2	Feijoa	Feijoa	Feijoa	Feijoa
+FIQUE	level2	Fique	Fique	Fique	Fique
+FLORES	level2	Flores	Flores	Flores	Flores
+FLORES Y FOLLAJES	level2	Flores Y Follajes	Flores Y Follajes	Flores Y Follajes	Flores Y Follajes
+FOLLAJES	level2	Follajes	Follajes	Follajes	Follajes
+FRAMBUESA	level2	Frambuesa	Frambuesa	Frambuesa	Frambuesa
+FRESA	level2	Fresa	Fresa	Fresa	Fresa
+FRUTALES EXOTICOS	level2	Frutales Exoticos	Frutales Exoticos	Frutales Exoticos	Frutales Exoticos
+FRUTALES VARIOS	level2	Frutales Varios	Frutales Varios	Frutales Varios	Frutales Varios
+GRANADILLA	level2	Granadilla	Granadilla	Granadilla	Granadilla
+GUANABANA	level2	Guanabana	Guanabana	Guanabana	Guanabana
+GUAYABA	level2	Guayaba	Guayaba	Guayaba	Guayaba
+IRACA	level2	Iraca	Iraca	Iraca	Iraca
+LULO	level2	Lulo	Lulo	Lulo	Lulo
+MAIZ	level2	Maiz	Maiz	Maiz	Maiz
+MAIZ FORRAJERO	level2	Maiz Forrajero	Maiz Forrajero	Maiz Forrajero	Maiz Forrajero
+MAMEY	level2	Mamey	Mamey	Mamey	Mamey
+MANGO	level2	Mango	Mango	Mango	Mango
+MARACUYA	level2	Maracuya	Maracuya	Maracuya	Maracuya
+MELON	level2	Melon	Melon	Melon	Melon
+MIMBRE	level2	Mimbre	Mimbre	Mimbre	Mimbre
+MORA	level2	Mora	Mora	Mora	Mora
+NONI	level2	Noni	Noni	Noni	Noni
+NUECES	level2	Nueces	Nueces	Nueces	Nueces
+PALMA AMARGA	level2	Palma Amarga	Palma Amarga	Palma Amarga	Palma Amarga
+PAPAYA	level2	Papaya	Papaya	Papaya	Papaya
+PATILLA	level2	Patilla	Patilla	Patilla	Patilla
+PIãA	level2	Piãa	Piãa	Piãa	Piãa
+QUINUA	level2	Quinua	Quinua	Quinua	Quinua
+RAMBUTAN	level2	Rambutan	Rambutan	Rambutan	Rambutan
+SORGO	level2	Sorgo	Sorgo	Sorgo	Sorgo
+TOMATE DE ARBOL	level2	Tomate De Arbol	Tomate De Arbol	Tomate De Arbol	Tomate De Arbol
+TRIGO	level2	Trigo	Trigo	Trigo	Trigo
+UVA	level2	Uva	Uva	Uva	Uva
+AGUACATE	level3	Aguacate	Aguacate	Aguacate	Aguacate
+ALGARROBO	level3	Algarrobo	Algarrobo	Algarrobo	Algarrobo
+ALGODON	level3	Algodon	Algodon	Algodon	Algodon
+ANON	level3	Anon	Anon	Anon	Anon
+ARANDANO	level3	Arandano	Arandano	Arandano	Arandano
+ARROZ RIEGO	level3	Arroz Riego	Arroz Riego	Arroz Riego	Arroz Riego
+ARROZ SECANO MANUAL	level3	Arroz Secano Manual	Arroz Secano Manual	Arroz Secano Manual	Arroz Secano Manual
+ARROZ SECANO MECANIZADO	level3	Arroz Secano Mecanizado	Arroz Secano Mecanizado	Arroz Secano Mecanizado	Arroz Secano Mecanizado
+AVENA	level3	Avena	Avena	Avena	Avena
+BANANITO	level3	Bananito	Bananito	Bananito	Bananito
+BANANO	level3	Banano	Banano	Banano	Banano
+BANANO EXPORTACION	level3	Banano Exportacion	Banano Exportacion	Banano Exportacion	Banano Exportacion
+BANANO MANZANO	level3	Banano Manzano	Banano Manzano	Banano Manzano	Banano Manzano
+CHIRO	level3	Chiro	Chiro	Chiro	Chiro
+MURRAPO	level3	Murrapo	Murrapo	Murrapo	Murrapo
+BREVO	level3	Brevo	Brevo	Brevo	Brevo
+CADUCIFOLIOS	level3	Caducifolios	Caducifolios	Caducifolios	Caducifolios
+CIRUELA	level3	Ciruela	Ciruela	Ciruela	Ciruela
+DURAZNO	level3	Durazno	Durazno	Durazno	Durazno
+MANZANA	level3	Manzana	Manzana	Manzana	Manzana
+NISPERO	level3	Nispero	Nispero	Nispero	Nispero
+PERA	level3	Pera	Pera	Pera	Pera
+CAUCHO	level3	Caucho	Caucho	Caucho	Caucho
+PLANTULAS	level3	Plantulas	Plantulas	Plantulas	Plantulas
+CAãA FLECHA	level3	Caãa Flecha	Caãa Flecha	Caãa Flecha	Caãa Flecha
+CEBADA	level3	Cebada	Cebada	Cebada	Cebada
+CENTENO	level3	Centeno	Centeno	Centeno	Centeno
+CITRICOS	level3	Citricos	Citricos	Citricos	Citricos
+LIMA	level3	Lima	Lima	Lima	Lima
+LIMA TAHITI	level3	Lima Tahiti	Lima Tahiti	Lima Tahiti	Lima Tahiti
+LIMON	level3	Limon	Limon	Limon	Limon
+LIMON MANDARINO	level3	Limon Mandarino	Limon Mandarino	Limon Mandarino	Limon Mandarino
+LIMON PAJARITO	level3	Limon Pajarito	Limon Pajarito	Limon Pajarito	Limon Pajarito
+LIMON TAHITI	level3	Limon Tahiti	Limon Tahiti	Limon Tahiti	Limon Tahiti
+MANDARINA	level3	Mandarina	Mandarina	Mandarina	Mandarina
+MANDARINA CLEMENTINA	level3	Mandarina Clementina	Mandarina Clementina	Mandarina Clementina	Mandarina Clementina
+MANDARINA ONECO	level3	Mandarina Oneco	Mandarina Oneco	Mandarina Oneco	Mandarina Oneco
+NARANJA	level3	Naranja	Naranja	Naranja	Naranja
+NARANJA JAFFA	level3	Naranja Jaffa	Naranja Jaffa	Naranja Jaffa	Naranja Jaffa
+NARANJA SALUSTIANA	level3	Naranja Salustiana	Naranja Salustiana	Naranja Salustiana	Naranja Salustiana
+NARANJA VALENCIA	level3	Naranja Valencia	Naranja Valencia	Naranja Valencia	Naranja Valencia
+NARANJA WASHINGTON NAVEL	level3	Naranja Washington Navel	Naranja Washington Navel	Naranja Washington Navel	Naranja Washington Navel
+POMELO	level3	Pomelo	Pomelo	Pomelo	Pomelo
+TANGELO MINEOLA	level3	Tangelo Mineola	Tangelo Mineola	Tangelo Mineola	Tangelo Mineola
+TANGELO ORLANDO	level3	Tangelo Orlando	Tangelo Orlando	Tangelo Orlando	Tangelo Orlando
+TORONJA	level3	Toronja	Toronja	Toronja	Toronja
+COCO	level3	Coco	Coco	Coco	Coco
+CURUBA	level3	Curuba	Curuba	Curuba	Curuba
+ESPARTO	level3	Esparto	Esparto	Esparto	Esparto
+ESTROPAJO	level3	Estropajo	Estropajo	Estropajo	Estropajo
+FEIJOA	level3	Feijoa	Feijoa	Feijoa	Feijoa
+FIQUE	level3	Fique	Fique	Fique	Fique
+ANTURIO	level3	Anturio	Anturio	Anturio	Anturio
+ASTROMELIA	level3	Astromelia	Astromelia	Astromelia	Astromelia
+CARTUCHO-ASTROMELIA	level3	Cartucho-Astromelia	Cartucho-Astromelia	Cartucho-Astromelia	Cartucho-Astromelia
+CLAVEL	level3	Clavel	Clavel	Clavel	Clavel
+GIRASOL	level3	Girasol	Girasol	Girasol	Girasol
+GLADIOLO	level3	Gladiolo	Gladiolo	Gladiolo	Gladiolo
+HELICONIA	level3	Heliconia	Heliconia	Heliconia	Heliconia
+HORTENSIA	level3	Hortensia	Hortensia	Hortensia	Hortensia
+ORQUIDEA	level3	Orquidea	Orquidea	Orquidea	Orquidea
+POMPON Y CRISANTEMO	level3	Pompon Y Crisantemo	Pompon Y Crisantemo	Pompon Y Crisantemo	Pompon Y Crisantemo
+ROSA	level3	Rosa	Rosa	Rosa	Rosa
+FLORES Y FOLLAJES	level3	Flores Y Follajes	Flores Y Follajes	Flores Y Follajes	Flores Y Follajes
+ASPARRAGUS	level3	Asparragus	Asparragus	Asparragus	Asparragus
+CORDELINE CINTA	level3	Cordeline Cinta	Cordeline Cinta	Cordeline Cinta	Cordeline Cinta
+EUCALIPTO BABY BLUE	level3	Eucalipto Baby Blue	Eucalipto Baby Blue	Eucalipto Baby Blue	Eucalipto Baby Blue
+FITOSPORUM	level3	Fitosporum	Fitosporum	Fitosporum	Fitosporum
+HELECHO	level3	Helecho	Helecho	Helecho	Helecho
+HELECHO CUERO	level3	Helecho Cuero	Helecho Cuero	Helecho Cuero	Helecho Cuero
+PALMA ROBELINA	level3	Palma Robelina	Palma Robelina	Palma Robelina	Palma Robelina
+TREE FERN	level3	Tree Fern	Tree Fern	Tree Fern	Tree Fern
+FRAMBUESA	level3	Frambuesa	Frambuesa	Frambuesa	Frambuesa
+FRESA	level3	Fresa	Fresa	Fresa	Fresa
+AGRAZ	level3	Agraz	Agraz	Agraz	Agraz
+AGUAJE	level3	Aguaje	Aguaje	Aguaje	Aguaje
+ARAZA	level3	Araza	Araza	Araza	Araza
+ASAI	level3	Asai	Asai	Asai	Asai
+BACURI	level3	Bacuri	Bacuri	Bacuri	Bacuri
+BADEA	level3	Badea	Badea	Badea	Badea
+BOROJO	level3	Borojo	Borojo	Borojo	Borojo
+CAIMO	level3	Caimo	Caimo	Caimo	Caimo
+CHAMBA	level3	Chamba	Chamba	Chamba	Chamba
+CHIRIMOYA	level3	Chirimoya	Chirimoya	Chirimoya	Chirimoya
+CHOLUPA	level3	Cholupa	Cholupa	Cholupa	Cholupa
+CHONTADURO	level3	Chontaduro	Chontaduro	Chontaduro	Chontaduro
+COCONA	level3	Cocona	Cocona	Cocona	Cocona
+COPOAZU	level3	Copoazu	Copoazu	Copoazu	Copoazu
+COROZO	level3	Corozo	Corozo	Corozo	Corozo
+DATIL	level3	Datil	Datil	Datil	Datil
+GUAMA	level3	Guama	Guama	Guama	Guama
+GULUPA	level3	Gulupa	Gulupa	Gulupa	Gulupa
+HIGO	level3	Higo	Higo	Higo	Higo
+MAMONCILLO	level3	Mamoncillo	Mamoncillo	Mamoncillo	Mamoncillo
+MANGOSTINO	level3	Mangostino	Mangostino	Mangostino	Mangostino
+PEPA DE PAN	level3	Pepa De Pan	Pepa De Pan	Pepa De Pan	Pepa De Pan
+PITAHAYA	level3	Pitahaya	Pitahaya	Pitahaya	Pitahaya
+POMARROSA	level3	Pomarrosa	Pomarrosa	Pomarrosa	Pomarrosa
+TAMARINDO	level3	Tamarindo	Tamarindo	Tamarindo	Tamarindo
+UCHUVA	level3	Uchuva	Uchuva	Uchuva	Uchuva
+UMARI	level3	Umari	Umari	Umari	Umari
+UVA CAIMARONA	level3	Uva Caimarona	Uva Caimarona	Uva Caimarona	Uva Caimarona
+FRUTALES VARIOS	level3	Frutales Varios	Frutales Varios	Frutales Varios	Frutales Varios
+GRANADILLA	level3	Granadilla	Granadilla	Granadilla	Granadilla
+GUANABANA	level3	Guanabana	Guanabana	Guanabana	Guanabana
+GUAYABA	level3	Guayaba	Guayaba	Guayaba	Guayaba
+GUAYABA MANZANA	level3	Guayaba Manzana	Guayaba Manzana	Guayaba Manzana	Guayaba Manzana
+GUAYABA PERA	level3	Guayaba Pera	Guayaba Pera	Guayaba Pera	Guayaba Pera
+IRACA	level3	Iraca	Iraca	Iraca	Iraca
+LULO	level3	Lulo	Lulo	Lulo	Lulo
+MAIZ TECNIFICADO	level3	Maiz Tecnificado	Maiz Tecnificado	Maiz Tecnificado	Maiz Tecnificado
+MAIZ TRADICIONAL	level3	Maiz Tradicional	Maiz Tradicional	Maiz Tradicional	Maiz Tradicional
+MAIZ FORRAJERO	level3	Maiz Forrajero	Maiz Forrajero	Maiz Forrajero	Maiz Forrajero
+MAMEY	level3	Mamey	Mamey	Mamey	Mamey
+MANGO	level3	Mango	Mango	Mango	Mango
+MANGO INJERTO	level3	Mango Injerto	Mango Injerto	Mango Injerto	Mango Injerto
+MARACUYA	level3	Maracuya	Maracuya	Maracuya	Maracuya
+MELON	level3	Melon	Melon	Melon	Melon
+MIMBRE	level3	Mimbre	Mimbre	Mimbre	Mimbre
+MORA	level3	Mora	Mora	Mora	Mora
+NONI	level3	Noni	Noni	Noni	Noni
+MACADAMIA	level3	Macadamia	Macadamia	Macadamia	Macadamia
+MARAãON	level3	Maraãon	Maraãon	Maraãon	Maraãon
+PALMA AMARGA	level3	Palma Amarga	Palma Amarga	Palma Amarga	Palma Amarga
+PAPAYA	level3	Papaya	Papaya	Papaya	Papaya
+PAPAYA HAWAIANA	level3	Papaya Hawaiana	Papaya Hawaiana	Papaya Hawaiana	Papaya Hawaiana
+PAPAYUELA	level3	Papayuela	Papayuela	Papayuela	Papayuela
+PATILLA	level3	Patilla	Patilla	Patilla	Patilla
+PIãA	level3	Piãa	Piãa	Piãa	Piãa
+QUINUA	level3	Quinua	Quinua	Quinua	Quinua
+RAMBUTAN	level3	Rambutan	Rambutan	Rambutan	Rambutan
+MILLO	level3	Millo	Millo	Millo	Millo
+SORGO	level3	Sorgo	Sorgo	Sorgo	Sorgo
+TOMATE DE ARBOL	level3	Tomate De Arbol	Tomate De Arbol	Tomate De Arbol	Tomate De Arbol
+TRIGO	level3	Trigo	Trigo	Trigo	Trigo
+UVA	level3	Uva	Uva	Uva	Uva

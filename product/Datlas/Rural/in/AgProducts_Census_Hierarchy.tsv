@@ -1,0 +1,29 @@
+level2	level1	level0
+cocoa	agroind_total	total
+coffee	agroind_total	total
+cotton	agroind_total	total
+other agroind	agroind_total	total
+palm	agroind_total	total
+panela cane	agroind_total	total
+rubber	agroind_total	total
+sugar cane	agroind_total	total
+tobacco	agroind_total	total
+other cereals	cereals_total	total
+rice	cereals_total	total
+white corn	cereals_total	total
+yellow corn	cereals_total	total
+avocado	fruits_total	total
+banana expo	fruits_total	total
+banana other	fruits_total	total
+citrics	fruits_total	total
+other fruits	fruits_total	total
+papaya	fruits_total	total
+pinneaple	fruits_total	total
+flowers & foliage	greens_total	total
+forest plants	greens_total	total
+herbs	greens_total	total
+vegetables	greens_total	total
+other tubers	pltubers_total	total
+plantain	pltubers_total	total
+potatoes	pltubers_total	total
+yucca	pltubers_total	total

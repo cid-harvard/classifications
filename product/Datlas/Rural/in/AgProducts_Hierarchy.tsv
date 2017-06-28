@@ -1,29 +1,137 @@
-level2	level1	level0
-cocoa	agroind_total	total
-coffee	agroind_total	total
-cotton	agroind_total	total
-other agroind	agroind_total	total
-palm	agroind_total	total
-panela cane	agroind_total	total
-rubber	agroind_total	total
-sugar cane	agroind_total	total
-tobacco	agroind_total	total
-other cereals	cereals_total	total
-rice	cereals_total	total
-white corn	cereals_total	total
-yellow corn	cereals_total	total
-avocado	fruits_total	total
-banana expo	fruits_total	total
-banana other	fruits_total	total
-citrics	fruits_total	total
-other fruits	fruits_total	total
-papaya	fruits_total	total
-pinneaple	fruits_total	total
-flowers & foliage	greens_total	total
-forest plants	greens_total	total
-herbs	greens_total	total
-vegetables	greens_total	total
-other tubers	pltubers_total	total
-plantain	pltubers_total	total
-potatoes	pltubers_total	total
-yucca	pltubers_total	total
+level3	level2	level1	level0
+ARROZ RIEGO	ARROZ	CEREALES	Todos los Productos
+ARROZ SECANO MANUAL	ARROZ	CEREALES	Todos los Productos
+ARROZ SECANO MECANIZADO	ARROZ	CEREALES	Todos los Productos
+AVENA	AVENA	CEREALES	Todos los Productos
+CEBADA	CEBADA	CEREALES	Todos los Productos
+CENTENO	CENTENO	CEREALES	Todos los Productos
+MAIZ TECNIFICADO	MAIZ	CEREALES	Todos los Productos
+MAIZ TRADICIONAL	MAIZ	CEREALES	Todos los Productos
+MAIZ FORRAJERO	MAIZ FORRAJERO	CEREALES	Todos los Productos
+QUINUA	QUINUA	CEREALES	Todos los Productos
+MILLO	SORGO	CEREALES	Todos los Productos
+SORGO	SORGO	CEREALES	Todos los Productos
+TRIGO	TRIGO	CEREALES	Todos los Productos
+ALGODON	ALGODON	FIBRAS	Todos los Productos
+CAãA FLECHA	CAãA FLECHA	FIBRAS	Todos los Productos
+ESPARTO	ESPARTO	FIBRAS	Todos los Productos
+ESTROPAJO	ESTROPAJO	FIBRAS	Todos los Productos
+FIQUE	FIQUE	FIBRAS	Todos los Productos
+IRACA	IRACA	FIBRAS	Todos los Productos
+MIMBRE	MIMBRE	FIBRAS	Todos los Productos
+PALMA AMARGA	PALMA AMARGA	FIBRAS	Todos los Productos
+ANTURIO	FLORES	FLORES Y FOLLAJES	Todos los Productos
+ASTROMELIA	FLORES	FLORES Y FOLLAJES	Todos los Productos
+CARTUCHO-ASTROMELIA	FLORES	FLORES Y FOLLAJES	Todos los Productos
+CLAVEL	FLORES	FLORES Y FOLLAJES	Todos los Productos
+GIRASOL	FLORES	FLORES Y FOLLAJES	Todos los Productos
+GLADIOLO	FLORES	FLORES Y FOLLAJES	Todos los Productos
+HELICONIA	FLORES	FLORES Y FOLLAJES	Todos los Productos
+HORTENSIA	FLORES	FLORES Y FOLLAJES	Todos los Productos
+ORQUIDEA	FLORES	FLORES Y FOLLAJES	Todos los Productos
+POMPON Y CRISANTEMO	FLORES	FLORES Y FOLLAJES	Todos los Productos
+ROSA	FLORES	FLORES Y FOLLAJES	Todos los Productos
+FLORES Y FOLLAJES	FLORES Y FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+ASPARRAGUS	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+CORDELINE CINTA	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+EUCALIPTO BABY BLUE	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+FITOSPORUM	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+HELECHO	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+HELECHO CUERO	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+PALMA ROBELINA	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+TREE FERN	FOLLAJES	FLORES Y FOLLAJES	Todos los Productos
+CAUCHO	CAUCHO	FORESTALES	Todos los Productos
+PLANTULAS	CAUCHO	FORESTALES	Todos los Productos
+AGUACATE	AGUACATE	FRUTALES	Todos los Productos
+ALGARROBO	ALGARROBO	FRUTALES	Todos los Productos
+ANON	ANON	FRUTALES	Todos los Productos
+ARANDANO	ARANDANO	FRUTALES	Todos los Productos
+BANANITO	BANANO	FRUTALES	Todos los Productos
+BANANO	BANANO	FRUTALES	Todos los Productos
+BANANO EXPORTACION	BANANO	FRUTALES	Todos los Productos
+BANANO MANZANO	BANANO	FRUTALES	Todos los Productos
+CHIRO	BANANO	FRUTALES	Todos los Productos
+MURRAPO	BANANO	FRUTALES	Todos los Productos
+BREVO	CADUCIFOLIOS	FRUTALES	Todos los Productos
+CADUCIFOLIOS	CADUCIFOLIOS	FRUTALES	Todos los Productos
+CIRUELA	CADUCIFOLIOS	FRUTALES	Todos los Productos
+DURAZNO	CADUCIFOLIOS	FRUTALES	Todos los Productos
+MANZANA	CADUCIFOLIOS	FRUTALES	Todos los Productos
+NISPERO	CADUCIFOLIOS	FRUTALES	Todos los Productos
+PERA	CADUCIFOLIOS	FRUTALES	Todos los Productos
+CITRICOS	CITRICOS	FRUTALES	Todos los Productos
+LIMA	CITRICOS	FRUTALES	Todos los Productos
+LIMA TAHITI	CITRICOS	FRUTALES	Todos los Productos
+LIMON	CITRICOS	FRUTALES	Todos los Productos
+LIMON MANDARINO	CITRICOS	FRUTALES	Todos los Productos
+LIMON PAJARITO	CITRICOS	FRUTALES	Todos los Productos
+LIMON TAHITI	CITRICOS	FRUTALES	Todos los Productos
+MANDARINA	CITRICOS	FRUTALES	Todos los Productos
+MANDARINA CLEMENTINA	CITRICOS	FRUTALES	Todos los Productos
+MANDARINA ONECO	CITRICOS	FRUTALES	Todos los Productos
+NARANJA	CITRICOS	FRUTALES	Todos los Productos
+NARANJA JAFFA	CITRICOS	FRUTALES	Todos los Productos
+NARANJA SALUSTIANA	CITRICOS	FRUTALES	Todos los Productos
+NARANJA VALENCIA	CITRICOS	FRUTALES	Todos los Productos
+NARANJA WASHINGTON NAVEL	CITRICOS	FRUTALES	Todos los Productos
+POMELO	CITRICOS	FRUTALES	Todos los Productos
+TANGELO MINEOLA	CITRICOS	FRUTALES	Todos los Productos
+TANGELO ORLANDO	CITRICOS	FRUTALES	Todos los Productos
+TORONJA	CITRICOS	FRUTALES	Todos los Productos
+COCO	COCO	FRUTALES	Todos los Productos
+CURUBA	CURUBA	FRUTALES	Todos los Productos
+FEIJOA	FEIJOA	FRUTALES	Todos los Productos
+FRAMBUESA	FRAMBUESA	FRUTALES	Todos los Productos
+FRESA	FRESA	FRUTALES	Todos los Productos
+AGRAZ	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+AGUAJE	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+ARAZA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+ASAI	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+BACURI	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+BADEA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+BOROJO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+CAIMO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+CHAMBA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+CHIRIMOYA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+CHOLUPA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+CHONTADURO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+COCONA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+COPOAZU	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+COROZO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+DATIL	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+GUAMA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+GULUPA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+HIGO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+MAMONCILLO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+MANGOSTINO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+PEPA DE PAN	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+PITAHAYA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+POMARROSA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+TAMARINDO	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+UCHUVA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+UMARI	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+UVA CAIMARONA	FRUTALES EXOTICOS	FRUTALES	Todos los Productos
+FRUTALES VARIOS	FRUTALES VARIOS	FRUTALES	Todos los Productos
+GRANADILLA	GRANADILLA	FRUTALES	Todos los Productos
+GUANABANA	GUANABANA	FRUTALES	Todos los Productos
+GUAYABA	GUAYABA	FRUTALES	Todos los Productos
+GUAYABA MANZANA	GUAYABA	FRUTALES	Todos los Productos
+GUAYABA PERA	GUAYABA	FRUTALES	Todos los Productos
+LULO	LULO	FRUTALES	Todos los Productos
+MAMEY	MAMEY	FRUTALES	Todos los Productos
+MANGO	MANGO	FRUTALES	Todos los Productos
+MANGO INJERTO	MANGO	FRUTALES	Todos los Productos
+MARACUYA	MARACUYA	FRUTALES	Todos los Productos
+MELON	MELON	FRUTALES	Todos los Productos
+MORA	MORA	FRUTALES	Todos los Productos
+NONI	NONI	FRUTALES	Todos los Productos
+MACADAMIA	NUECES	FRUTALES	Todos los Productos
+MARAãON	NUECES	FRUTALES	Todos los Productos
+PAPAYA	PAPAYA	FRUTALES	Todos los Productos
+PAPAYA HAWAIANA	PAPAYA	FRUTALES	Todos los Productos
+PAPAYUELA	PAPAYA	FRUTALES	Todos los Productos
+PATILLA	PATILLA	FRUTALES	Todos los Productos
+PIãA	PIãA	FRUTALES	Todos los Productos
+RAMBUTAN	RAMBUTAN	FRUTALES	Todos los Productos
+TOMATE DE ARBOL	TOMATE DE ARBOL	FRUTALES	Todos los Productos
+UVA	UVA	FRUTALES	Todos los Productos

@@ -1,35 +1,195 @@
 "","code","name","level","name_en","name_es","parent_id"
-0,"total","Total","level0","Total","Total",""
-1,"agroind_total","Total Agroindustries","level1","Total Agroindustries","Total Agroindustries",0.0
-2,"cocoa","Cocoa","level2","Cocoa","Cocoa",1.0
-3,"coffee","Coffee","level2","Coffee","Coffee",1.0
-4,"cotton","Cotton","level2","Cotton","Cotton",1.0
-5,"other agroind","Other Agroindustries","level2","Other Agroindustries","Other Agroindustries",1.0
-6,"palm","Palm","level2","Palm","Palm",1.0
-7,"panela cane","Panela Cane","level2","Panela Cane","Panela Cane",1.0
-8,"rubber","Rubber","level2","Rubber","Rubber",1.0
-9,"sugar cane","Sugar Cane","level2","Sugar Cane","Sugar Cane",1.0
-10,"tobacco","Tobacco","level2","Tobacco","Tobacco",1.0
-11,"cereals_total","Cereals","level1","Cereals","Cereals",0.0
-12,"other cereals","Other Cereals","level2","Other Cereals","Other Cereals",11.0
-13,"rice","Rice","level2","Rice","Rice",11.0
-14,"white corn","White Corn","level2","White Corn","White Corn",11.0
-15,"yellow corn","Yellow Corn","level2","Yellow Corn","Yellow Corn",11.0
-16,"fruits_total","Fruits","level1","Fruits","Fruits",0.0
-17,"avocado","Avocado","level2","Avocado","Avocado",16.0
-18,"banana expo","Banana Expo","level2","Banana Expo","Banana Expo",16.0
-19,"banana other","Other Banana","level2","Other Banana","Other Banana",16.0
-20,"citrics","Citrics","level2","Citrics","Citrics",16.0
-21,"other fruits","Other Fruits","level2","Other Fruits","Other Fruits",16.0
-22,"papaya","Papaya","level2","Papaya","Papaya",16.0
-23,"pinneaple","Pinneaple","level2","Pinneaple","Pinneaple",16.0
-24,"greens_total","Greens","level1","Greens","Greens",0.0
-25,"flowers & foliage","Flowers & Foliage","level2","Flowers & Foliage","Flowers & Foliage",24.0
-26,"forest plants","Forest Plants","level2","Forest Plants","Forest Plants",24.0
-27,"herbs","Herbs","level2","Herbs","Herbs",24.0
-28,"vegetables","Vegetables","level2","Vegetables","Vegetables",24.0
-29,"pltubers_total","Tubers","level1","Tubers","Tubers",0.0
-30,"other tubers","Other Tubers","level2","Other Tubers","Other Tubers",29.0
-31,"plantain","Plantain","level2","Plantain","Plantain",29.0
-32,"potatoes","Potatoes","level2","Potatoes","Potatoes",29.0
-33,"yucca","Yucca","level2","Yucca","Yucca",29.0
+0,"todos los productos","All Products","level0","All Products","Todos Los Productos",""
+1,"cereales","Cereals","level1","Cereals","Cereales",0.0
+2,"arroz","Arroz","level2","Arroz","Arroz",1.0
+3,"arroz riego","Arroz Riego","level3","Arroz Riego","Arroz Riego",2.0
+4,"arroz secano manual","Arroz Secano Manual","level3","Arroz Secano Manual","Arroz Secano Manual",2.0
+5,"arroz secano mecanizado","Arroz Secano Mecanizado","level3","Arroz Secano Mecanizado","Arroz Secano Mecanizado",2.0
+6,"avena","Avena","level2","Avena","Avena",1.0
+7,"avena","Avena","level3","Avena","Avena",6.0
+8,"cebada","Cebada","level2","Cebada","Cebada",1.0
+9,"cebada","Cebada","level3","Cebada","Cebada",8.0
+10,"centeno","Centeno","level2","Centeno","Centeno",1.0
+11,"centeno","Centeno","level3","Centeno","Centeno",10.0
+12,"maiz","Maiz","level2","Maiz","Maiz",1.0
+13,"maiz tecnificado","Maiz Tecnificado","level3","Maiz Tecnificado","Maiz Tecnificado",12.0
+14,"maiz tradicional","Maiz Tradicional","level3","Maiz Tradicional","Maiz Tradicional",12.0
+15,"maiz forrajero","Maiz Forrajero","level2","Maiz Forrajero","Maiz Forrajero",1.0
+16,"maiz forrajero","Maiz Forrajero","level3","Maiz Forrajero","Maiz Forrajero",15.0
+17,"quinua","Quinua","level2","Quinua","Quinua",1.0
+18,"quinua","Quinua","level3","Quinua","Quinua",17.0
+19,"sorgo","Sorgo","level2","Sorgo","Sorgo",1.0
+20,"millo","Millo","level3","Millo","Millo",19.0
+21,"sorgo","Sorgo","level3","Sorgo","Sorgo",19.0
+22,"trigo","Trigo","level2","Trigo","Trigo",1.0
+23,"trigo","Trigo","level3","Trigo","Trigo",22.0
+24,"fibras","Fibers","level1","Fibers","Fibras",0.0
+25,"algodon","Algodon","level2","Algodon","Algodon",24.0
+26,"algodon","Algodon","level3","Algodon","Algodon",25.0
+27,"caãa flecha","Caãa Flecha","level2","Caãa Flecha","Caãa Flecha",24.0
+28,"caãa flecha","Caãa Flecha","level3","Caãa Flecha","Caãa Flecha",27.0
+29,"esparto","Esparto","level2","Esparto","Esparto",24.0
+30,"esparto","Esparto","level3","Esparto","Esparto",29.0
+31,"estropajo","Estropajo","level2","Estropajo","Estropajo",24.0
+32,"estropajo","Estropajo","level3","Estropajo","Estropajo",31.0
+33,"fique","Fique","level2","Fique","Fique",24.0
+34,"fique","Fique","level3","Fique","Fique",33.0
+35,"iraca","Iraca","level2","Iraca","Iraca",24.0
+36,"iraca","Iraca","level3","Iraca","Iraca",35.0
+37,"mimbre","Mimbre","level2","Mimbre","Mimbre",24.0
+38,"mimbre","Mimbre","level3","Mimbre","Mimbre",37.0
+39,"palma amarga","Palma Amarga","level2","Palma Amarga","Palma Amarga",24.0
+40,"palma amarga","Palma Amarga","level3","Palma Amarga","Palma Amarga",39.0
+41,"flores y follajes","Flowers And Foliage","level1","Flowers And Foliage","Flores Y Follajes",0.0
+42,"flores","Flores","level2","Flores","Flores",41.0
+43,"anturio","Anturio","level3","Anturio","Anturio",42.0
+44,"astromelia","Astromelia","level3","Astromelia","Astromelia",42.0
+45,"cartucho-astromelia","Cartucho-Astromelia","level3","Cartucho-Astromelia","Cartucho-Astromelia",42.0
+46,"clavel","Clavel","level3","Clavel","Clavel",42.0
+47,"girasol","Girasol","level3","Girasol","Girasol",42.0
+48,"gladiolo","Gladiolo","level3","Gladiolo","Gladiolo",42.0
+49,"heliconia","Heliconia","level3","Heliconia","Heliconia",42.0
+50,"hortensia","Hortensia","level3","Hortensia","Hortensia",42.0
+51,"orquidea","Orquidea","level3","Orquidea","Orquidea",42.0
+52,"pompon y crisantemo","Pompon Y Crisantemo","level3","Pompon Y Crisantemo","Pompon Y Crisantemo",42.0
+53,"rosa","Rosa","level3","Rosa","Rosa",42.0
+54,"flores y follajes","Flores Y Follajes","level2","Flores Y Follajes","Flores Y Follajes",41.0
+55,"flores y follajes","Flores Y Follajes","level3","Flores Y Follajes","Flores Y Follajes",54.0
+56,"follajes","Follajes","level2","Follajes","Follajes",41.0
+57,"asparragus","Asparragus","level3","Asparragus","Asparragus",56.0
+58,"cordeline cinta","Cordeline Cinta","level3","Cordeline Cinta","Cordeline Cinta",56.0
+59,"eucalipto baby blue","Eucalipto Baby Blue","level3","Eucalipto Baby Blue","Eucalipto Baby Blue",56.0
+60,"fitosporum","Fitosporum","level3","Fitosporum","Fitosporum",56.0
+61,"helecho","Helecho","level3","Helecho","Helecho",56.0
+62,"helecho cuero","Helecho Cuero","level3","Helecho Cuero","Helecho Cuero",56.0
+63,"palma robelina","Palma Robelina","level3","Palma Robelina","Palma Robelina",56.0
+64,"tree fern","Tree Fern","level3","Tree Fern","Tree Fern",56.0
+65,"forestales","Forestry","level1","Forestry","Forestales",0.0
+66,"caucho","Caucho","level2","Caucho","Caucho",65.0
+67,"caucho","Caucho","level3","Caucho","Caucho",66.0
+68,"plantulas","Plantulas","level3","Plantulas","Plantulas",66.0
+69,"frutales","Fruits","level1","Fruits","Frutales",0.0
+70,"aguacate","Aguacate","level2","Aguacate","Aguacate",69.0
+71,"aguacate","Aguacate","level3","Aguacate","Aguacate",70.0
+72,"algarrobo","Algarrobo","level2","Algarrobo","Algarrobo",69.0
+73,"algarrobo","Algarrobo","level3","Algarrobo","Algarrobo",72.0
+74,"anon","Anon","level2","Anon","Anon",69.0
+75,"anon","Anon","level3","Anon","Anon",74.0
+76,"arandano","Arandano","level2","Arandano","Arandano",69.0
+77,"arandano","Arandano","level3","Arandano","Arandano",76.0
+78,"banano","Banano","level2","Banano","Banano",69.0
+79,"bananito","Bananito","level3","Bananito","Bananito",78.0
+80,"banano","Banano","level3","Banano","Banano",78.0
+81,"banano exportacion","Banano Exportacion","level3","Banano Exportacion","Banano Exportacion",78.0
+82,"banano manzano","Banano Manzano","level3","Banano Manzano","Banano Manzano",78.0
+83,"chiro","Chiro","level3","Chiro","Chiro",78.0
+84,"murrapo","Murrapo","level3","Murrapo","Murrapo",78.0
+85,"caducifolios","Caducifolios","level2","Caducifolios","Caducifolios",69.0
+86,"brevo","Brevo","level3","Brevo","Brevo",85.0
+87,"caducifolios","Caducifolios","level3","Caducifolios","Caducifolios",85.0
+88,"ciruela","Ciruela","level3","Ciruela","Ciruela",85.0
+89,"durazno","Durazno","level3","Durazno","Durazno",85.0
+90,"manzana","Manzana","level3","Manzana","Manzana",85.0
+91,"nispero","Nispero","level3","Nispero","Nispero",85.0
+92,"pera","Pera","level3","Pera","Pera",85.0
+93,"citricos","Citricos","level2","Citricos","Citricos",69.0
+94,"citricos","Citricos","level3","Citricos","Citricos",93.0
+95,"lima","Lima","level3","Lima","Lima",93.0
+96,"lima tahiti","Lima Tahiti","level3","Lima Tahiti","Lima Tahiti",93.0
+97,"limon","Limon","level3","Limon","Limon",93.0
+98,"limon mandarino","Limon Mandarino","level3","Limon Mandarino","Limon Mandarino",93.0
+99,"limon pajarito","Limon Pajarito","level3","Limon Pajarito","Limon Pajarito",93.0
+100,"limon tahiti","Limon Tahiti","level3","Limon Tahiti","Limon Tahiti",93.0
+101,"mandarina","Mandarina","level3","Mandarina","Mandarina",93.0
+102,"mandarina clementina","Mandarina Clementina","level3","Mandarina Clementina","Mandarina Clementina",93.0
+103,"mandarina oneco","Mandarina Oneco","level3","Mandarina Oneco","Mandarina Oneco",93.0
+104,"naranja","Naranja","level3","Naranja","Naranja",93.0
+105,"naranja jaffa","Naranja Jaffa","level3","Naranja Jaffa","Naranja Jaffa",93.0
+106,"naranja salustiana","Naranja Salustiana","level3","Naranja Salustiana","Naranja Salustiana",93.0
+107,"naranja valencia","Naranja Valencia","level3","Naranja Valencia","Naranja Valencia",93.0
+108,"naranja washington navel","Naranja Washington Navel","level3","Naranja Washington Navel","Naranja Washington Navel",93.0
+109,"pomelo","Pomelo","level3","Pomelo","Pomelo",93.0
+110,"tangelo mineola","Tangelo Mineola","level3","Tangelo Mineola","Tangelo Mineola",93.0
+111,"tangelo orlando","Tangelo Orlando","level3","Tangelo Orlando","Tangelo Orlando",93.0
+112,"toronja","Toronja","level3","Toronja","Toronja",93.0
+113,"coco","Coco","level2","Coco","Coco",69.0
+114,"coco","Coco","level3","Coco","Coco",113.0
+115,"curuba","Curuba","level2","Curuba","Curuba",69.0
+116,"curuba","Curuba","level3","Curuba","Curuba",115.0
+117,"feijoa","Feijoa","level2","Feijoa","Feijoa",69.0
+118,"feijoa","Feijoa","level3","Feijoa","Feijoa",117.0
+119,"frambuesa","Frambuesa","level2","Frambuesa","Frambuesa",69.0
+120,"frambuesa","Frambuesa","level3","Frambuesa","Frambuesa",119.0
+121,"fresa","Fresa","level2","Fresa","Fresa",69.0
+122,"fresa","Fresa","level3","Fresa","Fresa",121.0
+123,"frutales exoticos","Frutales Exoticos","level2","Frutales Exoticos","Frutales Exoticos",69.0
+124,"agraz","Agraz","level3","Agraz","Agraz",123.0
+125,"aguaje","Aguaje","level3","Aguaje","Aguaje",123.0
+126,"araza","Araza","level3","Araza","Araza",123.0
+127,"asai","Asai","level3","Asai","Asai",123.0
+128,"bacuri","Bacuri","level3","Bacuri","Bacuri",123.0
+129,"badea","Badea","level3","Badea","Badea",123.0
+130,"borojo","Borojo","level3","Borojo","Borojo",123.0
+131,"caimo","Caimo","level3","Caimo","Caimo",123.0
+132,"chamba","Chamba","level3","Chamba","Chamba",123.0
+133,"chirimoya","Chirimoya","level3","Chirimoya","Chirimoya",123.0
+134,"cholupa","Cholupa","level3","Cholupa","Cholupa",123.0
+135,"chontaduro","Chontaduro","level3","Chontaduro","Chontaduro",123.0
+136,"cocona","Cocona","level3","Cocona","Cocona",123.0
+137,"copoazu","Copoazu","level3","Copoazu","Copoazu",123.0
+138,"corozo","Corozo","level3","Corozo","Corozo",123.0
+139,"datil","Datil","level3","Datil","Datil",123.0
+140,"guama","Guama","level3","Guama","Guama",123.0
+141,"gulupa","Gulupa","level3","Gulupa","Gulupa",123.0
+142,"higo","Higo","level3","Higo","Higo",123.0
+143,"mamoncillo","Mamoncillo","level3","Mamoncillo","Mamoncillo",123.0
+144,"mangostino","Mangostino","level3","Mangostino","Mangostino",123.0
+145,"pepa de pan","Pepa De Pan","level3","Pepa De Pan","Pepa De Pan",123.0
+146,"pitahaya","Pitahaya","level3","Pitahaya","Pitahaya",123.0
+147,"pomarrosa","Pomarrosa","level3","Pomarrosa","Pomarrosa",123.0
+148,"tamarindo","Tamarindo","level3","Tamarindo","Tamarindo",123.0
+149,"uchuva","Uchuva","level3","Uchuva","Uchuva",123.0
+150,"umari","Umari","level3","Umari","Umari",123.0
+151,"uva caimarona","Uva Caimarona","level3","Uva Caimarona","Uva Caimarona",123.0
+152,"frutales varios","Frutales Varios","level2","Frutales Varios","Frutales Varios",69.0
+153,"frutales varios","Frutales Varios","level3","Frutales Varios","Frutales Varios",152.0
+154,"granadilla","Granadilla","level2","Granadilla","Granadilla",69.0
+155,"granadilla","Granadilla","level3","Granadilla","Granadilla",154.0
+156,"guanabana","Guanabana","level2","Guanabana","Guanabana",69.0
+157,"guanabana","Guanabana","level3","Guanabana","Guanabana",156.0
+158,"guayaba","Guayaba","level2","Guayaba","Guayaba",69.0
+159,"guayaba","Guayaba","level3","Guayaba","Guayaba",158.0
+160,"guayaba manzana","Guayaba Manzana","level3","Guayaba Manzana","Guayaba Manzana",158.0
+161,"guayaba pera","Guayaba Pera","level3","Guayaba Pera","Guayaba Pera",158.0
+162,"lulo","Lulo","level2","Lulo","Lulo",69.0
+163,"lulo","Lulo","level3","Lulo","Lulo",162.0
+164,"mamey","Mamey","level2","Mamey","Mamey",69.0
+165,"mamey","Mamey","level3","Mamey","Mamey",164.0
+166,"mango","Mango","level2","Mango","Mango",69.0
+167,"mango","Mango","level3","Mango","Mango",166.0
+168,"mango injerto","Mango Injerto","level3","Mango Injerto","Mango Injerto",166.0
+169,"maracuya","Maracuya","level2","Maracuya","Maracuya",69.0
+170,"maracuya","Maracuya","level3","Maracuya","Maracuya",169.0
+171,"melon","Melon","level2","Melon","Melon",69.0
+172,"melon","Melon","level3","Melon","Melon",171.0
+173,"mora","Mora","level2","Mora","Mora",69.0
+174,"mora","Mora","level3","Mora","Mora",173.0
+175,"noni","Noni","level2","Noni","Noni",69.0
+176,"noni","Noni","level3","Noni","Noni",175.0
+177,"nueces","Nueces","level2","Nueces","Nueces",69.0
+178,"macadamia","Macadamia","level3","Macadamia","Macadamia",177.0
+179,"maraãon","Maraãon","level3","Maraãon","Maraãon",177.0
+180,"papaya","Papaya","level2","Papaya","Papaya",69.0
+181,"papaya","Papaya","level3","Papaya","Papaya",180.0
+182,"papaya hawaiana","Papaya Hawaiana","level3","Papaya Hawaiana","Papaya Hawaiana",180.0
+183,"papayuela","Papayuela","level3","Papayuela","Papayuela",180.0
+184,"patilla","Patilla","level2","Patilla","Patilla",69.0
+185,"patilla","Patilla","level3","Patilla","Patilla",184.0
+186,"piãa","Piãa","level2","Piãa","Piãa",69.0
+187,"piãa","Piãa","level3","Piãa","Piãa",186.0
+188,"rambutan","Rambutan","level2","Rambutan","Rambutan",69.0
+189,"rambutan","Rambutan","level3","Rambutan","Rambutan",188.0
+190,"tomate de arbol","Tomate De Arbol","level2","Tomate De Arbol","Tomate De Arbol",69.0
+191,"tomate de arbol","Tomate De Arbol","level3","Tomate De Arbol","Tomate De Arbol",190.0
+192,"uva","Uva","level2","Uva","Uva",69.0
+193,"uva","Uva","level3","Uva","Uva",192.0

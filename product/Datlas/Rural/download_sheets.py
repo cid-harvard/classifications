@@ -5,8 +5,13 @@ hierarchy, names = get_classification_from_gdrive("https://docs.google.com/sprea
 hierarchy.to_csv("./in/Livestock_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
 names.to_csv("./in/Livestock_Names.tsv", sep="\t", index=False, encoding="utf-8")
 
-# Agricultural Products
+# Agricultural Products (Census)
 hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/1UV80vfHq0Gopy7Gpxb9SyQ41PfCN3wZthy-Cp5pSf_E/edit#gid=0")
+hierarchy.to_csv("./in/AgProducts_Census_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
+names.to_csv("./in/AgProducts_Census_Names.tsv", sep="\t", index=False, encoding="utf-8")
+
+# Agricultural Products (Non-Census)
+hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/1yye7lVVVEsfmbeVTMY41tymH9mIU84CiUXOwi1wx-lI/edit#gid=743162393")
 hierarchy.to_csv("./in/AgProducts_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
 names.to_csv("./in/AgProducts_Names.tsv", sep="\t", index=False, encoding="utf-8")
 

@@ -1,0 +1,35 @@
+code	level	name_en	name_short_en	name_es	name_short_es
+total	level0	Total	Total	Total	Total
+cereals_total	level1	Cereals	Cereals	Cereals	Cereals
+pltubers_total	level1	Tubers	Tubers	Tubers	Tubers
+agroind_total	level1	Total Agroindustries	Total Agroindustries	Total Agroindustries	Total Agroindustries
+greens_total	level1	Greens	Greens	Greens	Greens
+fruits_total	level1	Fruits	Fruits	Fruits	Fruits
+palm	level2	Palm	Palm	Palm	Palm
+avocado	level2	Avocado	Avocado	Avocado	Avocado
+papaya	level2	Papaya	Papaya	Papaya	Papaya
+other fruits	level2	Other Fruits	Other Fruits	Other Fruits	Other Fruits
+banana expo	level2	Banana Expo	Banana Expo	Banana Expo	Banana Expo
+coffee	level2	Coffee	Coffee	Coffee	Coffee
+white corn	level2	White Corn	White Corn	White Corn	White Corn
+rice	level2	Rice	Rice	Rice	Rice
+yellow corn	level2	Yellow Corn	Yellow Corn	Yellow Corn	Yellow Corn
+other tubers	level2	Other Tubers	Other Tubers	Other Tubers	Other Tubers
+plantain	level2	Plantain	Plantain	Plantain	Plantain
+cotton	level2	Cotton	Cotton	Cotton	Cotton
+cocoa	level2	Cocoa	Cocoa	Cocoa	Cocoa
+other agroind	level2	Other Agroindustries	Other Agroindustries	Other Agroindustries	Other Agroindustries
+vegetables	level2	Vegetables	Vegetables	Vegetables	Vegetables
+forest plants	level2	Forest Plants	Forest Plants	Forest Plants	Forest Plants
+pinneaple	level2	Pinneaple	Pinneaple	Pinneaple	Pinneaple
+flowers & foliage	level2	Flowers & Foliage	Flowers & Foliage	Flowers & Foliage	Flowers & Foliage
+rubber	level2	Rubber	Rubber	Rubber	Rubber
+yucca	level2	Yucca	Yucca	Yucca	Yucca
+citrics	level2	Citrics	Citrics	Citrics	Citrics
+panela cane	level2	Panela Cane	Panela Cane	Panela Cane	Panela Cane
+potatoes	level2	Potatoes	Potatoes	Potatoes	Potatoes
+tobacco	level2	Tobacco	Tobacco	Tobacco	Tobacco
+banana other	level2	Other Banana	Other Banana	Other Banana	Other Banana
+other cereals	level2	Other Cereals	Other Cereals	Other Cereals	Other Cereals
+sugar cane	level2	Sugar Cane	Sugar Cane	Sugar Cane	Sugar Cane
+herbs	level2	Herbs	Herbs	Herbs	Herbs
