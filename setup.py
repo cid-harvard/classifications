@@ -23,6 +23,7 @@ setup(
             'industry/NAICS/Mexico_datlas/out/industries_mexico_scian_2007_datlas.csv',
             'product/Datlas/Rural/out/livestock.csv',
             'product/Datlas/Rural/out/agricultural_products.csv',
+            'product/Datlas/Rural/out/agricultural_products_census.csv',
             'product/Datlas/Rural/out/farm_type.csv',
             'product/HS/Atlas/out/hs92_atlas.csv',
             'product/HS/Mexico_Prospedia/out/products_mexico_prospedia.csv',
