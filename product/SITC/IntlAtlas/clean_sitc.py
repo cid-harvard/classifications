@@ -9,20 +9,20 @@ if __name__ == "__main__":
                           dtype={"code": str})
 
     hierarchy = pd.read_table("./in/SITC_Rev2_Hierarchy.tsv", encoding="utf-8", dtype="str")
-    hierarchy.columns = ["level4_code", "level3_code", "level2_code", "level1_code", "level0_code"]
+    hierarchy.columns = ["5digit_code", "4digit_code", "3digit_code", "2digit_code", "section_code"]
 
     # Drop the 5-digit level.
-    names = names[names.level != "level4"]
+    names = names[names.level != "5digit"]
     hierarchy = hierarchy.iloc[:, 1:].drop_duplicates()
 
     fields = {
-        "level0": [],
-        "level1": [],
-        "level2": [],
-        "level3": [],
+        "section": [],
+        "2digit": [],
+        "3digit": [],
+        "4digit": [],
     }
 
-    h = Hierarchy(["level0", "level1", "level2", "level3"])
+    h = Hierarchy(["section", "2digit", "3digit", "4digit"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
     parent_code_table.code = parent_code_table.code.astype(str)
 
