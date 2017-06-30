@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="linnaeus",
-    version="v0.0.74",
+    version="v0.0.76",
     author="Mali Akmanalp <Harvard CID>",
     description=("Harvard CID's classification tools."),
     url="http://github.com/cid-harvard/classifications/",
