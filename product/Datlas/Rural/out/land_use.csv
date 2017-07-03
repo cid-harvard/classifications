@@ -1,0 +1,15 @@
+"","code","name","level","name_en","name_es","name_short_en","name_short_es","parent_id"
+0,"Total","Total","level0","Total","Total","Total","Total",""
+1,"AgrÂ’colas y/o precuarias","Agriculture and/or Living Stock","level1","Agriculture and/or Living Stock","AgrÂ’colas y/o precuarias","Agriculture and/or Living Stock","AgrÂ’colas y/o precuarias",0.0
+2,"En reposo","At Rest","level2","At Rest","En reposo","At Rest","En reposo",1.0
+3,"Pastos","Grass","level2","Grass","Pastos","Grass","Pastos",1.0
+4,"Barbecho","Fallow","level2","Fallow","Barbecho","Fallow","Barbecho",1.0
+5,"Infrastructura agrÂ’cola","Agrinfrastructure","level2","Agrinfrastructure","Infrastructura agrÂ’cola","Agrinfrastructure","Infrastructura agrÂ’cola",1.0
+6,"Cultivos","Crops","level2","Crops","Cultivos","Crops","Cultivos",1.0
+7,"Rastrojo","Stubble","level2","Stubble","Rastrojo","Stubble","Rastrojo",1.0
+8,"Ni agrÂ’colas ni pecuarias","Not Agriculture Nor Living Stock","level1","Not Agriculture Nor Living Stock","Ni agrÂ’colas ni pecuarias","Not Agriculture Nor Living Stock","Ni agrÂ’colas ni pecuarias",0.0
+9,"Ni agrÂ’colas ni pecuarias","Not Agriculture Nor Living Stock","level2","Not Agriculture Nor Living Stock","Ni agrÂ’colas ni pecuarias","Not Agriculture Nor Living Stock","Ni agrÂ’colas ni pecuarias",8.0
+10,"Bosques","Natural Forests","level1","Natural Forests","Bosques","Natural Forests","Bosques",0.0
+11,"Bosques","Natural Forests","level2","Natural Forests","Bosques","Natural Forests","Bosques",10.0
+12,"Otros","Other","level1","Other","Otros","Other","Otros",0.0
+13,"Otros","Other","level2","Other","Otros","Other","Otros",12.0

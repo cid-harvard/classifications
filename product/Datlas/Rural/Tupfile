@@ -4,9 +4,11 @@ LIVESTOCK = in/Livestock_Hierarchy.tsv in/Livestock_Names.tsv
 AGPRODUCTS = in/AgProducts_Hierarchy.tsv in/AgProducts_Names.tsv
 AGPRODUCTS_CENSUS = in/AgProducts_Census_Hierarchy.tsv in/AgProducts_Census_Names.tsv
 FARMTYPE = in/FarmType_Hierarchy.tsv in/FarmType_Names.tsv
+LANDUSE = in/LandUse_Hierarchy.tsv in/LandUse_Names.tsv
 
-: |> $(PYTHON_PREFIX) download_sheets.py |> $(LIVESTOCK) $(AGPRODUCTS) $(AGPRODUCTS_CENSUS) $(FARMTYPE)
+: |> $(PYTHON_PREFIX) download_sheets.py |> $(LIVESTOCK) $(AGPRODUCTS) $(AGPRODUCTS_CENSUS) $(FARMTYPE) $(LANDUSE)
 : $(LIVESTOCK) |> $(PYTHON_PREFIX) clean_livestock.py |> out/livestock.csv out/livestock.dta
 : $(AGPRODUCTS_CENSUS) |> $(PYTHON_PREFIX) clean_agproducts_census.py |> out/agricultural_products_census.csv out/agricultural_products_census.dta
 : $(AGPRODUCTS) |> $(PYTHON_PREFIX) clean_agproducts.py |> out/agricultural_products.csv out/agricultural_products.dta
 : $(FARMTYPE) |> $(PYTHON_PREFIX) clean_farmtype.py |> out/farm_type.csv out/farm_type.dta
+: $(LANDUSE) |> $(PYTHON_PREFIX) clean_landuse.py |> out/land_use.csv
