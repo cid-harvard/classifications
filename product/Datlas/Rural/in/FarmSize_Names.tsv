@@ -1,0 +1,4 @@
+code	level	name_en	name_short_en	name_es	name_short_es
+Agropecuario o no agropecuario	level0	Total	Total	Agropecuario o no agropecuario	Agropecuario o no agropecuario
+Agropecuario	level1	Agricultural	Agricultural	Agropecuario	Agropecuario
+No agropecuario	level1	Nonagricultural	Nonagricultural	No agropecuario	No agropecuario

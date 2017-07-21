@@ -25,3 +25,8 @@ names.to_csv("./in/FarmType_Names.tsv", sep="\t", index=False, encoding="utf-8")
 hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/17EoKvwQKujYRCKzh2odu--bpR0d2grigrWDn4CjRaeg/edit#gid=1207195644")
 hierarchy.to_csv("./in/LandUse_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
 names.to_csv("./in/LandUse_Names.tsv", sep="\t", index=False, encoding="utf-8")
+
+# Farmsize Type
+hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/1ORWQDmc0wDPiOW4nBgi40JsKjL7tLm-YzaGBO6TP0Jk/edit#gid=1207195644")
+hierarchy.to_csv("./in/FarmSize_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
+names.to_csv("./in/FarmSize_Names.tsv", sep="\t", index=False, encoding="utf-8")
