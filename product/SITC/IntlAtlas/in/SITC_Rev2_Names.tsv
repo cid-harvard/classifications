@@ -9,7 +9,7 @@ code	level	name_en	name_short_en	name_es	name_short_es
 7	section	Machinery and transport equipment	Machinery & transport		
 8	section	Miscellaneous manufactured articles	Other manufactured articles		
 9	section	Commodities and transactions not classified elsewhere in the SITC	Other		
-00	level1	Live animals chiefly for food	Live animals chiefly for food		
+00	2digit	Live animals chiefly for food	Live animals chiefly for food		
 01	2digit	Meat and preparations	Meat and preparations		
 02	2digit	Dairy products and birds' eggs	Dairy products and birds' eggs		
 03	2digit	Fish, crustacean and molluscs, and preparations thereof	Fish, crustacean and molluscs, and preparations thereof		
