@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="linnaeus",
-    version="v0.0.80",
+    version="v0.0.81",
     author="Mali Akmanalp <Harvard CID>",
     description=("Harvard CID's classification tools."),
     url="http://github.com/cid-harvard/classifications/",
@@ -24,6 +24,7 @@ setup(
             'product/Datlas/Rural/out/livestock.csv',
             'product/Datlas/Rural/out/land_use.csv',
             'product/Datlas/Rural/out/agricultural_products.csv',
+            'product/Datlas/Rural/out/agricultural_products_expanded.csv',
             'product/Datlas/Rural/out/agricultural_products_census.csv',
             'product/Datlas/Rural/out/farm_type.csv',
             'product/Datlas/Rural/out/farm_size.csv',

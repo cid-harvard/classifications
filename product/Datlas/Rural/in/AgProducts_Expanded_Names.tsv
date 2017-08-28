@@ -1,0 +1,395 @@
+code	level	name_en	name_short_en	name_es	name_short_es
+todos	level0	All Products	All Products	Todos los Productos	Todos los Productos
+cereales	level1	Cereals	Cereals	Cereales	Cereales
+fibras	level1	Fibers	Fibers	Fibras	Fibras
+flores_y_follajes	level1	Flowers And Foliage	Flowers And Foliage	Flores Y Follajes	Flores Y Follajes
+forestales	level1	Forestry	Forestry	Forestales	Forestales
+frutales	level1	Fruits	Fruits	Frutales	Frutales
+hongos	level1	Mushrooms	Mushrooms	Hongos	Hongos
+hortalizas	level1	Vegetables	Vegetables	Hortalizas	Hortalizas
+leguminosas	level1	Legumes	Legumes	Leguminosas	Leguminosas
+oleaginosas	level1	Oleaginous	Oleaginous	Oleaginosas	Oleaginosas
+otros_permanentes	level1	Other Permanent	Other Permanent	Otros Permanentes	Otros Permanentes
+otros_transitorios	level1	Other Transitory	Other Transitory	Otros Transitorios	Otros Transitorios
+plantas_aromaticas_condimentarias_y_medicinales	level1	Aromatic, Medicinal, And Flavour Plants	Aromatic, Medicinal, And Flavour Plants	Plantas Aromaticas, Condimentarias Y Medicinales	Plantas Aromaticas, Condimentarias Y Medicinales
+tuberculos_y_platanos	level1	Tubers And Plantain	Tubers And Plantain	Tuberculos Y Platanos	Tuberculos Y Platanos
+acelga	level2	Chard	Chard	Acelga	Acelga
+achira	level2	Purple Arrowroot	Purple Arrowroot	Achira	Achira
+aguacate	level2	Avocado	Avocado	Aguacate	Aguacate
+ahuyama	level2	Squash	Squash	Ahuyama	Ahuyama
+aji	level2	Chili Peppers	Chili Peppers	Aji	Aji
+ajo	level2	Garlic	Garlic	Ajo	Ajo
+ajonjoli	level2	Sesame	Sesame	Ajonjoli	Ajonjoli
+alcachofa	level2	Artichoke	Artichoke	Alcachofa	Alcachofa
+alfalfa	level2	Lucerne	Lucerne	Alfalfa	Alfalfa
+algarrobo	level2	Carob Tree	Carob Tree	Algarrobo	Algarrobo
+algodon	level2	Cotton	Cotton	Algodon	Algodon
+ame	level2	Greater Yam	Greater Yam	Ñame	Ñame
+anon	level2	Sugar Apples	Sugar Apples	Anon	Anon
+apio	level2	Celery	Celery	Apio	Apio
+arandano	level2	Bilberry	Bilberry	Arandano	Arandano
+arracacha	level2	White Carrot	White Carrot	Arracacha	Arracacha
+arroz	level2	Rice	Rice	Arroz	Arroz
+arveja	level2	Pea	Pea	Arveja	Arveja
+avena	level2	Oat	Oat	Avena	Avena
+banano	level2	Banana	Banana	Banano	Banano
+batata	level2	Sweet Potatoe	Sweet Potatoe	Batata	Batata
+berenjena	level2	Aubergine	Aubergine	Berenjena	Berenjena
+bore	level2	Dasheen	Dasheen	Bore	Bore
+brocoli	level2	Broccoli	Broccoli	Brocoli	Brocoli
+caa	level2	Cane	Cane	Caña	Caña
+caa_flecha	level2	Arrow Cane	Arrow Cane	Caña Flecha	Caña Flecha
+cacao	level2	Cocoa	Cocoa	Cacao	Cacao
+caducifolios	level2	Caducifolios	Caducifolios	Caducifolios	Caducifolios
+cafe	level2	Coffee	Coffee	Cafe	Cafe
+calabacin	level2	Zucchini	Zucchini	Calabacin	Calabacin
+calabaza	level2	Pumpkin	Pumpkin	Calabaza	Calabaza
+caucho	level2	Rubber	Rubber	Caucho	Caucho
+cebada	level2	Barley	Barley	Cebada	Cebada
+cebolla	level2	Onion	Onion	Cebolla	Cebolla
+centeno	level2	Rye	Rye	Centeno	Centeno
+chachafruto	level2	Basul	Basul	Chachafruto	Chachafruto
+champion	level2	Mushroom	Mushroom	Champiñon	Champiñon
+chonque	level2	New Cocoyam	New Cocoyam	Chonque	Chonque
+cilantro	level2	Coriander	Coriander	Cilantro	Cilantro
+citricos	level2	Citrics	Citrics	Citricos	Citricos
+coco	level2	Coconut	Coconut	Coco	Coco
+col	level2	Cole	Cole	Col	Col
+curuba	level2	Banana Passionfruit	Banana Passionfruit	Curuba	Curuba
+esparrago	level2	Asparagus	Asparagus	Esparrago	Esparrago
+esparto	level2	Needles Grass	Needles Grass	Esparto	Esparto
+espinaca	level2	Spinach	Spinach	Espinaca	Espinaca
+estropajo	level2	Sponge Gourd	Sponge Gourd	Estropajo	Estropajo
+feijoa	level2	Pineapple Guava	Pineapple Guava	Feijoa	Feijoa
+fique	level2	Century Plant	Century Plant	Fique	Fique
+flores	level2	Flowers	Flowers	Flores	Flores
+follajes	level2	Foliage	Foliage	Follajes	Follajes
+frambuesa	level2	Raspberry	Raspberry	Frambuesa	Frambuesa
+fresa	level2	Strawberry	Strawberry	Fresa	Fresa
+frijol	level2	Beans	Beans	Frijol	Frijol
+frutales_exoticos	level2	Exotic Fruits	Exotic Fruits	Frutales Exoticos	Frutales Exoticos
+frutales_varios	level2	Various Fruits	Various Fruits	Frutales Varios	Frutales Varios
+garbanzo	level2	Chickpea	Chickpea	Garbanzo	Garbanzo
+granadilla	level2	Wweet Granadilla	Wweet Granadilla	Granadilla	Granadilla
+guanabana	level2	Soursoup	Soursoup	Guanabana	Guanabana
+guandul	level2	Pigeon Pea	Pigeon Pea	Guandul	Guandul
+guatila	level2	Chow Chow	Chow Chow	Guatila	Guatila
+guayaba	level2	Guava	Guava	Guayaba	Guayaba
+haba	level2	Broad Bean	Broad Bean	Haba	Haba
+habichuela	level2	Pea Bean	Pea Bean	Habichuela	Habichuela
+higuerilla	level2	Castor Oil Plant	Castor Oil Plant	Higuerilla	Higuerilla
+hortalizas_varias	level2	Various Vegetables	Various Vegetables	Hortalizas Varias	Hortalizas Varias
+iraca	level2	Toquilla Palm	Toquilla Palm	Iraca	Iraca
+jatropha	level2	Purging Nut	Purging Nut	Jatropha	Jatropha
+lechuga	level2	Lettuce	Lettuce	Lechuga	Lechuga
+lenteja	level2	Lentil	Lentil	Lenteja	Lenteja
+lulo	level2	Little Orange	Little Orange	Lulo	Lulo
+maiz	level2	Corn	Corn	Maiz	Maiz
+maiz_forrajero	level2	Maize	Maize	Maiz Forrajero	Maiz Forrajero
+malanga	level2	Eddoe	Eddoe	Malanga	Malanga
+mamey	level2	Mammee Apple	Mammee Apple	Mamey	Mamey
+mango	level2	Mango	Mango	Mango	Mango
+mani	level2	Peanut	Peanut	Mani	Mani
+maracuya	level2	Passionfruit	Passionfruit	Maracuya	Maracuya
+melon	level2	Muskmelon	Muskmelon	Melon	Melon
+mimbre	level2	Wicker	Wicker	Mimbre	Mimbre
+mora	level2	Thornless Blackberry	Thornless Blackberry	Mora	Mora
+morera	level2	Mulberry	Mulberry	Morera	Morera
+nabo	level2	Turnip	Turnip	Nabo	Nabo
+noni	level2	Indian Mulberry	Indian Mulberry	Noni	Noni
+nueces	level2	Nuts	Nuts	Nueces	Nueces
+orellana	level2	Orellana	Orellana	Orellana	Orellana
+otras_plantas_aromaticas_y_medicinales	level2	Other Aromatic And Medicinal Plants	Other Aromatic And Medicinal Plants	Otras Plantas Aromaticas y Medicinales	Otras Plantas Aromaticas y Medicinales
+otros_flores_y_follajes	level2	Other Flowers And Foliage	Other Flowers And Foliage	Otros Flores Y Follajes	Otros Flores Y Follajes
+palma_amarga	level2	Sour Palm	Sour Palm	Palma Amarga	Palma Amarga
+palma_de_aceite	level2	Oil Palm	Oil Palm	Palma De Aceite	Palma De Aceite
+palmito	level2	Palm Heart	Palm Heart	Palmito	Palmito
+papa	level2	Potatoe	Potatoe	Papa	Papa
+papaya	level2	Papaya	Papaya	Papaya	Papaya
+patilla	level2	Pin	Pin	Patilla	Patilla
+pepino	level2	Cucumber	Cucumber	Pepino	Pepino
+pia	level2	Pineapple	Pineapple	Piña	Piña
+pimenton	level2	Cayenne	Cayenne	Pimenton	Pimenton
+plantas_aromaticas	level2	Aromatic Plants	Aromatic Plants	Plantas Aromaticas	Plantas Aromaticas
+plantas_condimentarias	level2	Flavour Plants	Flavour Plants	Plantas Condimentarias	Plantas Condimentarias
+plantas_medicinales	level2	Medicinal Plants	Medicinal Plants	Plantas Medicinales	Plantas Medicinales
+platano	level2	Plantain	Plantain	Platano	Platano
+puerro	level2	Leek	Leek	Puerro	Puerro
+quinua	level2	Quinoa	Quinoa	Quinua	Quinua
+rabano	level2	Radish	Radish	Rabano	Rabano
+rambutan	level2	Rambutan	Rambutan	Rambutan	Rambutan
+remolacha	level2	Beetroot	Beetroot	Remolacha	Remolacha
+repollo	level2	Cabbage	Cabbage	Repollo	Repollo
+sacha_inchi	level2	Inchi sacha	Inchi sacha	Sacha Inchi	Sacha Inchi
+sorgo	level2	Sorghum	Sorghum	Sorgo	Sorgo
+soya	level2	Soy	Soy	Soya	Soya
+tabaco	level2	Tabacco	Tabacco	Tabaco	Tabaco
+tomate	level2	Tomato	Tomato	Tomate	Tomate
+tomate_de_arbol	level2	Tamarillo	Tamarillo	Tomate De Arbol	Tomate De Arbol
+trigo	level2	Wheat	Wheat	Trigo	Trigo
+ulluco	level2	Ullucus	Ullucus	Ulluco	Ulluco
+uva	level2	Grape	Grape	Uva	Uva
+yacon	level2	Peruvian groundapp	Peruvian groundapp	Yacon	Yacon
+yuca	level2	Yucca	Yucca	Yuca	Yuca
+zanahoria	level2	Carrot	Carrot	Zanahoria	Zanahoria
+zapote	level2	Sapodilla	Sapodilla	Zapote	Zapote
+acelga	level3	Chard	Chard	Acelga	Acelga
+achicoria	level3	Chicory	Chicory	Achicoria	Achicoria
+achin	level3	Taro	Taro	Achin	Achin
+achiote_bija	level3	Annato	Annato	Achiote (Bija)	Achiote (Bija)
+achira	level3	Purple arrowroot	Purple arrowroot	Achira	Achira
+agraz	level3	Unripe grape	Unripe grape	Agraz	Agraz
+aguacate	level3	Avocado	Avocado	Aguacate	Aguacate
+aguaje	level3	Moriche palm	Moriche palm	Aguaje	Aguaje
+ahuyama	level3	Squash	Squash	Ahuyama	Ahuyama
+aji	level3	Chili peppers	Chili peppers	Aji	Aji
+aji_dulce	level3	Sweet chili	Sweet chili	Aji Dulce	Aji Dulce
+aji_tabasco	level3	Tabasco chili	Tabasco chili	Aji Tabasco	Aji Tabasco
+ajo	level3	Garlic	Garlic	Ajo	Ajo
+ajonjoli	level3	Sesame	Sesame	Ajonjoli	Ajonjoli
+albahaca	level3	Basil	Basil	Albahaca	Albahaca
+alcachofa	level3	Artichoke	Artichoke	Alcachofa	Alcachofa
+alfalfa	level3	Lucerne	Lucerne	Alfalfa	Alfalfa
+algarrobo	level3	Carob tree	Carob tree	Algarrobo	Algarrobo
+algodon	level3	Cotton	Cotton	Algodon	Algodon
+ame	level3	Greater yam	Greater yam	Ñame	Ñame
+ame_diamante	level3	Diamond greater yam	Diamond greater yam	Ñame Diamante	Ñame Diamante
+ame_espino	level3	Hawthorn greater yam	Hawthorn greater yam	Ñame Espino	Ñame Espino
+anis	level3	Anise	Anise	Anis	Anis
+anon	level3	Sugar apples	Sugar apples	Anon	Anon
+anturio	level3	Anthurium	Anthurium	Anturio	Anturio
+apio	level3	Celery	Celery	Apio	Apio
+arandano	level3	Bilberry	Bilberry	Arandano	Arandano
+araza	level3	Strawberry guava	Strawberry guava	Araza	Araza
+arracacha	level3	White carrot	White carrot	Arracacha	Arracacha
+arroz_riego	level3	Irrigated rice	Irrigated rice	Arroz Riego	Arroz Riego
+arroz_secano_manual	level3	Manual upland rice	Manual upland rice	Arroz Secano Manual	Arroz Secano Manual
+arroz_secano_mecanizado	level3	Mech upland rice	Mech upland rice	Arroz Secano Mecanizado	Arroz Secano Mecanizado
+arveja	level3	Pea	Pea	Arveja	Arveja
+asai	level3	Acai palm	Acai palm	Asai	Asai
+asparragus	level3	Aparagus	Aparagus	Asparragus	Asparragus
+astromelia	level3	Lily	Lily	Astromelia	Astromelia
+avena	level3	Oat	Oat	Avena	Avena
+bacuri	level3	Bacury	Bacury	Bacuri	Bacuri
+badea	level3	Giant ganadilla	Giant ganadilla	Badea	Badea
+bananito	level3	Small banana	Small banana	Bananito	Bananito
+banano	level3	Banana	Banana	Banano	Banano
+banano_exportacion	level3	Export banana	Export banana	Banano Exportacion	Banano Exportacion
+banano_manzano	level3	Apple banana	Apple banana	Banano Manzano	Banano Manzano
+batata	level3	Sweet Potato	Sweet Potato	Batata	Batata
+berenjena	level3	Aubergine	Aubergine	Berenjena	Berenjena
+bore	level3	Dasheen	Dasheen	Bore	Bore
+borojo	level3	Borojo	Borojo	Borojo	Borojo
+brevo	level3	Common fig	Common fig	Brevo	Brevo
+brocoli	level3	Broccoli	Broccoli	Brocoli	Brocoli
+caa_azucarera	level3	Sugar Cane	Sugar Cane	Caña Azucarera	Caña Azucarera
+caa_flecha	level3	Arrow Cane	Arrow Cane	Caña Flecha	Caña Flecha
+caa_miel	level3	Honey Cane	Honey Cane	Caña Miel	Caña Miel
+caa_panelera	level3	Panela Cane	Panela Cane	Caña Panelera	Caña Panelera
+cacao	level3	Cocoa	Cocoa	Cacao	Cacao
+cachaco	level3	Cachaco	Cachaco	Cachaco	Cachaco
+caducifolios	level3	Caducifolios	Caducifolios	Caducifolios	Caducifolios
+cafe	level3	Coffee	Coffee	Cafe	Cafe
+caimo	level3	Star apple	Star apple	Caimo	Caimo
+calabacin	level3	Zucchini	Zucchini	Calabacin	Calabacin
+calabaza	level3	Pumpkin	Pumpkin	Calabaza	Calabaza
+calendula	level3	Marigold	Marigold	Calendula	Calendula
+canyarana	level3	Canyarana	Canyarana	Canyarana	Canyarana
+cardamomo	level3	Cardamom	Cardamom	Cardamomo	Cardamomo
+cartuchoastromelia	level3	Astromelia cartridge	Astromelia cartridge	Cartucho-Astromelia	Cartucho-Astromelia
+caucho	level3	Rubber	Rubber	Caucho	Caucho
+cebada	level3	Barley	Barley	Cebada	Cebada
+cebolla_de_bulbo	level3	Onion Bulb	Onion Bulb	Cebolla De Bulbo	Cebolla De Bulbo
+cebolla_de_rama	level3	Branch Onion	Branch Onion	Cebolla De Rama	Cebolla De Rama
+cebollin	level3	Scallions	Scallions	Cebollin	Cebollin
+centeno	level3	Rye	Rye	Centeno	Centeno
+chachafruto	level3	Basul	Basul	Chachafruto	Chachafruto
+chamba	level3	Chamba	Chamba	Chamba	Chamba
+champion	level3	Mushroom	Mushroom	Champiñon	Champiñon
+chillangua	level3	Mexican Coriander	Mexican Coriander	Chillangua	Chillangua
+chiraran	level3	Chiraran	Chiraran	Chiraran	Chiraran
+chirimoya	level3	Custard apple	Custard apple	Chirimoya	Chirimoya
+chiro	level3	Chiro	Chiro	Chiro	Chiro
+cholupa	level3	Sweet calabash	Sweet calabash	Cholupa	Cholupa
+chonque	level3	New Cocoyam	New Cocoyam	Chonque	Chonque
+chontaduro	level3	Peach palm	Peach palm	Chontaduro	Chontaduro
+cilantro	level3	Coriander	Coriander	Cilantro	Cilantro
+cimarron	level3	Cimarron	Cimarron	Cimarron	Cimarron
+ciruela	level3	Plum	Plum	Ciruela	Ciruela
+citricos	level3	Citrics	Citrics	Citricos	Citricos
+clavel	level3	Carnation	Carnation	Clavel	Clavel
+coco	level3	Coconut	Coconut	Coco	Coco
+cocona	level3	Cocona plant	Cocona plant	Cocona	Cocona
+col	level3	Cole	Cole	Col	Col
+coliflor	level3	Cauliflower	Cauliflower	Coliflor	Coliflor
+copoazu	level3	Cupuacu tree	Cupuacu tree	Copoazu	Copoazu
+cordeline_cinta	level3	Cordeline Cinta	Cordeline Cinta	Cordeline Cinta	Cordeline Cinta
+corozo	level3	Corozo	Corozo	Corozo	Corozo
+curcuma	level3	Turmeric	Turmeric	Curcuma	Curcuma
+curuba	level3	Banana passionfruit	Banana passionfruit	Curuba	Curuba
+datil	level3	Date palm	Date palm	Datil	Datil
+durazno	level3	Peach	Peach	Durazno	Durazno
+eneldo	level3	Dill	Dill	Eneldo	Eneldo
+esparrago	level3	Asparagus	Asparagus	Esparrago	Esparrago
+esparto	level3	Needles grass	Needles grass	Esparto	Esparto
+espinaca	level3	Spinach	Spinach	Espinaca	Espinaca
+estropajo	level3	Sponge gourd	Sponge gourd	Estropajo	Estropajo
+eucalipto_baby_blue	level3	Eucalyptus	Eucalyptus	Eucalipto Baby Blue	Eucalipto Baby Blue
+feijoa	level3	Pineapple guava	Pineapple guava	Feijoa	Feijoa
+fique	level3	Century plant	Century plant	Fique	Fique
+fitosporum	level3	Pittosporum	Pittosporum	Fitosporum	Fitosporum
+flor_de_jamaica	level3	Jamaica Flower	Jamaica Flower	Flor De Jamaica	Flor De Jamaica
+frambuesa	level3	Raspberry	Raspberry	Frambuesa	Frambuesa
+fresa	level3	Strawberry	Strawberry	Fresa	Fresa
+frijol	level3	Beans	Beans	Frijol	Frijol
+frijol_arbustivo	level3	Bush Beans	Bush Beans	Frijol Arbustivo	Frijol Arbustivo
+frijol_ladera	level3	Slope Beans	Slope Beans	Frijol Ladera	Frijol Ladera
+frijol_plana	level3	Plain Beans	Plain Beans	Frijol Plana	Frijol Plana
+frijol_voluble	level3	Climbing Beans	Climbing Beans	Frijol Voluble	Frijol Voluble
+frutales_varios	level3	Various fruits	Various fruits	Frutales Varios	Frutales Varios
+garbanzo	level3	Chickpea	Chickpea	Garbanzo	Garbanzo
+girasol	level3	Sunflower	Sunflower	Girasol	Girasol
+gladiolo	level3	Sword lily	Sword lily	Gladiolo	Gladiolo
+granadilla	level3	Sweet granadilla	Sweet granadilla	Granadilla	Granadilla
+guama	level3	Ice cream beans	Ice cream beans	Guama	Guama
+guanabana	level3	Soursoup	Soursoup	Guanabana	Guanabana
+guandul	level3	Pigeon Pea	Pigeon Pea	Guandul	Guandul
+guatila	level3	Chow chow	Chow chow	Guatila	Guatila
+guayaba	level3	Guava	Guava	Guayaba	Guayaba
+guayaba_manzana	level3	Apple guava	Apple guava	Guayaba Manzana	Guayaba Manzana
+guayaba_pera	level3	Pear guava	Pear guava	Guayaba Pera	Guayaba Pera
+gulupa	level3	Poro poro	Poro poro	Gulupa	Gulupa
+haba	level3	Broad Bean	Broad Bean	Haba	Haba
+habichuela	level3	Pea Bean	Pea Bean	Habichuela	Habichuela
+helecho	level3	Fern	Fern	Helecho	Helecho
+helecho_cuero	level3	Leather fern	Leather fern	Helecho Cuero	Helecho Cuero
+heliconia	level3	Lobster claws	Lobster claws	Heliconia	Heliconia
+hierbabuena	level3	Peppermint	Peppermint	Hierbabuena	Hierbabuena
+higo	level3	Fig	Fig	Higo	Higo
+higuerilla	level3	Castor Oil Plant	Castor Oil Plant	Higuerilla	Higuerilla
+hortalizas_varias	level3	Various Vegetables	Various Vegetables	Hortalizas Varias	Hortalizas Varias
+hortensia	level3	Hydrangea	Hydrangea	Hortensia	Hortensia
+iraca	level3	Toquilla palm	Toquilla palm	Iraca	Iraca
+jatropha	level3	Purging Nut	Purging Nut	Jatropha	Jatropha
+jengibre	level3	Ginger	Ginger	Jengibre	Jengibre
+laurel	level3	Laurel	Laurel	Laurel	Laurel
+lechuga	level3	Lettuce	Lettuce	Lechuga	Lechuga
+lenteja	level3	Lentil	Lentil	Lenteja	Lenteja
+lima	level3	Lime	Lime	Lima	Lima
+lima_tahiti	level3	Tahiti lime	Tahiti lime	Lima Tahiti	Lima Tahiti
+limon	level3	Lemon	Lemon	Limon	Limon
+limon_mandarino	level3	Citrus lemon	Citrus lemon	Limon Mandarino	Limon Mandarino
+limon_pajarito	level3	Bird lemon	Bird lemon	Limon Pajarito	Limon Pajarito
+limon_tahiti	level3	Tahiti lemon	Tahiti lemon	Limon Tahiti	Limon Tahiti
+limonaria	level3	Lemongrass	Lemongrass	Limonaria	Limonaria
+lulo	level3	Little orange	Little orange	Lulo	Lulo
+macadamia	level3	Macadamia nut	Macadamia nut	Macadamia	Macadamia
+maiz_forrajero	level3	Maize	Maize	Maiz Forrajero	Maiz Forrajero
+maiz_tecnificado	level3	Tech corn	Tech corn	Maiz Tecnificado	Maiz Tecnificado
+maiz_tradicional	level3	Traditional corn	Traditional corn	Maiz Tradicional	Maiz Tradicional
+malanga	level3	Eddoe	Eddoe	Malanga	Malanga
+mamey	level3	Mammee apple	Mammee apple	Mamey	Mamey
+mamoncillo	level3	Spanish lime	Spanish lime	Mamoncillo	Mamoncillo
+mandarina	level3	Tangerine	Tangerine	Mandarina	Mandarina
+mandarina_clementina	level3	Clementine Tangerine	Clementine Tangerine	Mandarina Clementina	Mandarina Clementina
+mandarina_oneco	level3	Mandarin orange	Mandarin orange	Mandarina Oneco	Mandarina Oneco
+mango	level3	Mango	Mango	Mango	Mango
+mango_injerto	level3	Handle graft mango	Handle graft mango	Mango Injerto	Mango Injerto
+mangostino	level3	Mangosteen	Mangosteen	Mangostino	Mangostino
+mani	level3	Peanut	Peanut	Mani	Mani
+manzana	level3	Apple	Apple	Manzana	Manzana
+manzanilla	level3	Chamomile	Chamomile	Manzanilla	Manzanilla
+maracuya	level3	Passionfruit	Passionfruit	Maracuya	Maracuya
+maraon	level3	Cashew	Cashew	Marañon	Marañon
+melon	level3	Muskmelon	Muskmelon	Melon	Melon
+menta	level3	Mint	Mint	Menta	Menta
+millo	level3	Millo	Millo	Millo	Millo
+mimbre	level3	Wicker	Wicker	Mimbre	Mimbre
+mora	level3	Thornless blackberry	Thornless blackberry	Mora	Mora
+morera	level3	Mulberry	Mulberry	Morera	Morera
+murrapo	level3	Murrapo	Murrapo	Murrapo	Murrapo
+nabo	level3	Turnip	Turnip	Nabo	Nabo
+naranja	level3	Orange	Orange	Naranja	Naranja
+naranja_jaffa	level3	Jaffa orange	Jaffa orange	Naranja Jaffa	Naranja Jaffa
+naranja_salustiana	level3	Salustiana orange	Salustiana orange	Naranja Salustiana	Naranja Salustiana
+naranja_valencia	level3	Valenciana orange	Valenciana orange	Naranja Valencia	Naranja Valencia
+naranja_washington_navel	level3	Washington navel orange	Washington navel orange	Naranja Washington Navel	Naranja Washington Navel
+nispero	level3	Loquat	Loquat	Nispero	Nispero
+noni	level3	Indian mulberry	Indian mulberry	Noni	Noni
+oregano	level3	Oregano	Oregano	Oregano	Oregano
+orellana	level3	Orellana	Orellana	Orellana	Orellana
+orquidea	level3	Orchid	Orchid	Orquidea	Orquidea
+otros_flores_y_follajes	level3	Other Flowers and Foliage	Other Flowers and Foliage	Otros Flores Y Follajes	Otros Flores Y Follajes
+palma_amarga	level3	Sour palm	Sour palm	Palma Amarga	Palma Amarga
+palma_de_aceite	level3	Oil Palm	Oil Palm	Palma De Aceite	Palma De Aceite
+palma_robelina	level3	Robelina palm	Robelina palm	Palma Robelina	Palma Robelina
+palmito	level3	Palm Heart	Palm Heart	Palmito	Palmito
+papa	level3	Pota	Pota	Papa	Papa
+papa_china	level3	Chinnese Potatoe	Chinnese Potatoe	Papa China	Papa China
+papa_criolla	level3	Creole Potatoe	Creole Potatoe	Papa Criolla	Papa Criolla
+papaya	level3	Papaya	Papaya	Papaya	Papaya
+papaya_hawaiana	level3	Hawaian papaya	Hawaian papaya	Papaya Hawaiana	Papaya Hawaiana
+papayuela	level3	Mountain papaya	Mountain papaya	Papayuela	Papayuela
+patilla	level3	Pin	Pin	Patilla	Patilla
+pepa_de_pan	level3	Breadfruit	Breadfruit	Pepa De Pan	Pepa De Pan
+pepino_cohombro	level3	Cohombro Cucumber	Cohombro Cucumber	Pepino Cohombro	Pepino Cohombro
+pepino_guiso	level3	Cucumber Stew	Cucumber Stew	Pepino Guiso	Pepino Guiso
+pera	level3	Pear	Pear	Pera	Pera
+perejil	level3	Parsley	Parsley	Perejil	Perejil
+pia	level3	Pineapple	Pineapple	Piña	Piña
+pimenton	level3	Cayenne	Cayenne	Pimenton	Pimenton
+pimienta	level3	Pepper	Pepper	Pimienta	Pimienta
+pitahaya	level3	Dragon fruit	Dragon fruit	Pitahaya	Pitahaya
+plantas_aromaticas	level3	Aromatic Plants	Aromatic Plants	Plantas Aromaticas	Plantas Aromaticas
+plantas_aromaticas_y_medicinales	level3	Medicinal and Aromatic Plants	Medicinal and Aromatic Plants	Plantas Aromaticas Y Medicinales	Plantas Aromaticas Y Medicinales
+plantas_medicinales	level3	Medicinal Plants	Medicinal Plants	Plantas Medicinales	Plantas Medicinales
+plantulas	level3	Seedling	Seedling	Plantulas	Plantulas
+platano	level3	Plantain	Plantain	Platano	Platano
+platano_exportacion	level3	Export Plantain	Export Plantain	Platano Exportacion	Platano Exportacion
+poleo	level3	Pennyroyal	Pennyroyal	Poleo	Poleo
+pomarrosa	level3	Mountain apple	Mountain apple	Pomarrosa	Pomarrosa
+pomelo	level3	Pomelo	Pomelo	Pomelo	Pomelo
+pompon_y_crisantemo	level3	Pompon and chrysanthemum	Pompon and chrysanthemum	Pompon Y Crisantemo	Pompon Y Crisantemo
+puerro	level3	Leek	Leek	Puerro	Puerro
+quinua	level3	Quinoa	Quinoa	Quinua	Quinua
+rabano	level3	Radish	Radish	Rabano	Rabano
+rambutan	level3	Rambutan	Rambutan	Rambutan	Rambutan
+remolacha	level3	Beetroot	Beetroot	Remolacha	Remolacha
+repollo	level3	Cabbage	Cabbage	Repollo	Repollo
+romero	level3	Rosemary	Rosemary	Romero	Romero
+rosa	level3	Rose	Rose	Rosa	Rosa
+ruba	level3	Rue	Rue	Ruba	Ruba
+ruda	level3	Common Rue	Common Rue	Ruda	Ruda
+ruscus	level3	Butcher's Broom	Butcher's Broom	Ruscus	Ruscus
+sabila	level3	Elliot Yamin	Elliot Yamin	Sabila	Sabila
+sacha_inchi	level3	Inchi Sacha	Inchi Sacha	Sacha Inchi	Sacha Inchi
+sagu	level3	Arrowroot	Arrowroot	Sagu	Sagu
+sorgo	level3	Sorghum	Sorghum	Sorgo	Sorgo
+soya	level3	Soy	Soy	Soya	Soya
+stevia	level3	Stevia	Stevia	Stevia	Stevia
+tabaco_negro	level3	Black Tabacco	Black Tabacco	Tabaco Negro	Tabaco Negro
+tabaco_rubio	level3	Blond Tabacco	Blond Tabacco	Tabaco Rubio	Tabaco Rubio
+tamarindo	level3	Tamarind	Tamarind	Tamarindo	Tamarindo
+tangarana	level3	Tangarana	Tangarana	Tangarana	Tangarana
+tangelo_mineola	level3	Tangelo mineloa	Tangelo mineloa	Tangelo Mineola	Tangelo Mineola
+tangelo_orlando	level3	Tangelo Orlando	Tangelo Orlando	Tangelo Orlando	Tangelo Orlando
+te	level3	Tea	Tea	Te	Te
+tomate	level3	Tomato	Tomato	Tomate	Tomate
+tomate_de_arbol	level3	Tamarillo	Tamarillo	Tomate De Arbol	Tomate De Arbol
+tomate_invernadero	level3	Greenhouse Tomato	Greenhouse Tomato	Tomate Invernadero	Tomate Invernadero
+tomillo	level3	Thyme	Thyme	Tomillo	Tomillo
+toronja	level3	Grapefruit	Grapefruit	Toronja	Toronja
+tree_fern	level3	Tree fern	Tree fern	Tree Fern	Tree Fern
+trigo	level3	Wheat	Wheat	Trigo	Trigo
+uchuva	level3	Cape gooseberry	Cape gooseberry	Uchuva	Uchuva
+ulluco	level3	Ullucus	Ullucus	Ulluco	Ulluco
+umari	level3	Guacure	Guacure	Umari	Umari
+uva	level3	Grape	Grape	Uva	Uva
+uva_caimarona	level3	Caimarona grape	Caimarona grape	Uva Caimarona	Uva Caimarona
+vainilla	level3	Vanilla	Vanilla	Vainilla	Vainilla
+yacon	level3	Peruvian Groundapp	Peruvian Groundapp	Yacon	Yacon
+yota	level3	Edule	Edule	Yota	Yota
+yuca	level3	Yucca	Yucca	Yuca	Yuca
+yuca_industrial	level3	Industrial Yucca	Industrial Yucca	Yuca Industrial	Yuca Industrial
+zanahoria	level3	Carrot	Carrot	Zanahoria	Zanahoria
+zapote	level3	Sapodilla	Sapodilla	Zapote	Zapote

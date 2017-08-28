@@ -15,6 +15,11 @@ hierarchy, names = get_classification_from_gdrive("https://docs.google.com/sprea
 hierarchy.to_csv("./in/AgProducts_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
 names.to_csv("./in/AgProducts_Names.tsv", sep="\t", index=False, encoding="utf-8")
 
+# Agricultural Products (Non-Census/expanded)
+hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/1QcuYPynTvfobkkrudvBQxIzPRhhY6AxxRdosQ25Fl38/edit#gid=743162393")
+hierarchy.to_csv("./in/AgProducts_Expanded_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
+names.to_csv("./in/AgProducts_Expanded_Names.tsv", sep="\t", index=False, encoding="utf-8")
+
 # Farm types
 hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/1ma0pznYRwg9JDdjMJKDvh-V9oyXwssBMc3X6p-yw_tI/edit#gid=0")
 hierarchy.to_csv("./in/FarmType_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
