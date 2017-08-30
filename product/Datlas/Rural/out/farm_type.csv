@@ -1,8 +1,8 @@
 "","code","name","level","name_en","name_es","parent_id"
 0,"total","Total","level0","Total","Total",""
-1,"With agriculture activities","With agriculture activities","level1","With agriculture activities","Con actividades agrícolas",0.0
-2,"With agriculture activities owned by a resident natural person","With agriculture activities owned by a resident natural person","level2","With agriculture activities owned by a resident natural person","Con actividades agrícolas pertenecientes a personas naturales residentes",1.0
-3,"With agriculture activities owned by others","With agriculture activities owned by others","level2","With agriculture activities owned by others","Con actividades agrí­colas pertenecientes a otros",1.0
-4,"With agriculture activities owned by a non resident natural person","With agriculture activities owned by a non resident natural person","level2","With agriculture activities owned by a non resident natural person","Con actividades agrí­colas pertenecientes a personas naturales no residentes",1.0
-5,"With non agriculture activities","With non agriculture activities","level1","With non agriculture activities","Con actividades no agrícolas",0.0
-6,"With non agriculture activities","With non agriculture activities","level2","With non agriculture activities","Con actividades no agrícolas",5.0
+1,"With agriculture activities","With agricultural activities","level1","With agricultural activities","Unidades de producción agrícola (UPAs)",0.0
+2,"With agriculture activities owned by a resident natural person","Agricultural production units (UPAs) owned by a resident","level2","Agricultural production units (UPAs) owned by a resident","Unidades de producción agrícola (UPAs) propiedad de personas naturales residentes",1.0
+3,"With agriculture activities owned by others","Agricultural production units (UPAs) owned by others","level2","Agricultural production units (UPAs) owned by others","Unidades de producción agrícola (UPAs) propiedad de otros",1.0
+4,"With agriculture activities owned by a non resident natural person","Agricultural production units (UPAs) owned by a nonresident","level2","Agricultural production units (UPAs) owned by a nonresident","Unidades de producción agrícola (UPAs) propiedad de personas naturales no residentes",1.0
+5,"With non agriculture activities","With nonagricultural activities","level1","With nonagricultural activities","Unidades de producción no agrícola (UPNAs)",0.0
+6,"With non agriculture activities","Nonagricultural production units (UPNAs)","level2","Nonagricultural production units (UPNAs)","Unidades de producción no agrícola (UPNAs)",5.0
