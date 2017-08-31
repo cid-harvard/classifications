@@ -1,0 +1,22 @@
+level3	level2	level0
+Commerce different from food and alcoholic beverages	commerce	total
+Food and alcoholic beverages commerce	commerce	total
+Gas generation and energy transmission	minning or industry	total
+Minning with titles	minning or industry	total
+Minning without titles	minning or industry	total
+Oil	minning or industry	total
+Plastic, metallurgical, and chemical products manufacturing	minning or industry	total
+Agricultural products transformation	raw process	total
+Biofuels production	raw process	total
+Crafts production	raw process	total
+Food and alcoholic beverages production	raw process	total
+Forestry products transformation	raw process	total
+Livestock products transformation	raw process	total
+Education services	services	total
+Environmental activities	services	total
+Health services	services	total
+National security services	services	total
+Recreative services	services	total
+Religious services	services	total
+Support for agricultural activities	services	total
+Turistic and hotel services	services	total

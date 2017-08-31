@@ -7,8 +7,16 @@ import os.path
 
 import csv
 import datetime
+import re
 
 from unidecode import unidecode
+
+
+def slugify(s):
+    """Get a string like 'Foo Bar' and convert to foo_bar. Usually good for
+    creating codes from names, especially for languages with special
+    characters."""
+    return re.sub(r'[^a-zA-Z0-9\_]', '', s.replace(" ", "_").lower())
 
 
 def load(path):

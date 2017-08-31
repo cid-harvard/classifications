@@ -25,6 +25,10 @@ hierarchy, names = get_classification_from_gdrive("https://docs.google.com/sprea
 hierarchy.to_csv("./in/FarmType_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
 names.to_csv("./in/FarmType_Names.tsv", sep="\t", index=False, encoding="utf-8")
 
+# Nonagric
+hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/1Fp4b5n69qyBg13JKotqQQotyLZhecLxsqYRc9Spb2Y8/edit#gid=1448799995")
+hierarchy.to_csv("./in/Nonagric_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8")
+names.to_csv("./in/Nonagric_Names.tsv", sep="\t", index=False, encoding="utf-8")
 
 # Land Use
 hierarchy, names = get_classification_from_gdrive("https://docs.google.com/spreadsheets/d/17EoKvwQKujYRCKzh2odu--bpR0d2grigrWDn4CjRaeg/edit#gid=1207195644")
