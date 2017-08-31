@@ -1,0 +1,27 @@
+"","code","name","level","name_en","name_es","parent_id"
+0,"total","Total","level0","Total","Total",""
+1,"commerce","Commerce","level2","Commerce","Comercio",0.0
+2,"commerce_different_from_food_and_alcoholic_beverages","Commerce different from food and alcoholic beverages","level3","Commerce different from food and alcoholic beverages","Comercio de productos distintos a alimenticios y bebidas alcohólicas",1.0
+3,"food_and_alcoholic_beverages_commerce","Food and alcoholic beverages commerce","level3","Food and alcoholic beverages commerce","Comercio de productos alimenticios y bebidas alcohólicas",1.0
+4,"minning_or_industry","Mining or Industry","level2","Mining or Industry","Minera o industria",0.0
+5,"gas_generation_and_energy_transmission","Gas generation and energy transmission","level3","Gas generation and energy transmission","Gas, generación y trasmisión de energí­a",4.0
+6,"minning_with_titles","Mining with titles","level3","Mining with titles","Minerí­a con tí­tulos",4.0
+7,"minning_without_titles","Mining without titles","level3","Mining without titles","Minerí­a sin tí­tulos",4.0
+8,"oil","Oil","level3","Oil","Petróleo",4.0
+9,"plastic_metallurgical_and_chemical_products_manufacturing","Plastic, metallurgical, and chemical products manufacturing","level3","Plastic, metallurgical, and chemical products manufacturing","Fabricación de plástico, metalúrgicos, sustancias y productos quí­micos",4.0
+10,"raw_process","Raw Process","level2","Raw Process","Transformación de productos agropecuarios",0.0
+11,"agricultural_products_transformation","Agricultural products transformation","level3","Agricultural products transformation","Transformación de productos agrí­colas",10.0
+12,"biofuels_production","Biofuels production","level3","Biofuels production","Elaboración de biocombustibles",10.0
+13,"crafts_production","Crafts production","level3","Crafts production","Elaboración de artesaní­as",10.0
+14,"food_and_alcoholic_beverages_production","Food and alcoholic beverages production","level3","Food and alcoholic beverages production","Elaboración de alimentos y bebidas alcohólicas",10.0
+15,"forestry_products_transformation","Forestry products transformation","level3","Forestry products transformation","Transformación de productos forestales",10.0
+16,"livestock_products_transformation","Livestock products transformation","level3","Livestock products transformation","Transformación de productos pecuarios",10.0
+17,"services","Services","level2","Services","Servicios",0.0
+18,"education_services","Education services","level3","Education services","Servicios de educación",17.0
+19,"environmental_activities","Environmental activities","level3","Environmental activities","Actividades ambientales",17.0
+20,"health_services","Health services","level3","Health services","Servicios de salud",17.0
+21,"national_security_services","National security services","level3","National security services","Servicios de seguridad nacional",17.0
+22,"recreative_services","Recreative services","level3","Recreative services","Servicios recreativos",17.0
+23,"religious_services","Religious services","level3","Religious services","Servicios religiosos",17.0
+24,"support_for_agricultural_activities","Support for agricultural activities","level3","Support for agricultural activities","Actividades de apoyo a la actividad agropecuaria",17.0
+25,"turistic_and_hotel_services","Turistic and hotel services","level3","Turistic and hotel services","Servicios turí­sticos, de alojamiento, hospedaje y otros",17.0

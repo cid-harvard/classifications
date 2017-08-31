@@ -1,0 +1,27 @@
+code	level	name_en	name_short_en	name_es	name_short_es
+total	level0	Total	Total	Total	Total
+commerce	level2	Commerce	Commerce	Comercio	Comercio
+minning or industry	level2	Mining or Industry	Mining or Industry	Minera o industria	Minera o industria
+raw process	level2	Raw Process	Raw Process	Transformación de productos agropecuarios	Transf. de productos agrop.
+services	level2	Services	Services	Servicios	Servicios
+Commerce different from food and alcoholic beverages	level3	Commerce different from food and alcoholic beverages	Commerce different from food and alcoholic beverages	Comercio de productos distintos a alimenticios y bebidas alcohólicas	Comercio de productos distintos a alimenticios y bebidas alcohólicas
+Food and alcoholic beverages commerce	level3	Food and alcoholic beverages commerce	Food and alcoholic beverages commerce	Comercio de productos alimenticios y bebidas alcohólicas	Comercio de productos alimenticios y bebidas alcohólicas
+Gas generation and energy transmission	level3	Gas generation and energy transmission	Gas generation and energy transmission	Gas, generación y trasmisión de energí­a	Gas, generación y trasmisión de energí­a
+Minning with titles	level3	Mining with titles	Mining with titles	Minerí­a con tí­tulos	Minerí­a con tí­tulos
+Minning without titles	level3	Mining without titles	Mining without titles	Minerí­a sin tí­tulos	Minerí­a sin tí­tulos
+Oil	level3	Oil	Oil	Petróleo	Petróleo
+Plastic, metallurgical, and chemical products manufacturing	level3	Plastic, metallurgical, and chemical products manufacturing	Plastic, metallurgical, and chemical products manufacturing	Fabricación de plástico, metalúrgicos, sustancias y productos quí­micos	Fabricación de plástico, metalúrgicos, sustancias y productos quí­micos
+Agricultural products transformation	level3	Agricultural products transformation	Agricultural products transformation	Transformación de productos agrí­colas	Transformación de productos agrí­colas
+Biofuels production	level3	Biofuels production	Biofuels production	Elaboración de biocombustibles	Elaboración de biocombustibles
+Crafts production	level3	Crafts production	Crafts production	Elaboración de artesaní­as	Elaboración de artesaní­as
+Food and alcoholic beverages production	level3	Food and alcoholic beverages production	Food and alcoholic beverages production	Elaboración de alimentos y bebidas alcohólicas	Elaboración de alimentos y bebidas alcohólicas
+Forestry products transformation	level3	Forestry products transformation	Forestry products transformation	Transformación de productos forestales	Transformación de productos forestales
+Livestock products transformation	level3	Livestock products transformation	Livestock products transformation	Transformación de productos pecuarios	Transformación de productos pecuarios
+Education services	level3	Education services	Education services	Servicios de educación	Servicios de educación
+Environmental activities	level3	Environmental activities	Environmental activities	Actividades ambientales	Actividades ambientales
+Health services	level3	Health services	Health services	Servicios de salud	Servicios de salud
+National security services	level3	National security services	National security services	Servicios de seguridad nacional	Servicios de seguridad nacional
+Recreative services	level3	Recreative services	Recreative services	Servicios recreativos	Servicios recreativos
+Religious services	level3	Religious services	Religious services	Servicios religiosos	Servicios religiosos
+Support for agricultural activities	level3	Support for agricultural activities	Support for agricultural activities	Actividades de apoyo a la actividad agropecuaria	Actividades de apoyo a la actividad agropecuaria
+Turistic and hotel services	level3	Turistic and hotel services	Turistic and hotel services	Servicios turí­sticos, de alojamiento, hospedaje y otros	Servicios turí­sticos, de alojamiento, hospedaje y otros

@@ -26,6 +26,7 @@ setup(
             'product/Datlas/Rural/out/agricultural_products.csv',
             'product/Datlas/Rural/out/agricultural_products_expanded.csv',
             'product/Datlas/Rural/out/agricultural_products_census.csv',
+            'product/Datlas/Rural/out/nonagricultural_activities.csv',
             'product/Datlas/Rural/out/farm_type.csv',
             'product/Datlas/Rural/out/farm_size.csv',
             'product/HS/Atlas/out/hs92_atlas.csv',
