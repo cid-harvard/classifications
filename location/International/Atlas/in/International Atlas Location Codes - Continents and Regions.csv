@@ -1,0 +1,10 @@
+code,name_en,name_es,level,parent_code
+1,Africa,África,region,
+2,Asia,Asia,region,
+3,Oceania,Oceanía,region,
+4,Europe,Europa,region,
+5,North America,Norteamérica,region,
+6,South America,Sudamérica,region,
+7,Central America ,Centroamérica,region,
+8,Carribean,Caribe,region,
+9,Other,Otro,region,
