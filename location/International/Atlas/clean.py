@@ -24,6 +24,14 @@ if __name__ == "__main__":
     parent_id_table = parent_code_table_to_parent_id_table(df, h)
     parent_id_table["name"] = parent_id_table["name_en"]
 
+    # Add a "gap" between countries and regions in case we need to add stuff in
+    # the future
+    parent_id_table["new_index"] = parent_id_table.index
+    parent_id_table.loc[parent_id_table.level == "region", "new_index"] += 100
+    parent_id_table.loc[parent_id_table.level == "country", "parent_id"] += 100
+    parent_id_table = parent_id_table.reset_index(drop=True).set_index("new_index")
+    parent_id_table.index.name = None
+
     c = Classification(parent_id_table, h)
     c.to_csv("out/locations_international_atlas.csv")
     c.to_stata("out/locations_international_atlas.dta")
