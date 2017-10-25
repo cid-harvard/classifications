@@ -1,0 +1,6 @@
+PYTHON_PREFIX = PYTHONPATH=../../../ python -B
+
+HS = in/HS92_Atlas_Hierarchy.tsv in/HS92_Atlas_Names.tsv
+
+: |> $(PYTHON_PREFIX) download_sheets.py |> $(HS)
+: $(HS) |> $(PYTHON_PREFIX) clean.py |> out/hs92_atlas.csv out/hs92_atlas.dta

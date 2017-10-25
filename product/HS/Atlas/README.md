@@ -1,3 +1,5 @@
+# Update: this file is deprecated. See the "IntlAtlas" directory
+
 The data here is the harmonized system being used in the international atlas:
 http://atlas.cid.harvard.edu/
 
