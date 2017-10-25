@@ -127,6 +127,78 @@ def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
     return new_df
 
 
+def sort_by_code_and_level(parent_code_table, hierarchy):
+    """ Sort by level order (not necessarily alphabetical). Uses merge-sort
+    because it's stable i.e. won't mess with the original order of the entries
+    if that matters. """
+    parent_code_table.level = parent_code_table.level.astype("category", categories=hierarchy)
+    parent_code_table = parent_code_table.sort_values(["level", "code"], kind="mergesort").reset_index(drop=True)
+    parent_code_table.level = parent_code_table.level.astype("str")
+    return parent_code_table
+
+
+def spread_out_entries(parent_id_table, level_starts, hierarchy):
+    """Given an id table, shift down ids so that the ids for each level group
+    starts at the given id. This allows us to leave gap ids in case we need to
+    add more."""
+
+    # Ensure start points are specified for all levels
+    assert set(level_starts.keys()) == set(hierarchy), """Your level gap list
+            doesn't have the same levels as the hierarchy: {} vs
+            {}""".format(level_starts.keys(), hierarchy)
+
+    assert "new_index" not in parent_id_table.columns, "You already have a level named 'new_index', please get rid of it."
+    assert "new_parent_id" not in parent_id_table.columns, "You already have a level named 'new_parent_id', please get rid of it."
+
+    level_counts = parent_id_table.level.value_counts().to_dict()
+    for i, level in enumerate(hierarchy):
+
+        # Ensure there is space for all entries
+        level_start = level_starts[level]
+        level_size = level_counts[level]
+
+        # Don't need to check the gap for the last level since we can go as far
+        # as we need
+        if i < (len(hierarchy) - 1):
+            # Check that next level starts after this level + all the entries we
+            # need to fit
+            next_level = hierarchy[i + 1]
+            next_level_start = level_starts[next_level]
+            assert (level_start + level_size) <= next_level_start, """Gap between
+                levels {} ({}) and {} ({}) not large enough to fit {}
+                items.""".format(level, level_start, next_level, next_level_start,
+                                level_size)
+
+        # Set new index
+        new_level_indexes = range(level_start, level_start + level_counts[level])
+        parent_id_table.loc[parent_id_table.level == level, "new_index"] = new_level_indexes
+
+        # Set new parent ids
+        if i > 0:
+            parent_ids = parent_id_table[parent_id_table.level == level].parent_id
+            # Since we haven't moved anything yet, the new parent_id is the
+            # new_index of the parents (looked up through the old parent_id)
+            new_parent_ids = parent_id_table.iloc[parent_ids.values].new_index
+            new_parent_ids.index = parent_ids.index
+            # Update new parent_id field with new ids
+            parent_id_table.loc[parent_id_table.level == level, "new_parent_id"] = new_parent_ids
+
+    # Make sure there aren't any gaps left
+    assert parent_id_table.new_index.isnull().any() == False
+
+    # Replace parent id column
+    parent_id_table = parent_id_table\
+        .drop("parent_id", axis=1)\
+        .rename(columns={"new_parent_id": "parent_id"})
+
+    # Replace index (i.e. id column)
+    parent_id_table.new_index = parent_id_table.new_index.astype(int)
+    parent_id_table = parent_id_table.set_index("new_index")
+    parent_id_table.index.name = ""
+
+    return parent_id_table
+
+
 class Hierarchy(collections.Mapping):
 
     def __init__(self, items):
