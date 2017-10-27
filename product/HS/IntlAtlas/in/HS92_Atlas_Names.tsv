@@ -1240,6 +1240,8 @@ code	level	name_en	name_es	name_short_es	name_short_en
 9704	4digit	Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper) and the like, used or unused, other than those of heading 4907	Sellos (estampillas) de correo, timbres fiscales, marcas postales, sobres primer día, enteros postales, demás artículos franqueados y análogos, incluso obliterados, excepto los artículos de la partida 49.07.	Sellos y marcas postales	Postage or revenue stamps
 9705	4digit	Collections and collectors pieces	Colecciones y especímenes para colecciones de zoología, botánica, mineralogía o anatomía o que tengan interés histórico, arqueológico, paleontológico, etnográfico o numismático.	Especímenes para colecciones	Collectors pieces
 9706	4digit	Antiques older than one hundred years	Antigüedades de más de cien años.	Antigüedades >100 años	Antiques >100 years
+9999	4digit	Commodities not specified according to kind	Commodities not specified according to kind	Commodities not specified according to kind	Commodities not specified according to kind
+XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrepancies	Trade data discrepancies
 01	2digit	Live animals	Animales Vivos	Animales Vivos	Live animals
 02	2digit	Meat and edible meat offal.	Carne y despojos comestibles	Carne	Meat
 03	2digit	Fish and crustaceans, molluscs and other aquatic invertebrates.	Pescados y crustáceos, moluscos y demás invertebrados acuáticos	Pescado	Fish
@@ -1338,13 +1340,14 @@ code	level	name_en	name_es	name_short_es	name_short_en
 96	2digit	Miscellaneous manufactured articles.	Artículos manufacturados misceláneos	Artículos manufacturados misceláneos	Miscellaneous manufactured articles
 97	2digit	Works of art, collectors' pieces and antiques.	Obras de arte, piezas de colección y antigüedades	Arte	Art
 98	2digit	(Reserved for special uses by Contracting Parties)	(Reservado para usos especiales de las Partes Contratantes)	(Reservado para usos especiales de las Partes Contratantes)	(Reserved for special uses by Contracting Parties)
-99	2digit	(Reserved for special uses by Contracting Parties)	(Reservado para usos especiales de las Partes Contratantes)	(Reservado para usos especiales de las Partes Contratantes)	(Reserved for special uses by Contracting Parties)
-1	section	Textiles and furniture	Textiles y muebles	Textiles y muebles	Textiles and furniture
-2	section	Vegetables, foodstuffs and wood	Vegetales, alimentos y madera	Vegetales, alimentos y madera	Vegetables, foodstuffs and wood
-3	section	Stone and glass	Piedra y vidrio	Piedra y vidrio	Stone and glass
-4	section	Minerals	Minerales	Minerales	Minerals
-5	section	Metals	Metales	Metales	Metals
-6	section	Chemicals and plastics	Químicos y plásticos	Químicos y plásticos	Chemicals and plastics
-7	section	Transport vehicles	Vehículos de transporte	Vehículos de transporte	Transport vehicles
-8	section	Machinery	Maquinaria	Maquinaria	Machinery
-9	section	Electronics	Electrónicos	Electrónicos	Electronics
+99	2digit	Other	Other	Other	Other
+0	section	Textiles and furniture	Textiles y muebles	Textiles y muebles	Textiles and furniture
+1	section	Vegetables, foodstuffs and wood	Vegetales, alimentos y madera	Vegetales, alimentos y madera	Vegetables, foodstuffs and wood
+2	section	Stone and glass	Piedra y vidrio	Piedra y vidrio	Stone and glass
+3	section	Minerals	Minerales	Minerales	Minerals
+4	section	Metals	Metales	Metales	Metals
+5	section	Chemicals and plastics	Químicos y plásticos	Químicos y plásticos	Chemicals and plastics
+6	section	Transport vehicles	Vehículos de transporte	Vehículos de transporte	Transport vehicles
+7	section	Machinery	Maquinaria	Maquinaria	Machinery
+8	section	Electronics	Electrónicos	Electrónicos	Electronics
+9	section	Other	Other	Other	Other

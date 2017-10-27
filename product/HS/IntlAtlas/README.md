@@ -1,3 +1,3 @@
-These are cleaned SITC classifications.
+Our adaptation of COMTRADE HS92 with a restricted high level categorization.
 
-- [SITC Rev2](https://docs.google.com/spreadsheets/d/1pgVamRALdpc7IlmzkvJrLk4Hkm4H4wvNyoIycQ6wr_E/edit#gid=1207195644)
+- [HS](https://docs.google.com/spreadsheets/d/1y6UUixlfbW0jLnUtKycHF1ICUaD-kROQIvscwCGFzzE/edit#gid=0)
