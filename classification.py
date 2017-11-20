@@ -360,8 +360,8 @@ class Classification(object):
         return data
 
     @staticmethod
-    def from_csv(path):
-        df = pd.read_csv(path, dtype={"code": "str"}, index_col=0)
+    def from_csv(path, encoding=None):
+        df = pd.read_csv(path, dtype={"code": "str"}, index_col=0, encoding=encoding)
         h = Hierarchy(df.level.unique())
         return Classification(df, h)
 

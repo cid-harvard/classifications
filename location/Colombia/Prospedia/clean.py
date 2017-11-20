@@ -13,7 +13,7 @@ def id_table_to_code_table(df):
 
 if __name__ == "__main__":
 
-    c = Classification.from_csv("../DANE/out/locations_colombia_dane.csv")
+    c = Classification.from_csv("../DANE/out/locations_colombia_dane.csv", encoding="utf-8")
 
     df = id_table_to_code_table(c.table)
     df = df[df.level != "population_center"]
@@ -58,13 +58,13 @@ if __name__ == "__main__":
         return row
     parent_id_table = parent_id_table.apply(fill_parents, axis=1)
 
-    wrongtext = "Bogotá, D. C."
+    wrongtext = u"Bogotá, D. C."
     assert parent_id_table.loc[3, "name"] == wrongtext
     assert parent_id_table.loc[3, "name_es"] == wrongtext
     assert parent_id_table.loc[3, "name_short_en"] == wrongtext
     assert parent_id_table.loc[3, "name_short_es"] == wrongtext
 
-    righttext = "Bogotá, D.C."
+    righttext = u"Bogotá, D.C."
     parent_id_table.loc[3, "name"] = righttext
     parent_id_table.loc[3, "name_es"] = righttext
     parent_id_table.loc[3, "name_short_en"] = righttext
@@ -77,6 +77,18 @@ if __name__ == "__main__":
     msa_desc["code"] = msa_desc["code"].astype(str).str.zfill(6)
 
     parent_id_table = parent_id_table.merge(msa_desc, on=["level", "code"], how="outer")
+
+    # For names that are the same for different municipalities
+    duplicated_names = parent_id_table.name.duplicated(keep=False)
+    to_change = duplicated_names & (parent_id_table.level == "municipality")
+
+    to_change_parents = parent_id_table.loc[to_change, "parent_id"].to_frame()
+    parent_names = to_change_parents.join(parent_id_table["name"], on="parent_id")
+
+    parent_id_table.loc[to_change, "name"] = parent_id_table.loc[to_change, "name"] + " (" + parent_names.name + ")"
+    parent_id_table["name_es"] = parent_id_table["name"]
+    parent_id_table["name_short_en"] = parent_id_table["name"]
+    parent_id_table["name_short_es"] = parent_id_table["name"]
 
     c = Classification(parent_id_table, h)
 
