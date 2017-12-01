@@ -24,7 +24,7 @@ alcachofa	level2	Artichoke	Artichoke	Alcachofa	Alcachofa
 alfalfa	level2	Lucerne	Lucerne	Alfalfa	Alfalfa
 algarrobo	level2	Carob Tree	Carob Tree	Algarrobo	Algarrobo
 algodon	level2	Cotton	Cotton	Algodon	Algodon
-ame	level2	Greater Yam	Greater Yam	Ñame	Ñame
+ame	level2	Greater Yam	Greater Yam	Ñame	Ñame
 anon	level2	Sugar Apples	Sugar Apples	Anon	Anon
 apio	level2	Celery	Celery	Apio	Apio
 arandano	level2	Bilberry	Bilberry	Arandano	Arandano
@@ -38,7 +38,7 @@ berenjena	level2	Aubergine	Aubergine	Berenjena	Berenjena
 bore	level2	Dasheen	Dasheen	Bore	Bore
 brocoli	level2	Broccoli	Broccoli	Brocoli	Brocoli
 caa	level2	Cane	Cane	Caña	Caña
-caa_flecha	level2	Arrow Cane	Arrow Cane	Caña Flecha	Caña Flecha
+caa_flecha	level2	Arrow Cane	Arrow Cane	Caña Flecha	Caña Flecha
 cacao	level2	Cocoa	Cocoa	Cacao	Cacao
 caducifolios	level2	Caducifolios	Caducifolios	Caducifolios	Caducifolios
 cafe	level2	Coffee	Coffee	Cafe	Cafe
@@ -49,7 +49,7 @@ cebada	level2	Barley	Barley	Cebada	Cebada
 cebolla	level2	Onion	Onion	Cebolla	Cebolla
 centeno	level2	Rye	Rye	Centeno	Centeno
 chachafruto	level2	Basul	Basul	Chachafruto	Chachafruto
-champion	level2	Mushroom	Mushroom	Champiñon	Champiñon
+champion	level2	Mushroom	Mushroom	Champiñon	Champiñon
 chonque	level2	New Cocoyam	New Cocoyam	Chonque	Chonque
 cilantro	level2	Coriander	Coriander	Cilantro	Cilantro
 citricos	level2	Citrics	Citrics	Citricos	Citricos
@@ -108,7 +108,7 @@ papa	level2	Potatoe	Potatoe	Papa	Papa
 papaya	level2	Papaya	Papaya	Papaya	Papaya
 patilla	level2	Pin	Pin	Patilla	Patilla
 pepino	level2	Cucumber	Cucumber	Pepino	Pepino
-pia	level2	Pineapple	Pineapple	Piña	Piña
+pia	level2	Pineapple	Pineapple	Piña	Piña
 pimenton	level2	Cayenne	Cayenne	Pimenton	Pimenton
 plantas_aromaticas	level2	Aromatic Plants	Aromatic Plants	Plantas Aromaticas	Plantas Aromaticas
 plantas_condimentarias	level2	Flavour Plants	Flavour Plants	Plantas Condimentarias	Plantas Condimentarias
@@ -152,9 +152,9 @@ alcachofa	level3	Artichoke	Artichoke	Alcachofa	Alcachofa
 alfalfa	level3	Lucerne	Lucerne	Alfalfa	Alfalfa
 algarrobo	level3	Carob tree	Carob tree	Algarrobo	Algarrobo
 algodon	level3	Cotton	Cotton	Algodon	Algodon
-ame	level3	Greater yam	Greater yam	Ñame	Ñame
-ame_diamante	level3	Diamond greater yam	Diamond greater yam	Ñame Diamante	Ñame Diamante
-ame_espino	level3	Hawthorn greater yam	Hawthorn greater yam	Ñame Espino	Ñame Espino
+ame	level3	Greater yam	Greater yam	Ñame	Ñame
+ame_diamante	level3	Diamond greater yam	Diamond greater yam	Ñame Diamante	Ñame Diamante
+ame_espino	level3	Hawthorn greater yam	Hawthorn greater yam	Ñame Espino	Ñame Espino
 anis	level3	Anise	Anise	Anis	Anis
 anon	level3	Sugar apples	Sugar apples	Anon	Anon
 anturio	level3	Anthurium	Anthurium	Anturio	Anturio
@@ -182,10 +182,10 @@ bore	level3	Dasheen	Dasheen	Bore	Bore
 borojo	level3	Borojo	Borojo	Borojo	Borojo
 brevo	level3	Common fig	Common fig	Brevo	Brevo
 brocoli	level3	Broccoli	Broccoli	Brocoli	Brocoli
-caa_azucarera	level3	Sugar Cane	Sugar Cane	Caña Azucarera	Caña Azucarera
-caa_flecha	level3	Arrow Cane	Arrow Cane	Caña Flecha	Caña Flecha
-caa_miel	level3	Honey Cane	Honey Cane	Caña Miel	Caña Miel
-caa_panelera	level3	Panela Cane	Panela Cane	Caña Panelera	Caña Panelera
+caa_azucarera	level3	Sugar Cane (Green Material)	Sugar Cane (Green Material)	Caña De Azúcar (Material Verde)	Caña De Azúcar (Material Verde)
+caa_flecha	level3	Arrow Cane	Arrow Cane	Caña Flecha	Caña Flecha
+caa_miel	level3	Honey Cane	Honey Cane	Caña Miel	Caña Miel
+caa_panelera	level3	Panela Cane	Panela Cane	Caña Panelera	Caña Panelera
 cacao	level3	Cocoa	Cocoa	Cacao	Cacao
 cachaco	level3	Cachaco	Cachaco	Cachaco	Cachaco
 caducifolios	level3	Caducifolios	Caducifolios	Caducifolios	Caducifolios
@@ -205,7 +205,7 @@ cebollin	level3	Scallions	Scallions	Cebollin	Cebollin
 centeno	level3	Rye	Rye	Centeno	Centeno
 chachafruto	level3	Basul	Basul	Chachafruto	Chachafruto
 chamba	level3	Chamba	Chamba	Chamba	Chamba
-champion	level3	Mushroom	Mushroom	Champiñon	Champiñon
+champion	level3	Mushroom	Mushroom	Champiñon	Champiñon
 chillangua	level3	Mexican Coriander	Mexican Coriander	Chillangua	Chillangua
 chiraran	level3	Chiraran	Chiraran	Chiraran	Chiraran
 chirimoya	level3	Custard apple	Custard apple	Chirimoya	Chirimoya
@@ -300,7 +300,7 @@ mani	level3	Peanut	Peanut	Mani	Mani
 manzana	level3	Apple	Apple	Manzana	Manzana
 manzanilla	level3	Chamomile	Chamomile	Manzanilla	Manzanilla
 maracuya	level3	Passionfruit	Passionfruit	Maracuya	Maracuya
-maraon	level3	Cashew	Cashew	Marañon	Marañon
+maraon	level3	Cashew	Cashew	Marañon	Marañon
 melon	level3	Muskmelon	Muskmelon	Melon	Melon
 menta	level3	Mint	Mint	Menta	Menta
 millo	level3	Millo	Millo	Millo	Millo

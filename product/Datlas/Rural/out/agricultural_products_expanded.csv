@@ -26,8 +26,8 @@
 24,"fibras","Fibers","level1","Fibers","Fibras",0.0
 25,"algodon","Cotton","level2","Cotton","Algodon",24.0
 26,"algodon","Cotton","level3","Cotton","Algodon",25.0
-27,"caa_flecha","Arrow Cane","level2","Arrow Cane","Caña Flecha",24.0
-28,"caa_flecha","Arrow Cane","level3","Arrow Cane","Caña Flecha",27.0
+27,"caa_flecha","Arrow Cane","level2","Arrow Cane","Caña Flecha",24.0
+28,"caa_flecha","Arrow Cane","level3","Arrow Cane","Caña Flecha",27.0
 29,"esparto","Needles Grass","level2","Needles Grass","Esparto",24.0
 30,"esparto","Needles grass","level3","Needles grass","Esparto",29.0
 31,"estropajo","Sponge Gourd","level2","Sponge Gourd","Estropajo",24.0
@@ -178,14 +178,14 @@
 176,"noni","Indian mulberry","level3","Indian mulberry","Noni",175.0
 177,"nueces","Nuts","level2","Nuts","Nueces",69.0
 178,"macadamia","Macadamia nut","level3","Macadamia nut","Macadamia",177.0
-179,"maraon","Cashew","level3","Cashew","Marañon",177.0
+179,"maraon","Cashew","level3","Cashew","Marañon",177.0
 180,"papaya","Papaya","level2","Papaya","Papaya",69.0
 181,"papaya","Papaya","level3","Papaya","Papaya",180.0
 182,"papaya_hawaiana","Hawaian papaya","level3","Hawaian papaya","Papaya Hawaiana",180.0
 183,"papayuela","Mountain papaya","level3","Mountain papaya","Papayuela",180.0
 184,"patilla","Pin","level2","Pin","Patilla",69.0
 185,"patilla","Pin","level3","Pin","Patilla",184.0
-186,"pia","Pineapple","level2","Pineapple","Piña",69.0
+186,"pia","Pineapple","level2","Pineapple","Piña",69.0
 187,"pia","Pineapple","level3","Pineapple","Piña",186.0
 188,"rambutan","Rambutan","level2","Rambutan","Rambutan",69.0
 189,"rambutan","Rambutan","level3","Rambutan","Rambutan",188.0
@@ -196,8 +196,8 @@
 194,"zapote","Sapodilla","level2","Sapodilla","Zapote",69.0
 195,"zapote","Sapodilla","level3","Sapodilla","Zapote",194.0
 196,"hongos","Mushrooms","level1","Mushrooms","Hongos",0.0
-197,"champion","Mushroom","level2","Mushroom","Champiñon",196.0
-198,"champion","Mushroom","level3","Mushroom","Champiñon",197.0
+197,"champion","Mushroom","level2","Mushroom","Champiñon",196.0
+198,"champion","Mushroom","level3","Mushroom","Champiñon",197.0
 199,"orellana","Orellana","level2","Orellana","Orellana",196.0
 200,"orellana","Orellana","level3","Orellana","Orellana",199.0
 201,"hortalizas","Vegetables","level1","Vegetables","Hortalizas",0.0
@@ -308,9 +308,9 @@
 306,"cafe","Coffee","level2","Coffee","Cafe",303.0
 307,"cafe","Coffee","level3","Coffee","Cafe",306.0
 308,"caa","Cane","level2","Cane","Caña",303.0
-309,"caa_azucarera","Sugar Cane","level3","Sugar Cane","Caña Azucarera",308.0
-310,"caa_miel","Honey Cane","level3","Honey Cane","Caña Miel",308.0
-311,"caa_panelera","Panela Cane","level3","Panela Cane","Caña Panelera",308.0
+309,"caa_azucarera","Sugar Cane (Green Material)","level3","Sugar Cane (Green Material)","Caña De Azúcar (Material Verde)",308.0
+310,"caa_miel","Honey Cane","level3","Honey Cane","Caña Miel",308.0
+311,"caa_panelera","Panela Cane","level3","Panela Cane","Caña Panelera",308.0
 312,"morera","Mulberry","level2","Mulberry","Morera",303.0
 313,"morera","Mulberry","level3","Mulberry","Morera",312.0
 314,"tabaco","Tabacco","level2","Tabacco","Tabaco",303.0
@@ -388,7 +388,7 @@
 386,"yuca","Yucca","level2","Yucca","Yuca",357.0
 387,"yuca","Yucca","level3","Yucca","Yuca",386.0
 388,"yuca_industrial","Industrial Yucca","level3","Industrial Yucca","Yuca Industrial",386.0
-389,"ame","Greater Yam","level2","Greater Yam","Ñame",357.0
-390,"ame","Greater yam","level3","Greater yam","Ñame",389.0
-391,"ame_diamante","Diamond greater yam","level3","Diamond greater yam","Ñame Diamante",389.0
-392,"ame_espino","Hawthorn greater yam","level3","Hawthorn greater yam","Ñame Espino",389.0
+389,"ame","Greater Yam","level2","Greater Yam","Ñame",357.0
+390,"ame","Greater yam","level3","Greater yam","Ñame",389.0
+391,"ame_diamante","Diamond greater yam","level3","Diamond greater yam","Ñame Diamante",389.0
+392,"ame_espino","Hawthorn greater yam","level3","Hawthorn greater yam","Ñame Espino",389.0
