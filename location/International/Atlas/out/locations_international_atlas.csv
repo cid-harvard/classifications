@@ -1,4 +1,4 @@
-"","code","level","name_en","name_es","name_short_en","name_short_es","parent_id","name","trusted","in_book"
+"","code","level","name_en","name_es","name_short_en","name_short_es","parent_id","name","is_trusted","in_rankings"
 0,"ABW","country","Aruba","Aruba (Territorio Holandes De Ultramar)","Aruba","Aruba",356.0,"Aruba",0.0,0.0
 1,"AFG","country","Afghanistan","Afganistan (Emirato Islamico De)","Afghanistan","Afganistan",353.0,"Afghanistan",0.0,0.0
 2,"AGO","country","Angola","Angola (Republica De)","Angola","Angola",352.0,"Angola",1.0,1.0
