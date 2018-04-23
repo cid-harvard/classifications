@@ -2,3 +2,6 @@
 .DS_Store
 *.egg-info
 *.pyc
+
+env/*
+creds.json
