@@ -110,7 +110,7 @@ iso;in_rankings
 "GUM";0
 "GUY";0
 "HIC";0
-"HKG";0
+"HKG";1
 "HMD";0
 "HND";1
 "HPC";0
@@ -148,7 +148,7 @@ iso;in_rankings
 "LAC";0
 "LAO";1
 "LBN";1
-"LBR";0
+"LBR";1
 "LBY";1
 "LCA";0
 "LCN";0
@@ -207,7 +207,7 @@ iso;in_rankings
 "OMN";1
 "OSS";0
 "PAK";1
-"PAN";0
+"PAN";1
 "PCI";0
 "PCN";0
 "PCZ";0
@@ -234,10 +234,10 @@ iso;in_rankings
 "SAS";0
 "SAU";1
 "SCG";0
-"SDN";0
+"SDN";1
 "SEN";1
 "SER";0
-"SGP";0
+"SGP";1
 "SGS";0
 "SHN";0
 "SLB";0

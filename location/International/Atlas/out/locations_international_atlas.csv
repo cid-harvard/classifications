@@ -96,7 +96,7 @@
 94,"GUF","country","French Guiana","Guyana Francesa","French Guiana","Guyana Francesa",357.0,"French Guiana",0.0,0.0
 95,"GUM","country","Guam","Guam (E.U.A.)","Guam","Guam",354.0,"Guam",0.0,0.0
 96,"GUY","country","Guyana","Guyana (Republica Cooperativa De)","Guyana","Guyana",357.0,"Guyana",1.0,0.0
-97,"HKG","country","Hong Kong","Hong Kong (Region Administrativa Especial De La Republica)","Hong Kong","Hong Kong",353.0,"Hong Kong",1.0,0.0
+97,"HKG","country","Hong Kong","Hong Kong (Region Administrativa Especial De La Republica)","Hong Kong","Hong Kong",353.0,"Hong Kong",1.0,1.0
 98,"HMD","country","Heard Island and McDonald Islands","Islas Heard Y Mcdonald","Heard and McDonald Islands","Islas Heard Y Mcdonald",358.0,"Heard Island and McDonald Islands",0.0,0.0
 99,"HND","country","Honduras","Honduras (Republica De)","Honduras","Honduras",356.0,"Honduras",0.0,1.0
 100,"HRV","country","Croatia","Croacia (Republica De)","Croatia","Croacia",355.0,"Croatia",1.0,1.0
@@ -124,7 +124,7 @@
 122,"KWT","country","Kuwait","Kuwait (Estado De)","Kuwait","Kuwait",353.0,"Kuwait",1.0,1.0
 123,"LAO","country","Lao People's Democratic Republic","Republica Democratica Popular Laos","Laos","Laos",353.0,"Lao People's Democratic Republic",1.0,1.0
 124,"LBN","country","Lebanon","Libano (Republica De)","Lebanon","Libano",353.0,"Lebanon",1.0,1.0
-125,"LBR","country","Liberia","Liberia (Republica De)","Liberia","Liberia",352.0,"Liberia",0.0,0.0
+125,"LBR","country","Liberia","Liberia (Republica De)","Liberia","Liberia",352.0,"Liberia",0.0,1.0
 126,"LBY","country","Libya","Libia (Jamahiriya Libia Arabe Popular Socialista)","Libya","Libia",352.0,"Libya",1.0,1.0
 127,"LCA","country","Saint Lucia","Santa Lucia","Saint Lucia","Santa Lucia",356.0,"Saint Lucia",0.0,0.0
 128,"LKA","country","Sri Lanka","Sri Lanka (Republica Democratica Socialista De)","Sri Lanka","Sri Lanka",353.0,"Sri Lanka",1.0,1.0
@@ -168,7 +168,7 @@
 166,"NZL","country","New Zealand","Nueva Zelandia","New Zealand","Nueva Zelandia",354.0,"New Zealand",1.0,1.0
 167,"OMN","country","Oman","Oman (Sultanato De)","Oman","Oman",353.0,"Oman",1.0,1.0
 168,"PAK","country","Pakistan","Pakistan (Republica Islamica De)","Pakistan","Pakistan",353.0,"Pakistan",1.0,1.0
-169,"PAN","country","Panama","Panama (Republica De)","Panama","Panama",356.0,"Panama",0.0,0.0
+169,"PAN","country","Panama","Panama (Republica De)","Panama","Panama",356.0,"Panama",0.0,1.0
 170,"PCI","country","Former Pacific Islands","Pacifico, Islas Del","Fmr. Pacific Islands","Pacifico, Islas Del",354.0,"Former Pacific Islands",0.0,0.0
 171,"PCN","country","Pitcairn","Pitcairns (Islas Dependencia Britanica)","Pitcairn","Pitcairns (Islas Dependencia Britanica)",354.0,"Pitcairn",0.0,0.0
 172,"PCZ","country","Panama Canal Zone","Zona Del Canal De Panama","Panama Canal Zone","Zona Del Canal De Panama",356.0,"Panama Canal Zone",0.0,0.0
@@ -189,9 +189,9 @@
 187,"RWA","country","Rwanda","Republica Ruandesa","Rwanda","Republica Ruandesa",352.0,"Rwanda",0.0,0.0
 188,"SAU","country","Saudi Arabia","Arabia Saudita (Reino De)","Saudi Arabia","Arabia Saudita",353.0,"Saudi Arabia",1.0,1.0
 189,"SCG","country","Serbia and Montenegro","","Serbia and Montenegro","",355.0,"Serbia and Montenegro",0.0,0.0
-190,"SDN","country","Sudan","Sudan (Republica Del)","Sudan","Sudan",352.0,"Sudan",1.0,0.0
+190,"SDN","country","Sudan","Sudan (Republica Del)","Sudan","Sudan",352.0,"Sudan",1.0,1.0
 191,"SEN","country","Senegal","Senegal (Republica Del)","Senegal","Senegal",352.0,"Senegal",1.0,1.0
-192,"SGP","country","Singapore","Singapur (Republica De)","Singapore","Singapur",353.0,"Singapore",1.0,0.0
+192,"SGP","country","Singapore","Singapur (Republica De)","Singapore","Singapur",353.0,"Singapore",1.0,1.0
 193,"SGS","country","South Georgia and the South Sandwich Islands","","South Georgia and South Sandwich Islds.","",358.0,"South Georgia and the South Sandwich Islands",0.0,0.0
 194,"SHN","country","Saint Helena, Ascension and Tristan da Cunha","Santa Elena","Saint Helena, Ascension and Tristan da Cunha","Santa Elena",352.0,"Saint Helena, Ascension and Tristan da Cunha",0.0,0.0
 195,"SLB","country","Solomon Islands","Islas Salomon (Comunidad Britanica De Naciones)","Solomon Islands","Islas Salomon",354.0,"Solomon Islands",0.0,0.0
