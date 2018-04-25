@@ -22,7 +22,6 @@ if __name__ == "__main__":
 
     h = Hierarchy(["section", "2digit", "4digit", "6digit"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
-    parent_code_table.code = parent_code_table.code.astype(str)
     parent_code_table = parent_code_table.merge(names, on=["code", "level"])
 
     # Sort by level order (not necessarily alphabetical)
