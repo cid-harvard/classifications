@@ -17,9 +17,10 @@ if __name__ == "__main__":
         "section": [],
         "2digit": [],
         "4digit": [],
+        "6digit": [],
     }
 
-    h = Hierarchy(["section", "2digit", "4digit"])
+    h = Hierarchy(["section", "2digit", "4digit", "6digit"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
     parent_code_table.code = parent_code_table.code.astype(str)
     parent_code_table = parent_code_table.merge(names, on=["code", "level"])
@@ -39,6 +40,7 @@ if __name__ == "__main__":
         "section": 0,
         "2digit": 100,
         "4digit": 650,
+        "6digit": 5000,
     }
     parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
 
@@ -48,6 +50,7 @@ if __name__ == "__main__":
         "section": 10,
         "2digit": 400,
         "4digit": 4000,
+        "6digit": 15000,
     }
     services = spread_out_entries(services, service_starts, h)
 
