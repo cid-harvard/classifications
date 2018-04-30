@@ -12,8 +12,6 @@ if __name__ == "__main__":
     hierarchy = pd.read_table("./in/SITC_Rev2_Hierarchy.tsv", encoding="utf-8", dtype="str")
     hierarchy.columns = ["5digit_code", "4digit_code", "3digit_code", "2digit_code", "section_code"]
 
-    services = pd.read_table("./in/Services_Hierarchy.tsv", encoding="utf-8", dtype={"code": str})
-
     # Drop the 5-digit level.
     names = names[names.level != "5digit"]
     hierarchy = hierarchy.iloc[:, 1:].drop_duplicates()
@@ -48,18 +46,6 @@ if __name__ == "__main__":
         "4digit": 650
     }
     parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
-
-    # Add services classes with additional padding
-    service_starts = {
-        "section": 10,
-        "2digit": 200,
-        "3digit": 600,
-        "4digit": 2000
-    }
-    services = spread_out_entries(services, service_starts, h)
-
-    # Append to main table and sort on combined spread out indices
-    parent_id_table = parent_id_table.append(services).sort_index()
 
     c = Classification(parent_id_table, h)
 

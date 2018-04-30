@@ -1,5 +1,0 @@
-pandas>=0.22,<1.0
-gspread>=0.6.2,<1.0
-six
-unidecode
-oauth2client==4.0.0

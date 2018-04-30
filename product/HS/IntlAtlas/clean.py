@@ -11,17 +11,15 @@ if __name__ == "__main__":
 
     hierarchy = pd.read_table("./in/HS92_Atlas_Hierarchy.tsv", encoding="utf-8", dtype="str")
 
-    services = pd.read_table("./in/Services_Hierarchy.tsv", encoding="utf-8", dtype="str")
-
     fields = {
         "section": [],
         "2digit": [],
         "4digit": [],
-        "6digit": [],
     }
 
-    h = Hierarchy(["section", "2digit", "4digit", "6digit"])
+    h = Hierarchy(["section", "2digit", "4digit"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
+    parent_code_table.code = parent_code_table.code.astype(str)
     parent_code_table = parent_code_table.merge(names, on=["code", "level"])
 
     # Sort by level order (not necessarily alphabetical)
@@ -38,23 +36,9 @@ if __name__ == "__main__":
     level_starts = {
         "section": 0,
         "2digit": 100,
-        "4digit": 650,
-        "6digit": 5000,
+        "4digit": 650
     }
     parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
-
-    # Append services to table
-    # Spread out services similarly to each set of exports but buffered further
-    service_starts = {
-        "section": 10,
-        "2digit": 400,
-        "4digit": 4000,
-        "6digit": 15000,
-    }
-    services = spread_out_entries(services, service_starts, h)
-
-    # Append to main table and sort on combined spread out indices
-    parent_id_table = parent_id_table.append(services).sort_index()
 
     c = Classification(parent_id_table, h)
 

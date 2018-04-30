@@ -1,11 +1,11 @@
 code	level	name_en	name_es	name_short_en	name_short_es
 total	level0	Total	Total	Total	Total
-buffalos	level1	Buffaloes	Bufalino	Buffaloes	Bufalino
+buffalos	level1	Buffaloes	Búfalos	Buffaloes	Búfalos
 equines	level1	Equines	Equinos	Equines	Equinos
-fisheries	level1	Fish Farms	Acuicultura	Fish Farms	Acuicultura
+fisheries	level1	Fish Farms	Granja Piscícola	Fish Farms	Granja Piscícola
 fishing	level1	Fishing	Pesca	Fishing	Pesca
-goats	level1	Goats	Caprinos	Goats	Caprinos
-pigs	level1	Pigs	Cerdos	Pigs	Cerdos
-poultry	level1	Poultry	Avícola	Poultry	Avícola
-sheep	level1	Sheep	Ovinos	Sheep	Ovinos
-cattle	level1	Cattle	Bovino	Cattle	Bovino
+goats	level1	Goats	Cabras	Goats	Cabras
+pigs	level1	Pigs	Puercos	Pigs	Puercos
+poultry	level1	Poultry	Aves de corral	Poultry	Aves de corral
+sheep	level1	Sheep	Ovejas	Sheep	Ovejas
+cattle	level1	Cattle	Ganado Bovino	Cattle	Ganado Bovino
