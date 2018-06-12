@@ -1,11 +1,11 @@
 "","code","name","level","name_en","name_es","name_short_en","name_short_es","parent_id"
 0,"total","Total","level0","Total","Total","Total","Total",""
-1,"buffalos","Buffaloes","level1","Buffaloes","Búfalos","Buffaloes","Búfalos",0.0
+1,"buffalos","Buffaloes","level1","Buffaloes","Bufalino","Buffaloes","Bufalino",0.0
 2,"equines","Equines","level1","Equines","Equinos","Equines","Equinos",0.0
-3,"fisheries","Fish Farms","level1","Fish Farms","Granja Piscícola","Fish Farms","Granja Piscícola",0.0
+3,"fisheries","Fish Farms","level1","Fish Farms","Acuicultura","Fish Farms","Acuicultura",0.0
 4,"fishing","Fishing","level1","Fishing","Pesca","Fishing","Pesca",0.0
-5,"goats","Goats","level1","Goats","Cabras","Goats","Cabras",0.0
-6,"pigs","Pigs","level1","Pigs","Puercos","Pigs","Puercos",0.0
-7,"poultry","Poultry","level1","Poultry","Aves de corral","Poultry","Aves de corral",0.0
-8,"sheep","Sheep","level1","Sheep","Ovejas","Sheep","Ovejas",0.0
-9,"cattle","Cattle","level1","Cattle","Ganado Bovino","Cattle","Ganado Bovino",0.0
+5,"goats","Goats","level1","Goats","Caprinos","Goats","Caprinos",0.0
+6,"pigs","Pigs","level1","Pigs","Cerdos","Pigs","Cerdos",0.0
+7,"poultry","Poultry","level1","Poultry","Avícola","Poultry","Avícola",0.0
+8,"sheep","Sheep","level1","Sheep","Ovinos","Sheep","Ovinos",0.0
+9,"cattle","Cattle","level1","Cattle","Bovino","Cattle","Bovino",0.0
