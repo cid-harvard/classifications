@@ -15,11 +15,11 @@ if __name__ == "__main__":
         "section": [],
         "2digit": [],
         "4digit": [],
+        "6digit": [],
     }
 
-    h = Hierarchy(["section", "2digit", "4digit"])
+    h = Hierarchy(["section", "2digit", "4digit", "6digit"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
-    parent_code_table.code = parent_code_table.code.astype(str)
     parent_code_table = parent_code_table.merge(names, on=["code", "level"])
 
     # Sort by level order (not necessarily alphabetical)
@@ -36,7 +36,8 @@ if __name__ == "__main__":
     level_starts = {
         "section": 0,
         "2digit": 100,
-        "4digit": 650
+        "4digit": 650,
+        "6digit": 5000,
     }
     parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
 
