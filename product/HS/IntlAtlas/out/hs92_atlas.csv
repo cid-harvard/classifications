@@ -9,6 +9,7 @@
 7,"7","Machinery","section","Machinery","Maquinaria","Machinery","Maquinaria",""
 8,"8","Electronics","section","Electronics","Electrónicos","Electronics","Electrónicos",""
 9,"9","Other","section","Other","Other","Other","Other",""
+10,"Services","Services","section","Services","Services","Services","Services",""
 100,"01","Live animals","2digit","Live animals","Animales Vivos","Live animals","Animales Vivos",1.0
 101,"02","Meat and edible meat offal.","2digit","Meat and edible meat offal.","Carne y despojos comestibles","Meat","Carne",1.0
 102,"03","Fish and crustaceans, molluscs and other aquatic invertebrates.","2digit","Fish and crustaceans, molluscs and other aquatic invertebrates.","Pescados y crustáceos, moluscos y demás invertebrados acuáticos","Fish","Pescado",1.0
@@ -106,6 +107,11 @@
 194,"96","Miscellaneous manufactured articles.","2digit","Miscellaneous manufactured articles.","Artículos manufacturados misceláneos","Miscellaneous manufactured articles","Artículos manufacturados misceláneos",7.0
 195,"97","Works of art, collectors' pieces and antiques.","2digit","Works of art, collectors' pieces and antiques.","Obras de arte, piezas de colección y antigüedades","Art","Arte",0.0
 196,"99","Other","2digit","Other","Other","Other","Other",9.0
+400,"Other","Other","2digit","Other","Other","Other","Other",10.0
+401,"Travel services","Travel services","2digit","Travel services","Travel services","Travel","Travel",10.0
+402,"Transport services","Transport services","2digit","Transport services","Transport services","Transport","Transport",10.0
+403,"Communications","Communications","2digit","Communications","Communications","Communications","Communications",10.0
+404,"Insurance and financial services","Insurance and financial services","2digit","Insurance and financial services","Insurance and financial services","Insurance and finance","Insurance and finance",10.0
 650,"0101","Live horses, asses, mules or hinnies","4digit","Live horses, asses, mules or hinnies","Caballos, asnos, mulos y burdéganos, vivos.","Horses","Caballos",100.0
 651,"0102","Live bovine animals","4digit","Live bovine animals","Animales vivos de la especie bovina.","Bovine","Bovinos",100.0
 652,"0103","Live swine","4digit","Live swine","Animales vivos de la especie porcina.","Swine","Porcinos",100.0
@@ -1349,3 +1355,8 @@
 1890,"9706","Antiques older than one hundred years","4digit","Antiques older than one hundred years","Antigüedades de más de cien años.","Antiques >100 years","Antigüedades >100 años",195.0
 1891,"9999","Commodities not specified according to kind","4digit","Commodities not specified according to kind","Commodities not specified according to kind","Commodities not specified according to kind","Commodities not specified according to kind",196.0
 1892,"XXXX","Trade data discrepancies","4digit","Trade data discrepancies","Trade data discrepancies","Trade data discrepancies","Trade data discrepancies",196.0
+4000,"Other","Other","4digit","Other","Other","Other","Other",400.0
+4001,"Travel services","Travel services","4digit","Travel services","Travel services","Travel","Travel",401.0
+4002,"Transport services","Transport services","4digit","Transport services","Transport services","Transport","Transport",402.0
+4003,"Communications","Communications","4digit","Communications","Communications","Communications","Communications",403.0
+4004,"Insurance and financial services","Insurance and financial services","4digit","Insurance and financial services","Insurance and financial services","Insurance and finance","Insurance and finance",404.0
