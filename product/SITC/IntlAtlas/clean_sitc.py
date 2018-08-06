@@ -47,6 +47,14 @@ if __name__ == "__main__":
     }
     parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
 
+    # Store two versions, with and without 3 digit
+
+    c = Classification(parent_id_table, h)
+
+    c.to_csv("out/sitc_rev2_with3digit.csv")
+    c.to_stata("out/sitc_rev2_with3digit.dta")
+
+    parent_id_table = parent_id_table[parent_id_table.level != "3digit"]
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/sitc_rev2.csv")
