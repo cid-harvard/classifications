@@ -30,6 +30,7 @@ setup(
             "product/HS/Peru_Datlas/out/products_peru_datlas.csv",
             "product/HS/IntlAtlas/out/hs92_atlas.csv",
             "product/SITC/IntlAtlas/out/sitc_rev2.csv",
+            "product/SITC/IntlAtlas/out/sitc_rev2_with3digit.csv",
             "occupation/SINCO/Mexico/out/occupations_sinco_2011.csv",
             "occupation/SINCO/Mexico_datlas/out/occupations_sinco_datlas_2011.csv",
             "occupation/SOC/Colombia/out/occupations_soc_2010.csv",
