@@ -18,9 +18,7 @@ if __name__ == "__main__":
         "./in/HS92_Atlas_Hierarchy.tsv", encoding="utf-8", dtype="str"
     )
 
-    services = pd.read_table(
-        "./in/Services_Hierarchy.tsv", encoding="utf-8", dtype="str"
-    )
+    services = pd.read_csv("./in/Services_Hierarchy.csv", encoding="utf-8", dtype="str")
 
     fields = {"section": [], "2digit": [], "4digit": [], "6digit": []}
 

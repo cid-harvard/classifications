@@ -25,8 +25,8 @@ if __name__ == "__main__":
         "section_code",
     ]
 
-    services = pd.read_table(
-        "./in/Services_Hierarchy.tsv", encoding="utf-8", dtype={"code": str}
+    services = pd.read_csv(
+        "./in/Services_Hierarchy.csv", encoding="utf-8", dtype={"code": str}
     )
 
     # Drop the 5-digit level.
