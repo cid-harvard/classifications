@@ -16,7 +16,7 @@ def slugify(s):
     """Get a string like 'Foo Bar' and convert to foo_bar. Usually good for
     creating codes from names, especially for languages with special
     characters."""
-    return re.sub(r'[^a-zA-Z0-9\_]', '', s.replace(" ", "_").lower())
+    return re.sub(r"[^a-zA-Z0-9\_]", "", s.replace(" ", "_").lower())
 
 
 def load(path):
@@ -31,14 +31,11 @@ def parent_code_table_to_parent_id_table(df, hierarchy):
     code_table = df[["code", "level"]].reset_index()
     code_table.columns = ["parent_id", "parent_code", "parent_level"]
 
-    df["parent_level"] = df["level"]\
-        .map(hierarchy.parent)\
-        .fillna(value=pd.np.nan)
+    df["parent_level"] = df["level"].map(hierarchy.parent).fillna(value=pd.np.nan)
 
-    return df.merge(code_table,
-                    on=["parent_level", "parent_code"],
-                    how="left")\
-        .drop(["parent_code", "parent_level"], axis=1)
+    return df.merge(code_table, on=["parent_level", "parent_code"], how="left").drop(
+        ["parent_code", "parent_level"], axis=1
+    )
 
 
 def ordered_table_to_parent_code_table(df, hierarchy):
@@ -92,7 +89,6 @@ def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
     assert df[codes].duplicated().any() == False
     assert pd.Series(hierarchy).isin(list(level_fields.keys())).all()
 
-
     new_table = []
     for idx, row in df.iterrows():
 
@@ -101,23 +97,18 @@ def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
         for level in hierarchy:
             code = row["{}_code".format(level)]
 
-            row_dict = {
-                "code": code,
-                "level": level,
-                "parent_code": parent_codes[-1]
-            }
+            row_dict = {"code": code, "level": level, "parent_code": parent_codes[-1]}
 
             for field in level_fields[level]:
 
                 # Strip _section from the end
-                assert field.endswith("_"+ level)
-                new_field_name = field[:-1 * len(level) - 1]
+                assert field.endswith("_" + level)
+                new_field_name = field[: -1 * len(level) - 1]
 
                 row_dict[new_field_name] = row[field]
 
             new_table.append(row_dict)
             parent_codes.append(code)
-
 
     new_df = pd.DataFrame(new_table)
     new_df = new_df[~new_df.duplicated()]
@@ -131,8 +122,12 @@ def sort_by_code_and_level(parent_code_table, hierarchy):
     """ Sort by level order (not necessarily alphabetical). Uses merge-sort
     because it's stable i.e. won't mess with the original order of the entries
     if that matters. """
-    parent_code_table.level = parent_code_table.level.astype("category", categories=hierarchy)
-    parent_code_table = parent_code_table.sort_values(["level", "code"], kind="mergesort").reset_index(drop=True)
+    parent_code_table.level = parent_code_table.level.astype(
+        "category", categories=hierarchy
+    )
+    parent_code_table = parent_code_table.sort_values(
+        ["level", "code"], kind="mergesort"
+    ).reset_index(drop=True)
     parent_code_table.level = parent_code_table.level.astype("str")
     return parent_code_table
 
@@ -143,12 +138,20 @@ def spread_out_entries(parent_id_table, level_starts, hierarchy):
     add more."""
 
     # Ensure start points are specified for all levels
-    assert set(level_starts.keys()) == set(hierarchy), """Your level gap list
+    assert set(level_starts.keys()) == set(
+        hierarchy
+    ), """Your level gap list
             doesn't have the same levels as the hierarchy: {} vs
-            {}""".format(level_starts.keys(), hierarchy)
+            {}""".format(
+        level_starts.keys(), hierarchy
+    )
 
-    assert "new_index" not in parent_id_table.columns, "You already have a level named 'new_index', please get rid of it."
-    assert "new_parent_id" not in parent_id_table.columns, "You already have a level named 'new_parent_id', please get rid of it."
+    assert (
+        "new_index" not in parent_id_table.columns
+    ), "You already have a level named 'new_index', please get rid of it."
+    assert (
+        "new_parent_id" not in parent_id_table.columns
+    ), "You already have a level named 'new_parent_id', please get rid of it."
 
     level_counts = parent_id_table.level.value_counts().to_dict()
     for i, level in enumerate(hierarchy):
@@ -164,14 +167,19 @@ def spread_out_entries(parent_id_table, level_starts, hierarchy):
             # need to fit
             next_level = hierarchy[i + 1]
             next_level_start = level_starts[next_level]
-            assert (level_start + level_size) <= next_level_start, """Gap between
+            assert (
+                level_start + level_size
+            ) <= next_level_start, """Gap between
                 levels {} ({}) and {} ({}) not large enough to fit {}
-                items.""".format(level, level_start, next_level, next_level_start,
-                                level_size)
+                items.""".format(
+                level, level_start, next_level, next_level_start, level_size
+            )
 
         # Set new index
         new_level_indexes = range(level_start, level_start + level_counts[level])
-        parent_id_table.loc[parent_id_table.level == level, "new_index"] = new_level_indexes
+        parent_id_table.loc[
+            parent_id_table.level == level, "new_index"
+        ] = new_level_indexes
 
         # Set new parent ids
         if i > 0:
@@ -181,15 +189,17 @@ def spread_out_entries(parent_id_table, level_starts, hierarchy):
             new_parent_ids = parent_id_table.iloc[parent_ids.values].new_index
             new_parent_ids.index = parent_ids.index
             # Update new parent_id field with new ids
-            parent_id_table.loc[parent_id_table.level == level, "new_parent_id"] = new_parent_ids
+            parent_id_table.loc[
+                parent_id_table.level == level, "new_parent_id"
+            ] = new_parent_ids
 
     # Make sure there aren't any gaps left
     assert parent_id_table.new_index.isnull().any() == False
 
     # Replace parent id column
-    parent_id_table = parent_id_table\
-        .drop("parent_id", axis=1)\
-        .rename(columns={"new_parent_id": "parent_id"})
+    parent_id_table = parent_id_table.drop("parent_id", axis=1).rename(
+        columns={"new_parent_id": "parent_id"}
+    )
 
     # Replace index (i.e. id column)
     parent_id_table.new_index = parent_id_table.new_index.astype(int)
@@ -200,7 +210,6 @@ def spread_out_entries(parent_id_table, level_starts, hierarchy):
 
 
 class Hierarchy(collections.Mapping):
-
     def __init__(self, items):
         self.items = list(items)
 
@@ -216,8 +225,12 @@ class Hierarchy(collections.Mapping):
         elif isinstance(item, string_types):
             return self.items.index(item)
         else:
-            raise KeyError("Don't know how to find {} in hierarchy\
-                           {}".format(item, self))
+            raise KeyError(
+                "Don't know how to find {} in hierarchy\
+                           {}".format(
+                    item, self
+                )
+            )
 
     def __iter__(self):
         return self.items.__iter__()
@@ -231,8 +244,12 @@ class Hierarchy(collections.Mapping):
         elif isinstance(item, string_types):
             index = self[item]
         else:
-            raise KeyError("Don't know how to find {} in hierarchy\
-                           {}".format(item, self))
+            raise KeyError(
+                "Don't know how to find {} in hierarchy\
+                           {}".format(
+                    item, self
+                )
+            )
 
         parent_index = index + amount
         if parent_index < 0:
@@ -280,8 +297,7 @@ class Classification(object):
         # Check that index is in sorted order
         assert sorted(self.table.index) == self.table.index.tolist()
 
-        assert (self.table[["name", "level", "code"]].isnull()
-                .any().any() == False)
+        assert self.table[["name", "level", "code"]].isnull().any().any() == False
 
         assert np.issubdtype(self.table.index.dtype, np.int)
         assert np.issubdtype(self.table.parent_id.dtype, np.number)
@@ -289,7 +305,6 @@ class Classification(object):
         assert self.table.code.dtype == np.object_
         assert self.table.name.dtype == np.object_
         assert self.table.level.dtype == np.object_
-
 
     def level(self, level):
         """Return only codes from a specific aggregation level."""
@@ -308,8 +323,12 @@ class Classification(object):
         to_index = self.levels[to_level]
 
         if not (from_index > to_index):
-            raise ValueError("""{} is higher level than {}. Did you specify them
-                             backwards?""".format(from_level, to_level))
+            raise ValueError(
+                """{} is higher level than {}. Did you specify them
+                             backwards?""".format(
+                    from_level, to_level
+                )
+            )
 
         # Shortcut
         df = self.table
@@ -339,20 +358,22 @@ class Classification(object):
             levelize = lambda x: x + "_" + level
             prev_levelize = lambda x: x + "_" + prev_level
 
-            current_level = self\
-                .level(level)\
-                .rename(columns=levelize)\
+            current_level = (
+                self.level(level)
+                .rename(columns=levelize)
                 .drop("level_" + level, axis=1)
+            )
 
             if data is None:
                 data = current_level
             else:
-                data = data.merge(current_level,
-                                  left_on=prev_levelize("parent_id"),
-                                  right_index=True,
-                                  how="inner",
-                                  suffixes=("_" + prev_level, "_" + level)
-                                  )
+                data = data.merge(
+                    current_level,
+                    left_on=prev_levelize("parent_id"),
+                    right_index=True,
+                    how="inner",
+                    suffixes=("_" + prev_level, "_" + level),
+                )
                 data = data.drop(prev_levelize("parent_id"), axis=1)
             prev_level = level
 
@@ -374,16 +395,26 @@ class Classification(object):
         for column in merged_table.columns:
             col = merged_table[column]
             if col.dtype == pd.np.object_:
+                infered_dtype = pd.lib.infer_dtype(col.dropna())
 
                 # Chop long fields because STATA format doesn't support them
-                if pd.lib.infer_dtype(col.dropna()) == "string":
+                if infered_dtype == "string":
                     merged_table[column] = col.str.slice(0, 244)
-                elif pd.lib.infer_dtype(col.dropna()) == "unicode":
-                    merged_table[column] = col.str.slice(0, 244).map(unidecode, na_action="ignore")
+                elif infered_dtype == "unicode":
+                    merged_table[column] = col.str.slice(0, 244).map(
+                        unidecode, na_action="ignore"
+                    )
+                elif infered_dtype == "mixed":
+                    raise ValueError("Column {} has mixed types".format(col.name))
 
                 # Workaround issue in pandas where to_stata() rejects an object
                 # field full of nulls
                 if col.isnull().all():
                     merged_table[column] = col.astype(float)
 
-        merged_table.to_stata(path, encoding="latin-1", write_index=False, time_stamp=datetime.datetime.utcfromtimestamp(0))
+        merged_table.to_stata(
+            path,
+            encoding="latin-1",
+            write_index=False,
+            time_stamp=datetime.datetime.utcfromtimestamp(0),
+        )

@@ -9,6 +9,7 @@
 7,"7","Machinery and transport equipment","section","Machinery and transport equipment","","Machinery & transport","",""
 8,"8","Miscellaneous manufactured articles","section","Miscellaneous manufactured articles","","Other manufactured articles","",""
 9,"9","Commodities and transactions not classified elsewhere in the SITC","section","Commodities and transactions not classified elsewhere in the SITC","","Other","",""
+10,"services","Services","section","Services","Services","Services","Services",""
 100,"00","Live animals chiefly for food","2digit","Live animals chiefly for food","","Live animals chiefly for food","",0.0
 101,"01","Meat and preparations","2digit","Meat and preparations","","Meat and preparations","",0.0
 102,"02","Dairy products and birds' eggs","2digit","Dairy products and birds' eggs","","Dairy products and birds' eggs","",0.0
@@ -79,246 +80,11 @@
 167,"96","Coin (other than gold coin), not being legal tender","2digit","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",9.0
 168,"97","Gold, non-monetary (excluding gold ores and concentrates)","2digit","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",9.0
 169,"ZZ","Unknown","2digit","Unknown","","Unknown","",9.0
-250,"001","Live animals chiefly for food","3digit","Live animals chiefly for food","","Live animals chiefly for food","",100.0
-251,"011","Meat and edible meat offal, fresh, chilled or frozen","3digit","Meat and edible meat offal, fresh, chilled or frozen","","Meat and edible meat offal, fresh, chilled or frozen","",101.0
-252,"012","Meat and edible meat offal, in brine, dried, salted or smoked","3digit","Meat and edible meat offal, in brine, dried, salted or smoked","","Meat and edible meat offal, in brine, dried, salted or smoked","",101.0
-253,"014","Meat and edible meat offal, prepared, preserved, nes; fish extracts","3digit","Meat and edible meat offal, prepared, preserved, nes; fish extracts","","Meat and edible meat offal, prepared, preserved, nes; fish extracts","",101.0
-254,"022","Milk and cream","3digit","Milk and cream","","Milk and cream","",102.0
-255,"023","Butter","3digit","Butter","","Butter","",102.0
-256,"024","Cheese and curd","3digit","Cheese and curd","","Cheese and curd","",102.0
-257,"025","Eggs, birds', and egg yolks, fresh, dried or preserved","3digit","Eggs, birds', and egg yolks, fresh, dried or preserved","","Eggs, birds', and egg yolks, fresh, dried or preserved","",102.0
-258,"034","Fish, fresh, chilled or frozen","3digit","Fish, fresh, chilled or frozen","","Fish, fresh, chilled or frozen","",103.0
-259,"035","Fish, dried, salted or in brine; smoked fish","3digit","Fish, dried, salted or in brine; smoked fish","","Fish, dried, salted or in brine; smoked fish","",103.0
-260,"036","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","3digit","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","","Crustaceans and molluscs, fresh, chilled, frozen, salted, etc","",103.0
-261,"037","Fish, crustaceans and molluscs, prepared or preserved, nes","3digit","Fish, crustaceans and molluscs, prepared or preserved, nes","","Fish, crustaceans and molluscs, prepared or preserved, nes","",103.0
-262,"041","Wheat and meslin, unmilled","3digit","Wheat and meslin, unmilled","","Wheat and meslin, unmilled","",104.0
-263,"042","Rice","3digit","Rice","","Rice","",104.0
-264,"043","Barley, unmilled","3digit","Barley, unmilled","","Barley, unmilled","",104.0
-265,"044","Maize, unmilled","3digit","Maize, unmilled","","Maize, unmilled","",104.0
-266,"045","Cereals, unmilled","3digit","Cereals, unmilled","","Cereals, unmilled","",104.0
-267,"046","Meal and flour of wheat and flour of meslin","3digit","Meal and flour of wheat and flour of meslin","","Meal and flour of wheat and flour of meslin","",104.0
-268,"047","Other cereal meals and flour","3digit","Other cereal meals and flour","","Other cereal meals and flour","",104.0
-269,"048","Cereal, flour or starch preparations of fruits or vegetables","3digit","Cereal, flour or starch preparations of fruits or vegetables","","Cereal, flour or starch preparations of fruits or vegetables","",104.0
-270,"054","Vegetables, fresh or simply preserved; roots and tubers, nes","3digit","Vegetables, fresh or simply preserved; roots and tubers, nes","","Vegetables, fresh or simply preserved; roots and tubers, nes","",105.0
-271,"056","Vegetables, roots and tubers, prepared or preserved, nes","3digit","Vegetables, roots and tubers, prepared or preserved, nes","","Vegetables, roots and tubers, prepared or preserved, nes","",105.0
-272,"057","Fruit and nuts, fresh, dried","3digit","Fruit and nuts, fresh, dried","","Fruit and nuts, fresh, dried","",105.0
-273,"058","Fruit, preserved, and fruits preparations","3digit","Fruit, preserved, and fruits preparations","","Fruit, preserved, and fruits preparations","",105.0
-274,"061","Sugar and honey","3digit","Sugar and honey","","Sugar and honey","",106.0
-275,"062","Sugar confectionery and preparations, non-chocolate","3digit","Sugar confectionery and preparations, non-chocolate","","Sugar confectionery and preparations, non-chocolate","",106.0
-276,"071","Coffee and coffee substitutes","3digit","Coffee and coffee substitutes","","Coffee and coffee substitutes","",107.0
-277,"072","Cocoa","3digit","Cocoa","","Cocoa","",107.0
-278,"073","Chocolate and other preparations containing cocoa, nes","3digit","Chocolate and other preparations containing cocoa, nes","","Chocolate and other preparations containing cocoa, nes","",107.0
-279,"074","Tea and mate","3digit","Tea and mate","","Tea and mate","",107.0
-280,"075","Spices","3digit","Spices","","Spices","",107.0
-281,"081","Feeding stuff for animals (not including unmilled cereals)","3digit","Feeding stuff for animals (not including unmilled cereals)","","Feeding stuff for animals (not including unmilled cereals)","",108.0
-282,"091","Margarine and shortening","3digit","Margarine and shortening","","Margarine and shortening","",109.0
-283,"098","Edible products and preparations, nes","3digit","Edible products and preparations, nes","","Edible products and preparations, nes","",109.0
-284,"111","Non-alcoholic beverages, nes","3digit","Non-alcoholic beverages, nes","","Non-alcoholic beverages, nes","",110.0
-285,"112","Alcoholic beverages","3digit","Alcoholic beverages","","Alcoholic beverages","",110.0
-286,"121","Tobacco unmanufactured; tobacco refuse","3digit","Tobacco unmanufactured; tobacco refuse","","Tobacco unmanufactured; tobacco refuse","",111.0
-287,"122","Tobacco, manufactured","3digit","Tobacco, manufactured","","Tobacco, manufactured","",111.0
-288,"211","Hides and skins, excluding furs, raw","3digit","Hides and skins, excluding furs, raw","","Hides and skins, excluding furs, raw","",112.0
-289,"212","Furskins, raw","3digit","Furskins, raw","","Furskins, raw","",112.0
-290,"222","Seeds and oleaginous fruit, whole or broken, for 'soft' fixed oil","3digit","Seeds and oleaginous fruit, whole or broken, for 'soft' fixed oil","","Seeds and oleaginous fruit, whole or broken, for 'soft' fixed oil","",113.0
-291,"223","Seeds and oleaginous fruit, whole or broken, for other fixed oils","3digit","Seeds and oleaginous fruit, whole or broken, for other fixed oils","","Seeds and oleaginous fruit, whole or broken, for other fixed oils","",113.0
-292,"232","Natural rubber latex; rubber and gums","3digit","Natural rubber latex; rubber and gums","","Natural rubber latex; rubber and gums","",114.0
-293,"233","Synthetic rubber, latex, etc; waste, scrap of unhardened rubber","3digit","Synthetic rubber, latex, etc; waste, scrap of unhardened rubber","","Synthetic rubber, latex, etc; waste, scrap of unhardened rubber","",114.0
-294,"244","Cork, natural, raw and waste","3digit","Cork, natural, raw and waste","","Cork, natural, raw and waste","",115.0
-295,"245","Fuel wood and wood charcoal","3digit","Fuel wood and wood charcoal","","Fuel wood and wood charcoal","",115.0
-296,"246","Pulpwood (including chips and wood waste)","3digit","Pulpwood (including chips and wood waste)","","Pulpwood (including chips and wood waste)","",115.0
-297,"247","Other wood in the rough or roughly squared","3digit","Other wood in the rough or roughly squared","","Other wood in the rough or roughly squared","",115.0
-298,"248","Wood, simply worked, and railway sleepers of wood","3digit","Wood, simply worked, and railway sleepers of wood","","Wood, simply worked, and railway sleepers of wood","",115.0
-299,"251","Pulp and waste paper","3digit","Pulp and waste paper","","Pulp and waste paper","",116.0
-300,"261","Silk","3digit","Silk","","Silk","",117.0
-301,"263","Cotton","3digit","Cotton","","Cotton","",117.0
-302,"264","Jute, other textile bast fibres, nes, raw, processed but not spun","3digit","Jute, other textile bast fibres, nes, raw, processed but not spun","","Jute, other textile bast fibres, nes, raw, processed but not spun","",117.0
-303,"265","Vegetable textile fibres, excluding cotton, jute, and waste","3digit","Vegetable textile fibres, excluding cotton, jute, and waste","","Vegetable textile fibres, excluding cotton, jute, and waste","",117.0
-304,"266","Synthetic fibres suitable for spinning","3digit","Synthetic fibres suitable for spinning","","Synthetic fibres suitable for spinning","",117.0
-305,"267","Other man-made fibres suitable for spinning, and waste","3digit","Other man-made fibres suitable for spinning, and waste","","Other man-made fibres suitable for spinning, and waste","",117.0
-306,"268","Wool and other animal hair (excluding tops)","3digit","Wool and other animal hair (excluding tops)","","Wool and other animal hair (excluding tops)","",117.0
-307,"269","Old clothing and other old textile articles; rags","3digit","Old clothing and other old textile articles; rags","","Old clothing and other old textile articles; rags","",117.0
-308,"271","Fertilizers, crude","3digit","Fertilizers, crude","","Fertilizers, crude","",118.0
-309,"273","Stone, sand and gravel","3digit","Stone, sand and gravel","","Stone, sand and gravel","",118.0
-310,"274","Sulphur and unroasted iron pyrites","3digit","Sulphur and unroasted iron pyrites","","Sulphur and unroasted iron pyrites","",118.0
-311,"277","Natural abrasives, nes","3digit","Natural abrasives, nes","","Natural abrasives, nes","",118.0
-312,"278","Other crude minerals","3digit","Other crude minerals","","Other crude minerals","",118.0
-313,"281","Iron ore and concentrates","3digit","Iron ore and concentrates","","Iron ore and concentrates","",119.0
-314,"282","Waste and scrap metal of iron or steel","3digit","Waste and scrap metal of iron or steel","","Waste and scrap metal of iron or steel","",119.0
-315,"286","Ores and concentrates of uranium and thorium","3digit","Ores and concentrates of uranium and thorium","","Ores and concentrates of uranium and thorium","",119.0
-316,"287","Ores and concentrates of base metals, nes","3digit","Ores and concentrates of base metals, nes","","Ores and concentrates of base metals, nes","",119.0
-317,"288","Non-ferrous base metal waste and scrap, nes","3digit","Non-ferrous base metal waste and scrap, nes","","Non-ferrous base metal waste and scrap, nes","",119.0
-318,"289","Ores and concentrates of precious metals, waste, scrap","3digit","Ores and concentrates of precious metals, waste, scrap","","Ores and concentrates of precious metals, waste, scrap","",119.0
-319,"291","Crude animal materials, nes","3digit","Crude animal materials, nes","","Crude animal materials, nes","",120.0
-320,"292","Crude vegetable materials, nes","3digit","Crude vegetable materials, nes","","Crude vegetable materials, nes","",120.0
-321,"322","Coal, lignite and peat","3digit","Coal, lignite and peat","","Coal, lignite and peat","",121.0
-322,"323","Briquettes; coke and semi-coke; lignite or peat; retort carbon","3digit","Briquettes; coke and semi-coke; lignite or peat; retort carbon","","Briquettes; coke and semi-coke; lignite or peat; retort carbon","",121.0
-323,"333","Crude petroleum and oils obtained from bituminous minerals","3digit","Crude petroleum and oils obtained from bituminous minerals","","Crude petroleum and oils obtained from bituminous minerals","",122.0
-324,"334","Petroleum products, refined","3digit","Petroleum products, refined","","Petroleum products, refined","",122.0
-325,"335","Residual petroleum products, nes and related materials","3digit","Residual petroleum products, nes and related materials","","Residual petroleum products, nes and related materials","",122.0
-326,"341","Gas, natural and manufactured","3digit","Gas, natural and manufactured","","Gas, natural and manufactured","",123.0
-327,"351","Electric current","3digit","Electric current","","Electric current","",124.0
-328,"411","Animal oils and fats","3digit","Animal oils and fats","","Animal oils and fats","",125.0
-329,"423","Fixed vegetable oils, soft, crude refined or purified","3digit","Fixed vegetable oils, soft, crude refined or purified","","Fixed vegetable oils, soft, crude refined or purified","",126.0
-330,"424","Other fixed vegetable oils, fluid or solid, crude, refined","3digit","Other fixed vegetable oils, fluid or solid, crude, refined","","Other fixed vegetable oils, fluid or solid, crude, refined","",126.0
-331,"431","Animal and vegetable oils and fats, processed, and waxes","3digit","Animal and vegetable oils and fats, processed, and waxes","","Animal and vegetable oils and fats, processed, and waxes","",127.0
-332,"511","Hydrocarbons, nes, and derivatives","3digit","Hydrocarbons, nes, and derivatives","","Hydrocarbons, nes, and derivatives","",128.0
-333,"512","Alcohols, phenols etc, and their derivatives","3digit","Alcohols, phenols etc, and their derivatives","","Alcohols, phenols etc, and their derivatives","",128.0
-334,"513","Carboxylic acids, and their derivatives","3digit","Carboxylic acids, and their derivatives","","Carboxylic acids, and their derivatives","",128.0
-335,"514","Nitrogen-function compounds","3digit","Nitrogen-function compounds","","Nitrogen-function compounds","",128.0
-336,"515","Organo-inorganic and heterocyclic compounds","3digit","Organo-inorganic and heterocyclic compounds","","Organo-inorganic and heterocyclic compounds","",128.0
-337,"516","Other organic chemicals","3digit","Other organic chemicals","","Other organic chemicals","",128.0
-338,"522","Inorganic chemical elements, oxides and halogen salts","3digit","Inorganic chemical elements, oxides and halogen salts","","Inorganic chemical elements, oxides and halogen salts","",129.0
-339,"523","Other inorganic chemicals; compounds of precious metals","3digit","Other inorganic chemicals; compounds of precious metals","","Other inorganic chemicals; compounds of precious metals","",129.0
-340,"524","Radioactive and associated material","3digit","Radioactive and associated material","","Radioactive and associated material","",129.0
-341,"531","Synthetic dye, natural indigo, lakes","3digit","Synthetic dye, natural indigo, lakes","","Synthetic dye, natural indigo, lakes","",130.0
-342,"532","Dyeing and tanning extracts, and synthetic tanning materials","3digit","Dyeing and tanning extracts, and synthetic tanning materials","","Dyeing and tanning extracts, and synthetic tanning materials","",130.0
-343,"533","Pigments, paints, varnishes and related materials","3digit","Pigments, paints, varnishes and related materials","","Pigments, paints, varnishes and related materials","",130.0
-344,"541","Medicinal and pharmaceutical products","3digit","Medicinal and pharmaceutical products","","Medicinal and pharmaceutical products","",131.0
-345,"551","Essential oils, perfume and flavour materials","3digit","Essential oils, perfume and flavour materials","","Essential oils, perfume and flavour materials","",132.0
-346,"553","Perfumery, cosmetics, toilet preparations, etc","3digit","Perfumery, cosmetics, toilet preparations, etc","","Perfumery, cosmetics, toilet preparations, etc","",132.0
-347,"554","Soap, cleansing and polishing preparations","3digit","Soap, cleansing and polishing preparations","","Soap, cleansing and polishing preparations","",132.0
-348,"562","Fertilizers, manufactured","3digit","Fertilizers, manufactured","","Fertilizers, manufactured","",133.0
-349,"572","Explosives and pyrotechnic products","3digit","Explosives and pyrotechnic products","","Explosives and pyrotechnic products","",134.0
-350,"582","Condensation, polycondensation and polyaddition products","3digit","Condensation, polycondensation and polyaddition products","","Condensation, polycondensation and polyaddition products","",135.0
-351,"583","Polymerization and copolymerization products","3digit","Polymerization and copolymerization products","","Polymerization and copolymerization products","",135.0
-352,"584","Regenerated cellulose; derivatives of cellulose; vulcanized fibre","3digit","Regenerated cellulose; derivatives of cellulose; vulcanized fibre","","Regenerated cellulose; derivatives of cellulose; vulcanized fibre","",135.0
-353,"585","Other artificial resins and plastic materials","3digit","Other artificial resins and plastic materials","","Other artificial resins and plastic materials","",135.0
-354,"591","Pesticides, disinfectants","3digit","Pesticides, disinfectants","","Pesticides, disinfectants","",136.0
-355,"592","Starches, insulin and wheat gluten; albuminoidal substances; glues","3digit","Starches, insulin and wheat gluten; albuminoidal substances; glues","","Starches, insulin and wheat gluten; albuminoidal substances; glues","",136.0
-356,"598","Miscellaneous chemical products, nes","3digit","Miscellaneous chemical products, nes","","Miscellaneous chemical products, nes","",136.0
-357,"611","Leather","3digit","Leather","","Leather","",137.0
-358,"612","Manufactures of leather or of composition leather, nes; etc","3digit","Manufactures of leather or of composition leather, nes; etc","","Manufactures of leather or of composition leather, nes; etc","",137.0
-359,"613","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","3digit","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","","Furskins, tanned or dressed; pieces of furskin, tanned or dressed","",137.0
-360,"621","Materials of rubber","3digit","Materials of rubber","","Materials of rubber","",138.0
-361,"625","Rubber tires, tire cases, inner and flaps, for wheels of all kinds","3digit","Rubber tires, tire cases, inner and flaps, for wheels of all kinds","","Rubber tires, tire cases, inner and flaps, for wheels of all kinds","",138.0
-362,"628","Articles of rubber, nes","3digit","Articles of rubber, nes","","Articles of rubber, nes","",138.0
-363,"633","Cork manufactures","3digit","Cork manufactures","","Cork manufactures","",139.0
-364,"634","Veneers, plywood, ""improved"" wood and other wood, worked, nes","3digit","Veneers, plywood, ""improved"" wood and other wood, worked, nes","","Veneers, plywood, ""improved"" wood and other wood, worked, nes","",139.0
-365,"635","Wood manufactures, nes","3digit","Wood manufactures, nes","","Wood manufactures, nes","",139.0
-366,"641","Paper and paperboard","3digit","Paper and paperboard","","Paper and paperboard","",140.0
-367,"642","Paper and paperboard, precut, and articles of paper or paperboard","3digit","Paper and paperboard, precut, and articles of paper or paperboard","","Paper and paperboard, precut, and articles of paper or paperboard","",140.0
-368,"651","Textile yarn","3digit","Textile yarn","","Textile yarn","",141.0
-369,"652","Cotton fabrics, woven (not including narrow or special fabrics)","3digit","Cotton fabrics, woven (not including narrow or special fabrics)","","Cotton fabrics, woven (not including narrow or special fabrics)","",141.0
-370,"653","Fabrics, woven, of man-made fibres (not narrow or special fabrics)","3digit","Fabrics, woven, of man-made fibres (not narrow or special fabrics)","","Fabrics, woven, of man-made fibres (not narrow or special fabrics)","",141.0
-371,"654","Textile fabrics, woven, other than cotton or man-made fibres","3digit","Textile fabrics, woven, other than cotton or man-made fibres","","Textile fabrics, woven, other than cotton or man-made fibres","",141.0
-372,"655","Knitted or crocheted fabrics (including tubular, etc, fabrics)","3digit","Knitted or crocheted fabrics (including tubular, etc, fabrics)","","Knitted or crocheted fabrics (including tubular, etc, fabrics)","",141.0
-373,"656","Tulle, lace, embroidery, ribbons, trimmings and other small wares","3digit","Tulle, lace, embroidery, ribbons, trimmings and other small wares","","Tulle, lace, embroidery, ribbons, trimmings and other small wares","",141.0
-374,"657","Special textile fabrics and related products","3digit","Special textile fabrics and related products","","Special textile fabrics and related products","",141.0
-375,"658","Made-up articles, wholly or chiefly of textile materials, nes","3digit","Made-up articles, wholly or chiefly of textile materials, nes","","Made-up articles, wholly or chiefly of textile materials, nes","",141.0
-376,"659","Floor coverings, etc","3digit","Floor coverings, etc","","Floor coverings, etc","",141.0
-377,"661","Lime, cement, and fabricated construction materials","3digit","Lime, cement, and fabricated construction materials","","Lime, cement, and fabricated construction materials","",142.0
-378,"662","Clay and refractory construction materials","3digit","Clay and refractory construction materials","","Clay and refractory construction materials","",142.0
-379,"663","Mineral manufactures, nes","3digit","Mineral manufactures, nes","","Mineral manufactures, nes","",142.0
-380,"664","Glass","3digit","Glass","","Glass","",142.0
-381,"665","Glassware","3digit","Glassware","","Glassware","",142.0
-382,"666","Pottery","3digit","Pottery","","Pottery","",142.0
-383,"667","Pearl, precious and semi-precious stones, unworked or worked","3digit","Pearl, precious and semi-precious stones, unworked or worked","","Pearl, precious and semi-precious stones, unworked or worked","",142.0
-384,"671","Pig and sponge iron, spiegeleisen, etc, and ferro-alloys","3digit","Pig and sponge iron, spiegeleisen, etc, and ferro-alloys","","Pig and sponge iron, spiegeleisen, etc, and ferro-alloys","",143.0
-385,"672","Ingots and other primary forms, of iron or steel","3digit","Ingots and other primary forms, of iron or steel","","Ingots and other primary forms, of iron or steel","",143.0
-386,"673","Iron and steel bars, rods, shapes and sections","3digit","Iron and steel bars, rods, shapes and sections","","Iron and steel bars, rods, shapes and sections","",143.0
-387,"674","Universals, plates, and sheets, of iron or steel","3digit","Universals, plates, and sheets, of iron or steel","","Universals, plates, and sheets, of iron or steel","",143.0
-388,"675","Hoop and strip of iron or steel, hot-rolled or cold-rolled","3digit","Hoop and strip of iron or steel, hot-rolled or cold-rolled","","Hoop and strip of iron or steel, hot-rolled or cold-rolled","",143.0
-389,"676","Rails and railway track construction materials, of iron or steel","3digit","Rails and railway track construction materials, of iron or steel","","Rails and railway track construction materials, of iron or steel","",143.0
-390,"677","Iron or steel wire (excluding wire rod), not insulated","3digit","Iron or steel wire (excluding wire rod), not insulated","","Iron or steel wire (excluding wire rod), not insulated","",143.0
-391,"678","Tube, pipes and fittings, of iron or steel","3digit","Tube, pipes and fittings, of iron or steel","","Tube, pipes and fittings, of iron or steel","",143.0
-392,"679","Iron, steel casting, forging and stamping, in the rough state, nes","3digit","Iron, steel casting, forging and stamping, in the rough state, nes","","Iron, steel casting, forging and stamping, in the rough state, nes","",143.0
-393,"681","Silver, platinum and other metals of the platinum group","3digit","Silver, platinum and other metals of the platinum group","","Silver, platinum and other metals of the platinum group","",144.0
-394,"682","Copper","3digit","Copper","","Copper","",144.0
-395,"683","Nickel","3digit","Nickel","","Nickel","",144.0
-396,"684","Aluminium","3digit","Aluminium","","Aluminium","",144.0
-397,"685","Lead","3digit","Lead","","Lead","",144.0
-398,"686","Zinc","3digit","Zinc","","Zinc","",144.0
-399,"687","Tin","3digit","Tin","","Tin","",144.0
-400,"688","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","3digit","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","","Uranium depleted in U235, thorium, and alloys, nes; waste and scrap","",144.0
-401,"689","Miscellaneous non-ferrous base metals, employed in metallurgy","3digit","Miscellaneous non-ferrous base metals, employed in metallurgy","","Miscellaneous non-ferrous base metals, employed in metallurgy","",144.0
-402,"691","Structures and parts, nes, of iron, steel or aluminium","3digit","Structures and parts, nes, of iron, steel or aluminium","","Structures and parts, nes, of iron, steel or aluminium","",145.0
-403,"692","Metal containers for storage and transport","3digit","Metal containers for storage and transport","","Metal containers for storage and transport","",145.0
-404,"693","Wire products (excluding insulated electrical wire); fencing grills","3digit","Wire products (excluding insulated electrical wire); fencing grills","","Wire products (excluding insulated electrical wire); fencing grills","",145.0
-405,"694","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","3digit","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","","Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper","",145.0
-406,"695","Tools for use in the hand or in machines","3digit","Tools for use in the hand or in machines","","Tools for use in the hand or in machines","",145.0
-407,"696","Cutlery","3digit","Cutlery","","Cutlery","",145.0
-408,"697","Household equipment of base metal, nes","3digit","Household equipment of base metal, nes","","Household equipment of base metal, nes","",145.0
-409,"699","Manufactures of base metal, nes","3digit","Manufactures of base metal, nes","","Manufactures of base metal, nes","",145.0
-410,"711","Steam boilers and auxiliary plant; and parts thereof, nes","3digit","Steam boilers and auxiliary plant; and parts thereof, nes","","Steam boilers and auxiliary plant; and parts thereof, nes","",146.0
-411,"712","Steam engines, turbines","3digit","Steam engines, turbines","","Steam engines, turbines","",146.0
-412,"713","Internal combustion piston engines, and parts thereof, nes","3digit","Internal combustion piston engines, and parts thereof, nes","","Internal combustion piston engines, and parts thereof, nes","",146.0
-413,"714","Engines and motors, non-electric; parts, nes; group 714, item 71888","3digit","Engines and motors, non-electric; parts, nes; group 714, item 71888","","Engines and motors, non-electric; parts, nes; group 714, item 71888","",146.0
-414,"716","Rotating electric plant and parts thereof, nes","3digit","Rotating electric plant and parts thereof, nes","","Rotating electric plant and parts thereof, nes","",146.0
-415,"718","Other power generating machinery and parts thereof, nes","3digit","Other power generating machinery and parts thereof, nes","","Other power generating machinery and parts thereof, nes","",146.0
-416,"721","Agricultural machinery (excluding tractors) and parts thereof, nes","3digit","Agricultural machinery (excluding tractors) and parts thereof, nes","","Agricultural machinery (excluding tractors) and parts thereof, nes","",147.0
-417,"722","Tractors (other than those falling in heading 74411 and 7832)","3digit","Tractors (other than those falling in heading 74411 and 7832)","","Tractors (other than those falling in heading 74411 and 7832)","",147.0
-418,"723","Civil engineering, contractors' plant and equipment and parts, nes","3digit","Civil engineering, contractors' plant and equipment and parts, nes","","Civil engineering, contractors' plant and equipment and parts, nes","",147.0
-419,"724","Textile and leather machinery, and parts thereof, nes","3digit","Textile and leather machinery, and parts thereof, nes","","Textile and leather machinery, and parts thereof, nes","",147.0
-420,"725","Paper and paper manufacture machinery, and parts thereof, nes","3digit","Paper and paper manufacture machinery, and parts thereof, nes","","Paper and paper manufacture machinery, and parts thereof, nes","",147.0
-421,"726","Printing, bookbinding machinery, and parts thereof, nes","3digit","Printing, bookbinding machinery, and parts thereof, nes","","Printing, bookbinding machinery, and parts thereof, nes","",147.0
-422,"727","Food-processing machines (non-domestic) and parts thereof, nes","3digit","Food-processing machines (non-domestic) and parts thereof, nes","","Food-processing machines (non-domestic) and parts thereof, nes","",147.0
-423,"728","Other machinery, equipment, for specialized industries; parts nes","3digit","Other machinery, equipment, for specialized industries; parts nes","","Other machinery, equipment, for specialized industries; parts nes","",147.0
-424,"736","Metalworking machine-tools, parts and accessories thereof, nes","3digit","Metalworking machine-tools, parts and accessories thereof, nes","","Metalworking machine-tools, parts and accessories thereof, nes","",148.0
-425,"737","Metalworking machinery (other than machine-tools), and parts, nes","3digit","Metalworking machinery (other than machine-tools), and parts, nes","","Metalworking machinery (other than machine-tools), and parts, nes","",148.0
-426,"741","Heating and cooling equipment and parts thereof, nes","3digit","Heating and cooling equipment and parts thereof, nes","","Heating and cooling equipment and parts thereof, nes","",149.0
-427,"742","Pumps for liquids; liquid elevators; and parts thereof, nes","3digit","Pumps for liquids; liquid elevators; and parts thereof, nes","","Pumps for liquids; liquid elevators; and parts thereof, nes","",149.0
-428,"743","Pumps, compressors; centrifuges; filtering apparatus; etc, parts","3digit","Pumps, compressors; centrifuges; filtering apparatus; etc, parts","","Pumps, compressors; centrifuges; filtering apparatus; etc, parts","",149.0
-429,"744","Mechanical handling equipment, and parts thereof, nes","3digit","Mechanical handling equipment, and parts thereof, nes","","Mechanical handling equipment, and parts thereof, nes","",149.0
-430,"745","Other non-electric machinery, tools and mechanical apparatus, nes","3digit","Other non-electric machinery, tools and mechanical apparatus, nes","","Other non-electric machinery, tools and mechanical apparatus, nes","",149.0
-431,"749","Non-electric parts and accessories of machinery, nes","3digit","Non-electric parts and accessories of machinery, nes","","Non-electric parts and accessories of machinery, nes","",149.0
-432,"751","Office machines","3digit","Office machines","","Office machines","",150.0
-433,"752","Automatic data processing machines and units thereof","3digit","Automatic data processing machines and units thereof","","Automatic data processing machines and units thereof","",150.0
-434,"759","Parts, nes of and accessories for machines of headings 751 or 752","3digit","Parts, nes of and accessories for machines of headings 751 or 752","","Parts, nes of and accessories for machines of headings 751 or 752","",150.0
-435,"761","Television receivers","3digit","Television receivers","","Television receivers","",151.0
-436,"762","Radio-broadcast receivers","3digit","Radio-broadcast receivers","","Radio-broadcast receivers","",151.0
-437,"763","Gramophones, dictating machines and other sound recorders","3digit","Gramophones, dictating machines and other sound recorders","","Gramophones, dictating machines and other sound recorders","",151.0
-438,"764","Telecommunication equipment, nes; parts and accessories, nes","3digit","Telecommunication equipment, nes; parts and accessories, nes","","Telecommunication equipment, nes; parts and accessories, nes","",151.0
-439,"771","Electric power machinery, and parts thereof, nes","3digit","Electric power machinery, and parts thereof, nes","","Electric power machinery, and parts thereof, nes","",152.0
-440,"772","Electrical apparatus for making and breaking electrical circuits","3digit","Electrical apparatus for making and breaking electrical circuits","","Electrical apparatus for making and breaking electrical circuits","",152.0
-441,"773","Equipment for distribution of electricity","3digit","Equipment for distribution of electricity","","Equipment for distribution of electricity","",152.0
-442,"774","Electro-medical and radiological equipment","3digit","Electro-medical and radiological equipment","","Electro-medical and radiological equipment","",152.0
-443,"775","Household type equipment, nes","3digit","Household type equipment, nes","","Household type equipment, nes","",152.0
-444,"776","Thermionic, microcircuits, transistors, valves, etc","3digit","Thermionic, microcircuits, transistors, valves, etc","","Thermionic, microcircuits, transistors, valves, etc","",152.0
-445,"778","Electrical machinery and apparatus, nes","3digit","Electrical machinery and apparatus, nes","","Electrical machinery and apparatus, nes","",152.0
-446,"781","Passenger motor vehicles (excluding buses)","3digit","Passenger motor vehicles (excluding buses)","","Passenger motor vehicles (excluding buses)","",153.0
-447,"782","Lorries and special purposes motor vehicles","3digit","Lorries and special purposes motor vehicles","","Lorries and special purposes motor vehicles","",153.0
-448,"783","Road motor vehicles, nes","3digit","Road motor vehicles, nes","","Road motor vehicles, nes","",153.0
-449,"784","Motor vehicle parts and accessories, nes","3digit","Motor vehicle parts and accessories, nes","","Motor vehicle parts and accessories, nes","",153.0
-450,"785","Cycles, scooters, motorized or not; invalid carriages","3digit","Cycles, scooters, motorized or not; invalid carriages","","Cycles, scooters, motorized or not; invalid carriages","",153.0
-451,"786","Trailers, and other vehicles, not motorized, nes","3digit","Trailers, and other vehicles, not motorized, nes","","Trailers, and other vehicles, not motorized, nes","",153.0
-452,"791","Railway vehicles and associated equipment","3digit","Railway vehicles and associated equipment","","Railway vehicles and associated equipment","",154.0
-453,"792","Aircraft and associated equipment, and parts thereof, nes","3digit","Aircraft and associated equipment, and parts thereof, nes","","Aircraft and associated equipment, and parts thereof, nes","",154.0
-454,"793","Ships, boats and floating structures","3digit","Ships, boats and floating structures","","Ships, boats and floating structures","",154.0
-455,"812","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","3digit","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","","Sanitary, plumbing, heating, lighting fixtures and fittings, nes","",155.0
-456,"821","Furniture and parts thereof","3digit","Furniture and parts thereof","","Furniture and parts thereof","",156.0
-457,"831","Travel goods, handbags etc, of leather, plastics, textile, others","3digit","Travel goods, handbags etc, of leather, plastics, textile, others","","Travel goods, handbags etc, of leather, plastics, textile, others","",157.0
-458,"842","Men's and boys' outerwear, textile fabrics not knitted or crocheted","3digit","Men's and boys' outerwear, textile fabrics not knitted or crocheted","","Men's and boys' outerwear, textile fabrics not knitted or crocheted","",158.0
-459,"843","Womens, girls, infants outerwear, textile, not knitted or crocheted","3digit","Womens, girls, infants outerwear, textile, not knitted or crocheted","","Womens, girls, infants outerwear, textile, not knitted or crocheted","",158.0
-460,"844","Under garments of textile fabrics, not knitted or crocheted","3digit","Under garments of textile fabrics, not knitted or crocheted","","Under garments of textile fabrics, not knitted or crocheted","",158.0
-461,"845","Outerwear knitted or crocheted, not elastic nor rubberized","3digit","Outerwear knitted or crocheted, not elastic nor rubberized","","Outerwear knitted or crocheted, not elastic nor rubberized","",158.0
-462,"846","Under-garments, knitted or crocheted","3digit","Under-garments, knitted or crocheted","","Under-garments, knitted or crocheted","",158.0
-463,"847","Clothing accessories, of textile fabrics, nes","3digit","Clothing accessories, of textile fabrics, nes","","Clothing accessories, of textile fabrics, nes","",158.0
-464,"848","Articles of apparel, clothing accessories, non-textile, headgear","3digit","Articles of apparel, clothing accessories, non-textile, headgear","","Articles of apparel, clothing accessories, non-textile, headgear","",158.0
-465,"851","Footwear","3digit","Footwear","","Footwear","",159.0
-466,"871","Optical instruments and apparatus","3digit","Optical instruments and apparatus","","Optical instruments and apparatus","",160.0
-467,"872","Medical instruments and appliances, nes","3digit","Medical instruments and appliances, nes","","Medical instruments and appliances, nes","",160.0
-468,"873","Meters and counters, nes","3digit","Meters and counters, nes","","Meters and counters, nes","",160.0
-469,"874","Measuring, checking, analysis, controlling instruments, nes, parts","3digit","Measuring, checking, analysis, controlling instruments, nes, parts","","Measuring, checking, analysis, controlling instruments, nes, parts","",160.0
-470,"881","Photographic apparatus and equipment, nes","3digit","Photographic apparatus and equipment, nes","","Photographic apparatus and equipment, nes","",161.0
-471,"882","Photographic and cinematographic supplies","3digit","Photographic and cinematographic supplies","","Photographic and cinematographic supplies","",161.0
-472,"883","Cinematograph film, exposed and developed","3digit","Cinematograph film, exposed and developed","","Cinematograph film, exposed and developed","",161.0
-473,"884","Optical goods nes","3digit","Optical goods nes","","Optical goods nes","",161.0
-474,"885","Watches and clocks","3digit","Watches and clocks","","Watches and clocks","",161.0
-475,"892","Printed matter","3digit","Printed matter","","Printed matter","",162.0
-476,"893","Articles, nes of plastic materials","3digit","Articles, nes of plastic materials","","Articles, nes of plastic materials","",162.0
-477,"894","Baby carriages, toys, games and sporting goods","3digit","Baby carriages, toys, games and sporting goods","","Baby carriages, toys, games and sporting goods","",162.0
-478,"895","Office and stationary supplies, nes","3digit","Office and stationary supplies, nes","","Office and stationary supplies, nes","",162.0
-479,"896","Works of art, collectors' pieces and antiques","3digit","Works of art, collectors' pieces and antiques","","Works of art, collectors' pieces and antiques","",162.0
-480,"897","Gold, silver ware, jewelry and articles of precious materials, nes","3digit","Gold, silver ware, jewelry and articles of precious materials, nes","","Gold, silver ware, jewelry and articles of precious materials, nes","",162.0
-481,"898","Musical instruments, parts and accessories thereof","3digit","Musical instruments, parts and accessories thereof","","Musical instruments, parts and accessories thereof","",162.0
-482,"899","Other miscellaneous manufactured articles, nes","3digit","Other miscellaneous manufactured articles, nes","","Other miscellaneous manufactured articles, nes","",162.0
-483,"911","Postal packages not classified according to kind","3digit","Postal packages not classified according to kind","","Postal packages not classified according to kind","",163.0
-484,"931","Special transactions, commodity not classified according to class","3digit","Special transactions, commodity not classified according to class","","Special transactions, commodity not classified according to class","",164.0
-485,"941","Animals, live, nes, (including zoo animals, pets, insects, etc)","3digit","Animals, live, nes, (including zoo animals, pets, insects, etc)","","Animals, live, nes, (including zoo animals, pets, insects, etc)","",165.0
-486,"951","Armoured fighting vehicles, war firearms, ammunition, parts, nes","3digit","Armoured fighting vehicles, war firearms, ammunition, parts, nes","","Armoured fighting vehicles, war firearms, ammunition, parts, nes","",166.0
-487,"961","Coin (other than gold coin), not being legal tender","3digit","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",167.0
-488,"971","Gold, non-monetary (excluding gold ores and concentrates)","3digit","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",168.0
-489,"ZZZ","Unknown","3digit","Unknown","","Unknown","",169.0
+200,"other","Other","2digit","Other","Other","Other","Other",10.0
+201,"travel","Travel services","2digit","Travel services","Travel services","Travel","Travel",10.0
+202,"transport","Transport services","2digit","Transport services","Transport services","Transport","Transport",10.0
+203,"ict","ICT","2digit","Information and Communications Technology","Information and Communications Technology","ICT","ICT",10.0
+204,"financial","Insurance and financial services","2digit","Insurance and financial services","Insurance and financial services","Insurance and finance","Insurance and finance",10.0
 650,"0011","Animals of the bovine species (including buffaloes), live","4digit","Animals of the bovine species (including buffaloes), live","","Animals of the bovine species (including buffaloes), live","",250.0
 651,"0012","Sheep and goats, live","4digit","Sheep and goats, live","","Sheep and goats, live","",250.0
 652,"0013","Swine, live","4digit","Swine, live","","Swine, live","",250.0
@@ -1106,3 +872,8 @@
 1434,"9610","Coin (other than gold coin), not being legal tender","4digit","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",487.0
 1435,"9710","Gold, non-monetary (excluding gold ores and concentrates)","4digit","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",488.0
 1436,"ZZZZ","Unknown","4digit","Unknown","","Unknown","",489.0
+2000,"other","Other","4digit","Other","Other","Other","Other",600.0
+2001,"travel","Travel services","4digit","Travel services","Travel services","Travel","Travel",601.0
+2002,"transport","Transport services","4digit","Transport services","Transport services","Transport","Transport",602.0
+2003,"ict","ICT","4digit","Information and Communications Technology","Information and Communications Technology","ICT","ICT",603.0
+2004,"financial","Insurance and financial services","4digit","Insurance and financial services","Insurance and financial services","Insurance and finance","Insurance and finance",604.0

@@ -3,4 +3,4 @@ PYTHON_PREFIX = PYTHONPATH=../../../ python -B
 SITCREV2 = in/SITC_Rev2_Hierarchy.tsv in/SITC_Rev2_Names.tsv
 
 : |> $(PYTHON_PREFIX) download_sheets.py |> $(SITCREV2)
-: $(SITCREV2) |> $(PYTHON_PREFIX) clean_sitc.py |> out/sitc_rev2.csv out/sitc_rev2.dta
+: $(SITCREV2) |> $(PYTHON_PREFIX) clean_sitc.py |> out/sitc_rev2.csv out/sitc_rev2.dta out/sitc_rev2_with3digit.csv out/sitc_rev2_with3digit.dta

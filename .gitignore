@@ -4,4 +4,5 @@
 *.pyc
 
 env/*
+env3/*
 creds.json

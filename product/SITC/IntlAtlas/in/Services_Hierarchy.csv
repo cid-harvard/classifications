@@ -1,0 +1,17 @@
+code,name,level,name_en,name_es,name_short_en,name_short_es,parent_id
+services,Services,section,Services,Services,Services,Services,
+other,Other,2digit,Other,Other,Other,Other,0
+travel,Travel services,2digit,Travel services,Travel services,Travel,Travel,0
+transport,Transport services,2digit,Transport services,Transport services,Transport,Transport,0
+ict,ICT,2digit,Information and Communications Technology,Information and Communications Technology,ICT,ICT,0
+financial,Insurance and financial services,2digit,Insurance and financial services,Insurance and financial services,Insurance and finance,Insurance and finance,0
+other,Other,3digit,Other,Other,Other,Other,1
+travel,Travel services,3digit,Travel services,Travel services,Travel,Travel,2
+transport,Transport services,3digit,Transport services,Transport services,Transport,Transport,3
+ict,ICT,3digit,Information and Communications Technology,Information and Communications Technology,ICT,ICT,4
+financial,Insurance and financial services,3digit,Insurance and financial services,Insurance and financial services,Insurance and finance,Insurance and finance,5
+other,Other,4digit,Other,Other,Other,Other,6
+travel,Travel services,4digit,Travel services,Travel services,Travel,Travel,7
+transport,Transport services,4digit,Transport services,Transport services,Transport,Transport,8
+ict,ICT,4digit,Information and Communications Technology,Information and Communications Technology,ICT,ICT,9
+financial,Insurance and financial services,4digit,Insurance and financial services,Insurance and financial services,Insurance and finance,Insurance and finance,10
