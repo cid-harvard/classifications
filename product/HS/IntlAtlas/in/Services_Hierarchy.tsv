@@ -10,3 +10,8 @@ Travel services	Travel services	4digit	Travel services	Travel services	Travel	Tr
 Transport services	Transport services	4digit	Transport services	Transport services	Transport	Transport	3
 Communications	Communications	4digit	Communications	Communications	Communications	Communications	4
 Insurance and financial services	Insurance and financial services	4digit	Insurance and financial services	Insurance and financial services	Insurance and finance	Insurance and finance	5
+Other	Other	6digit	Other	Other	Other	Other	6
+Travel services	Travel services	6digit	Travel services	Travel services	Travel	Travel	7
+Transport services	Transport services	6digit	Transport services	Transport services	Transport	Transport	8
+Communications	Communications	6digit	Communications	Communications	Communications	Communications	9
+Insurance and financial services	Insurance and financial services	6digit	Insurance and financial services	Insurance and financial services	Insurance and finance	Insurance and finance	10
