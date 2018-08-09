@@ -299,7 +299,7 @@ class Classification(object):
 
         assert self.table[["name", "level", "code"]].isnull().any().any() == False
 
-        assert np.issubdtype(self.table.index.dtype, np.int)
+        assert np.issubdtype(self.table.index.dtype, np.signedinteger)
         assert np.issubdtype(self.table.parent_id.dtype, np.number)
 
         assert self.table.code.dtype == np.object_
@@ -395,7 +395,7 @@ class Classification(object):
         for column in merged_table.columns:
             col = merged_table[column]
             if col.dtype == pd.np.object_:
-                infered_dtype = pd.lib.infer_dtype(col.dropna())
+                infered_dtype = pd.api.types.infer_dtype(col.dropna())
 
                 # Chop long fields because STATA format doesn't support them
                 if infered_dtype == "string":
