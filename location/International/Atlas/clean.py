@@ -37,6 +37,9 @@ if __name__ == "__main__":
     parent_id_table = parent_id_table.merge(trusted, left_on="code", right_index=True, how="left")
     in_rankings = pd.read_table("./in/in_rankings.csv", index_col="iso", sep=";")
     parent_id_table = parent_id_table.merge(in_rankings, left_on="code", right_index=True, how="left")
+    services = pd.read_csv("./in/services_flags.csv", index_col="code")
+    services = services.astype(float)
+    parent_id_table = parent_id_table.merge(services, left_on="code", right_index=True, how="left")
 
     c = Classification(parent_id_table, h)
     c.to_csv("out/locations_international_atlas.csv")
