@@ -41,6 +41,10 @@ if __name__ == "__main__":
     services = services.astype(float)
     parent_id_table = parent_id_table.merge(services, left_on="code", right_index=True, how="left")
 
+    # Services flags should be False in case of regions, per Huy's request
+    parent_id_table.loc[parent_id_table.level == "region", "reported_serv"] = 0
+    parent_id_table.loc[parent_id_table.level == "region", "reported_serv_recent"] = 0
+
     c = Classification(parent_id_table, h)
     c.to_csv("out/locations_international_atlas.csv")
     c.to_stata("out/locations_international_atlas.dta")

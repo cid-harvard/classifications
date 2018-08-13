@@ -251,10 +251,10 @@
 249,"TWN","country","Taiwan","Taiwan","Taiwan","Taiwan",353.0,"Taiwan",1.0,0.0,0.0,0.0
 250,"ANS","country","Undeclared Countries","Paises No Declarados","Undeclared Countries","Paises No Declarados",358.0,"Undeclared Countries",0.0,0.0,0.0,0.0
 251,"WLD","country","World","","World","",358.0,"World",0.0,0.0,0.0,0.0
-352,"1","region","Africa","África","Africa","África","","Africa","","","",""
-353,"2","region","Asia","Asia","Asia","Asia","","Asia","","","",""
-354,"3","region","Oceania","Oceanía","Oceania","Oceanía","","Oceania","","","",""
-355,"4","region","Europe","Europa","Europe","Europa","","Europe","","","",""
-356,"5","region","North America","Norteamérica","North America","Norteamérica","","North America","","","",""
-357,"6","region","South America","Sudamérica","South America","Sudamérica","","South America","","","",""
-358,"7","region","Other","Otro","Other","Otro","","Other","","","",""
+352,"1","region","Africa","África","Africa","África","","Africa","","",0.0,0.0
+353,"2","region","Asia","Asia","Asia","Asia","","Asia","","",0.0,0.0
+354,"3","region","Oceania","Oceanía","Oceania","Oceanía","","Oceania","","",0.0,0.0
+355,"4","region","Europe","Europa","Europe","Europa","","Europe","","",0.0,0.0
+356,"5","region","North America","Norteamérica","North America","Norteamérica","","North America","","",0.0,0.0
+357,"6","region","South America","Sudamérica","South America","Sudamérica","","South America","","",0.0,0.0
+358,"7","region","Other","Otro","Other","Otro","","Other","","",0.0,0.0
