@@ -16,7 +16,7 @@ if __name__ == "__main__":
     regions["name_short_en"] = regions["name_en"]
     regions["name_short_es"] = regions["name_es"]
     regions["level"] = "region"
-    regions["code"] = regions["code"].astype(unicode)
+    regions["code"] = regions["code"].astype(str)
 
     df = pd.concat([df, regions]).reset_index(drop=True)
 
