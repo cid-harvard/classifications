@@ -80,10 +80,10 @@
 167,"96","Coin (other than gold coin), not being legal tender","2digit","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",9.0
 168,"97","Gold, non-monetary (excluding gold ores and concentrates)","2digit","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",9.0
 169,"ZZ","Unknown","2digit","Unknown","","Unknown","",9.0
-200,"other","Other","2digit","Other","Other","Other","Other",10.0
-201,"travel","Travel services","2digit","Travel services","Travel services","Travel","Travel",10.0
+200,"unspecified","Unspecified","2digit","Unspecified","Unspecified","Unspecified","Unspecified",10.0
+201,"travel","Travel and tourism services","2digit","Travel and tourism services","Travel and tourism services","Travel and tourism","Travel and tourism",10.0
 202,"transport","Transport services","2digit","Transport services","Transport services","Transport","Transport",10.0
-203,"ict","ICT","2digit","Information and Communications Technology","Information and Communications Technology","ICT","ICT",10.0
+203,"ict","Information and communications technology","2digit","Information and communications technology","Information and communications technology","ICT","ICT",10.0
 204,"financial","Insurance and financial services","2digit","Insurance and financial services","Insurance and financial services","Insurance and finance","Insurance and finance",10.0
 650,"0011","Animals of the bovine species (including buffaloes), live","4digit","Animals of the bovine species (including buffaloes), live","","Animals of the bovine species (including buffaloes), live","",100.0
 651,"0012","Sheep and goats, live","4digit","Sheep and goats, live","","Sheep and goats, live","",100.0
@@ -872,8 +872,8 @@
 1434,"9610","Coin (other than gold coin), not being legal tender","4digit","Coin (other than gold coin), not being legal tender","","Coin (other than gold coin), not being legal tender","",167.0
 1435,"9710","Gold, non-monetary (excluding gold ores and concentrates)","4digit","Gold, non-monetary (excluding gold ores and concentrates)","","Gold, non-monetary (excluding gold ores and concentrates)","",168.0
 1436,"ZZZZ","Unknown","4digit","Unknown","","Unknown","",169.0
-2000,"other","Other","4digit","Other","Other","Other","Other",200.0
-2001,"travel","Travel services","4digit","Travel services","Travel services","Travel","Travel",201.0
+2000,"unspecified","Unspecified","4digit","Unspecified","Unspecified","Unspecified","Unspecified",200.0
+2001,"travel","Travel and tourism services","4digit","Travel and tourism services","Travel and tourism services","Travel and tourism","Travel and tourism",201.0
 2002,"transport","Transport services","4digit","Transport services","Transport services","Transport","Transport",202.0
-2003,"ict","ICT","4digit","Information and Communications Technology","Information and Communications Technology","ICT","ICT",203.0
+2003,"ict","Information and communications technology","4digit","Information and communications technology","Information and communications technology","ICT","ICT",203.0
 2004,"financial","Insurance and financial services","4digit","Insurance and financial services","Insurance and financial services","Insurance and finance","Insurance and finance",204.0
