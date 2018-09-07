@@ -2,10 +2,10 @@ import pandas as pd
 from linnaeus import classification
 
 hs_classification = classification.load(
-    "/Users/brl669/projects/classifications/product/HS/IntlAtlas/out/hs92_atlas.csv"
+    "product/HS/IntlAtlas/out/hs92_atlas.csv"
 )
 
-df = pd.read_csv("./hs_6digit_renaming.csv")
+df = pd.read_csv("./hs_renaming/hs_6digit_renaming.csv")
 df.columns = [
     "code",
     "full_name",
@@ -34,6 +34,8 @@ six_digit = six_digit.rename(
 
 # TODO: missing codes at tail, XXXXXX, 999999, 9999AA...
 
+# select 4d code, oldname, newname, drop dupes, get diffs, save
+
 # Four Digit
 four_digit["4digit_code"] = four_digit["4digit_code"].apply(lambda x: f"{x:04}")
 four_digit = four_digit.merge(
@@ -47,13 +49,10 @@ four_digit["name_short_en"] = four_digit.new_4digit_short_name.combine_first(
 )
 four_digit = four_digit.rename({"4digit_code": "code"}, index=1)
 four_digit = four_digit[
-    ["code", "level", "name_en", "name_es", "name_short_en", "name_short_es"]
-]
+    ["code", "level", "name_en", "name_es", "name_short_es", "name_short_en"]
+].sort_values(by="code")
 
-# Two Digit
-
-# TODO: Included in this ticket: update "ICT" so that its long name (i.e. in tooltip)
-# is "Information, Communication and Technology"
 
 # Create new sheet
 output = pd.concat([four_digit, six_digit])
+output = output[["code", "level", "name_en", "name_es", "name_short_es", "name_short_en"]]
