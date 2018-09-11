@@ -1415,7 +1415,7 @@
 5052,"020741","Domestic fowl cuts & offal (frozen)","6digit","Domestic fowl cuts & offal (frozen)","","Domestic fowl meat, frozen","",662.0
 5053,"020742","Turkey cuts and offal (frozen)","6digit","Turkey cuts and offal (frozen)","","Turkey meat, frozen","",662.0
 5054,"020743","Duck, goose, guinea fowl cuts & offal (frozen)","6digit","Duck, goose, guinea fowl cuts & offal (frozen)","","Duck meat, frozen","",662.0
-5055,"020750","Poultry livers, domestic, frozen","6digit","Poultry livers, domestic, frozen","","Poultry livers, domestic, frozen","",662.0
+5055,"020750","Poultry livers, domestic, frozen","6digit","Poultry livers, domestic, frozen","","Poultry livers, frozen","",662.0
 5056,"020810","Rabbit or hare meat and offal","6digit","Rabbit or hare meat and offal","","Rabbit meat and offal","",663.0
 5057,"020820","Frog legs","6digit","Frog legs","","Frog legs","",663.0
 5058,"020890","Meat and offal, nes","6digit","Meat and offal, nes","","Meat and offal, nes","",663.0
@@ -1595,32 +1595,32 @@
 5232,"070960","Peppers (Capsicum, Pimenta) fresh or chilled","6digit","Peppers (Capsicum, Pimenta) fresh or chilled","","Peppers","",706.0
 5233,"070970","Spinach fresh or chilled","6digit","Spinach fresh or chilled","","Spinach","",706.0
 5234,"070990","Vegetables, fresh or chilled nes","6digit","Vegetables, fresh or chilled nes","","Vegetables, nes","",706.0
-5235,"071010","Potatoes, frozen, uncooked steamed or boiled","6digit","Potatoes, frozen, uncooked steamed or boiled","","Potatoes (frozen)","",707.0
-5236,"071021","Peas, frozen, uncooked steamed or boiled","6digit","Peas, frozen, uncooked steamed or boiled","","Peas (frozen)","",707.0
-5237,"071022","Beans, frozen, uncooked steamed or boiled","6digit","Beans, frozen, uncooked steamed or boiled","","Beans (frozen)","",707.0
-5238,"071029","Legumes, except peas and beans, frozen","6digit","Legumes, except peas and beans, frozen","","Other legumes (frozen)","",707.0
-5239,"071030","Spinach, frozen, uncooked steamed or boiled","6digit","Spinach, frozen, uncooked steamed or boiled","","Spinach (frozen)","",707.0
-5240,"071040","Sweet corn, frozen, uncooked steamed or boiled","6digit","Sweet corn, frozen, uncooked steamed or boiled","","Sweet corn (frozen)","",707.0
-5241,"071080","Vegetables, frozen nes, uncooked steamed or boiled","6digit","Vegetables, frozen nes, uncooked steamed or boiled","","Vegetables, nes (frozen)","",707.0
-5242,"071090","Frozen vegetable mixtures, uncooked, boiled or steame","6digit","Frozen vegetable mixtures, uncooked, boiled or steame","","Vegetable mixtures (frozen)","",707.0
-5243,"071110","Onions, provisionally preserved","6digit","Onions, provisionally preserved","","Preserved Onions","",708.0
+5235,"071010","Potatoes, frozen, uncooked steamed or boiled","6digit","Potatoes, frozen, uncooked steamed or boiled","","Potatoes, frozen","",707.0
+5236,"071021","Peas, frozen, uncooked steamed or boiled","6digit","Peas, frozen, uncooked steamed or boiled","","Peas, frozen","",707.0
+5237,"071022","Beans, frozen, uncooked steamed or boiled","6digit","Beans, frozen, uncooked steamed or boiled","","Beans, frozen","",707.0
+5238,"071029","Legumes, except peas and beans, frozen","6digit","Legumes, except peas and beans, frozen","","Other legumes, frozen","",707.0
+5239,"071030","Spinach, frozen, uncooked steamed or boiled","6digit","Spinach, frozen, uncooked steamed or boiled","","Spinach, frozen","",707.0
+5240,"071040","Sweet corn, frozen, uncooked steamed or boiled","6digit","Sweet corn, frozen, uncooked steamed or boiled","","Sweet corn, frozen","",707.0
+5241,"071080","Vegetables, frozen nes, uncooked steamed or boiled","6digit","Vegetables, frozen nes, uncooked steamed or boiled","","Vegetables nes, frozen","",707.0
+5242,"071090","Frozen vegetable mixtures, uncooked, boiled or steame","6digit","Frozen vegetable mixtures, uncooked, boiled or steame","","Vegetable mixtures, frozen","",707.0
+5243,"071110","Onions, provisionally preserved","6digit","Onions, provisionally preserved","","Preserved onions","",708.0
 5244,"071120","Olives, provisionally preserved","6digit","Olives, provisionally preserved","","Preserved olives","",708.0
 5245,"071130","Capers, provisionally preserved","6digit","Capers, provisionally preserved","","Preserved capers","",708.0
 5246,"071140","Cucumbers and gherkins provisionally preserved","6digit","Cucumbers and gherkins provisionally preserved","","Preserved cucumbers","",708.0
 5247,"071190","Vegetables nes and mixtures provisionally preserved","6digit","Vegetables nes and mixtures provisionally preserved","","Preserved vegetables, nes","",708.0
-5248,"071210","Potatoes, dried, not further prepared","6digit","Potatoes, dried, not further prepared","","Potatoes (dried)","",709.0
-5249,"071220","Onions, dried, not further prepared","6digit","Onions, dried, not further prepared","","Onions (dried)","",709.0
-5250,"071230","Mushrooms and truffles, dried, not further prepared","6digit","Mushrooms and truffles, dried, not further prepared","","Mushrooms and truffles (dried)","",709.0
-5251,"071290","Vegetables nes & mixtures, dried, not further prepare","6digit","Vegetables nes & mixtures, dried, not further prepare","","Vegetables, nes (dried)","",709.0
-5252,"071310","Peas dried, shelled","6digit","Peas dried, shelled","","Peas (dried)","",710.0
-5253,"071320","Chickpeas, dried, shelled","6digit","Chickpeas, dried, shelled","","Chickpeas (dried)","",710.0
-5254,"071331","Urd,mung,black or green gram beans dried shelled","6digit","Urd,mung,black or green gram beans dried shelled","","Black or green gram beans (dried)","",710.0
-5255,"071332","Beans, small red (Adzuki) dried, shelled","6digit","Beans, small red (Adzuki) dried, shelled","","Adzuki beans (dried)","",710.0
-5256,"071333","Kidney beans and white pea beans dried shelled","6digit","Kidney beans and white pea beans dried shelled","","Kidney beans (dried)","",710.0
-5257,"071339","Beans dried, shelled, nes","6digit","Beans dried, shelled, nes","","Beans, nes (dried)","",710.0
-5258,"071340","Lentils dried, shelled","6digit","Lentils dried, shelled","","Lentils (dried)","",710.0
-5259,"071350","Broad beans and horse beans dried, shelled","6digit","Broad beans and horse beans dried, shelled","","Broad beans (dried)","",710.0
-5260,"071390","Leguminous vegetables dried, shelled","6digit","Leguminous vegetables dried, shelled","","Leguminous vegetables (dried)","",710.0
+5248,"071210","Potatoes, dried, not further prepared","6digit","Potatoes, dried, not further prepared","","Potatoes, dried","",709.0
+5249,"071220","Onions, dried, not further prepared","6digit","Onions, dried, not further prepared","","Onions, dried","",709.0
+5250,"071230","Mushrooms and truffles, dried, not further prepared","6digit","Mushrooms and truffles, dried, not further prepared","","Mushrooms and truffles, dried","",709.0
+5251,"071290","Vegetables nes & mixtures, dried, not further prepare","6digit","Vegetables nes & mixtures, dried, not further prepare","","Vegetables, nes, dried","",709.0
+5252,"071310","Peas dried, shelled","6digit","Peas dried, shelled","","Peas, dried","",710.0
+5253,"071320","Chickpeas, dried, shelled","6digit","Chickpeas, dried, shelled","","Chickpeas, dried","",710.0
+5254,"071331","Urd,mung,black or green gram beans dried shelled","6digit","Urd,mung,black or green gram beans dried shelled","","Black or green gram beans, dried","",710.0
+5255,"071332","Beans, small red (Adzuki) dried, shelled","6digit","Beans, small red (Adzuki) dried, shelled","","Adzuki beans, dried","",710.0
+5256,"071333","Kidney beans and white pea beans dried shelled","6digit","Kidney beans and white pea beans dried shelled","","Kidney beans, dried","",710.0
+5257,"071339","Beans dried, shelled, nes","6digit","Beans dried, shelled, nes","","Beans nes, dried","",710.0
+5258,"071340","Lentils dried, shelled","6digit","Lentils dried, shelled","","Lentils, dried","",710.0
+5259,"071350","Broad beans and horse beans dried, shelled","6digit","Broad beans and horse beans dried, shelled","","Broad beans, dried","",710.0
+5260,"071390","Leguminous vegetables dried, shelled","6digit","Leguminous vegetables dried, shelled","","Leguminous vegetables, dried","",710.0
 5261,"071410","Manioc (cassava), fresh or dried","6digit","Manioc (cassava), fresh or dried","","Manioc (cassava)","",711.0
 5262,"071420","Sweet potatoes, fresh or dried","6digit","Sweet potatoes, fresh or dried","","Sweet potatoes","",711.0
 5263,"071490","Arrowroot, salep, etc fresh or dried and sago pith","6digit","Arrowroot, salep, etc fresh or dried and sago pith","","Arrowroot, salep","",711.0
@@ -1666,7 +1666,7 @@
 5303,"081120","Rasp-, mul-berries, etc (uncooked, steam, boil), frozen","6digit","Rasp-, mul-berries, etc (uncooked, steam, boil), frozen","","Frozen rasp-, mul-berries, etc","",722.0
 5304,"081190","Fruits and nuts (uncooked, steamed, boiled) frozen,ne","6digit","Fruits and nuts (uncooked, steamed, boiled) frozen,ne","","Frozen fruits and nuts","",722.0
 5305,"081210","Cherries provisionally preserved","6digit","Cherries provisionally preserved","","Cherries, preserved","",723.0
-5306,"081220","Strawberries provisionally preserved","6digit","Strawberries provisionally preserved","","Strawberries provisionally preserved","",723.0
+5306,"081220","Strawberries provisionally preserved","6digit","Strawberries provisionally preserved","","Strawberries, preserved","",723.0
 5307,"081290","Fruits and nuts, provisionally preserved nes","6digit","Fruits and nuts, provisionally preserved nes","","Preserved fruits and nuts","",723.0
 5308,"081310","Apricots, dried","6digit","Apricots, dried","","Apricots, dried","",724.0
 5309,"081320","Prunes, dried","6digit","Prunes, dried","","Prunes, dried","",724.0
@@ -1729,9 +1729,9 @@
 5366,"110230","Rice flour","6digit","Rice flour","","Rice flour","",745.0
 5367,"110290","Cereal flour except wheat, meslin, rye, maize, rice","6digit","Cereal flour except wheat, meslin, rye, maize, rice","","Cereal flour, nes","",745.0
 5368,"110311","Wheat meal","6digit","Wheat meal","","Wheat meal","",746.0
-5369,"110312","Oat groats or meal","6digit","Oat groats or meal","","Oat groats or meal","",746.0
+5369,"110312","Oat groats or meal","6digit","Oat groats or meal","","Oat meal","",746.0
 5370,"110313","Maize (corn) groats or meal","6digit","Maize (corn) groats or meal","","Maize (corn) meal","",746.0
-5371,"110314","Rice groats or meal","6digit","Rice groats or meal","","Rice groats or meal","",746.0
+5371,"110314","Rice groats or meal","6digit","Rice groats or meal","","Rice meal","",746.0
 5372,"110319","Cereal groats or meal except wheat, maize, rice, oats","6digit","Cereal groats or meal except wheat, maize, rice, oats","","Cereal meal, nes","",746.0
 5373,"110321","Wheat pellets","6digit","Wheat pellets","","Wheat pellets","",746.0
 5374,"110329","Cereal pellets except wheat","6digit","Cereal pellets except wheat","","Cereal pellets","",746.0
@@ -1771,12 +1771,12 @@
 5408,"120750","Mustard seeds","6digit","Mustard seeds","","Mustard seeds","",759.0
 5409,"120760","Safflower seeds","6digit","Safflower seeds","","Safflower seeds","",759.0
 5410,"120791","Poppy seeds","6digit","Poppy seeds","","Poppy seeds","",759.0
-5411,"120792","Shea nuts (karite nuts)","6digit","Shea nuts (karite nuts)","","Shea nuts (karite nuts)","",759.0
+5411,"120792","Shea nuts (karite nuts)","6digit","Shea nuts (karite nuts)","","Shea (karite) nuts","",759.0
 5412,"120799","Oil seeds and oleaginous fruits, nes","6digit","Oil seeds and oleaginous fruits, nes","","Oil seeds & oleaginous fruits, nes","",759.0
 5413,"120810","Soya bean flour or meal","6digit","Soya bean flour or meal","","Soya bean flour or meal","",760.0
 5414,"120890","Flour or meal of oil seed, fruit, except mustard, soy","6digit","Flour or meal of oil seed, fruit, except mustard, soy","","Oil seed or fruit flour or meal","",760.0
 5415,"120911","Seed, sugar beet, for sowing","6digit","Seed, sugar beet, for sowing","","Seed, sugar beet","",761.0
-5416,"120919","Seed, beet, except sugar, for sowing","6digit","Seed, beet, except sugar, for sowing","","Seed, beet, except sugar, for sowing","",761.0
+5416,"120919","Seed, beet, except sugar, for sowing","6digit","Seed, beet, except sugar, for sowing","","Seed, beet, except sugar","",761.0
 5417,"120921","Seed, lucerne (alfalfa), for sowing","6digit","Seed, lucerne (alfalfa), for sowing","","Seed, lucerne (alfalfa)","",761.0
 5418,"120922","Seed, clover, for sowing","6digit","Seed, clover, for sowing","","Seed, clover","",761.0
 5419,"120923","Seed, fescue, for sowing","6digit","Seed, fescue, for sowing","","Seed, fescue","",761.0
@@ -1817,9 +1817,9 @@
 5454,"140120","Rattan used primarily for plaiting","6digit","Rattan used primarily for plaiting","","Rattan for plaiting","",769.0
 5455,"140190","Vegetable materials nes, used primarily for plaiting","6digit","Vegetable materials nes, used primarily for plaiting","","Vegetable materials nes for plaiting","",769.0
 5456,"140210","Kapok","6digit","Kapok","","Kapok","",770.0
-5457,"140291","Vegetable hair used as stuffing or padding","6digit","Vegetable hair used as stuffing or padding","","Vegetable hair used as stuffing or padding","",770.0
+5457,"140291","Vegetable hair used as stuffing or padding","6digit","Vegetable hair used as stuffing or padding","","Vegetable hair for stuffing or padding","",770.0
 5458,"140299","Vegetable material nes used as stuffing","6digit","Vegetable material nes used as stuffing","","Veg matter for stuffing","",770.0
-5459,"140310","Broom corn used in brooms or brushes","6digit","Broom corn used in brooms or brushes","","Broom corn used in brooms or brushes","",771.0
+5459,"140310","Broom corn used in brooms or brushes","6digit","Broom corn used in brooms or brushes","","Broom corn","",771.0
 5460,"140390","Vegetable material nes used in brooms or brushes","6digit","Vegetable material nes used in brooms or brushes","","Veg matter for brooms, brushes","",771.0
 5461,"140410","Raw vegetable materials for dyeing or tanning","6digit","Raw vegetable materials for dyeing or tanning","","Raw vegetable materials for dyeing","",772.0
 5462,"140420","Cotton linters","6digit","Cotton linters","","Cotton linters","",772.0
@@ -1859,7 +1859,7 @@
 5496,"151530","Castor oil or fractions not chemically modified","6digit","Castor oil or fractions not chemically modified","","Castor oil","",787.0
 5497,"151540","Tung oil or fractions not chemically modified","6digit","Tung oil or fractions not chemically modified","","Tung oil","",787.0
 5498,"151550","Sesame oil or fractions not chemically modified","6digit","Sesame oil or fractions not chemically modified","","Sesame oil","",787.0
-5499,"151560","Jojoba oil or fractions not chemically modified","6digit","Jojoba oil or fractions not chemically modified","","Jojoba oil or fractions not chemically modified","",787.0
+5499,"151560","Jojoba oil or fractions not chemically modified","6digit","Jojoba oil or fractions not chemically modified","","Jojoba oil","",787.0
 5500,"151590","Veg fats, oils nes, fractions, not chemically modifie","6digit","Veg fats, oils nes, fractions, not chemically modifie","","Vegetable fats, oils nes","",787.0
 5501,"151610","Animal fats, oils, fractions, hydrogenated, esterified","6digit","Animal fats, oils, fractions, hydrogenated, esterified","","Animal fats, oils, hydrogenated","",788.0
 5502,"151620","Veg fats, oils or fractions hydrogenated, esterified","6digit","Veg fats, oils or fractions hydrogenated, esterified","","Vegetable fats, oils, hydrogenated","",788.0
@@ -1945,21 +1945,21 @@
 5582,"190540","Rusks, toasted bread and similar toasted products","6digit","Rusks, toasted bread and similar toasted products","","Rusks, toasted bread","",814.0
 5583,"190590","Communion wafers, rice paper, bakers wares nes","6digit","Communion wafers, rice paper, bakers wares nes","","Communion wafers, rice paper","",814.0
 5584,"200110","Cucumbers,gherkins, prepared or preserved by vinegar","6digit","Cucumbers,gherkins, prepared or preserved by vinegar","","Cucumbers, gherkins, in vinegar","",815.0
-5585,"200120","Onions prepared or preserved by vinegar","6digit","Onions prepared or preserved by vinegar","","Onions prepared or preserved by vinegar","",815.0
+5585,"200120","Onions prepared or preserved by vinegar","6digit","Onions prepared or preserved by vinegar","","Onions in vinegar","",815.0
 5586,"200190","Veg, fruit, nuts nes prepared or preserved by vinegar","6digit","Veg, fruit, nuts nes prepared or preserved by vinegar","","Veg, fruit, nuts nes, in vinegar","",815.0
-5587,"200210","Tomatoes, whole/pieces, prepared/preserved, no vinega","6digit","Tomatoes, whole/pieces, prepared/preserved, no vinega","","Tomatoes","",816.0
-5588,"200290","Tomatoes nes, prepared or preserved, not in vinegar","6digit","Tomatoes nes, prepared or preserved, not in vinegar","","Tomatoes nes","",816.0
-5589,"200310","Mushrooms, prepared or preserved, not in vinegar","6digit","Mushrooms, prepared or preserved, not in vinegar","","Mushrooms","",817.0
-5590,"200320","Truffles, prepared or preserved, not in vinegar","6digit","Truffles, prepared or preserved, not in vinegar","","Truffles","",817.0
-5591,"200410","Potatoes, prepared, frozen","6digit","Potatoes, prepared, frozen","","Potatoes, frozen","",818.0
+5587,"200210","Tomatoes, whole/pieces, prepared/preserved, no vinega","6digit","Tomatoes, whole/pieces, prepared/preserved, no vinega","","Tomatoes, preserved","",816.0
+5588,"200290","Tomatoes nes, prepared or preserved, not in vinegar","6digit","Tomatoes nes, prepared or preserved, not in vinegar","","Tomatoes nes, preserved","",816.0
+5589,"200310","Mushrooms, prepared or preserved, not in vinegar","6digit","Mushrooms, prepared or preserved, not in vinegar","","Mushrooms, preserved","",817.0
+5590,"200320","Truffles, prepared or preserved, not in vinegar","6digit","Truffles, prepared or preserved, not in vinegar","","Truffles, preserved","",817.0
+5591,"200410","Potatoes, prepared, frozen","6digit","Potatoes, prepared, frozen","","Potatoes, prepared, frozen","",818.0
 5592,"200490","Vegetables nes and mixtures, prepared, frozen","6digit","Vegetables nes and mixtures, prepared, frozen","","Vegetables nes & mixes, frozen","",818.0
 5593,"200510","Homogenized vegetable preparations, not frozen/vinega","6digit","Homogenized vegetable preparations, not frozen/vinega","","Homogenized vegetable preps","",819.0
-5594,"200520","Potatoes, prepared or preserved, not frozen/vinegar","6digit","Potatoes, prepared or preserved, not frozen/vinegar","","Potatoes","",819.0
-5595,"200530","Sauerkraut, prepared or preserved, not frozen/vinegar","6digit","Sauerkraut, prepared or preserved, not frozen/vinegar","","Sauerkraut, prepared or preserved, not frozen/vinegar","",819.0
-5596,"200540","Peas, prepared or preserved, not frozen/vinegar","6digit","Peas, prepared or preserved, not frozen/vinegar","","Peas","",819.0
+5594,"200520","Potatoes, prepared or preserved, not frozen/vinegar","6digit","Potatoes, prepared or preserved, not frozen/vinegar","","Potatoes, preserved","",819.0
+5595,"200530","Sauerkraut, prepared or preserved, not frozen/vinegar","6digit","Sauerkraut, prepared or preserved, not frozen/vinegar","","Sauerkraut, preserved","",819.0
+5596,"200540","Peas, prepared or preserved, not frozen/vinegar","6digit","Peas, prepared or preserved, not frozen/vinegar","","Peas, preserved","",819.0
 5597,"200551","Beans, shelled, prepared/preserved, not frozen/vinega","6digit","Beans, shelled, prepared/preserved, not frozen/vinega","","Beans, shelled","",819.0
 5598,"200559","Beans nes, prepared or preserved, not frozen/vinegar","6digit","Beans nes, prepared or preserved, not frozen/vinegar","","Beans nes","",819.0
-5599,"200560","Asparagus, prepared or preserved, not frozen/vinegar","6digit","Asparagus, prepared or preserved, not frozen/vinegar","","Asparagus","",819.0
+5599,"200560","Asparagus, prepared or preserved, not frozen/vinegar","6digit","Asparagus, prepared or preserved, not frozen/vinegar","","Asparagus, preserved","",819.0
 5600,"200570","Olives, prepared or preserved, not frozen/vinegar","6digit","Olives, prepared or preserved, not frozen/vinegar","","Olives","",819.0
 5601,"200580","Sweet corn, prepared or preserved, not frozen/vinegar","6digit","Sweet corn, prepared or preserved, not frozen/vinegar","","Sweet corn","",819.0
 5602,"200590","Veg nes, mixes, prepared/preserved, not frozen/vinega","6digit","Veg nes, mixes, prepared/preserved, not frozen/vinega","","Vegetables nes & mixes","",819.0
@@ -2018,7 +2018,7 @@
 5655,"220600","Fermented beverages nes (eg cider, perry, mead, etc)","6digit","Fermented beverages nes (eg cider, perry, mead, etc)","","Fermented ciders","",835.0
 5656,"220710","Undenatured ethyl alcohol > 80% by volume","6digit","Undenatured ethyl alcohol > 80% by volume","","Ethyl alcohol > 80%","",836.0
 5657,"220720","Ethyl alcohol and other spirits, denatured","6digit","Ethyl alcohol and other spirits, denatured","","Ethyl alcohol & spirits, denatured","",836.0
-5658,"220810","Compound alcoholic preps for beverage manufacture","6digit","Compound alcoholic preps for beverage manufacture","","Compound alcoholic preps for beverage manufacture","",837.0
+5658,"220810","Compound alcoholic preps for beverage manufacture","6digit","Compound alcoholic preps for beverage manufacture","","Compound alcoholic preps","",837.0
 5659,"220820","Spirits obtained by distilling grape wine, grape marc","6digit","Spirits obtained by distilling grape wine, grape marc","","Spirits from distilling grape wine","",837.0
 5660,"220830","Whiskies","6digit","Whiskies","","Whisky","",837.0
 5661,"220840","Rum and tafia","6digit","Rum and tafia","","Rum","",837.0
@@ -2045,7 +2045,7 @@
 5682,"230660","Palm nut or kernel oil cake and other solid residues","6digit","Palm nut or kernel oil cake and other solid residues","","Palm nut solid residues","",844.0
 5683,"230690","Vegetable oil-cake and other solid residues nes","6digit","Vegetable oil-cake and other solid residues nes","","Vegetable solid residues, nes","",844.0
 5684,"230700","Wine lees, argol","6digit","Wine lees, argol","","Wine lees & argol","",845.0
-5685,"230810","Acorns and horse-chestnuts for animal feed","6digit","Acorns and horse-chestnuts for animal feed","","Acorns and horse-chestnuts for animal feed","",846.0
+5685,"230810","Acorns and horse-chestnuts for animal feed","6digit","Acorns and horse-chestnuts for animal feed","","Acorns, horse-chestnuts for animal feed","",846.0
 5686,"230890","Vegetable wastes and residues nes for animal feed","6digit","Vegetable wastes and residues nes for animal feed","","Vegetable wastes for animal feed","",846.0
 5687,"230910","Dog or cat food (retail)","6digit","Dog or cat food (retail)","","Dog or cat food","",847.0
 5688,"230990","Animal feed preparations nes","6digit","Animal feed preparations nes","","Animal feed preparations","",847.0
@@ -2060,8 +2060,8 @@
 5697,"240399","Products of tobacco, substitute nes, extract, essence","6digit","Products of tobacco, substitute nes, extract, essence","","Tobacco products, nes","",850.0
 5698,"250100","Salt (sodium chloride) including solution, salt water","6digit","Salt (sodium chloride) including solution, salt water","","Salt","",851.0
 5699,"250200","Unroasted iron pyrites","6digit","Unroasted iron pyrites","","Unroasted iron pyrites","",852.0
-5700,"250310","Sulphur, crude or unrefined","6digit","Sulphur, crude or unrefined","","Sulphur","",853.0
-5701,"250390","refined sulphur, not sublimate, precipitate, colloida","6digit","refined sulphur, not sublimate, precipitate, colloida","","refined sulphur, not sublimate, precipitate, colloida","",853.0
+5700,"250310","Sulphur, crude or unrefined","6digit","Sulphur, crude or unrefined","","Sulphur, crude or unrefined","",853.0
+5701,"250390","refined sulphur, not sublimate, precipitate, colloida","6digit","refined sulphur, not sublimate, precipitate, colloida","","Refined sulphur","",853.0
 5702,"250410","Natural graphite in powder or flakes","6digit","Natural graphite in powder or flakes","","Natural graphite, powder or flakes","",854.0
 5703,"250490","Natural graphite, except powder or flakes","6digit","Natural graphite, except powder or flakes","","Natural graphite, other","",854.0
 5704,"250510","Silica sands and quartz sands","6digit","Silica sands and quartz sands","","Silica and quartz sands","",855.0
@@ -2123,7 +2123,7 @@
 5760,"252530","Mica waste","6digit","Mica waste","","Mica waste","",875.0
 5761,"252610","Natural steatite, not crushed or powdered","6digit","Natural steatite, not crushed or powdered","","Natural steatite, not crushed","",876.0
 5762,"252620","Natural steatite, crushed or powdered","6digit","Natural steatite, crushed or powdered","","Natural steatite, crushed","",876.0
-5763,"252700","Natural cryolite, natural chiolite","6digit","Natural cryolite, natural chiolite","","Natural cryolite, natural chiolite","",877.0
+5763,"252700","Natural cryolite, natural chiolite","6digit","Natural cryolite, natural chiolite","","Natural cryolite or chiolite","",877.0
 5764,"252810","Natural sodium borates and concentrates","6digit","Natural sodium borates and concentrates","","Natural sodium borates","",878.0
 5765,"252890","Natural borates etc nes, natural boric acid (<85%)","6digit","Natural borates etc nes, natural boric acid (<85%)","","Natural borates, nes","",878.0
 5766,"252910","Feldspar","6digit","Feldspar","","Feldspar","",879.0
@@ -2166,7 +2166,7 @@
 5803,"262020","Ash or residues containing mainly lead","6digit","Ash or residues containing mainly lead","","Residues containing lead","",900.0
 5804,"262030","Ash or residues containing mainly copper","6digit","Ash or residues containing mainly copper","","Residues containing copper","",900.0
 5805,"262040","Ash or residues containing mainly aluminium","6digit","Ash or residues containing mainly aluminium","","Residues containing aluminium","",900.0
-5806,"262050","Ash or residues containing mainly vanadium","6digit","Ash or residues containing mainly vanadium","","Ash or residues containing mainly vanadium","",900.0
+5806,"262050","Ash or residues containing mainly vanadium","6digit","Ash or residues containing mainly vanadium","","Residues containing vanadium","",900.0
 5807,"262090","Ash or residues containing metals, metal compounds ne","6digit","Ash or residues containing metals, metal compounds ne","","Residues containing metals, nes","",900.0
 5808,"262100","Slag and ash nes, including seaweed ash (kelp)","6digit","Slag and ash nes, including seaweed ash (kelp)","","Slag and ash, nes","",901.0
 5809,"270111","Anthracite, not agglomerated","6digit","Anthracite, not agglomerated","","Anthracite","",902.0
@@ -2193,23 +2193,23 @@
 5830,"271000","Oils petroleum, bituminous, distillates, except crude","6digit","Oils petroleum, bituminous, distillates, except crude","","Oils petroleum, bituminous, distillates","",911.0
 5831,"271011","Aviation spirit","6digit","Aviation spirit","","Aviation spirit","",911.0
 5832,"271012","Petroleum spirit for motor vehicles","6digit","Petroleum spirit for motor vehicles","","Petroleum spirit for motor vehicles","",911.0
-5833,"271013","Petroleum spirit except aviation or motor fuel","6digit","Petroleum spirit except aviation or motor fuel","","Petroleum spirit except aviation or motor fuel","",911.0
+5833,"271013","Petroleum spirit except aviation or motor fuel","6digit","Petroleum spirit except aviation or motor fuel","","Petroleum spirit, not aviation or motor","",911.0
 5834,"271014","Petroleum spirit-type fuel","6digit","Petroleum spirit-type fuel","","Petroleum spirit-type fuel","",911.0
 5835,"271015","White spirit","6digit","White spirit","","White spirit","",911.0
 5836,"271016","Petroleum naphtha","6digit","Petroleum naphtha","","Petroleum naphtha","",911.0
 5837,"271019","Light petroleum distillates nes","6digit","Light petroleum distillates nes","","Light petroleum distillates nes","",911.0
 5838,"271021","Kerosene jet fuel","6digit","Kerosene jet fuel","","Kerosene jet fuel","",911.0
 5839,"271022","Kerosene, for furnaces","6digit","Kerosene, for furnaces","","Kerosene, for furnaces","",911.0
-5840,"271025","Kerosene lamp oil, motor kerosene, light diesel, etc","6digit","Kerosene lamp oil, motor kerosene, light diesel, etc","","Kerosene lamp oil, motor kerosene, light diesel, etc","",911.0
-5841,"271026","Gas oils - bunker oil, No.1 furnace, motor diesel","6digit","Gas oils - bunker oil, No.1 furnace, motor diesel","","Gas oils - bunker oil, No.1 furnace, motor diesel","",911.0
-5842,"271027","Diesel oils- No.2 furnace, marine diesel","6digit","Diesel oils- No.2 furnace, marine diesel","","Diesel oils- No.2 furnace, marine diesel","",911.0
+5840,"271025","Kerosene lamp oil, motor kerosene, light diesel, etc","6digit","Kerosene lamp oil, motor kerosene, light diesel, etc","","Kerosene lamp oil, motor kerosene, light diesel","",911.0
+5841,"271026","Gas oils - bunker oil, No.1 furnace, motor diesel","6digit","Gas oils - bunker oil, No.1 furnace, motor diesel","","Gas oils, bunker oil, No.1 furnace, motor diesel","",911.0
+5842,"271027","Diesel oils- No.2 furnace, marine diesel","6digit","Diesel oils- No.2 furnace, marine diesel","","Diesel oils, No.2 furnace, marine diesel","",911.0
 5843,"271029","Fuel oils nes, heavy distillates","6digit","Fuel oils nes, heavy distillates","","Fuel oils nes, heavy distillates","",911.0
-5844,"271091","Heavy furnace oil (heating or motor fuel) <1% sulphur","6digit","Heavy furnace oil (heating or motor fuel) <1% sulphur","","Heavy furnace oil (heating or motor fuel) <1% sulphur","",911.0
+5844,"271091","Heavy furnace oil (heating or motor fuel) <1% sulphur","6digit","Heavy furnace oil (heating or motor fuel) <1% sulphur","","Heavy furnace oil  <1% sulphur","",911.0
 5845,"271093","Heavy furnace oil nes","6digit","Heavy furnace oil nes","","Heavy furnace oil nes","",911.0
-5846,"271094","Petroleum oil used in road building","6digit","Petroleum oil used in road building","","Petroleum oil used in road building","",911.0
+5846,"271094","Petroleum oil used in road building","6digit","Petroleum oil used in road building","","Petroleum oil for road building","",911.0
 5847,"271095","Petroleum lubricating oils","6digit","Petroleum lubricating oils","","Petroleum lubricating oils","",911.0
 5848,"271096","Petroleum lubricating greases","6digit","Petroleum lubricating greases","","Petroleum lubricating greases","",911.0
-5849,"271099","Petroleum oils and products nes","6digit","Petroleum oils and products nes","","Petroleum oils and products nes","",911.0
+5849,"271099","Petroleum oils and products nes","6digit","Petroleum oils and products nes","","Petroleum oils, nes","",911.0
 5850,"271111","Natural gas, liquefied","6digit","Natural gas, liquefied","","Natural gas, liquefied","",912.0
 5851,"271112","Propane, liquefied","6digit","Propane, liquefied","","Propane, liquefied","",912.0
 5852,"271113","Butanes, liquefied","6digit","Butanes, liquefied","","Butanes, liquefied","",912.0
@@ -2231,7 +2231,7 @@
 5868,"280110","Chlorine","6digit","Chlorine","","Chlorine","",918.0
 5869,"280120","Iodine","6digit","Iodine","","Iodine","",918.0
 5870,"280130","Fluorine, bromine","6digit","Fluorine, bromine","","Fluorine, bromine","",918.0
-5871,"280200","Sulphur, sublimed or precipitated, colloidal sulphur","6digit","Sulphur, sublimed or precipitated, colloidal sulphur","","Sulphur","",919.0
+5871,"280200","Sulphur, sublimed or precipitated, colloidal sulphur","6digit","Sulphur, sublimed or precipitated, colloidal sulphur","","Sulphur, sublimed, precipitated, colloidal","",919.0
 5872,"280300","Carbon (carbon blacks and other forms of carbon, nes)","6digit","Carbon (carbon blacks and other forms of carbon, nes)","","Carbon","",920.0
 5873,"280410","Hydrogen","6digit","Hydrogen","","Hydrogen","",921.0
 5874,"280421","Argon","6digit","Argon","","Argon","",921.0
@@ -2274,7 +2274,7 @@
 5911,"281520","Potassium hydroxide (caustic potash)","6digit","Potassium hydroxide (caustic potash)","","Potassium hydroxide","",932.0
 5912,"281530","Peroxides of sodium or potassium","6digit","Peroxides of sodium or potassium","","Peroxides of sodium/potassium","",932.0
 5913,"281610","Magnesium hydroxide and peroxide","6digit","Magnesium hydroxide and peroxide","","Magnesium hydroxide & peroxide","",933.0
-5914,"281620","Strontium oxide, hydroxide and peroxide","6digit","Strontium oxide, hydroxide and peroxide","","Strontium oxide, hydroxide and peroxide","",933.0
+5914,"281620","Strontium oxide, hydroxide and peroxide","6digit","Strontium oxide, hydroxide and peroxide","","Strontium oxide, hydroxide & peroxide","",933.0
 5915,"281630","Barium oxide, hydroxide and peroxide","6digit","Barium oxide, hydroxide and peroxide","","Barium oxide, hydroxide & peroxide","",933.0
 5916,"281700","Zinc oxide and peroxide","6digit","Zinc oxide and peroxide","","Zinc oxide","",934.0
 5917,"281810","Artificial corundum","6digit","Artificial corundum","","Artificial corundum","",935.0
@@ -2411,7 +2411,7 @@
 6048,"284610","Cerium compounds","6digit","Cerium compounds","","Cerium compounds","",963.0
 6049,"284690","Compounds, mixes of rare-earths, yttrium, scandium ne","6digit","Compounds, mixes of rare-earths, yttrium, scandium ne","","Compounds of rare-earths","",963.0
 6050,"284700","Hydrogen peroxide","6digit","Hydrogen peroxide","","Hydrogen peroxide","",964.0
-6051,"284810","Phosphides of copper containing > 15% phosphorous","6digit","Phosphides of copper containing > 15% phosphorous","","Phosphides of copper containing > 15% phosphorous","",965.0
+6051,"284810","Phosphides of copper containing > 15% phosphorous","6digit","Phosphides of copper containing > 15% phosphorous","","Phosphides of copper, >15% phosphorous","",965.0
 6052,"284890","Phosphides of other metals or of non-metals","6digit","Phosphides of other metals or of non-metals","","Phosphides","",965.0
 6053,"284910","Calcium carbide","6digit","Calcium carbide","","Calcium carbide","",966.0
 6054,"284920","Silicon carbide","6digit","Silicon carbide","","Silicon carbide","",966.0
@@ -2441,7 +2441,7 @@
 6078,"290313","Chloroform (trichloromethane)","6digit","Chloroform (trichloromethane)","","Chloroform","",971.0
 6079,"290314","Carbon tetrachloride","6digit","Carbon tetrachloride","","Carbon tetrachloride","",971.0
 6080,"290315","1,2-dichloroethane(ethylene dichloride)","6digit","1,2-dichloroethane(ethylene dichloride)","","Ethylene dichloride","",971.0
-6081,"290316","1,2-dichloropropane and dichlorobutanes","6digit","1,2-dichloropropane and dichlorobutanes","","1,2-dichloropropane and dichlorobutanes","",971.0
+6081,"290316","1,2-dichloropropane and dichlorobutanes","6digit","1,2-dichloropropane and dichlorobutanes","","Dichloropropane & dichlorobutanes","",971.0
 6082,"290319","Chlorinated derivs saturated acyclic hydrocarbons, ne","6digit","Chlorinated derivs saturated acyclic hydrocarbons, ne","","Chlorinated derivs saturated acyclic hydrocarbons","",971.0
 6083,"290321","Vinyl chloride (chloroethylene)","6digit","Vinyl chloride (chloroethylene)","","Chloroethylene","",971.0
 6084,"290322","Trichloroethylene","6digit","Trichloroethylene","","Trichloroethylene","",971.0
@@ -2474,7 +2474,7 @@
 6111,"290541","Trimethylolpropane","6digit","Trimethylolpropane","","Trimethylolpropane","",973.0
 6112,"290542","Pentaerythritol","6digit","Pentaerythritol","","Pentaerythritol","",973.0
 6113,"290543","Mannitol","6digit","Mannitol","","Mannitol","",973.0
-6114,"290544","D-glucitol (sorbitol)","6digit","D-glucitol (sorbitol)","","Sorbitol","",973.0
+6114,"290544","D-glucitol (sorbitol)","6digit","D-glucitol (sorbitol)","","D-glucitol (sorbitol)","",973.0
 6115,"290549","Polyhydric acyclic alcohols nes","6digit","Polyhydric acyclic alcohols nes","","Polyhydric acyclic alcohols, nes","",973.0
 6116,"290550","Derivatives of acyclic alcohols","6digit","Derivatives of acyclic alcohols","","Derivatives of acyclic alcohols","",973.0
 6117,"290611","Menthol","6digit","Menthol","","Menthol","",974.0
@@ -2516,7 +2516,7 @@
 6153,"291100","Acetals and hemiacetals, derivatives","6digit","Acetals and hemiacetals, derivatives","","Acetals and hemiacetals","",979.0
 6154,"291211","Methanal (formaldehyde)","6digit","Methanal (formaldehyde)","","Formaldehyde","",980.0
 6155,"291212","Ethanal (acetaldehyde)","6digit","Ethanal (acetaldehyde)","","Ethanal","",980.0
-6156,"291213","Butanal (butyraldehyde, normal isomer)","6digit","Butanal (butyraldehyde, normal isomer)","","Butanal (butyraldehyde, normal isomer)","",980.0
+6156,"291213","Butanal (butyraldehyde, normal isomer)","6digit","Butanal (butyraldehyde, normal isomer)","","Butanal","",980.0
 6157,"291219","Acyclic aldehydes without other oxygen function, nes","6digit","Acyclic aldehydes without other oxygen function, nes","","Acyclic aldehydes, no oxygen function, nes","",980.0
 6158,"291221","Benzaldehyde","6digit","Benzaldehyde","","Benzaldehyde","",980.0
 6159,"291229","Cyclic aldehydes without other oxygen function, nes","6digit","Cyclic aldehydes without other oxygen function, nes","","Cyclic aldehydes, no oxygen function, nes","",980.0
@@ -2536,7 +2536,7 @@
 6173,"291423","Ionones and methylionones","6digit","Ionones and methylionones","","Ionones","",982.0
 6174,"291429","Cyclanic/cyclenic/cycloterp ketones,no oxygen functio","6digit","Cyclanic/cyclenic/cycloterp ketones,no oxygen functio","","Cyclanic ketones, no oxygen function","",982.0
 6175,"291430","Aromatic ketones without other oxygen function","6digit","Aromatic ketones without other oxygen function","","Aromatic ketones, no oxygen function","",982.0
-6176,"291441","4-hydroxy-4-methylpentan-2-one(diacetone alcohol)","6digit","4-hydroxy-4-methylpentan-2-one(diacetone alcohol)","","4-hydroxy-4-methylpentan-2-one(diacetone alcohol)","",982.0
+6176,"291441","4-hydroxy-4-methylpentan-2-one(diacetone alcohol)","6digit","4-hydroxy-4-methylpentan-2-one(diacetone alcohol)","","Diacetone alcohol","",982.0
 6177,"291449","Ketone-alcohols nes, ketone-aldehydes","6digit","Ketone-alcohols nes, ketone-aldehydes","","Ketone-alcohols, nes","",982.0
 6178,"291450","Ketone-phenols and ketones with other oxygen function","6digit","Ketone-phenols and ketones with other oxygen function","","Ketones with oxygen function","",982.0
 6179,"291461","Anthraquinone","6digit","Anthraquinone","","Anthraquinone","",982.0
@@ -2623,7 +2623,7 @@
 6260,"292213","Triethanolamine, salts","6digit","Triethanolamine, salts","","Triethanolamine, salts","",990.0
 6261,"292219","Amino-alcohols nes, their ethers and esters, salts","6digit","Amino-alcohols nes, their ethers and esters, salts","","Amino-alcohol, esters, salts, nes","",990.0
 6262,"292221","Aminohydroxynaphthalenesulphonic acids and salts","6digit","Aminohydroxynaphthalenesulphonic acids and salts","","Aminohydroxynaphthalenesulphonic acids, salts","",990.0
-6263,"292222","Anisidines, dianisidines, phenetidines, and salts","6digit","Anisidines, dianisidines, phenetidines, and salts","","Anisidines, dianisidines, phenetidines, and salts","",990.0
+6263,"292222","Anisidines, dianisidines, phenetidines, and salts","6digit","Anisidines, dianisidines, phenetidines, and salts","","Anisidines, dianisidines, phenetidines, salts","",990.0
 6264,"292229","Amino-naphthols/phenols nes, their ethers/esters/salt","6digit","Amino-naphthols/phenols nes, their ethers/esters/salt","","Amino-naphthols/phenols, nes","",990.0
 6265,"292230","Amino-aldehydes, ketones and quinones, salts thereof","6digit","Amino-aldehydes, ketones and quinones, salts thereof","","Amino-aldehydes, ketones and quinones, salts","",990.0
 6266,"292241","Lysine, esters, salts thereof","6digit","Lysine, esters, salts thereof","","Lysine, esters, salts","",990.0
@@ -2692,7 +2692,7 @@
 6329,"293710","Pituitary anterior hormones and derivatives, in bulk","6digit","Pituitary anterior hormones and derivatives, in bulk","","Pituitary anterior hormones","",1005.0
 6330,"293721","Cortisone,hydrocortisone,prednisone,prednisolone, bul","6digit","Cortisone,hydrocortisone,prednisone,prednisolone, bul","","Cortisones","",1005.0
 6331,"293722","Halogenated derivs adrenalal cortical hormones, bulk","6digit","Halogenated derivs adrenalal cortical hormones, bulk","","Halogenated derivs adrenalal cortical hormones","",1005.0
-6332,"293729","Adrenal cortical hormones nes, in bulk, derivatives","6digit","Adrenal cortical hormones nes, in bulk, derivatives","","Adrenal cortical hormones nes, in bulk, derivatives","",1005.0
+6332,"293729","Adrenal cortical hormones nes, in bulk, derivatives","6digit","Adrenal cortical hormones nes, in bulk, derivatives","","Adrenal cortical hormones nes","",1005.0
 6333,"293791","Insulin, salts, in bulk","6digit","Insulin, salts, in bulk","","Insulin","",1005.0
 6334,"293792","Oestrogens and progestogens, in bulk","6digit","Oestrogens and progestogens, in bulk","","Estrogens and progestogens","",1005.0
 6335,"293799","Hormones nes, derivatives, in bulk, steroids nes","6digit","Hormones nes, derivatives, in bulk, steroids nes","","Hormones","",1005.0
@@ -2720,7 +2720,7 @@
 6357,"300190","Heparin, salts, for therapeutic use","6digit","Heparin, salts, for therapeutic use","","Heparin, therapeutic","",1011.0
 6358,"300210","Antisera and other blood fractions","6digit","Antisera and other blood fractions","","Antisera and blood fractions","",1012.0
 6359,"300220","Vaccines, human use","6digit","Vaccines, human use","","Vaccines, human","",1012.0
-6360,"300231","Vaccines, foot and mouth disease, veterinary use","6digit","Vaccines, foot and mouth disease, veterinary use","","Vaccines, foot and mouth disease, veterinary use","",1012.0
+6360,"300231","Vaccines, foot and mouth disease, veterinary use","6digit","Vaccines, foot and mouth disease, veterinary use","","Vaccines, veterinary foot and mouth disease","",1012.0
 6361,"300239","Vaccines, veterinary use, except foot and mouth","6digit","Vaccines, veterinary use, except foot and mouth","","Vaccines, veterinary","",1012.0
 6362,"300290","Blood, toxins, cultures, medical use, nes","6digit","Blood, toxins, cultures, medical use, nes","","Blood","",1012.0
 6363,"300310","Penicillins or streptomycins and derivatives, in bulk","6digit","Penicillins or streptomycins and derivatives, in bulk","","Penicillins or streptomycins, formulated","",1013.0
@@ -2752,7 +2752,7 @@
 6389,"310230","Ammonium nitrate, including solution, in pack >10 kg","6digit","Ammonium nitrate, including solution, in pack >10 kg","","Ammonium nitrate, > 10kg","",1018.0
 6390,"310240","Ammonium nitrate limestone etc mixes, pack >10 kg","6digit","Ammonium nitrate limestone etc mixes, pack >10 kg","","Ammonium nitrate limestone, > 10kg","",1018.0
 6391,"310250","Sodium nitrate, in packs >10 kg","6digit","Sodium nitrate, in packs >10 kg","","Sodium nitrate, > 10kg","",1018.0
-6392,"310260","Calcium-ammonium nitrate mix, double salts pack >10kg","6digit","Calcium-ammonium nitrate mix, double salts pack >10kg","","Calcium0ammonium nitrate mix, > 10kg","",1018.0
+6392,"310260","Calcium-ammonium nitrate mix, double salts pack >10kg","6digit","Calcium-ammonium nitrate mix, double salts pack >10kg","","Calcium-ammonium nitrate mix, > 10kg","",1018.0
 6393,"310270","Calcium cyanamide in packs >10 kg","6digit","Calcium cyanamide in packs >10 kg","","Calcium cyanamide in packs >10 kg","",1018.0
 6394,"310280","Urea-ammonium nitrate mixes in solution, pack >10 kg","6digit","Urea-ammonium nitrate mixes in solution, pack >10 kg","","Urea-ammonium nitrate mix, > 10kg","",1018.0
 6395,"310290","Nitrogenous fertilizers, mixes, nes, pack >10 kg","6digit","Nitrogenous fertilizers, mixes, nes, pack >10 kg","","Nitrogenous fertilizers, nes, > 10kg","",1018.0
@@ -2912,13 +2912,13 @@
 6549,"370251","Film, colour photo, rolls, width <16mm, <14 m long,ne","6digit","Film, colour photo, rolls, width <16mm, <14 m long,ne","","Photo color film rolls, width <16mm, length <14m","",1065.0
 6550,"370252","Film, colour photo, rolls, width <16mm, >14 m long,ne","6digit","Film, colour photo, rolls, width <16mm, >14 m long,ne","","Color film, width <16mm, length >14m","",1065.0
 6551,"370253","Film, colour slide, rolls width 16-35mm, <30m long","6digit","Film, colour slide, rolls width 16-35mm, <30m long","","Color film rolls, width 16-35mm, length <30m","",1065.0
-6552,"370254","Film, colour photo nes, rolls width 16-35mm,<30m long","6digit","Film, colour photo nes, rolls width 16-35mm,<30m long","","Color film rolls, width 16-35mm, length <30m","",1065.0
+6552,"370254","Film, colour photo nes, rolls width 16-35mm,<30m long","6digit","Film, colour photo nes, rolls width 16-35mm,<30m long","","Color photo, nes, film rolls, w16-35mm, l<30m","",1065.0
 6553,"370255","Film for colour photo, rolls width 16-35mm, >30m long","6digit","Film for colour photo, rolls width 16-35mm, >30m long","","Color film rolls, width 16-35mm, length >30m","",1065.0
 6554,"370256","Photographic film in rolls, colour, width >35 mm, nes","6digit","Photographic film in rolls, colour, width >35 mm, nes","","Photo color film rolls, width >35mm","",1065.0
 6555,"370291","Photo film in rolls, width <16 mm, <14m long, nes","6digit","Photo film in rolls, width <16 mm, <14m long, nes","","Photo film roll, width <16mm, length <14m","",1065.0
-6556,"370292","Photo film in rolls, width <16 mm, >14m long, nes","6digit","Photo film in rolls, width <16 mm, >14m long, nes","","Photo film in rolls, width <16 mm, >14m long, nes","",1065.0
-6557,"370293","Photo film in rolls, width 16-35mm, <30m long, nes","6digit","Photo film in rolls, width 16-35mm, <30m long, nes","","Photo film rolls, width 16-35mm, length <30m","",1065.0
-6558,"370294","Photo film in rolls, width 16-35mm, >30m long, nes","6digit","Photo film in rolls, width 16-35mm, >30m long, nes","","Photo film rolls, width 16-35mm, length >30m","",1065.0
+6556,"370292","Photo film in rolls, width <16 mm, >14m long, nes","6digit","Photo film in rolls, width <16 mm, >14m long, nes","","Photo film roll, w<16 mm, l >14m, nes","",1065.0
+6557,"370293","Photo film in rolls, width 16-35mm, <30m long, nes","6digit","Photo film in rolls, width 16-35mm, <30m long, nes","","Photo film rolls, w16-35mm, l <30m","",1065.0
+6558,"370294","Photo film in rolls, width 16-35mm, >30m long, nes","6digit","Photo film in rolls, width 16-35mm, >30m long, nes","","Photo film rolls, w16-35mm, l >30m","",1065.0
 6559,"370295","Photographic film, rolls, of a width <= 35 mm, nes","6digit","Photographic film, rolls, of a width <= 35 mm, nes","","Photo film rolls, width <35mm","",1065.0
 6560,"370310","Unexposed photographic paper,textile roll > 610mm wid","6digit","Unexposed photographic paper,textile roll > 610mm wid","","Unexposed photo paper, roll >610mm wide","",1066.0
 6561,"370320","Unexposed colour photograhic paper, board or textile","6digit","Unexposed colour photograhic paper, board or textile","","Unexposed color photo paper","",1066.0
@@ -3179,10 +3179,10 @@
 6816,"401700","Hard rubber (eg ebonite) in all forms, articles,scrap","6digit","Hard rubber (eg ebonite) in all forms, articles,scrap","","Hard rubber","",1136.0
 6817,"410110","Bovine skins, whole, raw","6digit","Bovine skins, whole, raw","","Bovine skins, whole, raw","",1137.0
 6818,"410121","Bovine hides, whole, fresh or wet-salted","6digit","Bovine hides, whole, fresh or wet-salted","","Bovine hides, whole, fresh","",1137.0
-6819,"410122","Butts and bends, bovine, fresh or wet-salted","6digit","Butts and bends, bovine, fresh or wet-salted","","Butts and bends, bovine, fresh or wet-salted","",1137.0
+6819,"410122","Butts and bends, bovine, fresh or wet-salted","6digit","Butts and bends, bovine, fresh or wet-salted","","Bovine butts & bends, fresh","",1137.0
 6820,"410129","Hide sections, bovine, nes, fresh or wet-salted","6digit","Hide sections, bovine, nes, fresh or wet-salted","","Bovine hide sections, fresh","",1137.0
 6821,"410130","Bovine hides, raw, nes","6digit","Bovine hides, raw, nes","","Bovine hides, raw, nes","",1137.0
-6822,"410140","Equine hides and skins, raw","6digit","Equine hides and skins, raw","","Equine hides and skins, raw","",1137.0
+6822,"410140","Equine hides and skins, raw","6digit","Equine hides and skins, raw","","Equine hides & skins, raw","",1137.0
 6823,"410210","Sheep or lamb skins, raw, wool on, except Persian etc","6digit","Sheep or lamb skins, raw, wool on, except Persian etc","","Sheepskin with wool, raw","",1138.0
 6824,"410221","Sheep or lamb skins, pickled, without wool","6digit","Sheep or lamb skins, pickled, without wool","","Sheepskin no wool, pickled","",1138.0
 6825,"410229","Sheep or lamb skins, raw, except pickled, no wool","6digit","Sheep or lamb skins, raw, except pickled, no wool","","Sheepskin no wool, raw","",1138.0
@@ -3190,16 +3190,16 @@
 6827,"410320","Reptile skins, raw","6digit","Reptile skins, raw","","Reptile skins, raw","",1139.0
 6828,"410390","Raw hide/skins except bovine/equine/sheep/goat/reptil","6digit","Raw hide/skins except bovine/equine/sheep/goat/reptil","","Other raw hides","",1139.0
 6829,"410410","Bovine skin leather, whole","6digit","Bovine skin leather, whole","","Bovine skin leather, whole","",1140.0
-6830,"410421","Bovine leather, vegetable pre-tanned except whole ski","6digit","Bovine leather, vegetable pre-tanned except whole ski","","Bovine leather, vegetable pre-tanned except whole ski","",1140.0
+6830,"410421","Bovine leather, vegetable pre-tanned except whole ski","6digit","Bovine leather, vegetable pre-tanned except whole ski","","Bovine leather, vegetable pre-tanned","",1140.0
 6831,"410422","Bovine leather, otherwise pre-tanned except whole ski","6digit","Bovine leather, otherwise pre-tanned except whole ski","","Bovine leather, pre-tanned","",1140.0
 6832,"410429","Bovine and equine leather, tanned or retanned, nes","6digit","Bovine and equine leather, tanned or retanned, nes","","Bovine leather, tanned","",1140.0
 6833,"410431","Bovine and equine leather, full or split grain, nes","6digit","Bovine and equine leather, full or split grain, nes","","Bovine leather, full","",1140.0
 6834,"410439","Bovine and equine leather, nes","6digit","Bovine and equine leather, nes","","Bovine leather, nes","",1140.0
-6835,"410511","Sheep or lamb skin leather, vegetable pre-tanned","6digit","Sheep or lamb skin leather, vegetable pre-tanned","","Sheep or lamb skin leather, vegetable pre-tanned","",1141.0
+6835,"410511","Sheep or lamb skin leather, vegetable pre-tanned","6digit","Sheep or lamb skin leather, vegetable pre-tanned","","Sheep leather, vegetable pre-tanned","",1141.0
 6836,"410512","Sheep or lamb skin leather, otherwise pre-tanned","6digit","Sheep or lamb skin leather, otherwise pre-tanned","","Sheep leather, pre-tanned","",1141.0
 6837,"410519","Sheep or lamb skin leather, tanned or retanned, nes","6digit","Sheep or lamb skin leather, tanned or retanned, nes","","Sheep leather, tanned","",1141.0
 6838,"410520","Sheep or lamb skin leather, nes","6digit","Sheep or lamb skin leather, nes","","Sheep leather, nes","",1141.0
-6839,"410611","Goat or kid skin leather, vegetable pre-tanned","6digit","Goat or kid skin leather, vegetable pre-tanned","","Goat or kid skin leather, vegetable pre-tanned","",1142.0
+6839,"410611","Goat or kid skin leather, vegetable pre-tanned","6digit","Goat or kid skin leather, vegetable pre-tanned","","Goat leather, vegetable pre-tanned","",1142.0
 6840,"410612","Goat or kid skin leather, otherwise pre-tanned","6digit","Goat or kid skin leather, otherwise pre-tanned","","Goat leather, pre-tanned","",1142.0
 6841,"410619","Goat or kid skin leather, tanned or retanned, nes","6digit","Goat or kid skin leather, tanned or retanned, nes","","Goat leather, tanned","",1142.0
 6842,"410620","Goat or kid skin leather, nes","6digit","Goat or kid skin leather, nes","","Goat leather, nes","",1142.0
@@ -3234,16 +3234,16 @@
 6871,"420610","Articles of catgut","6digit","Articles of catgut","","Catgut articles","",1153.0
 6872,"420690","Articles of gut, goldbeater skin, bladder, tendons ne","6digit","Articles of gut, goldbeater skin, bladder, tendons ne","","Gut articles, nes","",1153.0
 6873,"430110","Raw mink furskins, whole","6digit","Raw mink furskins, whole","","Raw mink furskins, whole","",1154.0
-6874,"430120","Raw rabbit or hare furskins, whole","6digit","Raw rabbit or hare furskins, whole","","Raw rabbit or hare furskins, whole","",1154.0
+6874,"430120","Raw rabbit or hare furskins, whole","6digit","Raw rabbit or hare furskins, whole","","Raw rabbit furskins, whole","",1154.0
 6875,"430130","Raw Persian and similar lamb furskins, whole","6digit","Raw Persian and similar lamb furskins, whole","","Raw Persian lamb furskins, whole","",1154.0
 6876,"430140","Raw beaver furskins, whole","6digit","Raw beaver furskins, whole","","Raw beaver furskins, whole","",1154.0
-6877,"430150","Raw musk-rat furskins, whole","6digit","Raw musk-rat furskins, whole","","Raw musk-rat furskins, whole","",1154.0
+6877,"430150","Raw musk-rat furskins, whole","6digit","Raw musk-rat furskins, whole","","Raw muskrat furskins, whole","",1154.0
 6878,"430160","Raw fox furskins, whole","6digit","Raw fox furskins, whole","","Raw fox furskins, whole","",1154.0
 6879,"430170","Raw seal furskins, whole","6digit","Raw seal furskins, whole","","Raw seal furskins, whole","",1154.0
 6880,"430180","Raw furskins of other animals, whole","6digit","Raw furskins of other animals, whole","","Raw furskins, whole, nes","",1154.0
 6881,"430190","Raw furskin pieces (e.g. heads, tails, paws)","6digit","Raw furskin pieces (e.g. heads, tails, paws)","","Raw furskin pieces","",1154.0
 6882,"430211","Tanned or dressed mink furskins, whole, unassembled","6digit","Tanned or dressed mink furskins, whole, unassembled","","Tanned mink furskins, whole","",1155.0
-6883,"430212","Tanned, dressed rabbit, hare skins, whole, unassemble","6digit","Tanned, dressed rabbit, hare skins, whole, unassemble","","Tanned, dressed rabbit, hare skins, whole, unassemble","",1155.0
+6883,"430212","Tanned, dressed rabbit, hare skins, whole, unassemble","6digit","Tanned, dressed rabbit, hare skins, whole, unassemble","","Tanned rabbit skins, whole","",1155.0
 6884,"430213","Tanned,dressed Persian/etc lambskin, whole,unassemble","6digit","Tanned,dressed Persian/etc lambskin, whole,unassemble","","Tanned Persian lambskin, whole","",1155.0
 6885,"430219","Tanned,dressed whole furs except lamb/mink/rabbit/har","6digit","Tanned,dressed whole furs except lamb/mink/rabbit/har","","Tanned furs, whole, nes","",1155.0
 6886,"430220","Tanned or dressed furskin pieces (heads, tails, paws)","6digit","Tanned or dressed furskin pieces (heads, tails, paws)","","Tanned furskin pieces","",1155.0
@@ -3258,13 +3258,13 @@
 6895,"440200","Wood charcoal (including shell or nut charcoal)","6digit","Wood charcoal (including shell or nut charcoal)","","Wood charcoal","",1159.0
 6896,"440310","Poles, treated or painted with preservatives","6digit","Poles, treated or painted with preservatives","","Treated poles","",1160.0
 6897,"440320","Logs, poles, coniferous not treated or painted","6digit","Logs, poles, coniferous not treated or painted","","Logs, coniferous","",1160.0
-6898,"440331","Logs, Meranti (light or dark red), Bakau","6digit","Logs, Meranti (light or dark red), Bakau","","Logs, meranti, bakau","",1160.0
-6899,"440332","Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan","6digit","Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan","","Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan","",1160.0
-6900,"440333","Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau/etc","6digit","Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau/etc","","Logs, other","",1160.0
-6901,"440334","Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc","6digit","Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc","","Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc","",1160.0
+6898,"440331","Logs, Meranti (light or dark red), Bakau","6digit","Logs, Meranti (light or dark red), Bakau","","Logs, Meranti, Bakau","",1160.0
+6899,"440332","Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan","6digit","Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan","","Logs, white Lauan/(yellow)Meranti/Seraya/Alan","",1160.0
+6900,"440333","Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau/etc","6digit","Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau/etc","","Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau","",1160.0
+6901,"440334","Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc","6digit","Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc","","Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique","",1160.0
 6902,"440335","Logs, Tiama, Mansonia, Ilomba, Dibetou, Limba, Azobe","6digit","Logs, Tiama, Mansonia, Ilomba, Dibetou, Limba, Azobe","","Logs, Tiama, Mansonia, Ilomba, Dibetou, Limba, Azobe","",1160.0
-6903,"440391","Logs, Oak (Quercus spp)","6digit","Logs, Oak (Quercus spp)","","Logs, oak","",1160.0
-6904,"440392","Logs, Beech (Fagus spp)","6digit","Logs, Beech (Fagus spp)","","Logs, beech","",1160.0
+6903,"440391","Logs, Oak (Quercus spp)","6digit","Logs, Oak (Quercus spp)","","Logs, Oak","",1160.0
+6904,"440392","Logs, Beech (Fagus spp)","6digit","Logs, Beech (Fagus spp)","","Logs, Beech","",1160.0
 6905,"440399","Logs, non-coniferous nes","6digit","Logs, non-coniferous nes","","Logs, non-coniferous, nes","",1160.0
 6906,"440410","Poles, piles etc, coniferous, pointed but not sawn","6digit","Poles, piles etc, coniferous, pointed but not sawn","","Pointed coniferous poles","",1161.0
 6907,"440420","Poles, piles etc, non-coniferous, pointed, not sawn","6digit","Poles, piles etc, non-coniferous, pointed, not sawn","","Pointed non-coniferous poles","",1161.0
@@ -3371,7 +3371,7 @@
 7008,"480451","Paper, kraft, >225g/m2, unbleached, uncoated, nes","6digit","Paper, kraft, >225g/m2, unbleached, uncoated, nes","","Paper, kraft, >225g/m2, unbleached, uncoated","",1195.0
 7009,"480452","Paper, kraft, >225g/m2,chemical pulp,bleached,uncoate","6digit","Paper, kraft, >225g/m2,chemical pulp,bleached,uncoate","","Paper, kraft, >225g/m2,chemical pulp,bleach/uncoat","",1195.0
 7010,"480459","Paper, kraft, >225g/m2, uncoated, nes","6digit","Paper, kraft, >225g/m2, uncoated, nes","","Paper, kraft, >225g/m2, uncoated, nes","",1195.0
-7011,"480510","Paper, fluting, in rolls, semi-chemical, uncoated","6digit","Paper, fluting, in rolls, semi-chemical, uncoated","","Paper, uncoat, rolls, semi-chemical","",1196.0
+7011,"480510","Paper, fluting, in rolls, semi-chemical, uncoated","6digit","Paper, fluting, in rolls, semi-chemical, uncoated","","Paper, fluting, uncoated, rolls, semi-chemical","",1196.0
 7012,"480521","Paper, multi-ply, each layer bleached, uncoated, nes","6digit","Paper, multi-ply, each layer bleached, uncoated, nes","","Paper, multi-ply, each layer bleached, uncoated, nes","",1196.0
 7013,"480522","Paper, multi-ply, one layer bleached, uncoated","6digit","Paper, multi-ply, one layer bleached, uncoated","","Paper, multi-ply, one layer bleached, uncoated","",1196.0
 7014,"480523","Paper, multi-ply, <4 layers, outer bleached, uncoated","6digit","Paper, multi-ply, <4 layers, outer bleached, uncoated","","Paper, multi-ply, <4 layers, outer bleached, uncoated","",1196.0
@@ -3387,7 +3387,7 @@
 7024,"480630","Paper, tracing","6digit","Paper, tracing","","Paper, tracing","",1197.0
 7025,"480640","Paper, glassine, glazed transparent or translucent ne","6digit","Paper, glassine, glazed transparent or translucent ne","","Paper, transparent","",1197.0
 7026,"480710","Paper, laminated with bitumen tar or asphalt, uncoate","6digit","Paper, laminated with bitumen tar or asphalt, uncoate","","Paper, laminated, uncoat","",1198.0
-7027,"480791","Straw paper, board, whether or not paper covered","6digit","Straw paper, board, whether or not paper covered","","Straw paper, board, whether or not paper covered","",1198.0
+7027,"480791","Straw paper, board, whether or not paper covered","6digit","Straw paper, board, whether or not paper covered","","Straw paper, board","",1198.0
 7028,"480799","Paper, composite, nes, not coated or impregnated","6digit","Paper, composite, nes, not coated or impregnated","","Paper, composite, uncoat","",1198.0
 7029,"480810","Paper, corrugated","6digit","Paper, corrugated","","Paper, corrugated","",1199.0
 7030,"480820","Paper, sack kraft, creped or crinkled","6digit","Paper, sack kraft, creped or crinkled","","Paper sack kraft, crepe","",1199.0
@@ -3396,7 +3396,7 @@
 7033,"480910","Paper, carbon or similar width >36 cm","6digit","Paper, carbon or similar width >36 cm","","Paper, carbon >36cm","",1200.0
 7034,"480920","Paper, self-copy, width > 36 cm","6digit","Paper, self-copy, width > 36 cm","","Paper, self-copy >36cm","",1200.0
 7035,"480990","Paper, copying or transfer, width >36 cm","6digit","Paper, copying or transfer, width >36 cm","","Paper, copying >36cm","",1200.0
-7036,"481011","Paper, fine, woodfree, <150 g/m2, clay coated","6digit","Paper, fine, woodfree, <150 g/m2, clay coated","","Paper, fine, no wood, <150g/m2, clay","",1201.0
+7036,"481011","Paper, fine, woodfree, <150 g/m2, clay coated","6digit","Paper, fine, woodfree, <150 g/m2, clay coated","","Paper, fine, woodfree, <150 g/m2, clay coated","",1201.0
 7037,"481012","Paper, fine, woodfree, >150 g/m2, clay coated","6digit","Paper, fine, woodfree, >150 g/m2, clay coated","","Paper, fine, woodfree, >150 g/m2, clay coated","",1201.0
 7038,"481021","Paper, fine, light weight coated","6digit","Paper, fine, light weight coated","","Paper, fine, light coat","",1201.0
 7039,"481029","Paper, fine, wood containing clay coated, except ligh","6digit","Paper, fine, wood containing clay coated, except ligh","","Paper, fine, wood, clay, not light","",1201.0
@@ -3453,7 +3453,7 @@
 7090,"482311","Paper, self-adhesive, cut to size, in strips or rolls","6digit","Paper, self-adhesive, cut to size, in strips or rolls","","Paper, self-adhesive, cut","",1214.0
 7091,"482319","Paper, gummed, adhesive nes, cut to size, strip, roll","6digit","Paper, gummed, adhesive nes, cut to size, strip, roll","","Paper adhesive, cut, nes","",1214.0
 7092,"482320","Paper, filter, cut to size or shape","6digit","Paper, filter, cut to size or shape","","Paper filter, cut","",1214.0
-7093,"482330","Cards, not punched, for punch card machines, paper","6digit","Cards, not punched, for punch card machines, paper","","Cards, not punched, for punch card machines, paper","",1214.0
+7093,"482330","Cards, not punched, for punch card machines, paper","6digit","Cards, not punched, for punch card machines, paper","","Cards, not punched","",1214.0
 7094,"482340","Paper rolls, sheets & dials for recording instruments","6digit","Paper rolls, sheets & dials for recording instruments","","Paper rolls for instruments","",1214.0
 7095,"482351","Paper, fine, cut, printed, embossed, perforated, nes","6digit","Paper, fine, cut, printed, embossed, perforated, nes","","Paper, fine, cute, printed, nes","",1214.0
 7096,"482359","Paper, fine, cut to size or shape, nes","6digit","Paper, fine, cut to size or shape, nes","","Paper, fine, cut, nes","",1214.0
@@ -3481,8 +3481,8 @@
 7118,"491199","Printed matter, nes","6digit","Printed matter, nes","","Printed matter, nes","",1225.0
 7119,"500100","Silk-worm cocoons suitable for reeling","6digit","Silk-worm cocoons suitable for reeling","","Silk-worm cocoons","",1226.0
 7120,"500200","Raw silk (not thrown)","6digit","Raw silk (not thrown)","","Raw silk","",1227.0
-7121,"500310","Silk waste, not carded or combed","6digit","Silk waste, not carded or combed","","Silk waste, not carded or combed","",1228.0
-7122,"500390","Silk waste, carded or combed","6digit","Silk waste, carded or combed","","Silk waste","",1228.0
+7121,"500310","Silk waste, not carded or combed","6digit","Silk waste, not carded or combed","","Silk waste, not carded","",1228.0
+7122,"500390","Silk waste, carded or combed","6digit","Silk waste, carded or combed","","Silk waste, carded","",1228.0
 7123,"500400","Silk yarn (except from waste) not retail","6digit","Silk yarn (except from waste) not retail","","SIlk yarn, not retail","",1229.0
 7124,"500500","Yarn spun from silk waste, not retail","6digit","Yarn spun from silk waste, not retail","","Yarn from silk waste, not retail","",1230.0
 7125,"500600","Silk yarn retail, silk worm gut","6digit","Silk yarn retail, silk worm gut","","Silk yarn, retail","",1231.0
@@ -3642,16 +3642,16 @@
 7279,"521151","Plain weave cotton , <85% +manmade fibre, >200g, prin","6digit","Plain weave cotton , <85% +manmade fibre, >200g, prin","","Plain weave , <85%, fibre, >200g, prin","",1256.0
 7280,"521152","Twill weave cotton , <85% +manmade fibre, >200g, prin","6digit","Twill weave cotton , <85% +manmade fibre, >200g, prin","","Twill weave , <85%, fibre, >200g, prin","",1256.0
 7281,"521159","Woven cotton nes, <85% +manmade fibre, >200g, printed","6digit","Woven cotton nes, <85% +manmade fibre, >200g, printed","","Woven nes, <85%, fibre, >200g, printed","",1256.0
-7282,"521211","Woven cotton fabric, > 200g/m2, unbleached, nes","6digit","Woven cotton fabric, > 200g/m2, unbleached, nes","","Cotton fabric, > 200g/m2, unbleach, nes","",1257.0
-7283,"521212","Woven cotton fabric, > 200g/m2, bleached, nes","6digit","Woven cotton fabric, > 200g/m2, bleached, nes","","Cotton fabric, > 200g/m2, bleach, nes","",1257.0
-7284,"521213","Woven cotton fabric, > 200g/m2, dyed, nes","6digit","Woven cotton fabric, > 200g/m2, dyed, nes","","Cotton fabric, > 200g/m2, dye, nes","",1257.0
-7285,"521214","Woven cotton fabric, < 200g/m2, yarns mixed colours","6digit","Woven cotton fabric, < 200g/m2, yarns mixed colours","","Cotton fabric, < 200g/m2, yarns mix colours","",1257.0
-7286,"521215","Woven cotton fabric, > 200g/m2, printed, nes","6digit","Woven cotton fabric, > 200g/m2, printed, nes","","Cotton fabric, > 200g/m2, print, nes","",1257.0
-7287,"521221","Woven cotton fabric, > 200g/m2, unbleached, nes","6digit","Woven cotton fabric, > 200g/m2, unbleached, nes","","Cotton fabric, > 200g/m2, unbleach, nes","",1257.0
-7288,"521222","Woven cotton fabric, > 200g/m2, bleached, nes","6digit","Woven cotton fabric, > 200g/m2, bleached, nes","","Cotton fabric, > 200g/m2, bleach, nes","",1257.0
-7289,"521223","Woven cotton fabric, > 200g/m2, dyed, nes","6digit","Woven cotton fabric, > 200g/m2, dyed, nes","","Cotton fabric, > 200g/m2, dye, nes","",1257.0
-7290,"521224","Woven cotton fabric, > 200g/m2, yarns mixed colours","6digit","Woven cotton fabric, > 200g/m2, yarns mixed colours","","Cotton fabric, > 200g/m2, yarns mix colours","",1257.0
-7291,"521225","Woven cotton fabric, > 200g/m2, printed, nes","6digit","Woven cotton fabric, > 200g/m2, printed, nes","","Cotton fabric, > 200g/m2, print, nes","",1257.0
+7282,"521211","Woven cotton fabric, < 200g/m2, unbleached, nes","6digit","Woven cotton fabric, < 200g/m2, unbleached, nes","","Cotton fabric, <200g/m2, unbleach, nes","",1257.0
+7283,"521212","Woven cotton fabric, < 200g/m2, bleached, nes","6digit","Woven cotton fabric, < 200g/m2, bleached, nes","","Cotton fabric, <200g/m2, bleach, nes","",1257.0
+7284,"521213","Woven cotton fabric, < 200g/m2, dyed, nes","6digit","Woven cotton fabric, < 200g/m2, dyed, nes","","Cotton fabric, <200g/m2, dye, nes","",1257.0
+7285,"521214","Woven cotton fabric, < 200g/m2, yarns mixed colours","6digit","Woven cotton fabric, < 200g/m2, yarns mixed colours","","Cotton fabric, <200g/m2, yarns mix colours","",1257.0
+7286,"521215","Woven cotton fabric, < 200g/m2, printed, nes","6digit","Woven cotton fabric, < 200g/m2, printed, nes","","Cotton fabric, <200g/m2, print, nes","",1257.0
+7287,"521221","Woven cotton fabric, > 200g/m2, unbleached, nes","6digit","Woven cotton fabric, > 200g/m2, unbleached, nes","","Cotton fabric, >200g/m2, unbleach, nes","",1257.0
+7288,"521222","Woven cotton fabric, > 200g/m2, bleached, nes","6digit","Woven cotton fabric, > 200g/m2, bleached, nes","","Cotton fabric, >200g/m2, bleach, nes","",1257.0
+7289,"521223","Woven cotton fabric, > 200g/m2, dyed, nes","6digit","Woven cotton fabric, > 200g/m2, dyed, nes","","Cotton fabric, >200g/m2, dye, nes","",1257.0
+7290,"521224","Woven cotton fabric, > 200g/m2, yarns mixed colours","6digit","Woven cotton fabric, > 200g/m2, yarns mixed colours","","Cotton fabric, >200g/m2, yarns mix colours","",1257.0
+7291,"521225","Woven cotton fabric, > 200g/m2, printed, nes","6digit","Woven cotton fabric, > 200g/m2, printed, nes","","Cotton fabric, >200g/m2, print, nes","",1257.0
 7292,"530110","Flax fibre, raw or retted","6digit","Flax fibre, raw or retted","","Flax fibre, raw","",1258.0
 7293,"530121","Flax fibre, broken or scutched","6digit","Flax fibre, broken or scutched","","Flax fibre, broken","",1258.0
 7294,"530129","Flax fibre, otherwise processed but not spun","6digit","Flax fibre, otherwise processed but not spun","","Flax fibre, processed unspun","",1258.0
@@ -3785,7 +3785,7 @@
 7422,"550962","Yarn of acrylic staple fibres & cotton, not retail","6digit","Yarn of acrylic staple fibres & cotton, not retail","","Yarn of acrylic & cotton","",1285.0
 7423,"550969","Yarn of acrylic staple fibres, not retail, nes","6digit","Yarn of acrylic staple fibres, not retail, nes","","Yarn of acrylic fibres","",1285.0
 7424,"550991","Yarn of other synthetic staple with wool or hair, nes","6digit","Yarn of other synthetic staple with wool or hair, nes","","Yarn of other synth fibre with wool/hair, nes","",1285.0
-7425,"550992","Yarn of other synth staple fibres + cotton not retail","6digit","Yarn of other synth staple fibres + cotton not retail","","Yarn of other synth fibres & cotton","",1285.0
+7425,"550992","Yarn of other synth staple fibres + cotton not retail","6digit","Yarn of other synth staple fibres + cotton not retail","","Yarn of other synth fibres & cotton, not retail","",1285.0
 7426,"550999","Yarn of other synth staple fibres + cotton not retail","6digit","Yarn of other synth staple fibres + cotton not retail","","Yarn of other synth fibres & cotton","",1285.0
 7427,"551011","Yarn >85% artificial staple fibres, single, not retai","6digit","Yarn >85% artificial staple fibres, single, not retai","","Yarn >85% artificial fibres, single","",1286.0
 7428,"551012","Yarn >85% artif staple fibres, multiple,not retail,ne","6digit","Yarn >85% artif staple fibres, multiple,not retail,ne","","Yarn >85% artif fibres, multiple","",1286.0
@@ -3881,7 +3881,7 @@
 7518,"560710","Twine, cordage, ropes and cables, of jute, bast fibre","6digit","Twine, cordage, ropes and cables, of jute, bast fibre","","Twine ropes, jute","",1299.0
 7519,"560721","Binder or baler twine, of sisal or agave","6digit","Binder or baler twine, of sisal or agave","","Binder twine, sisal","",1299.0
 7520,"560729","Twine nes, cordage, ropes and cables, of sisal","6digit","Twine nes, cordage, ropes and cables, of sisal","","Twine ropes, sisal","",1299.0
-7521,"560730","Twine, cordage, ropes and cables, of abaca etc","6digit","Twine, cordage, ropes and cables, of abaca etc","","Twine, cordage, ropes and cables, of abaca etc","",1299.0
+7521,"560730","Twine, cordage, ropes and cables, of abaca etc","6digit","Twine, cordage, ropes and cables, of abaca etc","","Twine ropes, of abaca","",1299.0
 7522,"560741","Binder or baler twine, of polyethylene, polypropylene","6digit","Binder or baler twine, of polyethylene, polypropylene","","Binder twine, polyethylene","",1299.0
 7523,"560749","Twine nes, cordage, ropes, polyethylene, polypropylen","6digit","Twine nes, cordage, ropes, polyethylene, polypropylen","","Twine ropes, polyethylene, nes","",1299.0
 7524,"560750","Twine, cordage, ropes & cables, other synthetic fibre","6digit","Twine, cordage, ropes & cables, other synthetic fibre","","Twine ropes, other synthetic fibre","",1299.0
@@ -3963,8 +3963,8 @@
 7600,"590320","Fabric impregnated, coated, covered with polyurethane","6digit","Fabric impregnated, coated, covered with polyurethane","","Impregnated fabric, polyurethane","",1320.0
 7601,"590390","Fabric impregnated, coated, covered with plastic nes","6digit","Fabric impregnated, coated, covered with plastic nes","","Impregnated fabric, plastic, nes","",1320.0
 7602,"590410","Linoleum","6digit","Linoleum","","Linoleum","",1321.0
-7603,"590491","Floor covering (not linoleum) with felt,non-woven bas","6digit","Floor covering (not linoleum) with felt,non-woven bas","","Floor covering (not linoleum) with felt,non-woven bas","",1321.0
-7604,"590492","Floor covering (not linoleum) with other textile base","6digit","Floor covering (not linoleum) with other textile base","","Floor covering ,textile base, nes","",1321.0
+7603,"590491","Floor covering (not linoleum) with felt,non-woven bas","6digit","Floor covering (not linoleum) with felt,non-woven bas","","Floor covering with felt, non-woven base","",1321.0
+7604,"590492","Floor covering (not linoleum) with other textile base","6digit","Floor covering (not linoleum) with other textile base","","Floor covering, textile base, nes","",1321.0
 7605,"590500","Textile wall coverings","6digit","Textile wall coverings","","Textile wall coverings","",1322.0
 7606,"590610","Rubberised textile adhesive tape < 20cm wide","6digit","Rubberised textile adhesive tape < 20cm wide","","Rubberised textile, tape <20cm","",1323.0
 7607,"590691","Rubberised textile knit or crochet fabric","6digit","Rubberised textile knit or crochet fabric","","Rubberised textile, knit","",1323.0
@@ -4373,7 +4373,7 @@
 8010,"680990","Articles of plaster etc, other than plasterboard","6digit","Articles of plaster etc, other than plasterboard","","Articles of plaster, not plasterboard","",1403.0
 8011,"681011","Building blocks, bricks of cement, or artificial ston","6digit","Building blocks, bricks of cement, or artificial ston","","Building blocks, bricks of cement/artificial stone","",1404.0
 8012,"681019","Tiles & flagstones of cement,concrete,artificial ston","6digit","Tiles & flagstones of cement,concrete,artificial ston","","Tiles of cement, concrete","",1404.0
-8013,"681020","Pipes of cement or concrete","6digit","Pipes of cement or concrete","","Pipes of cement or concrete","",1404.0
+8013,"681020","Pipes of cement or concrete","6digit","Pipes of cement or concrete","","Pipes of cement, concrete","",1404.0
 8014,"681091","Prefabricated structural items of cement or concrete","6digit","Prefabricated structural items of cement or concrete","","Prefab structural items of cement/concrete","",1404.0
 8015,"681099","Articles of cement, concrete or artificial stone nes","6digit","Articles of cement, concrete or artificial stone nes","","Articles of cement, concrete","",1404.0
 8016,"681110","Corrugated sheets of asbestos, cellulose fibre cement","6digit","Corrugated sheets of asbestos, cellulose fibre cement","","Corrugated sheets of asbestos/cement","",1405.0
@@ -4534,7 +4534,7 @@
 8171,"720110","Pig iron, non-alloy, <0.5% phosphorus","6digit","Pig iron, non-alloy, <0.5% phosphorus","","Pig iron, non-alloy, <0.5% phosphorus","",1462.0
 8172,"720120","Pig iron, non-alloy, >0.5% phosphorus","6digit","Pig iron, non-alloy, >0.5% phosphorus","","Pig iron, non-alloy, >0.5% phosphorus","",1462.0
 8173,"720130","Alloy pig iron, in primary forms","6digit","Alloy pig iron, in primary forms","","Alloy pig iron, primary forms","",1462.0
-8174,"720140","Spiegeleisen in primary forms","6digit","Spiegeleisen in primary forms","","Spiegeleisen in primary forms","",1462.0
+8174,"720140","Spiegeleisen in primary forms","6digit","Spiegeleisen in primary forms","","Spiegeleisen, primary forms","",1462.0
 8175,"720211","Ferro-manganese, >2% carbon","6digit","Ferro-manganese, >2% carbon","","Ferro-manganese, >2% carbon","",1463.0
 8176,"720219","Ferro-manganese, <2% carbon","6digit","Ferro-manganese, <2% carbon","","Ferro-manganese, <2% carbon","",1463.0
 8177,"720221","Ferro-silicon, >55% silicon","6digit","Ferro-silicon, >55% silicon","","Ferro-silicon, >55% silicon","",1463.0
@@ -4564,67 +4564,67 @@
 8201,"720529","Powders, iron or steel, other than alloy","6digit","Powders, iron or steel, other than alloy","","Powders, iron or steel, non-alloy","",1466.0
 8202,"720610","Iron or non-alloy steel in ingots, <99.94% iron","6digit","Iron or non-alloy steel in ingots, <99.94% iron","","Iron/non-alloy steel in ingots, <99.94% iron","",1467.0
 8203,"720690","Iron or non-alloy steel, primary nes, <99.94% iron","6digit","Iron or non-alloy steel, primary nes, <99.94% iron","","Iron/non-alloy steel, primary, <99.94% iron","",1467.0
-8204,"720711","Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes","6digit","Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes","","Rectangular iron/non-alloy steel bars, <.25%C, width<twice thicknes","",1468.0
+8204,"720711","Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes","6digit","Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes","","Rectangular iron/non-alloy steel bars, <.25%C, w<2xthick","",1468.0
 8205,"720712","Semi-finished bars, iron or non-alloy steel <0.25%C, rectangular, nes","6digit","Semi-finished bars, iron or non-alloy steel <0.25%C, rectangular, nes","","Semi-finished bars, iron/non-alloy steel <.25%C rectang","",1468.0
 8206,"720719","Semi-finished product, iron or non-alloy steel <0.25%C, nes","6digit","Semi-finished product, iron or non-alloy steel <0.25%C, nes","","Semi-finished iron/non-alloy steel <0.25%C","",1468.0
 8207,"720720","Semi-finished product, iron or non-alloy steel >0.25%C","6digit","Semi-finished product, iron or non-alloy steel >0.25%C","","Semi-finished iron/non-alloy steel >0.25%C","",1468.0
-8208,"720811","Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa","","Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa","",1469.0
-8209,"720812","Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa","","Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa","",1469.0
-8210,"720813","Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa","","Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa","",1469.0
-8211,"720814","Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa","","Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa","",1469.0
+8208,"720811","Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa","","Hot rolled iron/non-alloy steel, coil,w>600 t>10mm, 355mpa","",1469.0
+8209,"720812","Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa","","Hot rolled iron/non-aly steel coil w>.6m t4.75-10mm 355mpa","",1469.0
+8210,"720813","Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa","","Hot rolled iron/non-aly steel, coil,w>.6m t3-4.75mm 355mpa","",1469.0
+8211,"720814","Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa","6digit","Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa","","Hot rolled iron/non-alloy steel, coil,w>.6m t<3mm 275mpa","",1469.0
 8212,"720821","Hot rolled iron or non-alloy steel, coil,width >600mm, t >10mm, nes","6digit","Hot rolled iron or non-alloy steel, coil,width >600mm, t >10mm, nes","","Hot rolled iron/non-alloy steel, coil, w>600 t>10mm","",1469.0
 8213,"720822","Hot rolled iron or non-alloy steel, coil,width >600mm, t 4.75-10mm, nes","6digit","Hot rolled iron or non-alloy steel, coil,width >600mm, t 4.75-10mm, nes","","Hot rolled iron/non-alloy steel, coil, w>600 t 4.75-10mm","",1469.0
 8214,"720823","Hot rolled iron or non-alloy steel, coil,width >600mm, t 3-4.75mm, nes","6digit","Hot rolled iron or non-alloy steel, coil,width >600mm, t 3-4.75mm, nes","","Hot rolled iron/non-alloy steel, coil, w>600, t 3-4.75mm","",1469.0
 8215,"720824","Hot rolled iron or non-alloy steel, coil,width >600mm, t <3mm thick, ne","6digit","Hot rolled iron or non-alloy steel, coil,width >600mm, t <3mm thick, ne","","Hot rolled iron/non-alloy steel, coil, w>600 t<3mm","",1469.0
-8216,"720831","Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa","","Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa","",1469.0
-8217,"720832","Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa","","Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa","",1469.0
-8218,"720833","Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa","","Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa","",1469.0
-8219,"720834","Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa","","Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa","",1469.0
-8220,"720835","Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa","","Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa","",1469.0
-8221,"720841","Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes","6digit","Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes","","Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes","",1469.0
+8216,"720831","Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa","","Hot rolled iron/non-aly steel, flat w.6-1.25m t>4mm 355mpa","",1469.0
+8217,"720832","Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa","","Hot rolled iron/non-alloy steel, flat,w>600 t>10mm, 355mpa","",1469.0
+8218,"720833","Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa","","Hot rolled iron/non-aly steel flat w>.6m t4.75-10mm 355mpa","",1469.0
+8219,"720834","Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa","","Hot rolled iron/non-aly steel, flat w>.6m t3-4.75mm 355mpa","",1469.0
+8220,"720835","Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa","6digit","Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa","","Hot rolled iron/non-alloy steel, flat,w>600 t <3mm, 275mpa","",1469.0
+8221,"720841","Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes","6digit","Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes","","Hot rolled iron/non-alloy steel, flat,w600-1250 t>4mm, nes","",1469.0
 8222,"720842","Hot rolled iron or non-alloy steel, flat,width >600mm, t >10mm, nes","6digit","Hot rolled iron or non-alloy steel, flat,width >600mm, t >10mm, nes","","Hot rolled iron/non-alloy steel, flat, w>600 t>10mm","",1469.0
 8223,"720843","Hot rolled iron or non-alloy steel, flat,width >600mm, t 4.75-10mm, nes","6digit","Hot rolled iron or non-alloy steel, flat,width >600mm, t 4.75-10mm, nes","","Hot rolled iron/non-alloy steel, flat, w>600 t 4.75-10mm","",1469.0
 8224,"720844","Hot rolled iron or non-alloy steel, flat,width >600mm, t 3.0-4.75mm, ne","6digit","Hot rolled iron or non-alloy steel, flat,width >600mm, t 3.0-4.75mm, ne","","Hot rolled iron/non-alloy steel, flat, w>600 t 3-4.75mm","",1469.0
 8225,"720845","Hot rolled iron or non-alloy steel, flat,width >600mm, t <3mm, nes","6digit","Hot rolled iron or non-alloy steel, flat,width >600mm, t <3mm, nes","","Hot rolled iron/non-alloy steel, flat, w>600 t<3mm","",1469.0
 8226,"720890","Hot rolled iron or non-alloy steel, width >600mm, nes","6digit","Hot rolled iron or non-alloy steel, width >600mm, nes","","Hot rolled iron/non-alloy steel, w>600mm","",1469.0
-8227,"720911","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp","6digit","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp","","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp","",1470.0
-8228,"720912","Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa","6digit","Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa","","Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa","",1470.0
-8229,"720913","Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp","6digit","Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp","","Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp","",1470.0
-8230,"720914","Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa","6digit","Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa","","Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa","",1470.0
+8227,"720911","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp","6digit","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp","","Cold rolled iron/non-alloy steel, coil w>.6m t>3mm 355mpa","",1470.0
+8228,"720912","Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa","6digit","Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa","","Cold rolled iron/non-alloy steel, coil w>.6m t1-3mm 275mpa","",1470.0
+8229,"720913","Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp","6digit","Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp","","Cold rolled iron/non-alloy steel coil w>.6m t.5<1mm 275mpa","",1470.0
+8230,"720914","Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa","6digit","Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa","","Cold rolled iron/non-alloy steel, coil w>.6m t<.5mm, 275mpa","",1470.0
 8231,"720921","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, nes","6digit","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, nes","","Cold rolled iron/non-alloy steel, coil, w>600 t>3mm","",1470.0
 8232,"720922","Cold rolled iron or non-alloy steel, coil, width >600mm, t 1-3mm, nes","6digit","Cold rolled iron or non-alloy steel, coil, width >600mm, t 1-3mm, nes","","Cold rolled iron/non-alloy steel, coil, w>600 t 1-3mm","",1470.0
 8233,"720923","Cold rolled iron or non-alloy steel, coil, width >600mm, t 0.5-1mm, nes","6digit","Cold rolled iron or non-alloy steel, coil, width >600mm, t 0.5-1mm, nes","","Cold rolled iron/non-alloy steel, coil, w>600 t .5-1mm","",1470.0
 8234,"720924","Cold rolled iron or non-alloy steel, coil, width >600mm, t <0.5mm, nes","6digit","Cold rolled iron or non-alloy steel, coil, width >600mm, t <0.5mm, nes","","Cold rolled iron/non-alloy steel, coil, w>600 t<.5mm","",1470.0
-8235,"720931","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp","","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp","",1470.0
-8236,"720932","Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa","6digit","Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa","","Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa","",1470.0
-8237,"720933","Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa","6digit","Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa","","Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa","",1470.0
-8238,"720934","Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa","6digit","Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa","","Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa","",1470.0
+8235,"720931","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp","","Cold rolled iron/non-alloy steel, flat w>600 t>3mm 355mpa","",1470.0
+8236,"720932","Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa","6digit","Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa","","Cold rolled iron/non-alloy steel, flat w>600 t 1-3mm 355mpa","",1470.0
+8237,"720933","Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa","6digit","Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa","","Cold rolled iron/non-alloy steel, flat w>.6m t.5-1mm 355mpa","",1470.0
+8238,"720934","Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa","6digit","Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa","","Cold rolled iron/non-alloy steel, flat w>.6m t<0.5mm 355mpa","",1470.0
 8239,"720941","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, nes","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, nes","","Cold rolled iron/non-alloy steel, flat, w>600 t>3mm","",1470.0
 8240,"720942","Cold rolled iron or non-alloy steel, flat, width >600mm, t 1-3mm, nes","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, t 1-3mm, nes","","Cold rolled iron/non-alloy steel, flat, w>600 t 1-3mm","",1470.0
 8241,"720943","Cold rolled iron or non-alloy steel, flat, width >600mm, t 0.5-1mm, nes","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, t 0.5-1mm, nes","","Cold rolled iron/non-alloy steel, flat, w>600 t 0.5-1mm","",1470.0
 8242,"720944","Cold rolled iron or non-alloy steel, flat, width >600mm, t <0.5mm, nes","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, t <0.5mm, nes","","Cold rolled iron/non-alloy steel, flat, w>600 t<.5mm","",1470.0
 8243,"720990","Cold rolled iron or non-alloy steel, flat, width >600mm, nes","6digit","Cold rolled iron or non-alloy steel, flat, width >600mm, nes","","Cold rolled iron/non-alloy steel, flat, w>600mm","",1470.0
-8244,"721011","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m","6digit","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m","","Flat rolled iron/non-alloy steel, tin coated, w>600mm, t>0.5m","",1471.0
+8244,"721011","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m","6digit","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m","","Flat rolled iron/non-alloy steel, tin coated w>600mm t>0.5m","",1471.0
 8245,"721012","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t <0.5m","6digit","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t <0.5m","","Flat rolled iron/non-alloy steel, tin coated, w>600mm t<.5m","",1471.0
 8246,"721020","Flat rolled iron or non-alloy steel, coated with lead, width >600mm","6digit","Flat rolled iron or non-alloy steel, coated with lead, width >600mm","","Flat rolled iron/non-alloy steel, lead coated, w>600mm","",1471.0
-8247,"721031","Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355","6digit","Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355","","Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355","",1471.0
-8248,"721039","Flat rolled iron or non-alloy steel, electro plate/zinc,w >600mm, nes","6digit","Flat rolled iron or non-alloy steel, electro plate/zinc,w >600mm, nes","","Flat rolled iron/non-alloy steel, electro plate/zinc, w>600mm","",1471.0
-8249,"721041","Flat rolled iron or non-alloy steel, coat/zinc, corrugated, w >600m, ne","6digit","Flat rolled iron or non-alloy steel, coat/zinc, corrugated, w >600m, ne","","Flat rolled iron/non-alloy steel, coat/zinc, corrugated, w>600m","",1471.0
-8250,"721049","Flat rolled iron or non-alloy steel, coated with zinc, width >600mm, ne","6digit","Flat rolled iron or non-alloy steel, coated with zinc, width >600mm, ne","","Flat rolled iron/non-alloy steel, zinc coated, w>600mm","",1471.0
-8251,"721050","Flat rolled iron or non-alloy steel, coated chromium/oxides, w> 600 mm","6digit","Flat rolled iron or non-alloy steel, coated chromium/oxides, w> 600 mm","","Flat rolled iron/non-alloy steel, coated chromium/oxides, w>600 mm","",1471.0
-8252,"721060","Flat rolled iron or non-alloy steel, coated with aluminium, width>600mm","6digit","Flat rolled iron or non-alloy steel, coated with aluminium, width>600mm","","Flat rolled iron/non-alloy steel, aluminium coated, w>600mm","",1471.0
+8247,"721031","Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355","6digit","Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355","","Flat rolled iron/non-aly steel, elect-plate/zinc,<3/275,>3/355","",1471.0
+8248,"721039","Flat rolled iron or non-alloy steel, electro plate/zinc,w >600mm, nes","6digit","Flat rolled iron or non-alloy steel, electro plate/zinc,w >600mm, nes","","Flat rolled iron/non-alloy steel, electro plate/zinc, w>.6m","",1471.0
+8249,"721041","Flat rolled iron or non-alloy steel, coat/zinc, corrugated, w >600m, ne","6digit","Flat rolled iron or non-alloy steel, coat/zinc, corrugated, w >600m, ne","","Flat rolled iron/non-alloy steel, coat/zinc, corrugated, w>.6m","",1471.0
+8250,"721049","Flat rolled iron or non-alloy steel, coated with zinc, width >600mm, ne","6digit","Flat rolled iron or non-alloy steel, coated with zinc, width >600mm, ne","","Flat rolled iron/non-alloy steel, zinc coated, w>.6m","",1471.0
+8251,"721050","Flat rolled iron or non-alloy steel, coated chromium/oxides, w> 600 mm","6digit","Flat rolled iron or non-alloy steel, coated chromium/oxides, w> 600 mm","","Flat rolled iron/non-alloy steel, coated chrom/oxides, w>.6m","",1471.0
+8252,"721060","Flat rolled iron or non-alloy steel, coated with aluminium, width>600mm","6digit","Flat rolled iron or non-alloy steel, coated with aluminium, width>600mm","","Flat rolled iron/non-alloy steel, aluminium coated, w>.6m","",1471.0
 8253,"721070","Flat rolled iron or non-alloy steel, painted/plastic coated,width>600mm","6digit","Flat rolled iron or non-alloy steel, painted/plastic coated,width>600mm","","Flat rolled iron/non-alloy steel, plastic coated, w>600mm","",1471.0
-8254,"721090","Flat rolled iron or non-alloy steel, clad/plated/coated, w >600mm, nes","6digit","Flat rolled iron or non-alloy steel, clad/plated/coated, w >600mm, nes","","Flat rolled iron/non-alloy steel, clad/plated/coated, w>600mm","",1471.0
-8255,"721111","Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35","6digit","Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35","","Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35","",1472.0
-8256,"721112","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355","6digit","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355","","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355","",1472.0
-8257,"721119","Hot rolled iron or non-alloy steel, w <600mm, t<3mm myp275/t>3mm myp355","6digit","Hot rolled iron or non-alloy steel, w <600mm, t<3mm myp275/t>3mm myp355","","Hot rolled iron/non-alloy steel, w<600 t<3mm myp275/t>3mm myp355","",1472.0
-8258,"721121","Hot box rolled iron or non-alloy steel, flat, w 150-600mm,t >4mm, uncla","6digit","Hot box rolled iron or non-alloy steel, flat, w 150-600mm,t >4mm, uncla","","Hot box rolled iron/non-alloy steel, flat, w150-600 t >4mm, unclad","",1472.0
-8259,"721122","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, unclad nes","6digit","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, unclad nes","","Hot rolled iron/non-alloy steel, w<600 t>4.75mm, unclad","",1472.0
+8254,"721090","Flat rolled iron or non-alloy steel, clad/plated/coated, w >600mm, nes","6digit","Flat rolled iron or non-alloy steel, clad/plated/coated, w >600mm, nes","","Flat rolled iron/non-alloy steel, clad/plated/coated, w>.6m","",1471.0
+8255,"721111","Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35","6digit","Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35","","Hot box roll iron/non-aly steel, flat, w15-.6m t>4mm myp>35","",1472.0
+8256,"721112","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355","6digit","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355","","Hot rolled iron/non-alloy steel, w<600 t>4.75mm, myp355","",1472.0
+8257,"721119","Hot rolled iron or non-alloy steel, w <600mm, t<3mm myp275/t>3mm myp355","6digit","Hot rolled iron or non-alloy steel, w <600mm, t<3mm myp275/t>3mm myp355","","Hot rolled iron/non-aly steel, w<.6m t<3mm275/t>3mm355","",1472.0
+8258,"721121","Hot box rolled iron or non-alloy steel, flat, w 150-600mm,t >4mm, uncla","6digit","Hot box rolled iron or non-alloy steel, flat, w 150-600mm,t >4mm, uncla","","Hot box rolled iron/non-aly steel, flat w.15-.6m t>4, unclad","",1472.0
+8259,"721122","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, unclad nes","6digit","Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, unclad nes","","Hot rolled iron/non-aly steel, w<.6m t>4.75mm, unclad","",1472.0
 8260,"721129","Hot rolled iron or non-alloy steel, width <600mm unclad, nes","6digit","Hot rolled iron or non-alloy steel, width <600mm unclad, nes","","Hot rolled iron/non-alloy steel, w<600mm, unclad","",1472.0
-8261,"721130","Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35","6digit","Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35","","Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35","",1472.0
+8261,"721130","Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35","6digit","Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35","","Cold rolled iron/non-aly steel, w<.6m <3mm, myp275, >3-35","",1472.0
 8262,"721141","Flat rolled iron or non-alloy steel, width <600mm, unclad, <0.25% C, ne","6digit","Flat rolled iron or non-alloy steel, width <600mm, unclad, <0.25% C, ne","","Flat rolled iron/non-alloy steel, w<600mm, unclad, <.25%C","",1472.0
 8263,"721149","Flat rolled iron or non-alloy steel, width <600mm, unclad, nes","6digit","Flat rolled iron or non-alloy steel, width <600mm, unclad, nes","","Flat rolled iron/non-alloy steel, w<600mm, unclad","",1472.0
-8264,"721190","Flat rolled iron or non-alloy steel, width <600mm, unclad, nes","6digit","Flat rolled iron or non-alloy steel, width <600mm, unclad, nes","","Flat rolled iron/non-alloy steel, w<600mm, unclad","",1472.0
+8264,"721190","Flat rolled iron or non-alloy steel, width <600mm, unclad, nes","6digit","Flat rolled iron or non-alloy steel, width <600mm, unclad, nes","","Flat rolled iron/non-alloy steel, w<600mm, unclad, nes","",1472.0
 8265,"721210","Flat rolled iron or non-alloy steel, width <600mm, plated with tin","6digit","Flat rolled iron or non-alloy steel, width <600mm, plated with tin","","Flat rolled iron/non-alloy steel, w<600mm, tin plated","",1473.0
 8266,"721221","Flat rolled steel, <600mm, zinc plate,<3mm-275/3mm-35","6digit","Flat rolled steel, <600mm, zinc plate,<3mm-275/3mm-35","","Flat rolled steel, <600mm, zinc plate,<3mm-275/3mm-35","",1473.0
 8267,"721229","Flat rolled steel, <600mm, electro-plated zinc, nes","6digit","Flat rolled steel, <600mm, electro-plated zinc, nes","","Flat rolled steel, <600mm, electro-plated zinc","",1473.0
@@ -4632,25 +4632,25 @@
 8269,"721240","Flat rolled iron or non-alloy steel, <600mm, painted/plastic coated","6digit","Flat rolled iron or non-alloy steel, <600mm, painted/plastic coated","","Flat rolled iron/non-alloy steel, <600mm, plastic coated","",1473.0
 8270,"721250","Flat rolled iron or non-alloy steel, <600mm, plated/coated, nes","6digit","Flat rolled iron or non-alloy steel, <600mm, plated/coated, nes","","Flat rolled iron/non-alloy steel, <600mm, plated/coated","",1473.0
 8271,"721260","Flat rolled iron or non-alloy steel, width <600mm, clad","6digit","Flat rolled iron or non-alloy steel, width <600mm, clad","","Flat rolled iron/non-alloy steel, w<600mm, clad","",1473.0
-8272,"721310","Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils","6digit","Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils","","Hot rolled bar/rod grooved iron/non-alloy steel, irregular coils","",1474.0
+8272,"721310","Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils","6digit","Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils","","Hot rolled bar/rod grooved iron/non-aly steel, irregular coils","",1474.0
 8273,"721320","Hot rolled bar/rod, irregular coils,free cutting stee","6digit","Hot rolled bar/rod, irregular coils,free cutting stee","","Hot rolled bar/rod, irregular coils, free cutting steel","",1474.0
-8274,"721331","Hot rolled bar/rod, iron or non-alloy steel, coiled width <14mm, C<.25%","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled width <14mm, C<.25%","","Hot rolled bar/rod, iron/non-alloy steel, coiled, w<14mm C<.25%","",1474.0
+8274,"721331","Hot rolled bar/rod, iron or non-alloy steel, coiled width <14mm, C<.25%","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled width <14mm, C<.25%","","Hot rolled bar/rod, iron/non-aly steel coiled w<.14m C<.25%","",1474.0
 8275,"721339","Hot rolled bar/rod, iron or non-alloy steel, coiled, C<.25%, nes","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled, C<.25%, nes","","Hot rolled bar/rod, iron/non-alloy steel, coiled, C<.25%","",1474.0
-8276,"721341","Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%","","Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%","",1474.0
-8277,"721349","Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%","","Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%","",1474.0
+8276,"721341","Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%","","Hot rolled bar, iron/non-aly steel, coiled w<.14m, C.25-.6%","",1474.0
+8277,"721349","Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%","6digit","Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%","","Hot rolled bar/rod, iron/non-alloy steel, coiled, C.25-.6%","",1474.0
 8278,"721350","Bar/rod, iron or non-alloy steel, irregular coils, >0.6%C, nes","6digit","Bar/rod, iron or non-alloy steel, irregular coils, >0.6%C, nes","","Bar/rod, iron/non-alloy steel, irregular coils, >.6%C","",1474.0
 8279,"721410","Bar/rod, iron or non-alloy steel, forged","6digit","Bar/rod, iron or non-alloy steel, forged","","Bar/rod, iron/non-alloy steel, forged","",1475.0
 8280,"721420","Bar/rod, iron or non-alloy steel, indented or twisted, nes","6digit","Bar/rod, iron or non-alloy steel, indented or twisted, nes","","Bar/rod, iron/non-alloy steel, indent/twisted","",1475.0
 8281,"721430","Bar/rod, iron or non-alloy steel, of free cutting steel, nes","6digit","Bar/rod, iron or non-alloy steel, of free cutting steel, nes","","Bar/rod, iron/non-alloy steel, free cutting steel","",1475.0
 8282,"721440","Bar/rod, iron or non-alloy steel, hot formed <0.25%C, nes","6digit","Bar/rod, iron or non-alloy steel, hot formed <0.25%C, nes","","Bar/rod, iron/non-alloy steel, hot formed <.25%C","",1475.0
-8283,"721450","Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes","6digit","Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes","","Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes","",1475.0
-8284,"721460","Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes","6digit","Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes","","Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes","",1475.0
+8283,"721450","Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes","6digit","Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes","","Bar/rod, iron/non-alloy steel, hot formed .25-.6%C, nes","",1475.0
+8284,"721460","Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes","6digit","Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes","","Bar/rod, iron/non-alloy steel, hot formed >.6%C, nes","",1475.0
 8285,"721510","Bar/rod, cold formed/finished free cutting steel","6digit","Bar/rod, cold formed/finished free cutting steel","","Bar/rod, cold formed/finished free cutting steel","",1476.0
 8286,"721520","Bar/rod, iron or non-alloy steel, cold formed/finished, <0.25%C","6digit","Bar/rod, iron or non-alloy steel, cold formed/finished, <0.25%C","","Bar/rod, iron/non-alloy steel, cold form/finished, <.25%C","",1476.0
-8287,"721530","Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C","6digit","Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C","","Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C","",1476.0
+8287,"721530","Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C","6digit","Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C","","Bar/rod, iron/non-alloy steel, cold form/finished, .25-.6%C","",1476.0
 8288,"721540","Bar/rod, iron or non-alloy steel, cold formed/finished, >0.6%C","6digit","Bar/rod, iron or non-alloy steel, cold formed/finished, >0.6%C","","Bar/rod, iron/non-alloy steel, cold form/finished, >.6%C","",1476.0
 8289,"721590","Bar/rod, iron or non-alloy steel, nes","6digit","Bar/rod, iron or non-alloy steel, nes","","Bar/rod, iron/non-alloy steel, nes","",1476.0
-8290,"721610","Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm","6digit","Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm","","Sections, U/I/H, iron/non-alloy steel, nfw hot formed <80mm","",1477.0
+8290,"721610","Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm","6digit","Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm","","Sections U/I/H, iron/non-alloy steel, nfw hot formed <80mm","",1477.0
 8291,"721621","Sections, L, iron or non-alloy steel, nfw hot-roll/drawn/extruded < 80m","6digit","Sections, L, iron or non-alloy steel, nfw hot-roll/drawn/extruded < 80m","","Sections, L, iron/non-alloy steel, <80m","",1477.0
 8292,"721622","Sections, T, iron or non-alloy steel, nfw hot-roll/drawn/extruded < 80m","6digit","Sections, T, iron or non-alloy steel, nfw hot-roll/drawn/extruded < 80m","","Sections, T, iron/non-alloy steel, <80m","",1477.0
 8293,"721631","Sections, U, iron or non-alloy steel, nfw hot-roll/drawn/extruded > 80m","6digit","Sections, U, iron or non-alloy steel, nfw hot-roll/drawn/extruded > 80m","","Sections, U, iron/non-alloy steel, >80m","",1477.0
@@ -4662,15 +4662,15 @@
 8299,"721690","Angles/shapes/sections, iron or non-alloy steel, nes","6digit","Angles/shapes/sections, iron or non-alloy steel, nes","","Angles/shapes/sections, iron/non-alloy steel","",1477.0
 8300,"721711","Wire, iron or non-alloy steel, not plated or coated, <0.25%C","6digit","Wire, iron or non-alloy steel, not plated or coated, <0.25%C","","Wire, iron/non-alloy steel, <.25%C","",1478.0
 8301,"721712","Wire, iron or non-alloy steel, plated or coated with zinc <0.25%C","6digit","Wire, iron or non-alloy steel, plated or coated with zinc <0.25%C","","Wire, iron/non-alloy steel, zinc plated/coated <.25%C","",1478.0
-8302,"721713","Wire, iron or non-alloy steel, of base metal plated/coated nes, <0.25%C","6digit","Wire, iron or non-alloy steel, of base metal plated/coated nes, <0.25%C","","Wire, iron/non-alloy steel, base metal plated/coated, <.25%C","",1478.0
-8303,"721719","Wire, iron or non-alloy steel, <0.25% carbon, nes","6digit","Wire, iron or non-alloy steel, <0.25% carbon, nes","","Wire, iron or non-alloy steel, <0.25% carbon, nes","",1478.0
-8304,"721721","Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C","6digit","Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C","","Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C","",1478.0
-8305,"721722","Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C","6digit","Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C","","Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C","",1478.0
-8306,"721723","Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C","6digit","Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C","","Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C","",1478.0
-8307,"721729","Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes","6digit","Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes","","Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes","",1478.0
-8308,"721731","Wire, iron or non-alloy steel, not plated or coated, >0.6%C","6digit","Wire, iron or non-alloy steel, not plated or coated, >0.6%C","","Wire, iron or non-alloy steel, not plated or coated, >0.6%C","",1478.0
-8309,"721732","Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C","6digit","Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C","","Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C","",1478.0
-8310,"721733","Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C","6digit","Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C","","Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C","",1478.0
+8302,"721713","Wire, iron or non-alloy steel, of base metal plated/coated nes, <0.25%C","6digit","Wire, iron or non-alloy steel, of base metal plated/coated nes, <0.25%C","","Wire, iron/non-alloy steel, base metal plate/coated, <.25%C","",1478.0
+8303,"721719","Wire, iron or non-alloy steel, <0.25% carbon, nes","6digit","Wire, iron or non-alloy steel, <0.25% carbon, nes","","Wire, iron/non-alloy steel, <.25% carbon, nes","",1478.0
+8304,"721721","Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C","6digit","Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C","","Wire, iron/non-alloy steel, not plated/coated, .25-.6%C","",1478.0
+8305,"721722","Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C","6digit","Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C","","Wire, iron/non-alloy steel, zinc plated/coated, .25-.6%C","",1478.0
+8306,"721723","Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C","6digit","Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C","","Wire, iron/non-alloy steel, base metal plate/coated .25-.6%C","",1478.0
+8307,"721729","Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes","6digit","Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes","","Wire, iron/non-alloy steel, .25-.6% carbon, nes","",1478.0
+8308,"721731","Wire, iron or non-alloy steel, not plated or coated, >0.6%C","6digit","Wire, iron or non-alloy steel, not plated or coated, >0.6%C","","Wire, iron/non-alloy steel, not plated/coated, >.6%C","",1478.0
+8309,"721732","Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C","6digit","Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C","","Wire, iron/non-alloy steel, zinc plated/coated, >.6%C","",1478.0
+8310,"721733","Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C","6digit","Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C","","Wire, iron/non-alloy steel, base metal plated/coated, >.6%C","",1478.0
 8311,"721739","Wire, iron or non-alloy steel, more than 0.6% carbon, nes","6digit","Wire, iron or non-alloy steel, more than 0.6% carbon, nes","","Wire, iron/non-alloy steel, >.6%C","",1478.0
 8312,"721810","Ingots and other primary forms, stainless steel","6digit","Ingots and other primary forms, stainless steel","","Ingots & primary forms, stainless steel","",1479.0
 8313,"721890","Semi-finished products, stainless steel","6digit","Semi-finished products, stainless steel","","Semi-finished products, of stainless steel","",1479.0
@@ -4728,7 +4728,7 @@
 8365,"730110","Sheet piling of iron or steel","6digit","Sheet piling of iron or steel","","Sheet piling of iron or steel","",1491.0
 8366,"730120","Angles, shapes and sections, welded, iron or steel","6digit","Angles, shapes and sections, welded, iron or steel","","Angles, shapes, iron or steel, welded","",1491.0
 8367,"730210","Railway/tramway rails, iron or steel","6digit","Railway/tramway rails, iron or steel","","Rails, iron","",1492.0
-8368,"730220","Sleepers (cross-ties), iron or steel","6digit","Sleepers (cross-ties), iron or steel","","Sleepers (cross-ties), iron or steel","",1492.0
+8368,"730220","Sleepers (cross-ties), iron or steel","6digit","Sleepers (cross-ties), iron or steel","","Sleepers, iron or steel","",1492.0
 8369,"730230","Railway/tramway switch/crossing material, iron/steel","6digit","Railway/tramway switch/crossing material, iron/steel","","Rail crossing material, iron","",1492.0
 8370,"730240","Railway fish plates and sole plates, iron or steel","6digit","Railway fish plates and sole plates, iron or steel","","Rail sole plates, iron","",1492.0
 8371,"730290","Rail/tramway construction material of iron/steel, nes","6digit","Rail/tramway construction material of iron/steel, nes","","Rail construction material, iron","",1492.0
@@ -4860,7 +4860,7 @@
 8497,"740620","Powders, copper, of lamellar structure and flakes","6digit","Powders, copper, of lamellar structure and flakes","","Powders, copper, lamellar","",1522.0
 8498,"740710","Bars, rods & profiles of refined copper","6digit","Bars, rods & profiles of refined copper","","Bars, refined copper","",1523.0
 8499,"740721","Bars, rods & profiles of copper-zinc base alloys","6digit","Bars, rods & profiles of copper-zinc base alloys","","Bars, copper-zinc alloys","",1523.0
-8500,"740722","Bar, rod, profiles, copper-nickel, copper-nickel-zinc","6digit","Bar, rod, profiles, copper-nickel, copper-nickel-zinc","","Bars, copper-zinc alloys","",1523.0
+8500,"740722","Bar, rod, profiles, copper-nickel, copper-nickel-zinc","6digit","Bar, rod, profiles, copper-nickel, copper-nickel-zinc","","Bars, copper-nickel, copper-nicket-zinc","",1523.0
 8501,"740729","Bars, rods & profiles, copper alloy nes","6digit","Bars, rods & profiles, copper alloy nes","","Bars, copper alloy nes","",1523.0
 8502,"740811","Wire of refined copper > 6mm wide","6digit","Wire of refined copper > 6mm wide","","Wire, refined copper, >6mm","",1524.0
 8503,"740819","Wire of refined copper < 6mm wide","6digit","Wire of refined copper < 6mm wide","","Wire, refined copper, <6mm","",1524.0
@@ -4891,7 +4891,7 @@
 8528,"741510","Copper nails, tacks, drawing pins, staples etc","6digit","Copper nails, tacks, drawing pins, staples etc","","Copper nails","",1531.0
 8529,"741521","Copper washers, including spring washers","6digit","Copper washers, including spring washers","","Copper washers","",1531.0
 8530,"741529","Copper cotters/cotter pins/unthreaded hardware nes","6digit","Copper cotters/cotter pins/unthreaded hardware nes","","Copper cotters","",1531.0
-8531,"741531","Wood screws of copper and copper alloys","6digit","Wood screws of copper and copper alloys","","Wood screws of copper and copper alloys","",1531.0
+8531,"741531","Wood screws of copper and copper alloys","6digit","Wood screws of copper and copper alloys","","Wood screws of copper/alloys","",1531.0
 8532,"741532","Copper screws, bolts or nuts except wood screws","6digit","Copper screws, bolts or nuts except wood screws","","Copper screws","",1531.0
 8533,"741539","Copper screw hooks and similar articles","6digit","Copper screw hooks and similar articles","","Copper screw hooks","",1531.0
 8534,"741600","Copper springs","6digit","Copper springs","","Copper springs","",1532.0
@@ -4955,9 +4955,9 @@
 8592,"780191","Lead unwrought containing mostly antimony","6digit","Lead unwrought containing mostly antimony","","Lead, unwrought, mostly antimony","",1560.0
 8593,"780199","Lead unwrought nes","6digit","Lead unwrought nes","","Lead, unwrought, nes","",1560.0
 8594,"780200","Lead waste or scrap","6digit","Lead waste or scrap","","Lead waste","",1561.0
-8595,"780300","Lead bars, rods, profiles and wire","6digit","Lead bars, rods, profiles and wire","","Lead bars","",1562.0
+8595,"780300","Lead bars, rods, profiles and wire","6digit","Lead bars, rods, profiles and wire","","Lead bars, wire","",1562.0
 8596,"780411","Lead foil of a thickness <2mm","6digit","Lead foil of a thickness <2mm","","Lead foil, <2mm","",1563.0
-8597,"780419","Lead plates, sheet, strip","6digit","Lead plates, sheet, strip","","Lead bars","",1563.0
+8597,"780419","Lead plates, sheet, strip","6digit","Lead plates, sheet, strip","","Lead plates, strip","",1563.0
 8598,"780420","Lead powders and flakes","6digit","Lead powders and flakes","","Lead flakes","",1563.0
 8599,"780500","Lead tubes, pipes and fittings","6digit","Lead tubes, pipes and fittings","","Lead tubes","",1564.0
 8600,"780600","Articles of lead nes","6digit","Articles of lead nes","","Articles of lead, nes","",1565.0
@@ -4970,7 +4970,7 @@
 8607,"790400","Zinc bars, rods, profiles and wire","6digit","Zinc bars, rods, profiles and wire","","Zinc bars","",1569.0
 8608,"790500","Zinc plates, sheets, strip and foil","6digit","Zinc plates, sheets, strip and foil","","Zinc sheets","",1570.0
 8609,"790600","Zinc tubes, pipes and tube or pipe fittings","6digit","Zinc tubes, pipes and tube or pipe fittings","","Zinc tubes","",1571.0
-8610,"790710","Zinc fabricated building components (gutters,etc)","6digit","Zinc fabricated building components (gutters,etc)","","Zinc fabricated building components (gutters,etc)","",1572.0
+8610,"790710","Zinc fabricated building components (gutters,etc)","6digit","Zinc fabricated building components (gutters,etc)","","Zinc fabricated building components","",1572.0
 8611,"790790","Articles of zinc nes","6digit","Articles of zinc nes","","Zinc articles nes","",1572.0
 8612,"800110","Tin not alloyed unwrought","6digit","Tin not alloyed unwrought","","Tin, unwrought","",1573.0
 8613,"800120","Tin alloys unwrought","6digit","Tin alloys unwrought","","Tin alloys, unwrought","",1573.0
@@ -4978,7 +4978,7 @@
 8615,"800300","Tin bars, rods, profiles and wire","6digit","Tin bars, rods, profiles and wire","","Tin bars","",1575.0
 8616,"800400","Tin plates, sheets and strips, thickness > 0.2 mm","6digit","Tin plates, sheets and strips, thickness > 0.2 mm","","Tin sheets","",1576.0
 8617,"800510","Tin foil (thickness < 0.2 mm)","6digit","Tin foil (thickness < 0.2 mm)","","Tin foil, <0.2mm","",1577.0
-8618,"800520","Tin powder and flakes","6digit","Tin powder and flakes","","Tin powder and flakes","",1577.0
+8618,"800520","Tin powder and flakes","6digit","Tin powder and flakes","","Tin powder & flakes","",1577.0
 8619,"800600","Tin pipes or tubes and pipe fittings","6digit","Tin pipes or tubes and pipe fittings","","Tin pipes","",1578.0
 8620,"800700","Tin articles nes","6digit","Tin articles nes","","Tin articles nes","",1579.0
 8621,"810110","Powders, tungsten (wolfram)","6digit","Powders, tungsten (wolfram)","","Powders, tungsten","",1580.0
@@ -5526,9 +5526,9 @@
 9163,"846890","Welding machinery parts","6digit","Welding machinery parts","","Welding machinery parts","",1686.0
 9164,"846910","Automatic typewriters and word-processing machines","6digit","Automatic typewriters and word-processing machines","","Automatic typewriters, word-processers","",1687.0
 9165,"846921","Typewriters, electric, > 12 kg, non-automatic","6digit","Typewriters, electric, > 12 kg, non-automatic","","Typewriters, electric, >12kg","",1687.0
-9166,"846929","Typewriters, electric, < 12 kg, non-automatic","6digit","Typewriters, electric, < 12 kg, non-automatic","","Typewriters, electric, < 12 kg, non-automatic","",1687.0
+9166,"846929","Typewriters, electric, < 12 kg, non-automatic","6digit","Typewriters, electric, < 12 kg, non-automatic","","Typewriters, electric, <12kg","",1687.0
 9167,"846931","Typewriters, non-electric, > 12 kg","6digit","Typewriters, non-electric, > 12 kg","","Typewriters, non-electric, >12kg","",1687.0
-9168,"846939","Typewriters, non-electric < 12 kg","6digit","Typewriters, non-electric < 12 kg","","Typewriters, non-electric < 12 kg","",1687.0
+9168,"846939","Typewriters, non-electric < 12 kg","6digit","Typewriters, non-electric < 12 kg","","Typewriters, non-electric, <12kg","",1687.0
 9169,"847010","Electronic calculators operable with internal power","6digit","Electronic calculators operable with internal power","","Electronic calculators, internal power","",1688.0
 9170,"847021","Electronic calculators, printing, external power","6digit","Electronic calculators, printing, external power","","Electronic calculators, printing, external power","",1688.0
 9171,"847029","Electronic calculators, non-printing, external power","6digit","Electronic calculators, non-printing, external power","","Electronic calculators, non-printing, ext power","",1688.0
@@ -5657,7 +5657,7 @@
 9294,"850612","Mercuric oxide primary cell, battery, volume < 300 cc","6digit","Mercuric oxide primary cell, battery, volume < 300 cc","","Mercuric oxide primary cell/battery, vol<300cc","",1709.0
 9295,"850613","Silver oxide primary cells, batteries volume < 300 cc","6digit","Silver oxide primary cells, batteries volume < 300 cc","","Silver oxide primary cell/battery vol<300cc","",1709.0
 9296,"850619","Primary cells, primary batteries nes, volume < 300 cc","6digit","Primary cells, primary batteries nes, volume < 300 cc","","Primary cells/batteries, vol<300cc","",1709.0
-9297,"850620","Primary cells, primary batteries nes, volume > 300 cc","6digit","Primary cells, primary batteries nes, volume > 300 cc","","Primary cells, primary batteries nes, volume > 300 cc","",1709.0
+9297,"850620","Primary cells, primary batteries nes, volume > 300 cc","6digit","Primary cells, primary batteries nes, volume > 300 cc","","Primary cells/batteries, vol>300cc","",1709.0
 9298,"850690","Parts of primary cells and primary batteries","6digit","Parts of primary cells and primary batteries","","Parts of primary cells & batteries","",1709.0
 9299,"850710","Lead-acid electric accumulators (vehicle)","6digit","Lead-acid electric accumulators (vehicle)","","Vehicle lead-acid electric accumulators","",1710.0
 9300,"850720","Lead-acid electric accumulators except for vehicles","6digit","Lead-acid electric accumulators except for vehicles","","Lead-acid electric accumulators, non-vehicle","",1710.0
@@ -5889,7 +5889,7 @@
 9526,"860400","Railway maintenance-of-way service vehicles","6digit","Railway maintenance-of-way service vehicles","","Railway maintenance vehicles","",1755.0
 9527,"860500","Railway passenger and special purpose coaches","6digit","Railway passenger and special purpose coaches","","Railway passenger/special purpose coaches","",1756.0
 9528,"860610","Railway tank cars","6digit","Railway tank cars","","Railway tank cars","",1757.0
-9529,"860620","Railway wagons, insulated/refrigerated except tank ca","6digit","Railway wagons, insulated/refrigerated except tank ca","","Railway wagons, insulated/refrigerated except tank ca","",1757.0
+9529,"860620","Railway wagons, insulated/refrigerated except tank ca","6digit","Railway wagons, insulated/refrigerated except tank ca","","Railway wagons, insulated","",1757.0
 9530,"860630","Railway cars, self-discharging, nes","6digit","Railway cars, self-discharging, nes","","Railway cars, self-discharging","",1757.0
 9531,"860691","Railway cars nes, closed and covered","6digit","Railway cars nes, closed and covered","","Railway cars, closed & covered","",1757.0
 9532,"860692","Railway cars nes, open, with sides > 60 cm high","6digit","Railway cars nes, open, with sides > 60 cm high","","Railway cars, open, >60cm sides","",1757.0
@@ -6045,8 +6045,8 @@
 9682,"900699","Parts and accessories for flashlights and flashbulbs","6digit","Parts and accessories for flashlights and flashbulbs","","Parts/accessories for flashlights/bulbs","",1795.0
 9683,"900711","Cinematographic cameras for film <16mm wide","6digit","Cinematographic cameras for film <16mm wide","","Cinematographic cameras for film <16mm wide","",1796.0
 9684,"900719","Cinematographic cameras for film >16mm wide","6digit","Cinematographic cameras for film >16mm wide","","Cinematographic cameras for film >16mm wide","",1796.0
-9685,"900721","Cinematographic projectors for film of <16 mm width","6digit","Cinematographic projectors for film of <16 mm width","","Cinematographic projectors for film of <16 mm width","",1796.0
-9686,"900729","Cinematographic projectors for film of >16 mm width","6digit","Cinematographic projectors for film of >16 mm width","","Cinematographic projectors for film of >16 mm width","",1796.0
+9685,"900721","Cinematographic projectors for film of <16 mm width","6digit","Cinematographic projectors for film of <16 mm width","","Cinematographic projectors for film of w <16mm","",1796.0
+9686,"900729","Cinematographic projectors for film of >16 mm width","6digit","Cinematographic projectors for film of >16 mm width","","Cinematographic projectors for film of w >16mm","",1796.0
 9687,"900791","Parts and accessories for cinematographic cameras","6digit","Parts and accessories for cinematographic cameras","","Parts and accessories for cinematographic cameras","",1796.0
 9688,"900792","Parts and accessories for cinematographic projectors","6digit","Parts and accessories for cinematographic projectors","","Parts and accessories for cinematographic projectors","",1796.0
 9689,"900810","Slide projectors","6digit","Slide projectors","","Slide projectors","",1797.0
@@ -6195,7 +6195,7 @@
 9832,"910812","Assembled battery watch movement,opto-electric displa","6digit","Assembled battery watch movement,opto-electric displa","","Watch movement, battery, opto-electric display","",1830.0
 9833,"910819","Assembled battery watch movement, nes","6digit","Assembled battery watch movement, nes","","Watch movement, battery nes","",1830.0
 9834,"910820","Watch movements, complete and assembled, auto-winding","6digit","Watch movements, complete and assembled, auto-winding","","Watch movements, auto-winding","",1830.0
-9835,"910891","Watch movements, complete and assembled, nes, <33.8mm","6digit","Watch movements, complete and assembled, nes, <33.8mm","","Watch movements, complete and assembled, nes, <33.8mm","",1830.0
+9835,"910891","Watch movements, complete and assembled, nes, <33.8mm","6digit","Watch movements, complete and assembled, nes, <33.8mm","","Watch movements, nes, <33.8mm","",1830.0
 9836,"910899","Watch movements, complete and assembled, nes","6digit","Watch movements, complete and assembled, nes","","Watch movements, nes","",1830.0
 9837,"910911","Clock movements, complete and assembled, battery/alar","6digit","Clock movements, complete and assembled, battery/alar","","Clock movements, battery/alarm","",1831.0
 9838,"910919","Clock movements, complete and assembled, battery nes","6digit","Clock movements, complete and assembled, battery nes","","Clock movements, battery nes","",1831.0
@@ -6208,7 +6208,7 @@
 9845,"911120","Watch cases of base metal including gold/silver-plate","6digit","Watch cases of base metal including gold/silver-plate","","Watch cases of base metal","",1833.0
 9846,"911180","Watch cases, nes","6digit","Watch cases, nes","","Watch cases, nes","",1833.0
 9847,"911190","Parts of watch cases","6digit","Parts of watch cases","","Parts of watch cases","",1833.0
-9848,"911210","Clock, etc cases, of metal","6digit","Clock, etc cases, of metal","","Clock, etc cases, of metal","",1834.0
+9848,"911210","Clock, etc cases, of metal","6digit","Clock, etc cases, of metal","","Clock cases, of metal","",1834.0
 9849,"911280","Clock, etc cases, except metal","6digit","Clock, etc cases, except metal","","Clock cases, except metal","",1834.0
 9850,"911290","Parts of clock/etc cases","6digit","Parts of clock/etc cases","","Parts of clock cases","",1834.0
 9851,"911310","Watch straps etc & parts, of/clad with precious metal","6digit","Watch straps etc & parts, of/clad with precious metal","","Watch straps, of/clad with precious metal","",1835.0
@@ -6380,7 +6380,7 @@
 10017,"961330","Table lighters","6digit","Table lighters","","Table lighters","",1879.0
 10018,"961380","Lighters, nes","6digit","Lighters, nes","","Lighters, nes","",1879.0
 10019,"961390","Parts of lighters, other than flints/wicks","6digit","Parts of lighters, other than flints/wicks","","Parts of lighters, other than flints/wicks","",1879.0
-10020,"961410","Roughly shaped blocks of wood or root, for pipes","6digit","Roughly shaped blocks of wood or root, for pipes","","Roughly shaped blocks of wood or root, for pipes","",1880.0
+10020,"961410","Roughly shaped blocks of wood or root, for pipes","6digit","Roughly shaped blocks of wood or root, for pipes","","Wood/root blocks, for pipes","",1880.0
 10021,"961420","Smoking pipes and pipe bowls","6digit","Smoking pipes and pipe bowls","","Smoking pipes & bowls","",1880.0
 10022,"961490","Cigar or cigarette holders and parts, pipe stems","6digit","Cigar or cigarette holders and parts, pipe stems","","Cigar/ette holders, pipe stems","",1880.0
 10023,"961511","Combs, hair-slides etc of hard rubber or plastic","6digit","Combs, hair-slides etc of hard rubber or plastic","","Combs, hard rubber or plastic","",1881.0
@@ -6397,7 +6397,7 @@
 10034,"970400","Used postage and revenue stamps, first day covers, et","6digit","Used postage and revenue stamps, first day covers, et","","Used postage stamps","",1888.0
 10035,"970500","Collections and collectors pieces","6digit","Collections and collectors pieces","","Collections & collectors pieces","",1889.0
 10036,"970600","Antiques older than one hundred years","6digit","Antiques older than one hundred years","","Antiques","",1890.0
-10037,"999999","Commodities not specified according to kind","6digit","Commodities not specified according to kind","","Commodities not specified according to kind","",1891.0
+10037,"999999","Commodities not specified according to kind","6digit","Commodities not specified according to kind","","Commodities not specified, according to kind","",1891.0
 10038,"9999AA","Commodities not specified according to kind","6digit","Commodities not specified according to kind","","Commodities not specified according to kind","",1891.0
 10039,"XXXXXX","Trade data discrepancies","6digit","Trade data discrepancies","Trade data discrepancies","Trade data discrepancies","Trade data discrepancies",1892.0
 11000,"unspecified","Unspecified","6digit","Unspecified","Unspecified","Unspecified","Unspecified",4000.0

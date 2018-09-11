@@ -1406,7 +1406,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 020741	6digit	Domestic fowl cuts & offal (frozen)			Domestic fowl meat, frozen
 020742	6digit	Turkey cuts and offal (frozen)			Turkey meat, frozen
 020743	6digit	Duck, goose, guinea fowl cuts & offal (frozen)			Duck meat, frozen
-020750	6digit	Poultry livers, domestic, frozen			Poultry livers, domestic, frozen
+020750	6digit	Poultry livers, domestic, frozen			Poultry livers, frozen
 020810	6digit	Rabbit or hare meat and offal			Rabbit meat and offal
 020820	6digit	Frog legs			Frog legs
 020890	6digit	Meat and offal, nes			Meat and offal, nes
@@ -1586,32 +1586,32 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 070960	6digit	Peppers (Capsicum, Pimenta) fresh or chilled			Peppers
 070970	6digit	Spinach fresh or chilled			Spinach
 070990	6digit	Vegetables, fresh or chilled nes			Vegetables, nes
-071010	6digit	Potatoes, frozen, uncooked steamed or boiled			Potatoes (frozen)
-071021	6digit	Peas, frozen, uncooked steamed or boiled			Peas (frozen)
-071022	6digit	Beans, frozen, uncooked steamed or boiled			Beans (frozen)
-071029	6digit	Legumes, except peas and beans, frozen			Other legumes (frozen)
-071030	6digit	Spinach, frozen, uncooked steamed or boiled			Spinach (frozen)
-071040	6digit	Sweet corn, frozen, uncooked steamed or boiled			Sweet corn (frozen)
-071080	6digit	Vegetables, frozen nes, uncooked steamed or boiled			Vegetables, nes (frozen)
-071090	6digit	Frozen vegetable mixtures, uncooked, boiled or steame			Vegetable mixtures (frozen)
-071110	6digit	Onions, provisionally preserved			Preserved Onions
+071010	6digit	Potatoes, frozen, uncooked steamed or boiled			Potatoes, frozen
+071021	6digit	Peas, frozen, uncooked steamed or boiled			Peas, frozen
+071022	6digit	Beans, frozen, uncooked steamed or boiled			Beans, frozen
+071029	6digit	Legumes, except peas and beans, frozen			Other legumes, frozen
+071030	6digit	Spinach, frozen, uncooked steamed or boiled			Spinach, frozen
+071040	6digit	Sweet corn, frozen, uncooked steamed or boiled			Sweet corn, frozen
+071080	6digit	Vegetables, frozen nes, uncooked steamed or boiled			Vegetables nes, frozen
+071090	6digit	Frozen vegetable mixtures, uncooked, boiled or steame			Vegetable mixtures, frozen
+071110	6digit	Onions, provisionally preserved			Preserved onions
 071120	6digit	Olives, provisionally preserved			Preserved olives
 071130	6digit	Capers, provisionally preserved			Preserved capers
 071140	6digit	Cucumbers and gherkins provisionally preserved			Preserved cucumbers
 071190	6digit	Vegetables nes and mixtures provisionally preserved			Preserved vegetables, nes
-071210	6digit	Potatoes, dried, not further prepared			Potatoes (dried)
-071220	6digit	Onions, dried, not further prepared			Onions (dried)
-071230	6digit	Mushrooms and truffles, dried, not further prepared			Mushrooms and truffles (dried)
-071290	6digit	Vegetables nes & mixtures, dried, not further prepare			Vegetables, nes (dried)
-071310	6digit	Peas dried, shelled			Peas (dried)
-071320	6digit	Chickpeas, dried, shelled			Chickpeas (dried)
-071331	6digit	Urd,mung,black or green gram beans dried shelled			Black or green gram beans (dried)
-071332	6digit	Beans, small red (Adzuki) dried, shelled			Adzuki beans (dried)
-071333	6digit	Kidney beans and white pea beans dried shelled			Kidney beans (dried)
-071339	6digit	Beans dried, shelled, nes			Beans, nes (dried)
-071340	6digit	Lentils dried, shelled			Lentils (dried)
-071350	6digit	Broad beans and horse beans dried, shelled			Broad beans (dried)
-071390	6digit	Leguminous vegetables dried, shelled			Leguminous vegetables (dried)
+071210	6digit	Potatoes, dried, not further prepared			Potatoes, dried
+071220	6digit	Onions, dried, not further prepared			Onions, dried
+071230	6digit	Mushrooms and truffles, dried, not further prepared			Mushrooms and truffles, dried
+071290	6digit	Vegetables nes & mixtures, dried, not further prepare			Vegetables, nes, dried
+071310	6digit	Peas dried, shelled			Peas, dried
+071320	6digit	Chickpeas, dried, shelled			Chickpeas, dried
+071331	6digit	Urd,mung,black or green gram beans dried shelled			Black or green gram beans, dried
+071332	6digit	Beans, small red (Adzuki) dried, shelled			Adzuki beans, dried
+071333	6digit	Kidney beans and white pea beans dried shelled			Kidney beans, dried
+071339	6digit	Beans dried, shelled, nes			Beans nes, dried
+071340	6digit	Lentils dried, shelled			Lentils, dried
+071350	6digit	Broad beans and horse beans dried, shelled			Broad beans, dried
+071390	6digit	Leguminous vegetables dried, shelled			Leguminous vegetables, dried
 071410	6digit	Manioc (cassava), fresh or dried			Manioc (cassava)
 071420	6digit	Sweet potatoes, fresh or dried			Sweet potatoes
 071490	6digit	Arrowroot, salep, etc fresh or dried and sago pith			Arrowroot, salep
@@ -1657,7 +1657,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 081120	6digit	Rasp-, mul-berries, etc (uncooked, steam, boil), frozen			Frozen rasp-, mul-berries, etc
 081190	6digit	Fruits and nuts (uncooked, steamed, boiled) frozen,ne			Frozen fruits and nuts
 081210	6digit	Cherries provisionally preserved			Cherries, preserved
-081220	6digit	Strawberries provisionally preserved			Strawberries provisionally preserved
+081220	6digit	Strawberries provisionally preserved			Strawberries, preserved
 081290	6digit	Fruits and nuts, provisionally preserved nes			Preserved fruits and nuts
 081310	6digit	Apricots, dried			Apricots, dried
 081320	6digit	Prunes, dried			Prunes, dried
@@ -1720,9 +1720,9 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 110230	6digit	Rice flour			Rice flour
 110290	6digit	Cereal flour except wheat, meslin, rye, maize, rice			Cereal flour, nes
 110311	6digit	Wheat meal			Wheat meal
-110312	6digit	Oat groats or meal			Oat groats or meal
+110312	6digit	Oat groats or meal			Oat meal
 110313	6digit	Maize (corn) groats or meal			Maize (corn) meal
-110314	6digit	Rice groats or meal			Rice groats or meal
+110314	6digit	Rice groats or meal			Rice meal
 110319	6digit	Cereal groats or meal except wheat, maize, rice, oats			Cereal meal, nes
 110321	6digit	Wheat pellets			Wheat pellets
 110329	6digit	Cereal pellets except wheat			Cereal pellets
@@ -1762,12 +1762,12 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 120750	6digit	Mustard seeds			Mustard seeds
 120760	6digit	Safflower seeds			Safflower seeds
 120791	6digit	Poppy seeds			Poppy seeds
-120792	6digit	Shea nuts (karite nuts)			Shea nuts (karite nuts)
+120792	6digit	Shea nuts (karite nuts)			Shea (karite) nuts
 120799	6digit	Oil seeds and oleaginous fruits, nes			Oil seeds & oleaginous fruits, nes
 120810	6digit	Soya bean flour or meal			Soya bean flour or meal
 120890	6digit	Flour or meal of oil seed, fruit, except mustard, soy			Oil seed or fruit flour or meal
 120911	6digit	Seed, sugar beet, for sowing			Seed, sugar beet
-120919	6digit	Seed, beet, except sugar, for sowing			Seed, beet, except sugar, for sowing
+120919	6digit	Seed, beet, except sugar, for sowing			Seed, beet, except sugar
 120921	6digit	Seed, lucerne (alfalfa), for sowing			Seed, lucerne (alfalfa)
 120922	6digit	Seed, clover, for sowing			Seed, clover
 120923	6digit	Seed, fescue, for sowing			Seed, fescue
@@ -1808,9 +1808,9 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 140120	6digit	Rattan used primarily for plaiting			Rattan for plaiting
 140190	6digit	Vegetable materials nes, used primarily for plaiting			Vegetable materials nes for plaiting
 140210	6digit	Kapok			Kapok
-140291	6digit	Vegetable hair used as stuffing or padding			Vegetable hair used as stuffing or padding
+140291	6digit	Vegetable hair used as stuffing or padding			Vegetable hair for stuffing or padding
 140299	6digit	Vegetable material nes used as stuffing			Veg matter for stuffing
-140310	6digit	Broom corn used in brooms or brushes			Broom corn used in brooms or brushes
+140310	6digit	Broom corn used in brooms or brushes			Broom corn
 140390	6digit	Vegetable material nes used in brooms or brushes			Veg matter for brooms, brushes
 140410	6digit	Raw vegetable materials for dyeing or tanning			Raw vegetable materials for dyeing
 140420	6digit	Cotton linters			Cotton linters
@@ -1850,7 +1850,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 151530	6digit	Castor oil or fractions not chemically modified			Castor oil
 151540	6digit	Tung oil or fractions not chemically modified			Tung oil
 151550	6digit	Sesame oil or fractions not chemically modified			Sesame oil
-151560	6digit	Jojoba oil or fractions not chemically modified			Jojoba oil or fractions not chemically modified
+151560	6digit	Jojoba oil or fractions not chemically modified			Jojoba oil
 151590	6digit	Veg fats, oils nes, fractions, not chemically modifie			Vegetable fats, oils nes
 151610	6digit	Animal fats, oils, fractions, hydrogenated, esterified			Animal fats, oils, hydrogenated
 151620	6digit	Veg fats, oils or fractions hydrogenated, esterified			Vegetable fats, oils, hydrogenated
@@ -1936,21 +1936,21 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 190540	6digit	Rusks, toasted bread and similar toasted products			Rusks, toasted bread
 190590	6digit	Communion wafers, rice paper, bakers wares nes			Communion wafers, rice paper
 200110	6digit	Cucumbers,gherkins, prepared or preserved by vinegar			Cucumbers, gherkins, in vinegar
-200120	6digit	Onions prepared or preserved by vinegar			Onions prepared or preserved by vinegar
+200120	6digit	Onions prepared or preserved by vinegar			Onions in vinegar
 200190	6digit	Veg, fruit, nuts nes prepared or preserved by vinegar			Veg, fruit, nuts nes, in vinegar
-200210	6digit	Tomatoes, whole/pieces, prepared/preserved, no vinega			Tomatoes
-200290	6digit	Tomatoes nes, prepared or preserved, not in vinegar			Tomatoes nes
-200310	6digit	Mushrooms, prepared or preserved, not in vinegar			Mushrooms
-200320	6digit	Truffles, prepared or preserved, not in vinegar			Truffles
-200410	6digit	Potatoes, prepared, frozen			Potatoes, frozen
+200210	6digit	Tomatoes, whole/pieces, prepared/preserved, no vinega			Tomatoes, preserved
+200290	6digit	Tomatoes nes, prepared or preserved, not in vinegar			Tomatoes nes, preserved
+200310	6digit	Mushrooms, prepared or preserved, not in vinegar			Mushrooms, preserved
+200320	6digit	Truffles, prepared or preserved, not in vinegar			Truffles, preserved
+200410	6digit	Potatoes, prepared, frozen			Potatoes, prepared, frozen
 200490	6digit	Vegetables nes and mixtures, prepared, frozen			Vegetables nes & mixes, frozen
 200510	6digit	Homogenized vegetable preparations, not frozen/vinega			Homogenized vegetable preps
-200520	6digit	Potatoes, prepared or preserved, not frozen/vinegar			Potatoes
-200530	6digit	Sauerkraut, prepared or preserved, not frozen/vinegar			Sauerkraut, prepared or preserved, not frozen/vinegar
-200540	6digit	Peas, prepared or preserved, not frozen/vinegar			Peas
+200520	6digit	Potatoes, prepared or preserved, not frozen/vinegar			Potatoes, preserved
+200530	6digit	Sauerkraut, prepared or preserved, not frozen/vinegar			Sauerkraut, preserved
+200540	6digit	Peas, prepared or preserved, not frozen/vinegar			Peas, preserved
 200551	6digit	Beans, shelled, prepared/preserved, not frozen/vinega			Beans, shelled
 200559	6digit	Beans nes, prepared or preserved, not frozen/vinegar			Beans nes
-200560	6digit	Asparagus, prepared or preserved, not frozen/vinegar			Asparagus
+200560	6digit	Asparagus, prepared or preserved, not frozen/vinegar			Asparagus, preserved
 200570	6digit	Olives, prepared or preserved, not frozen/vinegar			Olives
 200580	6digit	Sweet corn, prepared or preserved, not frozen/vinegar			Sweet corn
 200590	6digit	Veg nes, mixes, prepared/preserved, not frozen/vinega			Vegetables nes & mixes
@@ -2009,7 +2009,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 220600	6digit	Fermented beverages nes (eg cider, perry, mead, etc)			Fermented ciders
 220710	6digit	Undenatured ethyl alcohol > 80% by volume			Ethyl alcohol > 80%
 220720	6digit	Ethyl alcohol and other spirits, denatured			Ethyl alcohol & spirits, denatured
-220810	6digit	Compound alcoholic preps for beverage manufacture			Compound alcoholic preps for beverage manufacture
+220810	6digit	Compound alcoholic preps for beverage manufacture			Compound alcoholic preps
 220820	6digit	Spirits obtained by distilling grape wine, grape marc			Spirits from distilling grape wine
 220830	6digit	Whiskies			Whisky
 220840	6digit	Rum and tafia			Rum
@@ -2036,7 +2036,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 230660	6digit	Palm nut or kernel oil cake and other solid residues			Palm nut solid residues
 230690	6digit	Vegetable oil-cake and other solid residues nes			Vegetable solid residues, nes
 230700	6digit	Wine lees, argol			Wine lees & argol
-230810	6digit	Acorns and horse-chestnuts for animal feed			Acorns and horse-chestnuts for animal feed
+230810	6digit	Acorns and horse-chestnuts for animal feed			Acorns, horse-chestnuts for animal feed
 230890	6digit	Vegetable wastes and residues nes for animal feed			Vegetable wastes for animal feed
 230910	6digit	Dog or cat food (retail)			Dog or cat food
 230990	6digit	Animal feed preparations nes			Animal feed preparations
@@ -2051,8 +2051,8 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 240399	6digit	Products of tobacco, substitute nes, extract, essence			Tobacco products, nes
 250100	6digit	Salt (sodium chloride) including solution, salt water			Salt
 250200	6digit	Unroasted iron pyrites			Unroasted iron pyrites
-250310	6digit	Sulphur, crude or unrefined			Sulphur
-250390	6digit	refined sulphur, not sublimate, precipitate, colloida			refined sulphur, not sublimate, precipitate, colloida
+250310	6digit	Sulphur, crude or unrefined			Sulphur, crude or unrefined
+250390	6digit	refined sulphur, not sublimate, precipitate, colloida			Refined sulphur
 250410	6digit	Natural graphite in powder or flakes			Natural graphite, powder or flakes
 250490	6digit	Natural graphite, except powder or flakes			Natural graphite, other
 250510	6digit	Silica sands and quartz sands			Silica and quartz sands
@@ -2114,7 +2114,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 252530	6digit	Mica waste			Mica waste
 252610	6digit	Natural steatite, not crushed or powdered			Natural steatite, not crushed
 252620	6digit	Natural steatite, crushed or powdered			Natural steatite, crushed
-252700	6digit	Natural cryolite, natural chiolite			Natural cryolite, natural chiolite
+252700	6digit	Natural cryolite, natural chiolite			Natural cryolite or chiolite
 252810	6digit	Natural sodium borates and concentrates			Natural sodium borates
 252890	6digit	Natural borates etc nes, natural boric acid (<85%)			Natural borates, nes
 252910	6digit	Feldspar			Feldspar
@@ -2157,7 +2157,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 262020	6digit	Ash or residues containing mainly lead			Residues containing lead
 262030	6digit	Ash or residues containing mainly copper			Residues containing copper
 262040	6digit	Ash or residues containing mainly aluminium			Residues containing aluminium
-262050	6digit	Ash or residues containing mainly vanadium			Ash or residues containing mainly vanadium
+262050	6digit	Ash or residues containing mainly vanadium			Residues containing vanadium
 262090	6digit	Ash or residues containing metals, metal compounds ne			Residues containing metals, nes
 262100	6digit	Slag and ash nes, including seaweed ash (kelp)			Slag and ash, nes
 270111	6digit	Anthracite, not agglomerated			Anthracite
@@ -2184,23 +2184,23 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 271000	6digit	Oils petroleum, bituminous, distillates, except crude			Oils petroleum, bituminous, distillates
 271011	6digit	Aviation spirit			Aviation spirit
 271012	6digit	Petroleum spirit for motor vehicles			Petroleum spirit for motor vehicles
-271013	6digit	Petroleum spirit except aviation or motor fuel			Petroleum spirit except aviation or motor fuel
+271013	6digit	Petroleum spirit except aviation or motor fuel			Petroleum spirit, not aviation or motor
 271014	6digit	Petroleum spirit-type fuel			Petroleum spirit-type fuel
 271015	6digit	White spirit			White spirit
 271016	6digit	Petroleum naphtha			Petroleum naphtha
 271019	6digit	Light petroleum distillates nes			Light petroleum distillates nes
 271021	6digit	Kerosene jet fuel			Kerosene jet fuel
 271022	6digit	Kerosene, for furnaces			Kerosene, for furnaces
-271025	6digit	Kerosene lamp oil, motor kerosene, light diesel, etc			Kerosene lamp oil, motor kerosene, light diesel, etc
-271026	6digit	Gas oils - bunker oil, No.1 furnace, motor diesel			Gas oils - bunker oil, No.1 furnace, motor diesel
-271027	6digit	Diesel oils- No.2 furnace, marine diesel			Diesel oils- No.2 furnace, marine diesel
+271025	6digit	Kerosene lamp oil, motor kerosene, light diesel, etc			Kerosene lamp oil, motor kerosene, light diesel
+271026	6digit	Gas oils - bunker oil, No.1 furnace, motor diesel			Gas oils, bunker oil, No.1 furnace, motor diesel
+271027	6digit	Diesel oils- No.2 furnace, marine diesel			Diesel oils, No.2 furnace, marine diesel
 271029	6digit	Fuel oils nes, heavy distillates			Fuel oils nes, heavy distillates
-271091	6digit	Heavy furnace oil (heating or motor fuel) <1% sulphur			Heavy furnace oil (heating or motor fuel) <1% sulphur
+271091	6digit	Heavy furnace oil (heating or motor fuel) <1% sulphur			Heavy furnace oil  <1% sulphur
 271093	6digit	Heavy furnace oil nes			Heavy furnace oil nes
-271094	6digit	Petroleum oil used in road building			Petroleum oil used in road building
+271094	6digit	Petroleum oil used in road building			Petroleum oil for road building
 271095	6digit	Petroleum lubricating oils			Petroleum lubricating oils
 271096	6digit	Petroleum lubricating greases			Petroleum lubricating greases
-271099	6digit	Petroleum oils and products nes			Petroleum oils and products nes
+271099	6digit	Petroleum oils and products nes			Petroleum oils, nes
 271111	6digit	Natural gas, liquefied			Natural gas, liquefied
 271112	6digit	Propane, liquefied			Propane, liquefied
 271113	6digit	Butanes, liquefied			Butanes, liquefied
@@ -2222,7 +2222,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 280110	6digit	Chlorine			Chlorine
 280120	6digit	Iodine			Iodine
 280130	6digit	Fluorine, bromine			Fluorine, bromine
-280200	6digit	Sulphur, sublimed or precipitated, colloidal sulphur			Sulphur
+280200	6digit	Sulphur, sublimed or precipitated, colloidal sulphur			Sulphur, sublimed, precipitated, colloidal
 280300	6digit	Carbon (carbon blacks and other forms of carbon, nes)			Carbon
 280410	6digit	Hydrogen			Hydrogen
 280421	6digit	Argon			Argon
@@ -2265,7 +2265,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 281520	6digit	Potassium hydroxide (caustic potash)			Potassium hydroxide
 281530	6digit	Peroxides of sodium or potassium			Peroxides of sodium/potassium
 281610	6digit	Magnesium hydroxide and peroxide			Magnesium hydroxide & peroxide
-281620	6digit	Strontium oxide, hydroxide and peroxide			Strontium oxide, hydroxide and peroxide
+281620	6digit	Strontium oxide, hydroxide and peroxide			Strontium oxide, hydroxide & peroxide
 281630	6digit	Barium oxide, hydroxide and peroxide			Barium oxide, hydroxide & peroxide
 281700	6digit	Zinc oxide and peroxide			Zinc oxide
 281810	6digit	Artificial corundum			Artificial corundum
@@ -2402,7 +2402,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 284610	6digit	Cerium compounds			Cerium compounds
 284690	6digit	Compounds, mixes of rare-earths, yttrium, scandium ne			Compounds of rare-earths
 284700	6digit	Hydrogen peroxide			Hydrogen peroxide
-284810	6digit	Phosphides of copper containing > 15% phosphorous			Phosphides of copper containing > 15% phosphorous
+284810	6digit	Phosphides of copper containing > 15% phosphorous			Phosphides of copper, >15% phosphorous
 284890	6digit	Phosphides of other metals or of non-metals			Phosphides
 284910	6digit	Calcium carbide			Calcium carbide
 284920	6digit	Silicon carbide			Silicon carbide
@@ -2432,7 +2432,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 290313	6digit	Chloroform (trichloromethane)			Chloroform
 290314	6digit	Carbon tetrachloride			Carbon tetrachloride
 290315	6digit	1,2-dichloroethane(ethylene dichloride)			Ethylene dichloride
-290316	6digit	1,2-dichloropropane and dichlorobutanes			1,2-dichloropropane and dichlorobutanes
+290316	6digit	1,2-dichloropropane and dichlorobutanes			Dichloropropane & dichlorobutanes
 290319	6digit	Chlorinated derivs saturated acyclic hydrocarbons, ne			Chlorinated derivs saturated acyclic hydrocarbons
 290321	6digit	Vinyl chloride (chloroethylene)			Chloroethylene
 290322	6digit	Trichloroethylene			Trichloroethylene
@@ -2465,7 +2465,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 290541	6digit	Trimethylolpropane			Trimethylolpropane
 290542	6digit	Pentaerythritol			Pentaerythritol
 290543	6digit	Mannitol			Mannitol
-290544	6digit	D-glucitol (sorbitol)			Sorbitol
+290544	6digit	D-glucitol (sorbitol)			D-glucitol (sorbitol)
 290549	6digit	Polyhydric acyclic alcohols nes			Polyhydric acyclic alcohols, nes
 290550	6digit	Derivatives of acyclic alcohols			Derivatives of acyclic alcohols
 290611	6digit	Menthol			Menthol
@@ -2507,7 +2507,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 291100	6digit	Acetals and hemiacetals, derivatives			Acetals and hemiacetals
 291211	6digit	Methanal (formaldehyde)			Formaldehyde
 291212	6digit	Ethanal (acetaldehyde)			Ethanal
-291213	6digit	Butanal (butyraldehyde, normal isomer)			Butanal (butyraldehyde, normal isomer)
+291213	6digit	Butanal (butyraldehyde, normal isomer)			Butanal
 291219	6digit	Acyclic aldehydes without other oxygen function, nes			Acyclic aldehydes, no oxygen function, nes
 291221	6digit	Benzaldehyde			Benzaldehyde
 291229	6digit	Cyclic aldehydes without other oxygen function, nes			Cyclic aldehydes, no oxygen function, nes
@@ -2527,7 +2527,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 291423	6digit	Ionones and methylionones			Ionones
 291429	6digit	Cyclanic/cyclenic/cycloterp ketones,no oxygen functio			Cyclanic ketones, no oxygen function
 291430	6digit	Aromatic ketones without other oxygen function			Aromatic ketones, no oxygen function
-291441	6digit	4-hydroxy-4-methylpentan-2-one(diacetone alcohol)			4-hydroxy-4-methylpentan-2-one(diacetone alcohol)
+291441	6digit	4-hydroxy-4-methylpentan-2-one(diacetone alcohol)			Diacetone alcohol
 291449	6digit	Ketone-alcohols nes, ketone-aldehydes			Ketone-alcohols, nes
 291450	6digit	Ketone-phenols and ketones with other oxygen function			Ketones with oxygen function
 291461	6digit	Anthraquinone			Anthraquinone
@@ -2614,7 +2614,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 292213	6digit	Triethanolamine, salts			Triethanolamine, salts
 292219	6digit	Amino-alcohols nes, their ethers and esters, salts			Amino-alcohol, esters, salts, nes
 292221	6digit	Aminohydroxynaphthalenesulphonic acids and salts			Aminohydroxynaphthalenesulphonic acids, salts
-292222	6digit	Anisidines, dianisidines, phenetidines, and salts			Anisidines, dianisidines, phenetidines, and salts
+292222	6digit	Anisidines, dianisidines, phenetidines, and salts			Anisidines, dianisidines, phenetidines, salts
 292229	6digit	Amino-naphthols/phenols nes, their ethers/esters/salt			Amino-naphthols/phenols, nes
 292230	6digit	Amino-aldehydes, ketones and quinones, salts thereof			Amino-aldehydes, ketones and quinones, salts
 292241	6digit	Lysine, esters, salts thereof			Lysine, esters, salts
@@ -2683,7 +2683,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 293710	6digit	Pituitary anterior hormones and derivatives, in bulk			Pituitary anterior hormones
 293721	6digit	Cortisone,hydrocortisone,prednisone,prednisolone, bul			Cortisones
 293722	6digit	Halogenated derivs adrenalal cortical hormones, bulk			Halogenated derivs adrenalal cortical hormones
-293729	6digit	Adrenal cortical hormones nes, in bulk, derivatives			Adrenal cortical hormones nes, in bulk, derivatives
+293729	6digit	Adrenal cortical hormones nes, in bulk, derivatives			Adrenal cortical hormones nes
 293791	6digit	Insulin, salts, in bulk			Insulin
 293792	6digit	Oestrogens and progestogens, in bulk			Estrogens and progestogens
 293799	6digit	Hormones nes, derivatives, in bulk, steroids nes			Hormones
@@ -2711,7 +2711,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 300190	6digit	Heparin, salts, for therapeutic use			Heparin, therapeutic
 300210	6digit	Antisera and other blood fractions			Antisera and blood fractions
 300220	6digit	Vaccines, human use			Vaccines, human
-300231	6digit	Vaccines, foot and mouth disease, veterinary use			Vaccines, foot and mouth disease, veterinary use
+300231	6digit	Vaccines, foot and mouth disease, veterinary use			Vaccines, veterinary foot and mouth disease
 300239	6digit	Vaccines, veterinary use, except foot and mouth			Vaccines, veterinary
 300290	6digit	Blood, toxins, cultures, medical use, nes			Blood
 300310	6digit	Penicillins or streptomycins and derivatives, in bulk			Penicillins or streptomycins, formulated
@@ -2743,7 +2743,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 310230	6digit	Ammonium nitrate, including solution, in pack >10 kg			Ammonium nitrate, > 10kg
 310240	6digit	Ammonium nitrate limestone etc mixes, pack >10 kg			Ammonium nitrate limestone, > 10kg
 310250	6digit	Sodium nitrate, in packs >10 kg			Sodium nitrate, > 10kg
-310260	6digit	Calcium-ammonium nitrate mix, double salts pack >10kg			Calcium0ammonium nitrate mix, > 10kg
+310260	6digit	Calcium-ammonium nitrate mix, double salts pack >10kg			Calcium-ammonium nitrate mix, > 10kg
 310270	6digit	Calcium cyanamide in packs >10 kg			Calcium cyanamide in packs >10 kg
 310280	6digit	Urea-ammonium nitrate mixes in solution, pack >10 kg			Urea-ammonium nitrate mix, > 10kg
 310290	6digit	Nitrogenous fertilizers, mixes, nes, pack >10 kg			Nitrogenous fertilizers, nes, > 10kg
@@ -2903,13 +2903,13 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 370251	6digit	Film, colour photo, rolls, width <16mm, <14 m long,ne			Photo color film rolls, width <16mm, length <14m
 370252	6digit	Film, colour photo, rolls, width <16mm, >14 m long,ne			Color film, width <16mm, length >14m
 370253	6digit	Film, colour slide, rolls width 16-35mm, <30m long			Color film rolls, width 16-35mm, length <30m
-370254	6digit	Film, colour photo nes, rolls width 16-35mm,<30m long			Color film rolls, width 16-35mm, length <30m
+370254	6digit	Film, colour photo nes, rolls width 16-35mm,<30m long			Color photo, nes, film rolls, w16-35mm, l<30m
 370255	6digit	Film for colour photo, rolls width 16-35mm, >30m long			Color film rolls, width 16-35mm, length >30m
 370256	6digit	Photographic film in rolls, colour, width >35 mm, nes			Photo color film rolls, width >35mm
 370291	6digit	Photo film in rolls, width <16 mm, <14m long, nes			Photo film roll, width <16mm, length <14m
-370292	6digit	Photo film in rolls, width <16 mm, >14m long, nes			Photo film in rolls, width <16 mm, >14m long, nes
-370293	6digit	Photo film in rolls, width 16-35mm, <30m long, nes			Photo film rolls, width 16-35mm, length <30m
-370294	6digit	Photo film in rolls, width 16-35mm, >30m long, nes			Photo film rolls, width 16-35mm, length >30m
+370292	6digit	Photo film in rolls, width <16 mm, >14m long, nes			Photo film roll, w<16 mm, l >14m, nes
+370293	6digit	Photo film in rolls, width 16-35mm, <30m long, nes			Photo film rolls, w16-35mm, l <30m
+370294	6digit	Photo film in rolls, width 16-35mm, >30m long, nes			Photo film rolls, w16-35mm, l >30m
 370295	6digit	Photographic film, rolls, of a width <= 35 mm, nes			Photo film rolls, width <35mm
 370310	6digit	Unexposed photographic paper,textile roll > 610mm wid			Unexposed photo paper, roll >610mm wide
 370320	6digit	Unexposed colour photograhic paper, board or textile			Unexposed color photo paper
@@ -3170,10 +3170,10 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 401700	6digit	Hard rubber (eg ebonite) in all forms, articles,scrap			Hard rubber
 410110	6digit	Bovine skins, whole, raw			Bovine skins, whole, raw
 410121	6digit	Bovine hides, whole, fresh or wet-salted			Bovine hides, whole, fresh
-410122	6digit	Butts and bends, bovine, fresh or wet-salted			Butts and bends, bovine, fresh or wet-salted
+410122	6digit	Butts and bends, bovine, fresh or wet-salted			Bovine butts & bends, fresh
 410129	6digit	Hide sections, bovine, nes, fresh or wet-salted			Bovine hide sections, fresh
 410130	6digit	Bovine hides, raw, nes			Bovine hides, raw, nes
-410140	6digit	Equine hides and skins, raw			Equine hides and skins, raw
+410140	6digit	Equine hides and skins, raw			Equine hides & skins, raw
 410210	6digit	Sheep or lamb skins, raw, wool on, except Persian etc			Sheepskin with wool, raw
 410221	6digit	Sheep or lamb skins, pickled, without wool			Sheepskin no wool, pickled
 410229	6digit	Sheep or lamb skins, raw, except pickled, no wool			Sheepskin no wool, raw
@@ -3181,16 +3181,16 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 410320	6digit	Reptile skins, raw			Reptile skins, raw
 410390	6digit	Raw hide/skins except bovine/equine/sheep/goat/reptil			Other raw hides
 410410	6digit	Bovine skin leather, whole			Bovine skin leather, whole
-410421	6digit	Bovine leather, vegetable pre-tanned except whole ski			Bovine leather, vegetable pre-tanned except whole ski
+410421	6digit	Bovine leather, vegetable pre-tanned except whole ski			Bovine leather, vegetable pre-tanned
 410422	6digit	Bovine leather, otherwise pre-tanned except whole ski			Bovine leather, pre-tanned
 410429	6digit	Bovine and equine leather, tanned or retanned, nes			Bovine leather, tanned
 410431	6digit	Bovine and equine leather, full or split grain, nes			Bovine leather, full
 410439	6digit	Bovine and equine leather, nes			Bovine leather, nes
-410511	6digit	Sheep or lamb skin leather, vegetable pre-tanned			Sheep or lamb skin leather, vegetable pre-tanned
+410511	6digit	Sheep or lamb skin leather, vegetable pre-tanned			Sheep leather, vegetable pre-tanned
 410512	6digit	Sheep or lamb skin leather, otherwise pre-tanned			Sheep leather, pre-tanned
 410519	6digit	Sheep or lamb skin leather, tanned or retanned, nes			Sheep leather, tanned
 410520	6digit	Sheep or lamb skin leather, nes			Sheep leather, nes
-410611	6digit	Goat or kid skin leather, vegetable pre-tanned			Goat or kid skin leather, vegetable pre-tanned
+410611	6digit	Goat or kid skin leather, vegetable pre-tanned			Goat leather, vegetable pre-tanned
 410612	6digit	Goat or kid skin leather, otherwise pre-tanned			Goat leather, pre-tanned
 410619	6digit	Goat or kid skin leather, tanned or retanned, nes			Goat leather, tanned
 410620	6digit	Goat or kid skin leather, nes			Goat leather, nes
@@ -3225,16 +3225,16 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 420610	6digit	Articles of catgut			Catgut articles
 420690	6digit	Articles of gut, goldbeater skin, bladder, tendons ne			Gut articles, nes
 430110	6digit	Raw mink furskins, whole			Raw mink furskins, whole
-430120	6digit	Raw rabbit or hare furskins, whole			Raw rabbit or hare furskins, whole
+430120	6digit	Raw rabbit or hare furskins, whole			Raw rabbit furskins, whole
 430130	6digit	Raw Persian and similar lamb furskins, whole			Raw Persian lamb furskins, whole
 430140	6digit	Raw beaver furskins, whole			Raw beaver furskins, whole
-430150	6digit	Raw musk-rat furskins, whole			Raw musk-rat furskins, whole
+430150	6digit	Raw musk-rat furskins, whole			Raw muskrat furskins, whole
 430160	6digit	Raw fox furskins, whole			Raw fox furskins, whole
 430170	6digit	Raw seal furskins, whole			Raw seal furskins, whole
 430180	6digit	Raw furskins of other animals, whole			Raw furskins, whole, nes
 430190	6digit	Raw furskin pieces (e.g. heads, tails, paws)			Raw furskin pieces
 430211	6digit	Tanned or dressed mink furskins, whole, unassembled			Tanned mink furskins, whole
-430212	6digit	Tanned, dressed rabbit, hare skins, whole, unassemble			Tanned, dressed rabbit, hare skins, whole, unassemble
+430212	6digit	Tanned, dressed rabbit, hare skins, whole, unassemble			Tanned rabbit skins, whole
 430213	6digit	Tanned,dressed Persian/etc lambskin, whole,unassemble			Tanned Persian lambskin, whole
 430219	6digit	Tanned,dressed whole furs except lamb/mink/rabbit/har			Tanned furs, whole, nes
 430220	6digit	Tanned or dressed furskin pieces (heads, tails, paws)			Tanned furskin pieces
@@ -3249,13 +3249,13 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 440200	6digit	Wood charcoal (including shell or nut charcoal)			Wood charcoal
 440310	6digit	Poles, treated or painted with preservatives			Treated poles
 440320	6digit	Logs, poles, coniferous not treated or painted			Logs, coniferous
-440331	6digit	Logs, Meranti (light or dark red), Bakau			Logs, meranti, bakau
-440332	6digit	Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan			Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan
-440333	6digit	Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau/etc			Logs, other
-440334	6digit	Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc			Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc
+440331	6digit	Logs, Meranti (light or dark red), Bakau			Logs, Meranti, Bakau
+440332	6digit	Logs, white Lauan/Meranti/Seraya/yellow Meranti/Alan			Logs, white Lauan/(yellow)Meranti/Seraya/Alan
+440333	6digit	Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau/etc			Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau
+440334	6digit	Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique/etc			Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique
 440335	6digit	Logs, Tiama, Mansonia, Ilomba, Dibetou, Limba, Azobe			Logs, Tiama, Mansonia, Ilomba, Dibetou, Limba, Azobe
-440391	6digit	Logs, Oak (Quercus spp)			Logs, oak
-440392	6digit	Logs, Beech (Fagus spp)			Logs, beech
+440391	6digit	Logs, Oak (Quercus spp)			Logs, Oak
+440392	6digit	Logs, Beech (Fagus spp)			Logs, Beech
 440399	6digit	Logs, non-coniferous nes			Logs, non-coniferous, nes
 440410	6digit	Poles, piles etc, coniferous, pointed but not sawn			Pointed coniferous poles
 440420	6digit	Poles, piles etc, non-coniferous, pointed, not sawn			Pointed non-coniferous poles
@@ -3362,7 +3362,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 480451	6digit	Paper, kraft, >225g/m2, unbleached, uncoated, nes			Paper, kraft, >225g/m2, unbleached, uncoated
 480452	6digit	Paper, kraft, >225g/m2,chemical pulp,bleached,uncoate			Paper, kraft, >225g/m2,chemical pulp,bleach/uncoat
 480459	6digit	Paper, kraft, >225g/m2, uncoated, nes			Paper, kraft, >225g/m2, uncoated, nes
-480510	6digit	Paper, fluting, in rolls, semi-chemical, uncoated			Paper, uncoat, rolls, semi-chemical
+480510	6digit	Paper, fluting, in rolls, semi-chemical, uncoated			Paper, fluting, uncoated, rolls, semi-chemical
 480521	6digit	Paper, multi-ply, each layer bleached, uncoated, nes			Paper, multi-ply, each layer bleached, uncoated, nes
 480522	6digit	Paper, multi-ply, one layer bleached, uncoated			Paper, multi-ply, one layer bleached, uncoated
 480523	6digit	Paper, multi-ply, <4 layers, outer bleached, uncoated			Paper, multi-ply, <4 layers, outer bleached, uncoated
@@ -3378,7 +3378,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 480630	6digit	Paper, tracing			Paper, tracing
 480640	6digit	Paper, glassine, glazed transparent or translucent ne			Paper, transparent
 480710	6digit	Paper, laminated with bitumen tar or asphalt, uncoate			Paper, laminated, uncoat
-480791	6digit	Straw paper, board, whether or not paper covered			Straw paper, board, whether or not paper covered
+480791	6digit	Straw paper, board, whether or not paper covered			Straw paper, board
 480799	6digit	Paper, composite, nes, not coated or impregnated			Paper, composite, uncoat
 480810	6digit	Paper, corrugated			Paper, corrugated
 480820	6digit	Paper, sack kraft, creped or crinkled			Paper sack kraft, crepe
@@ -3387,7 +3387,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 480910	6digit	Paper, carbon or similar width >36 cm			Paper, carbon >36cm
 480920	6digit	Paper, self-copy, width > 36 cm			Paper, self-copy >36cm
 480990	6digit	Paper, copying or transfer, width >36 cm			Paper, copying >36cm
-481011	6digit	Paper, fine, woodfree, <150 g/m2, clay coated			Paper, fine, no wood, <150g/m2, clay
+481011	6digit	Paper, fine, woodfree, <150 g/m2, clay coated			Paper, fine, woodfree, <150 g/m2, clay coated
 481012	6digit	Paper, fine, woodfree, >150 g/m2, clay coated			Paper, fine, woodfree, >150 g/m2, clay coated
 481021	6digit	Paper, fine, light weight coated			Paper, fine, light coat
 481029	6digit	Paper, fine, wood containing clay coated, except ligh			Paper, fine, wood, clay, not light
@@ -3444,7 +3444,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 482311	6digit	Paper, self-adhesive, cut to size, in strips or rolls			Paper, self-adhesive, cut
 482319	6digit	Paper, gummed, adhesive nes, cut to size, strip, roll			Paper adhesive, cut, nes
 482320	6digit	Paper, filter, cut to size or shape			Paper filter, cut
-482330	6digit	Cards, not punched, for punch card machines, paper			Cards, not punched, for punch card machines, paper
+482330	6digit	Cards, not punched, for punch card machines, paper			Cards, not punched
 482340	6digit	Paper rolls, sheets & dials for recording instruments			Paper rolls for instruments
 482351	6digit	Paper, fine, cut, printed, embossed, perforated, nes			Paper, fine, cute, printed, nes
 482359	6digit	Paper, fine, cut to size or shape, nes			Paper, fine, cut, nes
@@ -3472,8 +3472,8 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 491199	6digit	Printed matter, nes			Printed matter, nes
 500100	6digit	Silk-worm cocoons suitable for reeling			Silk-worm cocoons
 500200	6digit	Raw silk (not thrown)			Raw silk
-500310	6digit	Silk waste, not carded or combed			Silk waste, not carded or combed
-500390	6digit	Silk waste, carded or combed			Silk waste
+500310	6digit	Silk waste, not carded or combed			Silk waste, not carded
+500390	6digit	Silk waste, carded or combed			Silk waste, carded
 500400	6digit	Silk yarn (except from waste) not retail			SIlk yarn, not retail
 500500	6digit	Yarn spun from silk waste, not retail			Yarn from silk waste, not retail
 500600	6digit	Silk yarn retail, silk worm gut			Silk yarn, retail
@@ -3633,16 +3633,16 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 521151	6digit	Plain weave cotton , <85% +manmade fibre, >200g, prin			Plain weave , <85%, fibre, >200g, prin
 521152	6digit	Twill weave cotton , <85% +manmade fibre, >200g, prin			Twill weave , <85%, fibre, >200g, prin
 521159	6digit	Woven cotton nes, <85% +manmade fibre, >200g, printed			Woven nes, <85%, fibre, >200g, printed
-521211	6digit	Woven cotton fabric, > 200g/m2, unbleached, nes			Cotton fabric, > 200g/m2, unbleach, nes
-521212	6digit	Woven cotton fabric, > 200g/m2, bleached, nes			Cotton fabric, > 200g/m2, bleach, nes
-521213	6digit	Woven cotton fabric, > 200g/m2, dyed, nes			Cotton fabric, > 200g/m2, dye, nes
-521214	6digit	Woven cotton fabric, < 200g/m2, yarns mixed colours			Cotton fabric, < 200g/m2, yarns mix colours
-521215	6digit	Woven cotton fabric, > 200g/m2, printed, nes			Cotton fabric, > 200g/m2, print, nes
-521221	6digit	Woven cotton fabric, > 200g/m2, unbleached, nes			Cotton fabric, > 200g/m2, unbleach, nes
-521222	6digit	Woven cotton fabric, > 200g/m2, bleached, nes			Cotton fabric, > 200g/m2, bleach, nes
-521223	6digit	Woven cotton fabric, > 200g/m2, dyed, nes			Cotton fabric, > 200g/m2, dye, nes
-521224	6digit	Woven cotton fabric, > 200g/m2, yarns mixed colours			Cotton fabric, > 200g/m2, yarns mix colours
-521225	6digit	Woven cotton fabric, > 200g/m2, printed, nes			Cotton fabric, > 200g/m2, print, nes
+521211	6digit	Woven cotton fabric, < 200g/m2, unbleached, nes			Cotton fabric, <200g/m2, unbleach, nes
+521212	6digit	Woven cotton fabric, < 200g/m2, bleached, nes			Cotton fabric, <200g/m2, bleach, nes
+521213	6digit	Woven cotton fabric, < 200g/m2, dyed, nes			Cotton fabric, <200g/m2, dye, nes
+521214	6digit	Woven cotton fabric, < 200g/m2, yarns mixed colours			Cotton fabric, <200g/m2, yarns mix colours
+521215	6digit	Woven cotton fabric, < 200g/m2, printed, nes			Cotton fabric, <200g/m2, print, nes
+521221	6digit	Woven cotton fabric, > 200g/m2, unbleached, nes			Cotton fabric, >200g/m2, unbleach, nes
+521222	6digit	Woven cotton fabric, > 200g/m2, bleached, nes			Cotton fabric, >200g/m2, bleach, nes
+521223	6digit	Woven cotton fabric, > 200g/m2, dyed, nes			Cotton fabric, >200g/m2, dye, nes
+521224	6digit	Woven cotton fabric, > 200g/m2, yarns mixed colours			Cotton fabric, >200g/m2, yarns mix colours
+521225	6digit	Woven cotton fabric, > 200g/m2, printed, nes			Cotton fabric, >200g/m2, print, nes
 530110	6digit	Flax fibre, raw or retted			Flax fibre, raw
 530121	6digit	Flax fibre, broken or scutched			Flax fibre, broken
 530129	6digit	Flax fibre, otherwise processed but not spun			Flax fibre, processed unspun
@@ -3776,7 +3776,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 550962	6digit	Yarn of acrylic staple fibres & cotton, not retail			Yarn of acrylic & cotton
 550969	6digit	Yarn of acrylic staple fibres, not retail, nes			Yarn of acrylic fibres
 550991	6digit	Yarn of other synthetic staple with wool or hair, nes			Yarn of other synth fibre with wool/hair, nes
-550992	6digit	Yarn of other synth staple fibres + cotton not retail			Yarn of other synth fibres & cotton
+550992	6digit	Yarn of other synth staple fibres + cotton not retail			Yarn of other synth fibres & cotton, not retail
 550999	6digit	Yarn of other synth staple fibres + cotton not retail			Yarn of other synth fibres & cotton
 551011	6digit	Yarn >85% artificial staple fibres, single, not retai			Yarn >85% artificial fibres, single
 551012	6digit	Yarn >85% artif staple fibres, multiple,not retail,ne			Yarn >85% artif fibres, multiple
@@ -3872,7 +3872,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 560710	6digit	Twine, cordage, ropes and cables, of jute, bast fibre			Twine ropes, jute
 560721	6digit	Binder or baler twine, of sisal or agave			Binder twine, sisal
 560729	6digit	Twine nes, cordage, ropes and cables, of sisal			Twine ropes, sisal
-560730	6digit	Twine, cordage, ropes and cables, of abaca etc			Twine, cordage, ropes and cables, of abaca etc
+560730	6digit	Twine, cordage, ropes and cables, of abaca etc			Twine ropes, of abaca
 560741	6digit	Binder or baler twine, of polyethylene, polypropylene			Binder twine, polyethylene
 560749	6digit	Twine nes, cordage, ropes, polyethylene, polypropylen			Twine ropes, polyethylene, nes
 560750	6digit	Twine, cordage, ropes & cables, other synthetic fibre			Twine ropes, other synthetic fibre
@@ -3954,8 +3954,8 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 590320	6digit	Fabric impregnated, coated, covered with polyurethane			Impregnated fabric, polyurethane
 590390	6digit	Fabric impregnated, coated, covered with plastic nes			Impregnated fabric, plastic, nes
 590410	6digit	Linoleum			Linoleum
-590491	6digit	Floor covering (not linoleum) with felt,non-woven bas			Floor covering (not linoleum) with felt,non-woven bas
-590492	6digit	Floor covering (not linoleum) with other textile base			Floor covering ,textile base, nes
+590491	6digit	Floor covering (not linoleum) with felt,non-woven bas			Floor covering with felt, non-woven base
+590492	6digit	Floor covering (not linoleum) with other textile base			Floor covering, textile base, nes
 590500	6digit	Textile wall coverings			Textile wall coverings
 590610	6digit	Rubberised textile adhesive tape < 20cm wide			Rubberised textile, tape <20cm
 590691	6digit	Rubberised textile knit or crochet fabric			Rubberised textile, knit
@@ -4364,7 +4364,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 680990	6digit	Articles of plaster etc, other than plasterboard			Articles of plaster, not plasterboard
 681011	6digit	Building blocks, bricks of cement, or artificial ston			Building blocks, bricks of cement/artificial stone
 681019	6digit	Tiles & flagstones of cement,concrete,artificial ston			Tiles of cement, concrete
-681020	6digit	Pipes of cement or concrete			Pipes of cement or concrete
+681020	6digit	Pipes of cement or concrete			Pipes of cement, concrete
 681091	6digit	Prefabricated structural items of cement or concrete			Prefab structural items of cement/concrete
 681099	6digit	Articles of cement, concrete or artificial stone nes			Articles of cement, concrete
 681110	6digit	Corrugated sheets of asbestos, cellulose fibre cement			Corrugated sheets of asbestos/cement
@@ -4525,7 +4525,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 720110	6digit	Pig iron, non-alloy, <0.5% phosphorus			Pig iron, non-alloy, <0.5% phosphorus
 720120	6digit	Pig iron, non-alloy, >0.5% phosphorus			Pig iron, non-alloy, >0.5% phosphorus
 720130	6digit	Alloy pig iron, in primary forms			Alloy pig iron, primary forms
-720140	6digit	Spiegeleisen in primary forms			Spiegeleisen in primary forms
+720140	6digit	Spiegeleisen in primary forms			Spiegeleisen, primary forms
 720211	6digit	Ferro-manganese, >2% carbon			Ferro-manganese, >2% carbon
 720219	6digit	Ferro-manganese, <2% carbon			Ferro-manganese, <2% carbon
 720221	6digit	Ferro-silicon, >55% silicon			Ferro-silicon, >55% silicon
@@ -4555,67 +4555,67 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 720529	6digit	Powders, iron or steel, other than alloy			Powders, iron or steel, non-alloy
 720610	6digit	Iron or non-alloy steel in ingots, <99.94% iron			Iron/non-alloy steel in ingots, <99.94% iron
 720690	6digit	Iron or non-alloy steel, primary nes, <99.94% iron			Iron/non-alloy steel, primary, <99.94% iron
-720711	6digit	Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes			Rectangular iron/non-alloy steel bars, <.25%C, width<twice thicknes
+720711	6digit	Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes			Rectangular iron/non-alloy steel bars, <.25%C, w<2xthick
 720712	6digit	Semi-finished bars, iron or non-alloy steel <0.25%C, rectangular, nes			Semi-finished bars, iron/non-alloy steel <.25%C rectang
 720719	6digit	Semi-finished product, iron or non-alloy steel <0.25%C, nes			Semi-finished iron/non-alloy steel <0.25%C
 720720	6digit	Semi-finished product, iron or non-alloy steel >0.25%C			Semi-finished iron/non-alloy steel >0.25%C
-720811	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa			Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa
-720812	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa			Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa
-720813	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa			Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa
-720814	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa			Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa
+720811	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa			Hot rolled iron/non-alloy steel, coil,w>600 t>10mm, 355mpa
+720812	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t 4.75-10mm, 355 mpa			Hot rolled iron/non-aly steel coil w>.6m t4.75-10mm 355mpa
+720813	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t 3-4.75mm, 355 mpa			Hot rolled iron/non-aly steel, coil,w>.6m t3-4.75mm 355mpa
+720814	6digit	Hot rolled iron or non-alloy steel, coil,w >600mm, t <3mm, myp 275 mpa			Hot rolled iron/non-alloy steel, coil,w>.6m t<3mm 275mpa
 720821	6digit	Hot rolled iron or non-alloy steel, coil,width >600mm, t >10mm, nes			Hot rolled iron/non-alloy steel, coil, w>600 t>10mm
 720822	6digit	Hot rolled iron or non-alloy steel, coil,width >600mm, t 4.75-10mm, nes			Hot rolled iron/non-alloy steel, coil, w>600 t 4.75-10mm
 720823	6digit	Hot rolled iron or non-alloy steel, coil,width >600mm, t 3-4.75mm, nes			Hot rolled iron/non-alloy steel, coil, w>600, t 3-4.75mm
 720824	6digit	Hot rolled iron or non-alloy steel, coil,width >600mm, t <3mm thick, ne			Hot rolled iron/non-alloy steel, coil, w>600 t<3mm
-720831	6digit	Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa			Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa
-720832	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa			Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa
-720833	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa			Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa
-720834	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa			Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa
-720835	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa			Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa
-720841	6digit	Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes			Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes
+720831	6digit	Hot rolled iron or non-alloy steel, flat, w 600-1250mm, t >4mm, 355 mpa			Hot rolled iron/non-aly steel, flat w.6-1.25m t>4mm 355mpa
+720832	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t >10mm, myp 355 mpa			Hot rolled iron/non-alloy steel, flat,w>600 t>10mm, 355mpa
+720833	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t 4.75-10mm, 355 mpa			Hot rolled iron/non-aly steel flat w>.6m t4.75-10mm 355mpa
+720834	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t 3-4.75mm, 355 mpa			Hot rolled iron/non-aly steel, flat w>.6m t3-4.75mm 355mpa
+720835	6digit	Hot rolled iron or non-alloy steel, flat,w >600mm, t <3mm, myp 275 mpa			Hot rolled iron/non-alloy steel, flat,w>600 t <3mm, 275mpa
+720841	6digit	Hot rolled iron or non-alloy steel, flat,width 600-1250mm, t >4mm, nes			Hot rolled iron/non-alloy steel, flat,w600-1250 t>4mm, nes
 720842	6digit	Hot rolled iron or non-alloy steel, flat,width >600mm, t >10mm, nes			Hot rolled iron/non-alloy steel, flat, w>600 t>10mm
 720843	6digit	Hot rolled iron or non-alloy steel, flat,width >600mm, t 4.75-10mm, nes			Hot rolled iron/non-alloy steel, flat, w>600 t 4.75-10mm
 720844	6digit	Hot rolled iron or non-alloy steel, flat,width >600mm, t 3.0-4.75mm, ne			Hot rolled iron/non-alloy steel, flat, w>600 t 3-4.75mm
 720845	6digit	Hot rolled iron or non-alloy steel, flat,width >600mm, t <3mm, nes			Hot rolled iron/non-alloy steel, flat, w>600 t<3mm
 720890	6digit	Hot rolled iron or non-alloy steel, width >600mm, nes			Hot rolled iron/non-alloy steel, w>600mm
-720911	6digit	Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp			Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp
-720912	6digit	Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa			Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa
-720913	6digit	Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp			Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp
-720914	6digit	Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa			Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa
+720911	6digit	Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp			Cold rolled iron/non-alloy steel, coil w>.6m t>3mm 355mpa
+720912	6digit	Cold rolled iron or non-alloy steel, coil, w >600mm, t 1.0-3mm, 275 mpa			Cold rolled iron/non-alloy steel, coil w>.6m t1-3mm 275mpa
+720913	6digit	Cold rolled iron or non-alloy steel, coil, w >600mm, t 0.5-<1mm, 275 mp			Cold rolled iron/non-alloy steel coil w>.6m t.5<1mm 275mpa
+720914	6digit	Cold rolled iron or non-alloy steel, coil, w >600mm, t <0.5mm, 275 mpa			Cold rolled iron/non-alloy steel, coil w>.6m t<.5mm, 275mpa
 720921	6digit	Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, nes			Cold rolled iron/non-alloy steel, coil, w>600 t>3mm
 720922	6digit	Cold rolled iron or non-alloy steel, coil, width >600mm, t 1-3mm, nes			Cold rolled iron/non-alloy steel, coil, w>600 t 1-3mm
 720923	6digit	Cold rolled iron or non-alloy steel, coil, width >600mm, t 0.5-1mm, nes			Cold rolled iron/non-alloy steel, coil, w>600 t .5-1mm
 720924	6digit	Cold rolled iron or non-alloy steel, coil, width >600mm, t <0.5mm, nes			Cold rolled iron/non-alloy steel, coil, w>600 t<.5mm
-720931	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp			Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp
-720932	6digit	Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa			Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa
-720933	6digit	Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa			Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa
-720934	6digit	Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa			Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa
+720931	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, 355 mp			Cold rolled iron/non-alloy steel, flat w>600 t>3mm 355mpa
+720932	6digit	Cold rolled iron or non-alloy steel, flat, w >600mm, t 1-3mm, 355 mpa			Cold rolled iron/non-alloy steel, flat w>600 t 1-3mm 355mpa
+720933	6digit	Cold rolled iron or non-alloy steel, flat, w >600mm, t 0.5-1mm, 355 mpa			Cold rolled iron/non-alloy steel, flat w>.6m t.5-1mm 355mpa
+720934	6digit	Cold rolled iron or non-alloy steel, flat, w >600mm, t <0.5mm, 355 mpa			Cold rolled iron/non-alloy steel, flat w>.6m t<0.5mm 355mpa
 720941	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, t >3mm, nes			Cold rolled iron/non-alloy steel, flat, w>600 t>3mm
 720942	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, t 1-3mm, nes			Cold rolled iron/non-alloy steel, flat, w>600 t 1-3mm
 720943	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, t 0.5-1mm, nes			Cold rolled iron/non-alloy steel, flat, w>600 t 0.5-1mm
 720944	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, t <0.5mm, nes			Cold rolled iron/non-alloy steel, flat, w>600 t<.5mm
 720990	6digit	Cold rolled iron or non-alloy steel, flat, width >600mm, nes			Cold rolled iron/non-alloy steel, flat, w>600mm
-721011	6digit	Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m			Flat rolled iron/non-alloy steel, tin coated, w>600mm, t>0.5m
+721011	6digit	Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m			Flat rolled iron/non-alloy steel, tin coated w>600mm t>0.5m
 721012	6digit	Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t <0.5m			Flat rolled iron/non-alloy steel, tin coated, w>600mm t<.5m
 721020	6digit	Flat rolled iron or non-alloy steel, coated with lead, width >600mm			Flat rolled iron/non-alloy steel, lead coated, w>600mm
-721031	6digit	Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355			Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355
-721039	6digit	Flat rolled iron or non-alloy steel, electro plate/zinc,w >600mm, nes			Flat rolled iron/non-alloy steel, electro plate/zinc, w>600mm
-721041	6digit	Flat rolled iron or non-alloy steel, coat/zinc, corrugated, w >600m, ne			Flat rolled iron/non-alloy steel, coat/zinc, corrugated, w>600m
-721049	6digit	Flat rolled iron or non-alloy steel, coated with zinc, width >600mm, ne			Flat rolled iron/non-alloy steel, zinc coated, w>600mm
-721050	6digit	Flat rolled iron or non-alloy steel, coated chromium/oxides, w> 600 mm			Flat rolled iron/non-alloy steel, coated chromium/oxides, w>600 mm
-721060	6digit	Flat rolled iron or non-alloy steel, coated with aluminium, width>600mm			Flat rolled iron/non-alloy steel, aluminium coated, w>600mm
+721031	6digit	Flat rolled iron or non-alloy steel, electro plate/zinc,<3mm/275,>3/355			Flat rolled iron/non-aly steel, elect-plate/zinc,<3/275,>3/355
+721039	6digit	Flat rolled iron or non-alloy steel, electro plate/zinc,w >600mm, nes			Flat rolled iron/non-alloy steel, electro plate/zinc, w>.6m
+721041	6digit	Flat rolled iron or non-alloy steel, coat/zinc, corrugated, w >600m, ne			Flat rolled iron/non-alloy steel, coat/zinc, corrugated, w>.6m
+721049	6digit	Flat rolled iron or non-alloy steel, coated with zinc, width >600mm, ne			Flat rolled iron/non-alloy steel, zinc coated, w>.6m
+721050	6digit	Flat rolled iron or non-alloy steel, coated chromium/oxides, w> 600 mm			Flat rolled iron/non-alloy steel, coated chrom/oxides, w>.6m
+721060	6digit	Flat rolled iron or non-alloy steel, coated with aluminium, width>600mm			Flat rolled iron/non-alloy steel, aluminium coated, w>.6m
 721070	6digit	Flat rolled iron or non-alloy steel, painted/plastic coated,width>600mm			Flat rolled iron/non-alloy steel, plastic coated, w>600mm
-721090	6digit	Flat rolled iron or non-alloy steel, clad/plated/coated, w >600mm, nes			Flat rolled iron/non-alloy steel, clad/plated/coated, w>600mm
-721111	6digit	Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35			Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35
-721112	6digit	Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355			Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355
-721119	6digit	Hot rolled iron or non-alloy steel, w <600mm, t<3mm myp275/t>3mm myp355			Hot rolled iron/non-alloy steel, w<600 t<3mm myp275/t>3mm myp355
-721121	6digit	Hot box rolled iron or non-alloy steel, flat, w 150-600mm,t >4mm, uncla			Hot box rolled iron/non-alloy steel, flat, w150-600 t >4mm, unclad
-721122	6digit	Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, unclad nes			Hot rolled iron/non-alloy steel, w<600 t>4.75mm, unclad
+721090	6digit	Flat rolled iron or non-alloy steel, clad/plated/coated, w >600mm, nes			Flat rolled iron/non-alloy steel, clad/plated/coated, w>.6m
+721111	6digit	Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35			Hot box roll iron/non-aly steel, flat, w15-.6m t>4mm myp>35
+721112	6digit	Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, myp 355			Hot rolled iron/non-alloy steel, w<600 t>4.75mm, myp355
+721119	6digit	Hot rolled iron or non-alloy steel, w <600mm, t<3mm myp275/t>3mm myp355			Hot rolled iron/non-aly steel, w<.6m t<3mm275/t>3mm355
+721121	6digit	Hot box rolled iron or non-alloy steel, flat, w 150-600mm,t >4mm, uncla			Hot box rolled iron/non-aly steel, flat w.15-.6m t>4, unclad
+721122	6digit	Hot rolled iron or non-alloy steel, width <600mm, t >4.75mm, unclad nes			Hot rolled iron/non-aly steel, w<.6m t>4.75mm, unclad
 721129	6digit	Hot rolled iron or non-alloy steel, width <600mm unclad, nes			Hot rolled iron/non-alloy steel, w<600mm, unclad
-721130	6digit	Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35			Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35
+721130	6digit	Cold rolled iron or non-alloy steel, width <600mm, <3mm-myp275, >3mm-35			Cold rolled iron/non-aly steel, w<.6m <3mm, myp275, >3-35
 721141	6digit	Flat rolled iron or non-alloy steel, width <600mm, unclad, <0.25% C, ne			Flat rolled iron/non-alloy steel, w<600mm, unclad, <.25%C
 721149	6digit	Flat rolled iron or non-alloy steel, width <600mm, unclad, nes			Flat rolled iron/non-alloy steel, w<600mm, unclad
-721190	6digit	Flat rolled iron or non-alloy steel, width <600mm, unclad, nes			Flat rolled iron/non-alloy steel, w<600mm, unclad
+721190	6digit	Flat rolled iron or non-alloy steel, width <600mm, unclad, nes			Flat rolled iron/non-alloy steel, w<600mm, unclad, nes
 721210	6digit	Flat rolled iron or non-alloy steel, width <600mm, plated with tin			Flat rolled iron/non-alloy steel, w<600mm, tin plated
 721221	6digit	Flat rolled steel, <600mm, zinc plate,<3mm-275/3mm-35			Flat rolled steel, <600mm, zinc plate,<3mm-275/3mm-35
 721229	6digit	Flat rolled steel, <600mm, electro-plated zinc, nes			Flat rolled steel, <600mm, electro-plated zinc
@@ -4623,25 +4623,25 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 721240	6digit	Flat rolled iron or non-alloy steel, <600mm, painted/plastic coated			Flat rolled iron/non-alloy steel, <600mm, plastic coated
 721250	6digit	Flat rolled iron or non-alloy steel, <600mm, plated/coated, nes			Flat rolled iron/non-alloy steel, <600mm, plated/coated
 721260	6digit	Flat rolled iron or non-alloy steel, width <600mm, clad			Flat rolled iron/non-alloy steel, w<600mm, clad
-721310	6digit	Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils			Hot rolled bar/rod grooved iron/non-alloy steel, irregular coils
+721310	6digit	Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils			Hot rolled bar/rod grooved iron/non-aly steel, irregular coils
 721320	6digit	Hot rolled bar/rod, irregular coils,free cutting stee			Hot rolled bar/rod, irregular coils, free cutting steel
-721331	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled width <14mm, C<.25%			Hot rolled bar/rod, iron/non-alloy steel, coiled, w<14mm C<.25%
+721331	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled width <14mm, C<.25%			Hot rolled bar/rod, iron/non-aly steel coiled w<.14m C<.25%
 721339	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled, C<.25%, nes			Hot rolled bar/rod, iron/non-alloy steel, coiled, C<.25%
-721341	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%			Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%
-721349	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%			Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%
+721341	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled w <14mm, C .25-.6%			Hot rolled bar, iron/non-aly steel, coiled w<.14m, C.25-.6%
+721349	6digit	Hot rolled bar/rod, iron or non-alloy steel, coiled, C 0.25-0.6%			Hot rolled bar/rod, iron/non-alloy steel, coiled, C.25-.6%
 721350	6digit	Bar/rod, iron or non-alloy steel, irregular coils, >0.6%C, nes			Bar/rod, iron/non-alloy steel, irregular coils, >.6%C
 721410	6digit	Bar/rod, iron or non-alloy steel, forged			Bar/rod, iron/non-alloy steel, forged
 721420	6digit	Bar/rod, iron or non-alloy steel, indented or twisted, nes			Bar/rod, iron/non-alloy steel, indent/twisted
 721430	6digit	Bar/rod, iron or non-alloy steel, of free cutting steel, nes			Bar/rod, iron/non-alloy steel, free cutting steel
 721440	6digit	Bar/rod, iron or non-alloy steel, hot formed <0.25%C, nes			Bar/rod, iron/non-alloy steel, hot formed <.25%C
-721450	6digit	Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes			Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes
-721460	6digit	Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes			Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes
+721450	6digit	Bar/rod, iron or non-alloy steel, hot formed 0.25-0.6%C, nes			Bar/rod, iron/non-alloy steel, hot formed .25-.6%C, nes
+721460	6digit	Bar/rod, iron or non-alloy steel, hot formed >0.6%C, nes			Bar/rod, iron/non-alloy steel, hot formed >.6%C, nes
 721510	6digit	Bar/rod, cold formed/finished free cutting steel			Bar/rod, cold formed/finished free cutting steel
 721520	6digit	Bar/rod, iron or non-alloy steel, cold formed/finished, <0.25%C			Bar/rod, iron/non-alloy steel, cold form/finished, <.25%C
-721530	6digit	Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C			Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C
+721530	6digit	Bar/rod, iron or non-alloy steel, cold formed/finished, 0.25-0.6%C			Bar/rod, iron/non-alloy steel, cold form/finished, .25-.6%C
 721540	6digit	Bar/rod, iron or non-alloy steel, cold formed/finished, >0.6%C			Bar/rod, iron/non-alloy steel, cold form/finished, >.6%C
 721590	6digit	Bar/rod, iron or non-alloy steel, nes			Bar/rod, iron/non-alloy steel, nes
-721610	6digit	Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm			Sections, U/I/H, iron/non-alloy steel, nfw hot formed <80mm
+721610	6digit	Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm			Sections U/I/H, iron/non-alloy steel, nfw hot formed <80mm
 721621	6digit	Sections, L, iron or non-alloy steel, nfw hot-roll/drawn/extruded < 80m			Sections, L, iron/non-alloy steel, <80m
 721622	6digit	Sections, T, iron or non-alloy steel, nfw hot-roll/drawn/extruded < 80m			Sections, T, iron/non-alloy steel, <80m
 721631	6digit	Sections, U, iron or non-alloy steel, nfw hot-roll/drawn/extruded > 80m			Sections, U, iron/non-alloy steel, >80m
@@ -4653,15 +4653,15 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 721690	6digit	Angles/shapes/sections, iron or non-alloy steel, nes			Angles/shapes/sections, iron/non-alloy steel
 721711	6digit	Wire, iron or non-alloy steel, not plated or coated, <0.25%C			Wire, iron/non-alloy steel, <.25%C
 721712	6digit	Wire, iron or non-alloy steel, plated or coated with zinc <0.25%C			Wire, iron/non-alloy steel, zinc plated/coated <.25%C
-721713	6digit	Wire, iron or non-alloy steel, of base metal plated/coated nes, <0.25%C			Wire, iron/non-alloy steel, base metal plated/coated, <.25%C
-721719	6digit	Wire, iron or non-alloy steel, <0.25% carbon, nes			Wire, iron or non-alloy steel, <0.25% carbon, nes
-721721	6digit	Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C			Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C
-721722	6digit	Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C			Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C
-721723	6digit	Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C			Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C
-721729	6digit	Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes			Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes
-721731	6digit	Wire, iron or non-alloy steel, not plated or coated, >0.6%C			Wire, iron or non-alloy steel, not plated or coated, >0.6%C
-721732	6digit	Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C			Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C
-721733	6digit	Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C			Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C
+721713	6digit	Wire, iron or non-alloy steel, of base metal plated/coated nes, <0.25%C			Wire, iron/non-alloy steel, base metal plate/coated, <.25%C
+721719	6digit	Wire, iron or non-alloy steel, <0.25% carbon, nes			Wire, iron/non-alloy steel, <.25% carbon, nes
+721721	6digit	Wire, iron or non-alloy steel, not plated or coated, 0.25-0.6%C			Wire, iron/non-alloy steel, not plated/coated, .25-.6%C
+721722	6digit	Wire, iron or non-alloy steel, zinc plated/coated, 0.25-0.6%C			Wire, iron/non-alloy steel, zinc plated/coated, .25-.6%C
+721723	6digit	Wire, iron or non-alloy steel, base metal plated/coated nes, 0.25-0.6%C			Wire, iron/non-alloy steel, base metal plate/coated .25-.6%C
+721729	6digit	Wire, iron or non-alloy steel, 0.25-0.6% carbon, nes			Wire, iron/non-alloy steel, .25-.6% carbon, nes
+721731	6digit	Wire, iron or non-alloy steel, not plated or coated, >0.6%C			Wire, iron/non-alloy steel, not plated/coated, >.6%C
+721732	6digit	Wire, iron or non-alloy steel, zinc plated/coated, >0.6%C			Wire, iron/non-alloy steel, zinc plated/coated, >.6%C
+721733	6digit	Wire, iron or non-alloy steel, of base metal plated/coated nes, >0.6%C			Wire, iron/non-alloy steel, base metal plated/coated, >.6%C
 721739	6digit	Wire, iron or non-alloy steel, more than 0.6% carbon, nes			Wire, iron/non-alloy steel, >.6%C
 721810	6digit	Ingots and other primary forms, stainless steel			Ingots & primary forms, stainless steel
 721890	6digit	Semi-finished products, stainless steel			Semi-finished products, of stainless steel
@@ -4719,7 +4719,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 730110	6digit	Sheet piling of iron or steel			Sheet piling of iron or steel
 730120	6digit	Angles, shapes and sections, welded, iron or steel			Angles, shapes, iron or steel, welded
 730210	6digit	Railway/tramway rails, iron or steel			Rails, iron
-730220	6digit	Sleepers (cross-ties), iron or steel			Sleepers (cross-ties), iron or steel
+730220	6digit	Sleepers (cross-ties), iron or steel			Sleepers, iron or steel
 730230	6digit	Railway/tramway switch/crossing material, iron/steel			Rail crossing material, iron
 730240	6digit	Railway fish plates and sole plates, iron or steel			Rail sole plates, iron
 730290	6digit	Rail/tramway construction material of iron/steel, nes			Rail construction material, iron
@@ -4851,7 +4851,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 740620	6digit	Powders, copper, of lamellar structure and flakes			Powders, copper, lamellar
 740710	6digit	Bars, rods & profiles of refined copper			Bars, refined copper
 740721	6digit	Bars, rods & profiles of copper-zinc base alloys			Bars, copper-zinc alloys
-740722	6digit	Bar, rod, profiles, copper-nickel, copper-nickel-zinc			Bars, copper-zinc alloys
+740722	6digit	Bar, rod, profiles, copper-nickel, copper-nickel-zinc			Bars, copper-nickel, copper-nicket-zinc
 740729	6digit	Bars, rods & profiles, copper alloy nes			Bars, copper alloy nes
 740811	6digit	Wire of refined copper > 6mm wide			Wire, refined copper, >6mm
 740819	6digit	Wire of refined copper < 6mm wide			Wire, refined copper, <6mm
@@ -4882,7 +4882,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 741510	6digit	Copper nails, tacks, drawing pins, staples etc			Copper nails
 741521	6digit	Copper washers, including spring washers			Copper washers
 741529	6digit	Copper cotters/cotter pins/unthreaded hardware nes			Copper cotters
-741531	6digit	Wood screws of copper and copper alloys			Wood screws of copper and copper alloys
+741531	6digit	Wood screws of copper and copper alloys			Wood screws of copper/alloys
 741532	6digit	Copper screws, bolts or nuts except wood screws			Copper screws
 741539	6digit	Copper screw hooks and similar articles			Copper screw hooks
 741600	6digit	Copper springs			Copper springs
@@ -4946,9 +4946,9 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 780191	6digit	Lead unwrought containing mostly antimony			Lead, unwrought, mostly antimony
 780199	6digit	Lead unwrought nes			Lead, unwrought, nes
 780200	6digit	Lead waste or scrap			Lead waste
-780300	6digit	Lead bars, rods, profiles and wire			Lead bars
+780300	6digit	Lead bars, rods, profiles and wire			Lead bars, wire
 780411	6digit	Lead foil of a thickness <2mm			Lead foil, <2mm
-780419	6digit	Lead plates, sheet, strip			Lead bars
+780419	6digit	Lead plates, sheet, strip			Lead plates, strip
 780420	6digit	Lead powders and flakes			Lead flakes
 780500	6digit	Lead tubes, pipes and fittings			Lead tubes
 780600	6digit	Articles of lead nes			Articles of lead, nes
@@ -4961,7 +4961,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 790400	6digit	Zinc bars, rods, profiles and wire			Zinc bars
 790500	6digit	Zinc plates, sheets, strip and foil			Zinc sheets
 790600	6digit	Zinc tubes, pipes and tube or pipe fittings			Zinc tubes
-790710	6digit	Zinc fabricated building components (gutters,etc)			Zinc fabricated building components (gutters,etc)
+790710	6digit	Zinc fabricated building components (gutters,etc)			Zinc fabricated building components
 790790	6digit	Articles of zinc nes			Zinc articles nes
 800110	6digit	Tin not alloyed unwrought			Tin, unwrought
 800120	6digit	Tin alloys unwrought			Tin alloys, unwrought
@@ -4969,7 +4969,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 800300	6digit	Tin bars, rods, profiles and wire			Tin bars
 800400	6digit	Tin plates, sheets and strips, thickness > 0.2 mm			Tin sheets
 800510	6digit	Tin foil (thickness < 0.2 mm)			Tin foil, <0.2mm
-800520	6digit	Tin powder and flakes			Tin powder and flakes
+800520	6digit	Tin powder and flakes			Tin powder & flakes
 800600	6digit	Tin pipes or tubes and pipe fittings			Tin pipes
 800700	6digit	Tin articles nes			Tin articles nes
 810110	6digit	Powders, tungsten (wolfram)			Powders, tungsten
@@ -5517,9 +5517,9 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 846890	6digit	Welding machinery parts			Welding machinery parts
 846910	6digit	Automatic typewriters and word-processing machines			Automatic typewriters, word-processers
 846921	6digit	Typewriters, electric, > 12 kg, non-automatic			Typewriters, electric, >12kg
-846929	6digit	Typewriters, electric, < 12 kg, non-automatic			Typewriters, electric, < 12 kg, non-automatic
+846929	6digit	Typewriters, electric, < 12 kg, non-automatic			Typewriters, electric, <12kg
 846931	6digit	Typewriters, non-electric, > 12 kg			Typewriters, non-electric, >12kg
-846939	6digit	Typewriters, non-electric < 12 kg			Typewriters, non-electric < 12 kg
+846939	6digit	Typewriters, non-electric < 12 kg			Typewriters, non-electric, <12kg
 847010	6digit	Electronic calculators operable with internal power			Electronic calculators, internal power
 847021	6digit	Electronic calculators, printing, external power			Electronic calculators, printing, external power
 847029	6digit	Electronic calculators, non-printing, external power			Electronic calculators, non-printing, ext power
@@ -5648,7 +5648,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 850612	6digit	Mercuric oxide primary cell, battery, volume < 300 cc			Mercuric oxide primary cell/battery, vol<300cc
 850613	6digit	Silver oxide primary cells, batteries volume < 300 cc			Silver oxide primary cell/battery vol<300cc
 850619	6digit	Primary cells, primary batteries nes, volume < 300 cc			Primary cells/batteries, vol<300cc
-850620	6digit	Primary cells, primary batteries nes, volume > 300 cc			Primary cells, primary batteries nes, volume > 300 cc
+850620	6digit	Primary cells, primary batteries nes, volume > 300 cc			Primary cells/batteries, vol>300cc
 850690	6digit	Parts of primary cells and primary batteries			Parts of primary cells & batteries
 850710	6digit	Lead-acid electric accumulators (vehicle)			Vehicle lead-acid electric accumulators
 850720	6digit	Lead-acid electric accumulators except for vehicles			Lead-acid electric accumulators, non-vehicle
@@ -5880,7 +5880,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 860400	6digit	Railway maintenance-of-way service vehicles			Railway maintenance vehicles
 860500	6digit	Railway passenger and special purpose coaches			Railway passenger/special purpose coaches
 860610	6digit	Railway tank cars			Railway tank cars
-860620	6digit	Railway wagons, insulated/refrigerated except tank ca			Railway wagons, insulated/refrigerated except tank ca
+860620	6digit	Railway wagons, insulated/refrigerated except tank ca			Railway wagons, insulated
 860630	6digit	Railway cars, self-discharging, nes			Railway cars, self-discharging
 860691	6digit	Railway cars nes, closed and covered			Railway cars, closed & covered
 860692	6digit	Railway cars nes, open, with sides > 60 cm high			Railway cars, open, >60cm sides
@@ -6036,8 +6036,8 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 900699	6digit	Parts and accessories for flashlights and flashbulbs			Parts/accessories for flashlights/bulbs
 900711	6digit	Cinematographic cameras for film <16mm wide			Cinematographic cameras for film <16mm wide
 900719	6digit	Cinematographic cameras for film >16mm wide			Cinematographic cameras for film >16mm wide
-900721	6digit	Cinematographic projectors for film of <16 mm width			Cinematographic projectors for film of <16 mm width
-900729	6digit	Cinematographic projectors for film of >16 mm width			Cinematographic projectors for film of >16 mm width
+900721	6digit	Cinematographic projectors for film of <16 mm width			Cinematographic projectors for film of w <16mm
+900729	6digit	Cinematographic projectors for film of >16 mm width			Cinematographic projectors for film of w >16mm
 900791	6digit	Parts and accessories for cinematographic cameras			Parts and accessories for cinematographic cameras
 900792	6digit	Parts and accessories for cinematographic projectors			Parts and accessories for cinematographic projectors
 900810	6digit	Slide projectors			Slide projectors
@@ -6186,7 +6186,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 910812	6digit	Assembled battery watch movement,opto-electric displa			Watch movement, battery, opto-electric display
 910819	6digit	Assembled battery watch movement, nes			Watch movement, battery nes
 910820	6digit	Watch movements, complete and assembled, auto-winding			Watch movements, auto-winding
-910891	6digit	Watch movements, complete and assembled, nes, <33.8mm			Watch movements, complete and assembled, nes, <33.8mm
+910891	6digit	Watch movements, complete and assembled, nes, <33.8mm			Watch movements, nes, <33.8mm
 910899	6digit	Watch movements, complete and assembled, nes			Watch movements, nes
 910911	6digit	Clock movements, complete and assembled, battery/alar			Clock movements, battery/alarm
 910919	6digit	Clock movements, complete and assembled, battery nes			Clock movements, battery nes
@@ -6199,7 +6199,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 911120	6digit	Watch cases of base metal including gold/silver-plate			Watch cases of base metal
 911180	6digit	Watch cases, nes			Watch cases, nes
 911190	6digit	Parts of watch cases			Parts of watch cases
-911210	6digit	Clock, etc cases, of metal			Clock, etc cases, of metal
+911210	6digit	Clock, etc cases, of metal			Clock cases, of metal
 911280	6digit	Clock, etc cases, except metal			Clock cases, except metal
 911290	6digit	Parts of clock/etc cases			Parts of clock cases
 911310	6digit	Watch straps etc & parts, of/clad with precious metal			Watch straps, of/clad with precious metal
@@ -6371,7 +6371,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 961330	6digit	Table lighters			Table lighters
 961380	6digit	Lighters, nes			Lighters, nes
 961390	6digit	Parts of lighters, other than flints/wicks			Parts of lighters, other than flints/wicks
-961410	6digit	Roughly shaped blocks of wood or root, for pipes			Roughly shaped blocks of wood or root, for pipes
+961410	6digit	Roughly shaped blocks of wood or root, for pipes			Wood/root blocks, for pipes
 961420	6digit	Smoking pipes and pipe bowls			Smoking pipes & bowls
 961490	6digit	Cigar or cigarette holders and parts, pipe stems			Cigar/ette holders, pipe stems
 961511	6digit	Combs, hair-slides etc of hard rubber or plastic			Combs, hard rubber or plastic
@@ -6388,6 +6388,6 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 970400	6digit	Used postage and revenue stamps, first day covers, et			Used postage stamps
 970500	6digit	Collections and collectors pieces			Collections & collectors pieces
 970600	6digit	Antiques older than one hundred years			Antiques
-999999	6digit	Commodities not specified according to kind			Commodities not specified according to kind
+999999	6digit	Commodities not specified according to kind			Commodities not specified, according to kind
 9999AA	6digit	Commodities not specified according to kind			Commodities not specified according to kind
 XXXXXX	6digit	Trade data discrepancies	Trade data discrepancies	Trade data discrepancies	Trade data discrepancies
