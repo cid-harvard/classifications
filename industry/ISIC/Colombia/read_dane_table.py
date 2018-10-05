@@ -59,8 +59,18 @@ def parse_dane(df):
     df["code"] = df["section"] + df["division"] + df["group"] + df["class"]
 
     # clean out original columns
-    df = df.drop(["raw_secdiv", "raw_group", "raw_class", "section",
-                  "division", "group", "class"], axis=1)
+    df = df.drop(
+        [
+            "raw_secdiv",
+            "raw_group",
+            "raw_class",
+            "section",
+            "division",
+            "group",
+            "class",
+        ],
+        axis=1,
+    )
 
     df = df.reset_index(drop=True)
 
@@ -68,7 +78,7 @@ def parse_dane(df):
 
 
 if __name__ == "__main__":
-    assert(len(sys.argv) == 3)
+    assert len(sys.argv) == 3
 
     file_name = sys.argv[1]
     new_file_prefix = sys.argv[2]
@@ -81,9 +91,12 @@ if __name__ == "__main__":
 
     df.name = df.name.str.title()
 
-    from classification import (parent_code_table_to_parent_id_table,
-                                Classification, Hierarchy,
-                                ordered_table_to_parent_code_table)
+    from classification import (
+        parent_code_table_to_parent_id_table,
+        Classification,
+        Hierarchy,
+        ordered_table_to_parent_code_table,
+    )
 
     h = Hierarchy(DANE_HIERARCHY)
     df = ordered_table_to_parent_code_table(df, h)

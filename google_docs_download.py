@@ -17,14 +17,14 @@ def get_classification_from_gdrive(url, credentials_path=None):
 
     if credentials_path is None:
         dir = os.path.dirname(__file__)
-        credentials_path = os.path.join(dir, 'creds.json')
+        credentials_path = os.path.join(dir, "creds.json")
 
     credentials = ServiceAccountCredentials.from_json_keyfile_name(
         credentials_path,
         [
-            'https://spreadsheets.google.com/feeds',
-            'https://www.googleapis.com/auth/drive'
-        ]
+            "https://spreadsheets.google.com/feeds",
+            "https://www.googleapis.com/auth/drive",
+        ],
     )
     gc = gspread.authorize(credentials)
 
@@ -32,6 +32,6 @@ def get_classification_from_gdrive(url, credentials_path=None):
     hierarchy_sheet, names_sheet = sheet.worksheets()
 
     hierarchy = bytes_to_df(hierarchy_sheet.export(), dtype="str")
-    names = bytes_to_df(names_sheet.export(), dtype={"code":"str"})
+    names = bytes_to_df(names_sheet.export(), dtype={"code": "str"})
 
     return hierarchy, names

@@ -1,31 +1,31 @@
 import pandas as pd
 
-from classification import (Hierarchy, repeated_table_to_parent_id_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    repeated_table_to_parent_id_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
-    names = pd.read_table("./in/HS_hierarchy_master - Names.tsv",
-                          encoding="utf-8", dtype={"code": str})
+    names = pd.read_table(
+        "./in/HS_hierarchy_master - Names.tsv", encoding="utf-8", dtype={"code": str}
+    )
 
-    hierarchy = pd.read_table("./in/HS_hierarchy_master - Hierarchy.tsv",
-                              encoding="utf-8",
-                              dtype={
-                                  "4digit": str,
-                                  "2digit": str,
-                                  "section": str,
-                                  "atlas_section": str,
-                              })
+    hierarchy = pd.read_table(
+        "./in/HS_hierarchy_master - Hierarchy.tsv",
+        encoding="utf-8",
+        dtype={"4digit": str, "2digit": str, "section": str, "atlas_section": str},
+    )
     hierarchy.columns = ["4digit_code", "2digit_code", "section_code", "atlas_section"]
     hierarchy["name_4digit"] = None
     hierarchy["name_2digit"] = None
     hierarchy["name_section"] = None
 
-
     fields = {
         "4digit": ["name_4digit"],
         "2digit": ["name_2digit"],
-        "section": ["name_section"]
+        "section": ["name_section"],
     }
 
     h = Hierarchy(["section", "2digit", "4digit"])
@@ -38,12 +38,23 @@ if __name__ == "__main__":
     parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
     parent_id_table.name = parent_id_table.name_en
 
-    parent_id_table = parent_id_table[["code", "name", "level", "name_en",
-                                       "name_es", "name_short_es",
-                                       "name_short_en", "parent_id"]]
+    parent_id_table = parent_id_table[
+        [
+            "code",
+            "name",
+            "level",
+            "name_en",
+            "name_es",
+            "name_short_es",
+            "name_short_en",
+            "parent_id",
+        ]
+    ]
 
     hs92_codes = pd.read_csv("./in/hs92_codes.csv", dtype=str)
-    codes_to_drop = (parent_id_table.level == "4digit") & (~parent_id_table.code.isin(hs92_codes.code))
+    codes_to_drop = (parent_id_table.level == "4digit") & (
+        ~parent_id_table.code.isin(hs92_codes.code)
+    )
     parent_id_table = parent_id_table[~codes_to_drop]
 
     c = Classification(parent_id_table, h)

@@ -1,7 +1,10 @@
 import pandas as pd
 
-from classification import (Hierarchy, parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
 
@@ -34,8 +37,8 @@ if __name__ == "__main__":
     hs_clean = parent_code_table_to_parent_id_table(hs_clean, h)
     c = Classification(hs_clean, h)
 
-    #community = pd.read_table("in/hs4_community.tsv", encoding="utf-8")
-    #hs4 = hs4.merge(community, left_on="community", right_on="code", how="inner")
+    # community = pd.read_table("in/hs4_community.tsv", encoding="utf-8")
+    # hs4 = hs4.merge(community, left_on="community", right_on="code", how="inner")
 
     # weird bug where pandas infer_type was returning mixed instead of string
     c.table.code = c.table.code.astype(str)

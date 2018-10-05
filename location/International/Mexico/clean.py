@@ -1,21 +1,29 @@
 import pandas as pd
 
-from classification import (Hierarchy, repeated_table_to_parent_id_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    repeated_table_to_parent_id_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
 
-    df = pd.read_csv("./in/Mexico Country codes - continents - Countries.csv",
-                     encoding="utf-8",
-                     dtype={"continent_code": str}
-                     )\
-        .rename(columns={"continent_code":"parent_code"})\
+    df = (
+        pd.read_csv(
+            "./in/Mexico Country codes - continents - Countries.csv",
+            encoding="utf-8",
+            dtype={"continent_code": str},
+        )
+        .rename(columns={"continent_code": "parent_code"})
         .drop("total_export", axis=1)
+    )
     df["level"] = "country"
 
-    regions = pd.read_table("./in/Mexico Country codes - continents - Continents - Regions.tsv", encoding="utf-8")\
-        .rename(columns={"name": "name_en"})
+    regions = pd.read_table(
+        "./in/Mexico Country codes - continents - Continents - Regions.tsv",
+        encoding="utf-8",
+    ).rename(columns={"name": "name_en"})
     regions["name_short_en"] = regions["name_en"]
     regions["name_short_es"] = regions["name_es"]
     regions["level"] = "region"

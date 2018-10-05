@@ -2,8 +2,11 @@
 
 import pandas as pd
 
-from classification import (Classification, Hierarchy,
-                            parent_code_table_to_parent_id_table)
+from classification import (
+    Classification,
+    Hierarchy,
+    parent_code_table_to_parent_id_table,
+)
 
 
 def id_table_to_code_table(df):
@@ -13,27 +16,25 @@ def id_table_to_code_table(df):
 
 if __name__ == "__main__":
 
-    c = Classification.from_csv("../DANE/out/locations_colombia_dane.csv", encoding="utf-8")
+    c = Classification.from_csv(
+        "../DANE/out/locations_colombia_dane.csv", encoding="utf-8"
+    )
 
     df = id_table_to_code_table(c.table)
     df = df[df.level != "population_center"]
 
-    colombia = pd.Series({
-        "code": "COL",
-        "name": "Colombia",
-        "level": "country"
-    })
+    colombia = pd.Series({"code": "COL", "name": "Colombia", "level": "country"})
 
-    metro_areas = pd\
-        .read_stata("./in/Colombia_city_key.dta", encoding="mac-roman")\
-        .query("head_mun == 1")[["city_name", "city_code"]]
+    metro_areas = pd.read_stata(
+        "./in/Colombia_city_key.dta", encoding="mac-roman"
+    ).query("head_mun == 1")[["city_name", "city_code"]]
 
     metro_areas.columns = ["name", "code"]
 
     metro_areas["parent_code"] = metro_areas.code.str.slice(0, 2)
     metro_areas["level"] = "msa"
 
-    df.loc[df.level=="department", "parent_code"] = "COL"
+    df.loc[df.level == "department", "parent_code"] = "COL"
 
     df = pd.concat([pd.DataFrame(colombia).T, df, metro_areas])
 
@@ -56,6 +57,7 @@ if __name__ == "__main__":
         if row.level == "municipality" and pd.isnull(row.parent_id):
             row.parent_id = lookup_table[row.code[:2]]
         return row
+
     parent_id_table = parent_id_table.apply(fill_parents, axis=1)
 
     wrongtext = u"Bogotá, D. C."
@@ -85,7 +87,9 @@ if __name__ == "__main__":
     to_change_parents = parent_id_table.loc[to_change, "parent_id"].to_frame()
     parent_names = to_change_parents.join(parent_id_table["name"], on="parent_id")
 
-    parent_id_table.loc[to_change, "name"] = parent_id_table.loc[to_change, "name"] + " (" + parent_names.name + ")"
+    parent_id_table.loc[to_change, "name"] = (
+        parent_id_table.loc[to_change, "name"] + " (" + parent_names.name + ")"
+    )
     parent_id_table["name_es"] = parent_id_table["name"]
     parent_id_table["name_short_en"] = parent_id_table["name"]
     parent_id_table["name_short_es"] = parent_id_table["name"]

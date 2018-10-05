@@ -3,20 +3,18 @@
 
 import pandas as pd
 
-from classification import (Hierarchy, repeated_table_to_parent_id_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    repeated_table_to_parent_id_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
 
     hierarchy = pd.read_table("in/Mexico_industry_master - Hierarchy.tsv")
 
-    fields = {
-        "section": [],
-        "division": [],
-        "group": [],
-        "class": [],
-    }
+    fields = {"section": [], "division": [], "group": [], "class": []}
 
     h = Hierarchy(["section", "division", "group", "class"])
     parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
