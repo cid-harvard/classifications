@@ -3,9 +3,12 @@
 
 import pandas as pd
 
-from classification import (Hierarchy, ordered_table_to_parent_code_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    ordered_table_to_parent_code_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 import re
 import sys
@@ -52,7 +55,7 @@ if __name__ == "__main__":
     spanish.columns = ["code", "level", "name_es"]
 
     # make sure this is the hand-fixed version
-    assert df.loc[304, "code"] == '31'
+    assert df.loc[304, "code"] == "31"
 
     df = df[["code", "name_english", "level"]]
     df.columns = ["code", "name", "level"]
@@ -63,7 +66,9 @@ if __name__ == "__main__":
     # TODO: changing these levels, but it'd be better if this was done in a
     # separate classification named datlas_mexico or something similar, in
     # order to not mess up the original.
-    parent_code_table = parent_code_table[~parent_code_table.level.isin(["fivedigit", "sixdigit"])]
+    parent_code_table = parent_code_table[
+        ~parent_code_table.level.isin(["fivedigit", "sixdigit"])
+    ]
     parent_code_table = parent_code_table.reset_index(drop=True)
 
     def rename_level(df, from_level, to_level):

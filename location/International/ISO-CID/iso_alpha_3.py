@@ -6,25 +6,25 @@ import urllib2
 from BeautifulSoup import BeautifulSoup
 
 opener = urllib2.build_opener()
-opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+opener.addheaders = [("User-agent", "Mozilla/5.0")]
 
-url = 'http://en.wikipedia.org/wiki/ISO_3166-1'
+url = "http://en.wikipedia.org/wiki/ISO_3166-1"
 
 page = opener.open(url)
 soup = BeautifulSoup(page.read())
 
-t = soup.find('table', {'class' : 'wikitable sortable'})
+t = soup.find("table", {"class": "wikitable sortable"})
 
 # create a new CSV for the output
-iso_csv = csv.writer(open('wikipedia-iso-country-codes.csv', 'w'))
+iso_csv = csv.writer(open("wikipedia-iso-country-codes.csv", "w"))
 
 # get the header rows, write to the CSV
-iso_csv.writerow([th.findAll(text=True)[0] for th in t.findAll('th')])
+iso_csv.writerow([th.findAll(text=True)[0] for th in t.findAll("th")])
 
 # Iterate over the table pulling out the country table results. Skip the first
 # row as it contains the already-parsed header information.
 for row in t.findAll("tr")[1:]:
-    tds = row.findAll('td')
+    tds = row.findAll("td")
     raw_cols = [td.findAll(text=True) for td in tds]
     cols = []
     # country field contains differing numbers of elements, due to the flag --

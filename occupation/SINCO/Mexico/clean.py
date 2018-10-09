@@ -2,9 +2,12 @@
 
 import pandas as pd
 
-from classification import (Hierarchy, ordered_table_to_parent_code_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    ordered_table_to_parent_code_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
 
@@ -15,7 +18,7 @@ if __name__ == "__main__":
     sinco = sinco[~sinco.data.str.startswith(u"Clave Descripción")]
 
     for index, row in reversed(list(sinco[~sinco.data.str.match("^\d* ")].iterrows())):
-        sinco.ix[index - 1] += (" " + sinco.ix[index])
+        sinco.ix[index - 1] += " " + sinco.ix[index]
 
     sinco = sinco[sinco.data.str.match("^\d* ")]
 

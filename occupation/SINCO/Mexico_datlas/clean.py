@@ -2,18 +2,33 @@
 
 import pandas as pd
 
-from classification import (Hierarchy, ordered_table_to_parent_code_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    ordered_table_to_parent_code_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
 
-    sinco = pd.read_table("in/Mexico Occupations (SINCO 2011) - Classification with translations.tsv",
-                          encoding="utf-8",
-                          dtype={"code": unicode})
+    sinco = pd.read_table(
+        "in/Mexico Occupations (SINCO 2011) - Classification with translations.tsv",
+        encoding="utf-8",
+        dtype={"code": unicode},
+    )
     sinco = sinco.rename(columns={"id": ""})
     sinco = sinco.set_index("")
-    sinco = sinco[["name_es", "name_en", "name_short_es", "name_short_en", "code", "level", "parent_id"]]
+    sinco = sinco[
+        [
+            "name_es",
+            "name_en",
+            "name_short_es",
+            "name_short_en",
+            "code",
+            "level",
+            "parent_id",
+        ]
+    ]
 
     sinco["name"] = sinco["name_en"]
 

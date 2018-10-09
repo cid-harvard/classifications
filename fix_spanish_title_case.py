@@ -4,22 +4,14 @@ import re
 import unittest
 
 
-NON_CAPITAL = (
-    "De Los",
-    "De Las",
-    "De La",
-    "Del",
-    "De",
-)
+NON_CAPITAL = ("De Los", "De Las", "De La", "Del", "De")
 
 # Put \b around the patterns to only match 'de' and 'de los' surrounded by
 # word boundaries
-patterns = [r"\b{}\b".format(pattern)
-            for pattern in NON_CAPITAL]
+patterns = [r"\b{}\b".format(pattern) for pattern in NON_CAPITAL]
 
 # Join them all into one regex to make the search faster
-NON_CAPITAL_RE = re.compile(r"|".join(patterns),
-                            flags=re.IGNORECASE)
+NON_CAPITAL_RE = re.compile(r"|".join(patterns), flags=re.IGNORECASE)
 
 
 def do_replacement(matchobj):
@@ -39,52 +31,40 @@ def fix_spanish_title_case(text):
 
 
 class Test(unittest.TestCase):
-
     def test_de(self):
-        self.assertEquals(
-            fix_spanish_title_case(u"Casa De Nariño"),
-            u"Casa de Nariño"
-        )
+        self.assertEquals(fix_spanish_title_case(u"Casa De Nariño"), u"Casa de Nariño")
 
     def test_del(self):
         self.assertEquals(
-            fix_spanish_title_case(u"San Jacinto Del Cauca"),
-            u"San Jacinto del Cauca"
+            fix_spanish_title_case(u"San Jacinto Del Cauca"), u"San Jacinto del Cauca"
         )
 
     def test_de_la(self):
         self.assertEquals(
-            fix_spanish_title_case(u"Güicán De La Sierra"),
-            u"Güicán de la Sierra"
+            fix_spanish_title_case(u"Güicán De La Sierra"), u"Güicán de la Sierra"
         )
 
     def test_de_las(self):
         self.assertEquals(
-            fix_spanish_title_case(u"Paso De Las Flores"),
-            u"Paso de las Flores"
+            fix_spanish_title_case(u"Paso De Las Flores"), u"Paso de las Flores"
         )
 
     def test_de_los(self):
         # Yes, I know there's no "los" in the original version
         self.assertEquals(
-            fix_spanish_title_case(u"Día De Los Muertos"),
-            u"Día de los Muertos"
+            fix_spanish_title_case(u"Día De Los Muertos"), u"Día de los Muertos"
         )
 
     def test_combo(self):
         self.assertEquals(
             fix_spanish_title_case(u"María De Los Llanos De Luna Tobarra"),
-            u"María de los Llanos de Luna Tobarra"
+            u"María de los Llanos de Luna Tobarra",
         )
 
     def test_case_sensitivity(self):
-        self.assertEquals(
-            fix_spanish_title_case(u"VILLA DE LEYVA"),
-            u"VILLA de LEYVA"
-        )
+        self.assertEquals(fix_spanish_title_case(u"VILLA DE LEYVA"), u"VILLA de LEYVA")
 
     def test_multi_space(self):
         self.assertEquals(
-            fix_spanish_title_case(u"Paso  De Las	 Flores"),
-            u"Paso  de las	 Flores"
+            fix_spanish_title_case(u"Paso  De Las	 Flores"), u"Paso  de las	 Flores"
         )

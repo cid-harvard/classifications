@@ -1,13 +1,18 @@
 import pandas as pd
 
-from classification import (Hierarchy, repeated_table_to_parent_id_table,
-                            parent_code_table_to_parent_id_table,
-                            Classification)
+from classification import (
+    Hierarchy,
+    repeated_table_to_parent_id_table,
+    parent_code_table_to_parent_id_table,
+    Classification,
+)
 
 if __name__ == "__main__":
 
     trans = pd.read_csv("./in/HS4_Spanish_English_Translations.csv", encoding="utf-8")
-    trans = trans[["code", "level", "name_es", "name_en", "name_short_es", "name_short_en"]]
+    trans = trans[
+        ["code", "level", "name_es", "name_en", "name_short_es", "name_short_en"]
+    ]
 
     def fill_code(x):
         if x.level == "4digit":
