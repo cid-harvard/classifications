@@ -15,9 +15,8 @@ def get_wdi_data():
 
     # Metadata in 0, data in 1
     wdi_locations = json_normalize(json.loads(r.text)[1])
-    wdi_locations = wdi_locations[["id", "incomeLevel.id", "iso2Code"]]
-    wdi_locations = wdi_locations.rename(
-        columns={"id": "iso3", "incomeLevel.id": "income_level", "iso2Code": "iso2"}
+    wdi_locations = wdi_locations[["id", "iso2Code"]].rename(
+        columns={"id": "iso3", "iso2Code": "iso2"}
     )
     return wdi_locations
 
