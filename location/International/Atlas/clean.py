@@ -1,10 +1,25 @@
 import pandas as pd
+from pandas.io.json import json_normalize
+import requests
+import json
 
 from classification import (
     Hierarchy,
     parent_code_table_to_parent_id_table,
     Classification,
 )
+
+
+def get_wdi_data():
+    r = requests.get("http://api.worldbank.org/v2/countries/?format=json&per_page=400")
+
+    # Metadata in 0, data in 1
+    wdi_locations = json_normalize(json.loads(r.text)[1])
+    wdi_locations = wdi_locations[["id", "iso2Code"]].rename(
+        columns={"id": "iso3", "iso2Code": "iso2"}
+    )
+    return wdi_locations
+
 
 if __name__ == "__main__":
 
@@ -25,6 +40,12 @@ if __name__ == "__main__":
     regions["code"] = regions["code"].astype(str)
 
     df = pd.concat([df, regions]).reset_index(drop=True)
+
+    # Merge in data from WDI API
+    wdi_locations = get_wdi_data()
+    df = df.merge(wdi_locations, left_on="code", right_on="iso3", how="left").drop(
+        columns=["iso3"]
+    )
 
     h = Hierarchy(["region", "country"])
     parent_id_table = parent_code_table_to_parent_id_table(df, h)
