@@ -1,14 +1,14 @@
 code	level	name_en	name_short_en	name_es	name_short_es
-0	section	Food and live animals chiefly for food	Food & live animals for food		
-1	section	Beverages and tobacco	Drinks and tobacco		
-2	section	Crude materials, inedible, except fuels	Crude materials (inedible)		
-3	section	Mineral fuels, lubricants and related materials	Fuels, lubricants & related materials		
-4	section	Animal and vegetable oils, fats and waxes	Animal and vegetable oils, fats and waxes		
-5	section	Chemicals and related products, nes	Chemicals and related products		
-6	section	Manufactured goods classified chiefly by materials	Manufactured goods		
-7	section	Machinery and transport equipment	Machinery & transport		
-8	section	Miscellaneous manufactured articles	Other manufactured articles		
-9	section	Commodities and transactions not classified elsewhere in the SITC	Other		
+0	section	Food and live animals chiefly for food	Food		
+1	section	Beverages and tobacco	Beverages		
+2	section	Crude materials, inedible, except fuels	Crude materials		
+3	section	Mineral fuels, lubricants and related materials	Fuels		
+4	section	Animal and vegetable oils, fats and waxes	Vegetable oils		
+5	section	Chemicals and related products, nes	Chemicals		
+6	section	Manufactured goods classified chiefly by materials	Material manufacturers		
+7	section	Machinery and transport equipment	Machinery and vehicles		
+8	section	Miscellaneous manufactured articles	Other manufacturers		
+9	section	Commodities and transactions not classified elsewhere in the SITC	Unspecified		
 00	2digit	Live animals chiefly for food	Live animals chiefly for food		
 01	2digit	Meat and preparations	Meat and preparations		
 02	2digit	Dairy products and birds' eggs	Dairy products and birds' eggs		
