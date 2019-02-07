@@ -361,7 +361,7 @@ code	level	name_en	name_es	name_short_es	name_short_en
 2941	4digit	Antibiotics	Antibióticos.	Antibióticos	Antibiotics
 2942	4digit	Other organic compounds	Los demás compuestos orgánicos.	Los demás compuestos orgánicos	Other organic compounds
 3001	4digit	Glands and other organs for organotherapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organotherapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or p	Glándulas y demás órganos para usos opoterápicos, desecados, incluso pulverizados; extractos de glándulas o de otros órganos o de sus secreciones, para usos opoterápicos; heparina y sus sales; las demás sustancias humanas o animales preparadas para usos terapéuticos o profilácticos, no expresadas ni comprendidas en otra parte.	Órganos para usos opoterapicos	Heparin for therapeutic use
-3002	4digit	Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes; vaccines, toxins, cultures of micr	Sangre humana; sangre animal preparada para usos terapéuticos, profilácticos o de diagnóstico; antisueros (sueros con anticuerpos), demás fracciones de la sangre y productos inmunológicos, incluso modificados u obtenidos por procesos biotecnológicos; vacunas, toxinas, cultivos de microorganismos (excepto las levaduras) y productos similares.	Sangre	Blood
+3002	4digit	Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes; vaccines, toxins, cultures of micr	Sangre humana; sangre animal preparada para usos terapéuticos, profilácticos o de diagnóstico; antisueros (sueros con anticuerpos), demás fracciones de la sangre y productos inmunológicos, incluso modificados u obtenidos por procesos biotecnológicos; vacunas, toxinas, cultivos de microorganismos (excepto las levaduras) y productos similares.	Sangre	Antisera, vaccines and blood
 3003	4digit	Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale	Medicamentos (excepto los productos de las partidas 30.02, 30.05 ó 30.06) constituidos por productos mezclados entre sí, preparados para usos terapéuticos o profilácticos, sin dosificar ni acondicionar para la venta al por menor.	Medicamentos, no envasados	Medicaments, not packaged
 3004	4digit	Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings	Medicamentos (excepto los productos de las partidas 30.02, 30.05 ó 30.06) constituidos por productos mezclados o sin mezclar, preparados para usos terapéuticos o profilácticos, dosificados (incluidos los administrados por vía transdérmica) o acondicionados para la venta al por menor.	Medicamentos, envasados	Medicaments, packaged
 3005	4digit	Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes	Guatas, gasas, vendas y artículos análogos (por ejemplo: apósitos, esparadrapos, sinapismos), impregnados o recubiertos de sustancias farmacéuticas o acondicionados para la venta al por menor con fines médicos, quirúrgicos, odontológicos o veterinarios.	Guatas, gasas, y vendas	Wadding, gauze and bandages
@@ -1341,14 +1341,14 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 97	2digit	Works of art, collectors' pieces and antiques.	Obras de arte, piezas de colección y antigüedades	Arte	Art
 98	2digit	(Reserved for special uses by Contracting Parties)	(Reservado para usos especiales de las Partes Contratantes)	(Reservado para usos especiales de las Partes Contratantes)	(Reserved for special uses by Contracting Parties)
 99	2digit	Other	Other	Other	Other
-0	section	Textiles and furniture	Textiles y muebles	Textiles y muebles	Textiles and furniture
-1	section	Vegetables, foodstuffs and wood	Vegetales, alimentos y madera	Vegetales, alimentos y madera	Vegetables, foodstuffs and wood
-2	section	Stone and glass	Piedra y vidrio	Piedra y vidrio	Stone and glass
-3	section	Minerals	Minerales	Minerales	Minerals
+0	section	Textiles, garments, footwear and furniture	Textiles y muebles	Textiles y muebles	Textiles
+1	section	Vegetables, animals, wood and paper	Vegetales, alimentos y madera	Vegetales, alimentos y madera	Agriculture
+2	section	Stone, glass and ceramics	Piedra y vidrio	Piedra y vidrio	Stone
+3	section	Minerals, fuels, ores and salts	Minerales	Minerales	Minerals
 4	section	Metals	Metales	Metales	Metals
-5	section	Chemicals and plastics	Químicos y plásticos	Químicos y plásticos	Chemicals and plastics
-6	section	Transport vehicles	Vehículos de transporte	Vehículos de transporte	Transport vehicles
-7	section	Machinery	Maquinaria	Maquinaria	Machinery
+5	section	Chemicals and plastics	Químicos y plásticos	Químicos y plásticos	Chemicals
+6	section	Transport vehicles	Vehículos de transporte	Vehículos de transporte	Vehicles
+7	section	Machinery and instruments	Maquinaria	Maquinaria	Machinery
 8	section	Electronics	Electrónicos	Electrónicos	Electronics
 9	section	Other	Other	Other	Other
 010111	6digit	Live horses, pure-bred			Horses, pure-bred
@@ -4837,7 +4837,7 @@ XXXX	4digit	Trade data discrepancies	Trade data discrepancies	Trade data discrep
 740110	6digit	Copper mattes			Copper mattes
 740120	6digit	Cement copper (precipitated copper)			Cement copper
 740200	6digit	Unrefined copper, copper anodes, electrolytic refinin			Unrefined copper
-740311	6digit	Copper cathodes and sections of cathodes unwrought			COpper cathodes
+740311	6digit	Copper cathodes and sections of cathodes unwrought			Copper cathodes
 740312	6digit	Wire bars, copper, unwrought			Wire bars, copper, unwrought
 740313	6digit	Billets, copper, unwrought			Billets, copper, unwrought
 740319	6digit	Refined copper products, unwrought, nes			Refined copper products, unwrought

@@ -1,4 +1,5 @@
 import gspread
+import requests
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 
@@ -11,6 +12,16 @@ def bytes_to_df(data, **kwargs):
     io.write(data)
     io.seek(0)
     return pd.read_csv(io, **kwargs)
+
+
+def download_sheet(key, sheet_id, output_path):
+    url = (
+        f"https://docs.google.com/spreadsheets/"
+        f"d/{key}/export?format=csv&id={key}&gid={sheet_id}"
+    )
+
+    df = bytes_to_df(requests.get(url).content, dtype="str")
+    df.to_csv(f"{output_path}.tsv", sep="\t", index=False, encoding="utf-8")
 
 
 def get_classification_from_gdrive(url, credentials_path=None):

@@ -1,5 +1,7 @@
 import pandas as pd
+import sys
 
+sys.path.append("../../..")
 from classification import (
     Hierarchy,
     repeated_table_to_parent_id_table,

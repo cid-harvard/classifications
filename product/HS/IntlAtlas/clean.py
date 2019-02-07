@@ -1,5 +1,7 @@
 import pandas as pd
+import sys
 
+sys.path.append("../../..")
 from classification import (
     Hierarchy,
     repeated_table_to_parent_id_table,
@@ -9,6 +11,14 @@ from classification import (
     Classification,
 )
 
+
+def get_hs_services(file="./in/Services_Hierarchy.csv"):
+    services = pd.read_csv(file, encoding="utf-8", dtype="str")
+    # Spread out services similarly to each set of exports but buffered further
+    service_starts = {"section": 10, "2digit": 400, "4digit": 4000, "6digit": 11000}
+    return spread_out_entries(services, service_starts, h)
+
+
 if __name__ == "__main__":
     names = pd.read_table(
         "./in/HS92_Atlas_Names.tsv", encoding="utf-8", dtype={"code": str}
@@ -17,8 +27,6 @@ if __name__ == "__main__":
     hierarchy = pd.read_table(
         "./in/HS92_Atlas_Hierarchy.tsv", encoding="utf-8", dtype="str"
     )
-
-    services = pd.read_csv("./in/Services_Hierarchy.csv", encoding="utf-8", dtype="str")
 
     fields = {"section": [], "2digit": [], "4digit": [], "6digit": []}
 
@@ -51,9 +59,7 @@ if __name__ == "__main__":
     parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
 
     # Append services to table
-    # Spread out services similarly to each set of exports but buffered further
-    service_starts = {"section": 10, "2digit": 400, "4digit": 4000, "6digit": 11000}
-    services = spread_out_entries(services, service_starts, h)
+    services = get_hs_services()
 
     # Append to main table and sort on combined spread out indices
     parent_id_table = parent_id_table.append(services).sort_index()
