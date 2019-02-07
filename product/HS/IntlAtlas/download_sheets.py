@@ -1,9 +1,22 @@
-from google_docs_download import get_classification_from_gdrive
+import sys
 
-hierarchy, names = get_classification_from_gdrive(
-    "https://docs.google.com/spreadsheets/d/1y6UUixlfbW0jLnUtKycHF1ICUaD-kROQIvscwCGFzzE/edit#gid=0"
-)
-hierarchy.to_csv(
-    "./in/HS92_Atlas_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8"
-)
-names.to_csv("./in/HS92_Atlas_Names.tsv", sep="\t", index=False, encoding="utf-8")
+sys.path.append("../../..")
+from google_docs_download import download_sheet
+
+if __name__ == "__main__":
+
+    sheets = [
+        {
+            "key": "1xPMiNhKf8DKMMU3ntUADQsouCWOLM2-2lY_2o58gSIQ",
+            "sheet_id": "0",
+            "output_path": "./in/HS92_Atlas_Hierarchy",
+        },
+        {
+            "key": "1xPMiNhKf8DKMMU3ntUADQsouCWOLM2-2lY_2o58gSIQ",
+            "sheet_id": "1029116973",
+            "output_path": "./in/HS92_Atlas_Names",
+        },
+    ]
+
+    for sheet in sheets:
+        download_sheet(**sheet)

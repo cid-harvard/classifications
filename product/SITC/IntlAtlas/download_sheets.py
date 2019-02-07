@@ -1,10 +1,22 @@
-from google_docs_download import get_classification_from_gdrive
+import sys
 
-# SITC Rev2
-hierarchy, names = get_classification_from_gdrive(
-    "https://docs.google.com/spreadsheets/d/1pgVamRALdpc7IlmzkvJrLk4Hkm4H4wvNyoIycQ6wr_E/edit#gid=1207195644"
-)
-hierarchy.to_csv(
-    "./in/SITC_Rev2_Hierarchy.tsv", sep="\t", index=False, encoding="utf-8"
-)
-names.to_csv("./in/SITC_Rev2_Names.tsv", sep="\t", index=False, encoding="utf-8")
+sys.path.append("../../..")
+from google_docs_download import download_sheet
+
+if __name__ == "__main__":
+
+    sheets = [
+        {
+            "key": "16Wpxs5SL4s1YUus29lqCkbgC2acXQ19iXZwWEPvvcpM",
+            "sheet_id": "0",
+            "output_path": "./in/SITC_Rev2_Hierarchy",
+        },
+        {
+            "key": "16Wpxs5SL4s1YUus29lqCkbgC2acXQ19iXZwWEPvvcpM",
+            "sheet_id": "1207195644",
+            "output_path": "./in/SITC_Rev2_Names",
+        },
+    ]
+
+    for sheet in sheets:
+        download_sheet(**sheet)
