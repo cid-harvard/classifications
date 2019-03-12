@@ -64,6 +64,9 @@ if __name__ == "__main__":
     # Append to main table and sort on combined spread out indices
     parent_id_table = parent_id_table.append(services).sort_index()
 
+    hidden = pd.read_csv("./in/hidden_products.csv", dtype={"code": str})
+    parent_id_table["is_shown"] = (~parent_id_table.code.isin(hidden.code)).astype(int)
+
     c = Classification(parent_id_table, h)
 
     c.to_csv("out/hs92_atlas.csv")
