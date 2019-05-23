@@ -10,7 +10,7 @@ iso;in_rankings
 "ARB";0
 "ARE";1
 "ARG";1
-"ARM";0
+"ARM";1
 "ASM";0
 "ATA";0
 "ATF";0
@@ -25,7 +25,7 @@ iso;in_rankings
 "BFA";0
 "BGD";1
 "BGR";1
-"BHR";0
+"BHR";1
 "BHS";0
 "BIH";1
 "BLM";0
@@ -62,7 +62,7 @@ iso;in_rankings
 "CUW";0
 "CXR";0
 "CYM";0
-"CYP";0
+"CYP";1
 "CZE";1
 "DDR";0
 "DEU";1
@@ -101,7 +101,7 @@ iso;in_rankings
 "GLP";0
 "GMB";0
 "GNB";0
-"GNQ";0
+"GNQ";1
 "GRC";1
 "GRD";0
 "GRL";0
@@ -177,7 +177,7 @@ iso;in_rankings
 "MKD";1
 "MLI";1
 "MLT";0
-"MMR";0
+"MMR";1
 "MNA";0
 "MNE";0
 "MNG";1
@@ -219,7 +219,7 @@ iso;in_rankings
 "POR";0
 "PRE";0
 "PRI";0
-"PRK";0
+"PRK";1
 "PRT";1
 "PRY";1
 "PSE";0
@@ -257,7 +257,7 @@ iso;in_rankings
 "SVK";1
 "SVN";1
 "SWE";1
-"SWZ";0
+"SWZ";1
 "SXM";0
 "SYC";0
 "SYR";0
@@ -265,7 +265,7 @@ iso;in_rankings
 "TCD";0
 "TEA";0
 "TEC";0
-"TGO";0
+"TGO";1
 "THA";1
 "TJK";1
 "TKL";0
