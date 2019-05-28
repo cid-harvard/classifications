@@ -139,7 +139,7 @@
 137,"MDV","country","Maldives","Maldivas (Republica De)","Maldives","Maldivas","MV",353.0,"Maldives",0.0,0.0,1.0,1.0
 138,"MEX","country","Mexico","Mexico (Estados Unidos Mexicanos)","Mexico","Mexico","MX",356.0,"Mexico",1.0,1.0,1.0,1.0
 139,"MHL","country","Marshall Islands","Islas Marshall","Marshall Islands","Islas Marshall","MH",354.0,"Marshall Islands",0.0,0.0,1.0,1.0
-140,"MKD","country","Macedonia (the former Yugoslav Republic of)","Macedonia (Antigua Republica Yugoslava De)","Macedonia","Macedonia","MK",355.0,"Macedonia (the former Yugoslav Republic of)",1.0,1.0,1.0,1.0
+140,"MKD","country","North Macedonia","Macedonia del Norte (Republica De)","North Macedonia","Macedonia del Norte","MK",355.0,"North Macedonia",1.0,1.0,1.0,1.0
 141,"MLI","country","Mali","Mali (Republica De)","Mali","Mali","ML",352.0,"Mali",0.0,1.0,1.0,0.0
 142,"MLT","country","Malta","Malta (Republica De)","Malta","Malta","MT",355.0,"Malta",0.0,0.0,1.0,1.0
 143,"MMR","country","Myanmar","Myanmar (Union De)","Myanmar","Myanmar","MM",353.0,"Myanmar",1.0,1.0,1.0,1.0
@@ -208,7 +208,7 @@
 206,"SVK","country","Slovakia","Republica Eslovaca","Slovakia","Republica Eslovaca","SK",355.0,"Slovakia",1.0,1.0,1.0,1.0
 207,"SVN","country","Slovenia","Eslovenia (Republica De)","Slovenia","Eslovenia","SI",355.0,"Slovenia",1.0,1.0,1.0,1.0
 208,"SWE","country","Sweden","Suecia (Reino De)","Sweden","Suecia","SE",355.0,"Sweden",1.0,1.0,1.0,1.0
-209,"SWZ","country","Swaziland","Swazilandia (Reino De)","Swaziland","Swazilandia","SZ",352.0,"Swaziland",0.0,1.0,1.0,1.0
+209,"SWZ","country","Eswatini","Esuatini (Reino De)","Eswatini","Esuatini","SZ",352.0,"Eswatini",0.0,1.0,1.0,1.0
 210,"SXM","country","St-Martin / St Maarten","","St-Martin / St Maarten","","SX",356.0,"St-Martin / St Maarten",0.0,0.0,1.0,1.0
 211,"SYC","country","Seychelles","Seychelles (Republica De Las)","Seychelles","Seychelles","SC",352.0,"Seychelles",1.0,0.0,1.0,1.0
 212,"SYR","country","Syrian Arab Republic","Siria (Republica Arabe)","Syrian Arab Republic","Siria","SY",353.0,"Syrian Arab Republic",0.0,0.0,1.0,0.0
