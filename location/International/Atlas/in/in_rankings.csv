@@ -22,7 +22,7 @@ iso;in_rankings
 "BEL";1
 "BEN";0
 "BES";0
-"BFA";0
+"BFA";1
 "BGD";1
 "BGR";1
 "BHR";1
@@ -49,7 +49,7 @@ iso;in_rankings
 "CHN";1
 "CIV";1
 "CMR";1
-"COD";0
+"COD";1
 "COG";1
 "COK";0
 "COL";1
@@ -219,7 +219,7 @@ iso;in_rankings
 "POR";0
 "PRE";0
 "PRI";0
-"PRK";1
+"PRK";0
 "PRT";1
 "PRY";1
 "PSE";0
