@@ -20,7 +20,7 @@
 18,"BEL","country","Belgium","Belgica (Reino De)","Belgium","Belgica","BE",355.0,"Belgium",1.0,1.0,1.0,1.0
 19,"BEN","country","Benin","Benin (Republica De)","Benin","Benin","BJ",352.0,"Benin",0.0,0.0,1.0,1.0
 20,"BES","country","Bonaire","","Bonaire","","",357.0,"Bonaire",0.0,0.0,0.0,0.0
-21,"BFA","country","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","BF",352.0,"Burkina Faso",0.0,0.0,1.0,1.0
+21,"BFA","country","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","BF",352.0,"Burkina Faso",0.0,1.0,1.0,1.0
 22,"BGD","country","Bangladesh","Bangladesh (Republica Popular De)","Bangladesh","Bangladesh","BD",353.0,"Bangladesh",1.0,1.0,1.0,1.0
 23,"BGR","country","Bulgaria","Bulgaria (Republica De)","Bulgaria","Bulgaria","BG",355.0,"Bulgaria",1.0,1.0,1.0,1.0
 24,"BHR","country","Bahrain","Bahrein (Estado De)","Bahrain","Bahrein","BH",353.0,"Bahrain",0.0,1.0,1.0,1.0
@@ -45,7 +45,7 @@
 43,"CHN","country","China","China (Republica Popular)","China","China","CN",353.0,"China",0.0,1.0,1.0,1.0
 44,"CIV","country","Côte d'Ivoire","Costa De Marfil (Republica De La)","Côte d'Ivoire","Costa De Marfil","CI",352.0,"Côte d'Ivoire",1.0,1.0,1.0,1.0
 45,"CMR","country","Cameroon","Camerun (Republica Del)","Cameroon","Camerun","CM",352.0,"Cameroon",1.0,1.0,1.0,1.0
-46,"COD","country","Congo (Democratic Republic of the)","Republica Popular Del Congo","Congo (Democratic Republic of the)","Republica Popular Del Congo","CD",352.0,"Congo (Democratic Republic of the)",0.0,0.0,1.0,1.0
+46,"COD","country","Congo (Democratic Republic of the)","Republica Popular Del Congo","Congo (Democratic Republic of the)","Republica Popular Del Congo","CD",352.0,"Congo (Democratic Republic of the)",0.0,1.0,1.0,1.0
 47,"COG","country","Congo","Congo (Republica Del)","Congo","Congo","CG",352.0,"Congo",1.0,1.0,1.0,0.0
 48,"COK","country","Cook Islands","Cook (Islas)","Cook Islands","Cook (Islas)","",354.0,"Cook Islands",0.0,0.0,0.0,0.0
 49,"COL","country","Colombia","Colombia (Republica De)","Colombia","Colombia","CO",357.0,"Colombia",1.0,1.0,1.0,1.0
@@ -88,7 +88,7 @@
 86,"GLP","country","Guadeloupe","Guadalupe (Departamento De)","Guadeloupe","Guadalupe","",356.0,"Guadeloupe",0.0,0.0,0.0,0.0
 87,"GMB","country","Gambia","Gambia (Republica De La)","Gambia","Gambia","GM",352.0,"Gambia",0.0,0.0,1.0,1.0
 88,"GNB","country","Guinea-Bissau","Guinea-Bissau (Republica De)","Guinea-Bissau","Guinea-Bissau","GW",352.0,"Guinea-Bissau",0.0,0.0,1.0,1.0
-89,"GNQ","country","Equatorial Guinea","Guinea Ecuatorial (Republica De)","Equatorial Guinea","Guinea Ecuatorial","GQ",352.0,"Equatorial Guinea",1.0,1.0,1.0,0.0
+89,"GNQ","country","Equatorial Guinea","Guinea Ecuatorial (Republica De)","Equatorial Guinea","Guinea Ecuatorial","GQ",352.0,"Equatorial Guinea",1.0,0.0,1.0,0.0
 90,"GRC","country","Greece","Grecia (Republica Helenica)","Greece","Grecia","GR",355.0,"Greece",1.0,1.0,1.0,1.0
 91,"GRD","country","Grenada","Granada","Grenada","Granada","GD",356.0,"Grenada",1.0,0.0,1.0,1.0
 92,"GRL","country","Greenland","Groenlandia (Dinamarca)","Greenland","Groenlandia","GL",356.0,"Greenland",0.0,0.0,0.0,0.0
@@ -96,7 +96,7 @@
 94,"GUF","country","French Guiana","Guyana Francesa","French Guiana","Guyana Francesa","",357.0,"French Guiana",0.0,0.0,0.0,0.0
 95,"GUM","country","Guam","Guam (E.U.A.)","Guam","Guam","GU",354.0,"Guam",0.0,0.0,0.0,0.0
 96,"GUY","country","Guyana","Guyana (Republica Cooperativa De)","Guyana","Guyana","GY",357.0,"Guyana",1.0,0.0,1.0,1.0
-97,"HKG","country","Hong Kong","Hong Kong (Region Administrativa Especial De La Republica)","Hong Kong","Hong Kong","HK",353.0,"Hong Kong",1.0,1.0,1.0,1.0
+97,"HKG","country","Hong Kong","Hong Kong (Region Administrativa Especial De La Republica)","Hong Kong","Hong Kong","HK",353.0,"Hong Kong",1.0,0.0,1.0,1.0
 98,"HMD","country","Heard Island and McDonald Islands","Islas Heard Y Mcdonald","Heard and McDonald Islands","Islas Heard Y Mcdonald","",358.0,"Heard Island and McDonald Islands",0.0,0.0,0.0,0.0
 99,"HND","country","Honduras","Honduras (Republica De)","Honduras","Honduras","HN",356.0,"Honduras",0.0,1.0,1.0,1.0
 100,"HRV","country","Croatia","Croacia (Republica De)","Croatia","Croacia","HR",355.0,"Croatia",1.0,1.0,1.0,1.0
@@ -177,7 +177,7 @@
 175,"PLW","country","Palau","Palau (Republica De)","Palau","Palau","PW",354.0,"Palau",0.0,0.0,1.0,0.0
 176,"PNG","country","Papua New Guinea","Papua Nueva Guinea (Estado Independiente De)","Papua New Guinea","Papua Nueva Guinea","PG",354.0,"Papua New Guinea",1.0,1.0,1.0,1.0
 177,"POL","country","Poland","Polonia (Republica De)","Poland","Polonia","PL",355.0,"Poland",1.0,1.0,1.0,1.0
-178,"PRK","country","Korea (Democratic People's Republic of)","Corea (Republica Popular Democratica De) (Corea Del Norte)","North Korea","Corea Del Norte","KP",353.0,"Korea (Democratic People's Republic of)",1.0,1.0,0.0,0.0
+178,"PRK","country","Korea (Democratic People's Republic of)","Corea (Republica Popular Democratica De) (Corea Del Norte)","North Korea","Corea Del Norte","KP",353.0,"Korea (Democratic People's Republic of)",1.0,0.0,0.0,0.0
 179,"PRT","country","Portugal","Portugal (Republica Portuguesa)","Portugal","Portugal","PT",355.0,"Portugal",1.0,1.0,1.0,1.0
 180,"PRY","country","Paraguay","Paraguay (Republica Del)","Paraguay","Paraguay","PY",357.0,"Paraguay",0.0,1.0,1.0,1.0
 181,"PSE","country","Palestine, State of","Palestina","Palestine","Palestina","PS",353.0,"Palestine, State of",0.0,0.0,1.0,1.0
@@ -189,7 +189,7 @@
 187,"RWA","country","Rwanda","Republica Ruandesa","Rwanda","Republica Ruandesa","RW",352.0,"Rwanda",0.0,0.0,1.0,1.0
 188,"SAU","country","Saudi Arabia","Arabia Saudita (Reino De)","Saudi Arabia","Arabia Saudita","SA",353.0,"Saudi Arabia",1.0,1.0,1.0,1.0
 189,"SCG","country","Serbia and Montenegro","","Serbia and Montenegro","","",355.0,"Serbia and Montenegro",0.0,0.0,0.0,0.0
-190,"SDN","country","Sudan","Sudan (Republica Del)","Sudan","Sudan","SD",352.0,"Sudan",1.0,1.0,1.0,1.0
+190,"SDN","country","Sudan","Sudan (Republica Del)","Sudan","Sudan","SD",352.0,"Sudan",1.0,0.0,1.0,1.0
 191,"SEN","country","Senegal","Senegal (Republica Del)","Senegal","Senegal","SN",352.0,"Senegal",1.0,1.0,1.0,0.0
 192,"SGP","country","Singapore","Singapur (Republica De)","Singapore","Singapur","SG",353.0,"Singapore",1.0,1.0,1.0,1.0
 193,"SGS","country","South Georgia and the South Sandwich Islands","","South Georgia and South Sandwich Islds.","","",358.0,"South Georgia and the South Sandwich Islands",0.0,0.0,0.0,0.0
