@@ -64,8 +64,16 @@ if __name__ == "__main__":
     # Append to main table and sort on combined spread out indices
     parent_id_table = parent_id_table.append(services).sort_index()
 
+    # Hidden products (e.g., garbage, scrap metal)
     hidden = pd.read_csv("./in/hidden_products.csv", dtype={"code": str})
+    ## Is shown == Not hidden
     parent_id_table["is_shown"] = (~parent_id_table.code.isin(hidden.code)).astype(int)
+
+    # Natural Resources
+    nat_resources = pd.read_csv("./in/natural_resources.csv", dtype={"code": str})
+    parent_id_table["natural_resource"] = (
+        parent_id_table.code.isin(nat_resources.code)
+    ).astype(int)
 
     c = Classification(parent_id_table, h)
 
