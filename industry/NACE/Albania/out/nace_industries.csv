@@ -1,0 +1,377 @@
+"","level","code","name","parent_id"
+0,"section","A","AGRICULTURE AND FISHING",""
+1,"section","B","MINING AND QUARRYING",""
+2,"section","C","MANUFACTURING",""
+3,"section","D","UTILITIES",""
+4,"section","F","CONSTRUCTION",""
+5,"section","G","WHOLESALE AND RETAIL TRADE AND REPAIR SERVICES",""
+6,"section","H","TRANSPORTATION AND STORAGE",""
+7,"section","I","TOURISM, HOTELS AND FOOD SERVICES",""
+8,"section","J","COMMUNICATION SERVICES",""
+9,"section","K","BUSINESS SERVICES",""
+10,"section","L","REAL ESTATE ACTIVITIES",""
+11,"section","M","ENGINEERING, SCIENCE AND TECHNICAL SERVICES",""
+12,"section","O","PUBLIC ADMINISTRATION",""
+13,"section","P","EDUCATION & HEALTH SERVICES",""
+14,"section","R","ARTS, ENTERTAINMENT AND RECREATION",""
+15,"section","T","OTHER",""
+100,"division","1","Crop and animal production, hunting and related service activities",0.0
+101,"division","10","Manufacture of food products",2.0
+102,"division","11","Manufacture of beverages",2.0
+103,"division","12","Manufacture of tobacco products",2.0
+104,"division","13","Manufacture of textiles",2.0
+105,"division","14","Manufacture of wearing apparel",2.0
+106,"division","15","Manufacture of leather and related products",2.0
+107,"division","16","Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2.0
+108,"division","17","Manufacture of paper and paper products",2.0
+109,"division","18","Printing and reproduction of recorded media",2.0
+110,"division","19","Manufacture of coke and refined petroleum products",2.0
+111,"division","2","Forestry and logging",0.0
+112,"division","20","Manufacture of chemicals and chemical products",2.0
+113,"division","21","Manufacture of basic pharmaceutical products and pharmaceutical preparations",2.0
+114,"division","22","Manufacture of rubber and plastic products",2.0
+115,"division","23","Manufacture of other non-metallic mineral products",2.0
+116,"division","24","Manufacture of basic metals",2.0
+117,"division","25","Manufacture of fabricated metal products, except machinery and equipment",2.0
+118,"division","26","Manufacture of computer, electronic and optical products",2.0
+119,"division","27","Manufacture of electrical equipment",2.0
+120,"division","28","Manufacture of machinery and equipment n.e.c.",2.0
+121,"division","29","Manufacture of motor vehicles, trailers and semi-trailers",2.0
+122,"division","3","Fishing and aquaculture",0.0
+123,"division","30","Manufacture of other transport equipment",2.0
+124,"division","31","Manufacture of furniture",2.0
+125,"division","32","Other manufacturing",2.0
+126,"division","33","Repair and installation of machinery and equipment",2.0
+127,"division","35","Electricity, gas, steam and air conditioning supply",3.0
+128,"division","36","Water collection, treatment and supply",3.0
+129,"division","37","Sewerage",3.0
+130,"division","38","Waste collection, treatment and disposal activities; materials recovery",3.0
+131,"division","39","Remediation activities and other waste management services",3.0
+132,"division","41","Construction of buildings",4.0
+133,"division","42","Civil engineering",4.0
+134,"division","43","Specialised construction activities",4.0
+135,"division","45","Wholesale and retail trade and repair of motor vehicles and motorcycles",5.0
+136,"division","46","Wholesale trade, except of motor vehicles and motorcycles",5.0
+137,"division","47","Retail trade, except of motor vehicles and motorcycles",5.0
+138,"division","49","Land transport and transport via pipelines",6.0
+139,"division","5","Mining of coal and lignite",1.0
+140,"division","50","Water transport",6.0
+141,"division","51","Air transport",6.0
+142,"division","52","Warehousing and support activities for transportation",6.0
+143,"division","53","Postal and courier activities",6.0
+144,"division","55","Accommodation",7.0
+145,"division","56","Food and beverage service activities",7.0
+146,"division","58","Publishing activities",8.0
+147,"division","59","Motion picture, video and television programme production, sound recording and music publishing activities",8.0
+148,"division","6","Extraction of crude petroleum and natural gas",1.0
+149,"division","60","Programming and broadcasting activities",8.0
+150,"division","61","Telecommunications",8.0
+151,"division","62","Computer programming, consultancy and related activities",9.0
+152,"division","63","Information service activities",9.0
+153,"division","64","Financial service activities, except insurance and pension funding",9.0
+154,"division","65","Insurance, reinsurance and pension funding, except compulsory social security",9.0
+155,"division","66","Activities auxiliary to financial services and insurance activities",9.0
+156,"division","68","Real estate activities",10.0
+157,"division","69","Legal and accounting activities",9.0
+158,"division","7","Mining of metal ores",1.0
+159,"division","70","Activities of head offices; management consultancy activities",9.0
+160,"division","71","Architectural and engineering activities; technical testing and analysis",11.0
+161,"division","72","Scientific research and development",11.0
+162,"division","73","Advertising and market research",9.0
+163,"division","74","Other professional, scientific and technical activities",11.0
+164,"division","75","Veterinary activities",11.0
+165,"division","77","Rental and leasing activities",9.0
+166,"division","78","Employment activities",9.0
+167,"division","79","Travel agency, tour operator and other reservation service and related activities",7.0
+168,"division","8","Other mining and quarrying",1.0
+169,"division","80","Security and investigation activities",9.0
+170,"division","81","Services to buildings and landscape activities",9.0
+171,"division","82","Office administrative, office support and other business support activities",9.0
+172,"division","84","Public administration and defence; compulsory social security",12.0
+173,"division","85","Education",13.0
+174,"division","86","Human health activities",13.0
+175,"division","87","Residential care activities",13.0
+176,"division","88","Social work activities without accommodation",13.0
+177,"division","9","Mining support service activities",1.0
+178,"division","90","Creative, arts and entertainment activities",14.0
+179,"division","91","Libraries, archives, museums and other cultural activities",14.0
+180,"division","92","Gambling and betting activities",14.0
+181,"division","93","Sports activities and amusement and recreation activities",14.0
+182,"division","94","Activities of membership organisations",15.0
+183,"division","95","Repair of computers and personal and household goods",5.0
+184,"division","96","Other personal service activities",15.0
+185,"division","97","Activities of households as employers of domestic personnel",15.0
+186,"division","98","Undifferentiated goods- and services-producing activities of private households for own use",15.0
+187,"division","99","Activities of extraterritorial organisations and bodies",15.0
+300,"group","1.1","Growing of non-perennial crops",100.0
+301,"group","1.2","Growing of perennial crops",100.0
+302,"group","1.3","Plant propagation",100.0
+303,"group","1.4","Animal production",100.0
+304,"group","1.5","Mixed farming",100.0
+305,"group","1.6","Support activities to agriculture and post-harvest crop activities",100.0
+306,"group","1.7","Hunting, trapping and related service activities",100.0
+307,"group","10.1","Processing and preserving of meat and production of meat products",101.0
+308,"group","10.2","Processing and preserving of fish, crustaceans and molluscs",101.0
+309,"group","10.3","Processing and preserving of fruit and vegetables",101.0
+310,"group","10.4","Manufacture of vegetable and animal oils and fats",101.0
+311,"group","10.5","Manufacture of dairy products",101.0
+312,"group","10.6","Manufacture of grain mill products, starches and starch products",101.0
+313,"group","10.7","Manufacture of bakery and farinaceous products",101.0
+314,"group","10.8","Manufacture of other food products",101.0
+315,"group","10.9","Manufacture of prepared animal feeds",101.0
+316,"group","11","Manufacture of beverages",102.0
+317,"group","12","Manufacture of tobacco products",103.0
+318,"group","13.1","Preparation and spinning of textile fibres",104.0
+319,"group","13.2","Weaving of textiles",104.0
+320,"group","13.3","Finishing of textiles",104.0
+321,"group","13.9","Manufacture of other textiles",104.0
+322,"group","14.1","Manufacture of wearing apparel, except fur apparel",105.0
+323,"group","14.2","Manufacture of articles of fur",105.0
+324,"group","14.3","Manufacture of knitted and crocheted apparel",105.0
+325,"group","15.1","Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",106.0
+326,"group","15.2","Manufacture of footwear",106.0
+327,"group","16.1","Sawmilling and planing of wood",107.0
+328,"group","16.2","Manufacture of products of wood, cork, straw and plaiting materials",107.0
+329,"group","17.1","Manufacture of pulp, paper and paperboard",108.0
+330,"group","17.2","Manufacture of articles of paper and paperboard",108.0
+331,"group","18.1","Printing and service activities related to printing",109.0
+332,"group","18.2","Reproduction of recorded media",109.0
+333,"group","19.1","Manufacture of coke oven products",110.0
+334,"group","19.2","Manufacture of refined petroleum products",110.0
+335,"group","2.1","Silviculture and other forestry activities",111.0
+336,"group","2.2","Logging",111.0
+337,"group","2.3","Gathering of wild growing non-wood products",111.0
+338,"group","2.4","Support services to forestry",111.0
+339,"group","20.1","Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",112.0
+340,"group","20.2","Manufacture of pesticides and other agrochemical products",112.0
+341,"group","20.3","Manufacture of paints, varnishes and similar coatings, printing ink and mastics",112.0
+342,"group","20.4","Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",112.0
+343,"group","20.5","Manufacture of other chemical products",112.0
+344,"group","20.6","Manufacture of man-made fibres",112.0
+345,"group","21.1","Manufacture of basic pharmaceutical products",113.0
+346,"group","21.2","Manufacture of pharmaceutical preparations",113.0
+347,"group","22.1","Manufacture of rubber products",114.0
+348,"group","22.2","Manufacture of plastic products",114.0
+349,"group","23.1","Manufacture of glass and glass products",115.0
+350,"group","23.2","Manufacture of refractory products",115.0
+351,"group","23.3","Manufacture of clay building materials",115.0
+352,"group","23.4","Manufacture of other porcelain and ceramic products",115.0
+353,"group","23.5","Manufacture of cement, lime and plaster",115.0
+354,"group","23.6","Manufacture of articles of concrete, cement and plaster",115.0
+355,"group","23.7","Cutting, shaping and finishing of stone",115.0
+356,"group","23.9","Manufacture of abrasive products and non-metallic mineral products n.e.c.",115.0
+357,"group","24.1","Manufacture of basic iron and steel and of ferro-alloys",116.0
+358,"group","24.2","Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",116.0
+359,"group","24.3","Manufacture of other products of first processing of steel",116.0
+360,"group","24.4","Manufacture of basic precious and other non-ferrous metals",116.0
+361,"group","24.5","Casting of metals",116.0
+362,"group","25.1","Manufacture of structural metal products",117.0
+363,"group","25.2","Manufacture of tanks, reservoirs and containers of metal",117.0
+364,"group","25.3","Manufacture of steam generators, except central heating hot water boilers",117.0
+365,"group","25.4","Manufacture of weapons and ammunition",117.0
+366,"group","25.5","Forging, pressing, stamping and roll-forming of metal; powder metallurgy",117.0
+367,"group","25.6","Treatment and coating of metals; machining",117.0
+368,"group","25.7","Manufacture of cutlery, tools and general hardware",117.0
+369,"group","25.9","Manufacture of other fabricated metal products",117.0
+370,"group","26.1","Manufacture of electronic components and boards",118.0
+371,"group","26.2","Manufacture of computers and peripheral equipment",118.0
+372,"group","26.3","Manufacture of communication equipment",118.0
+373,"group","26.4","Manufacture of consumer electronics",118.0
+374,"group","26.5","Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",118.0
+375,"group","26.6","Manufacture of irradiation, electromedical and electrotherapeutic equipment",118.0
+376,"group","26.7","Manufacture of optical instruments and photographic equipment",118.0
+377,"group","26.8","Manufacture of magnetic and optical media",118.0
+378,"group","27.1","Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",119.0
+379,"group","27.2","Manufacture of batteries and accumulators",119.0
+380,"group","27.3","Manufacture of wiring and wiring devices",119.0
+381,"group","27.4","Manufacture of electric lighting equipment",119.0
+382,"group","27.5","Manufacture of domestic appliances",119.0
+383,"group","27.9","Manufacture of other electrical equipment",119.0
+384,"group","28.1","Manufacture of general-purpose machinery",120.0
+385,"group","28.2","Manufacture of other general-purpose machinery",120.0
+386,"group","28.3","Manufacture of agricultural and forestry machinery",120.0
+387,"group","28.4","Manufacture of metal forming machinery and machine tools",120.0
+388,"group","28.9","Manufacture of other special-purpose machinery",120.0
+389,"group","29.1","Manufacture of motor vehicles",121.0
+390,"group","29.2","Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",121.0
+391,"group","29.3","Manufacture of parts and accessories for motor vehicles",121.0
+392,"group","3.1","Fishing",122.0
+393,"group","3.2","Aquaculture",122.0
+394,"group","30.1","Building of ships and boats",123.0
+395,"group","30.2","Manufacture of railway locomotives and rolling stock",123.0
+396,"group","30.3","Manufacture of air and spacecraft and related machinery",123.0
+397,"group","30.4","Manufacture of military fighting vehicles",123.0
+398,"group","30.9","Manufacture of transport equipment n.e.c.",123.0
+399,"group","31","Manufacture of furniture",124.0
+400,"group","32.1","Manufacture of jewellery, bijouterie and related articles",125.0
+401,"group","32.2","Manufacture of musical instruments",125.0
+402,"group","32.3","Manufacture of sports goods",125.0
+403,"group","32.4","Manufacture of games and toys",125.0
+404,"group","32.5","Manufacture of medical and dental instruments and supplies",125.0
+405,"group","32.9","Manufacturing n.e.c.",125.0
+406,"group","33.1","Repair of fabricated metal products, machinery and equipment",126.0
+407,"group","33.2","Installation of industrial machinery and equipment",126.0
+408,"group","35.1","Electric power generation, transmission and distribution",127.0
+409,"group","35.2","Manufacture of gas; distribution of gaseous fuels through mains",127.0
+410,"group","35.3","Steam and air conditioning supply",127.0
+411,"group","36","Water collection, treatment and supply",128.0
+412,"group","37","Sewerage",129.0
+413,"group","38.1","Waste collection",130.0
+414,"group","38.2","Waste treatment and disposal",130.0
+415,"group","38.3","Materials recovery",130.0
+416,"group","39","Remediation activities and other waste management services",131.0
+417,"group","41.1","Development of building projects",132.0
+418,"group","41.2","Construction of residential and non-residential buildings",132.0
+419,"group","42.1","Construction of roads and railways",133.0
+420,"group","42.2","Construction of utility projects",133.0
+421,"group","42.9","Construction of other civil engineering projects",133.0
+422,"group","43.1","Demolition and site preparation",134.0
+423,"group","43.2","Electrical, plumbing and other construction installation activities",134.0
+424,"group","43.3","Building completion and finishing",134.0
+425,"group","43.9","Other specialised construction activities",134.0
+426,"group","45.1","Sale of motor vehicles",135.0
+427,"group","45.2","Maintenance and repair of motor vehicles",135.0
+428,"group","45.3","Sale of motor vehicle parts and accessories",135.0
+429,"group","45.4","Sale, maintenance and repair of motorcycles and related parts and accessories",135.0
+430,"group","46.1","Wholesale on a fee or contract basis",136.0
+431,"group","46.2","Wholesale of agricultural raw materials and live animals",136.0
+432,"group","46.3","Wholesale of food, beverages and tobacco",136.0
+433,"group","46.4","Wholesale of household goods",136.0
+434,"group","46.5","Wholesale of information and communication equipment",136.0
+435,"group","46.6","Wholesale of other machinery, equipment and supplies",136.0
+436,"group","46.7","Other specialised wholesale",136.0
+437,"group","46.9","Non-specialised wholesale trade",136.0
+438,"group","47.1","Retail sale in non-specialised stores",137.0
+439,"group","47.2","Retail sale of food, beverages and tobacco in specialised stores",137.0
+440,"group","47.3","Retail sale of automotive fuel in specialised stores",137.0
+441,"group","47.4","Retail sale of information and communication equipment in specialised stores",137.0
+442,"group","47.5","Retail sale of other household equipment in specialised stores",137.0
+443,"group","47.6","Retail sale of cultural and recreation goods in specialised stores",137.0
+444,"group","47.7","Retail sale of other goods in specialised stores",137.0
+445,"group","47.8","Retail sale via stalls and markets",137.0
+446,"group","47.9","Retail trade not in stores, stalls or markets",137.0
+447,"group","49.1","Passenger rail transport, interurban",138.0
+448,"group","49.2","Freight rail transport",138.0
+449,"group","49.3","Other passenger land transport",138.0
+450,"group","49.4","Freight transport by road and removal services",138.0
+451,"group","49.5","Transport via pipeline",138.0
+452,"group","5.1","Mining of hard coal",139.0
+453,"group","5.2","Mining of lignite",139.0
+454,"group","50.1","Sea and coastal passenger water transport",140.0
+455,"group","50.2","Sea and coastal freight water transport",140.0
+456,"group","50.3","Inland passenger water transport",140.0
+457,"group","50.4","Inland freight water transport",140.0
+458,"group","51.1","Passenger air transport",141.0
+459,"group","51.2","Freight air transport and space transport",141.0
+460,"group","52.1","Warehousing and storage",142.0
+461,"group","52.2","Support activities for transportation",142.0
+462,"group","53.1","Postal activities under universal service obligation",143.0
+463,"group","53.2","Other postal and courier activities",143.0
+464,"group","55.1","Hotels and similar accommodation",144.0
+465,"group","55.2","Holiday and other short-stay accommodation",144.0
+466,"group","55.3","Camping grounds, recreational vehicle parks and trailer parks",144.0
+467,"group","55.9","Other accommodation",144.0
+468,"group","56.1","Restaurants and mobile food service activities",145.0
+469,"group","56.2","Event catering and other food service activities",145.0
+470,"group","56.3","Beverage serving activities",145.0
+471,"group","58.1","Publishing of books, periodicals and other publishing activities",146.0
+472,"group","58.2","Software publishing",146.0
+473,"group","59.1","Motion picture, video and television programme activities",147.0
+474,"group","59.2","Sound recording and music publishing activities",147.0
+475,"group","6.1","Extraction of crude petroleum",148.0
+476,"group","6.2","Extraction of natural gas",148.0
+477,"group","60.1","Radio broadcasting",149.0
+478,"group","60.2","Television programming and broadcasting activities",149.0
+479,"group","61.1","Wired telecommunications activities",150.0
+480,"group","61.2","Wireless telecommunications activities",150.0
+481,"group","61.3","Satellite telecommunications activities",150.0
+482,"group","61.9","Other telecommunications activities",150.0
+483,"group","62","Computer programming, consultancy and related activities",151.0
+484,"group","63.1","Data processing, hosting and related activities; web portals",152.0
+485,"group","63.9","Other information service activities",152.0
+486,"group","64.1","Monetary intermediation",153.0
+487,"group","64.2","Activities of holding companies",153.0
+488,"group","64.3","Trusts, funds and similar financial entities",153.0
+489,"group","64.9","Other financial service activities, except insurance and pension funding",153.0
+490,"group","65.1","Insurance",154.0
+491,"group","65.2","Reinsurance",154.0
+492,"group","65.3","Pension funding",154.0
+493,"group","66.1","Activities auxiliary to financial services, except insurance and pension funding",155.0
+494,"group","66.2","Activities auxiliary to insurance and pension funding",155.0
+495,"group","66.3","Fund management activities",155.0
+496,"group","68.1","Buying and selling of own real estate",156.0
+497,"group","68.2","Rental and operating of own or leased real estate",156.0
+498,"group","68.3","Real estate activities on a fee or contract basis",156.0
+499,"group","69.1","Legal activities",157.0
+500,"group","69.2","Accounting, bookkeeping and auditing activities; tax consultancy",157.0
+501,"group","7.1","Mining of iron ores",158.0
+502,"group","7.2","Mining of non-ferrous metal ores",158.0
+503,"group","70.1","Activities of head offices",159.0
+504,"group","70.2","Management consultancy activities",159.0
+505,"group","71.1","Architectural and engineering activities and related technical consultancy",160.0
+506,"group","71.2","Technical testing and analysis",160.0
+507,"group","72.1","Research and experimental development on natural sciences and engineering",161.0
+508,"group","72.2","Research and experimental development on social sciences and humanities",161.0
+509,"group","73.1","Advertising",162.0
+510,"group","73.2","Market research and public opinion polling",162.0
+511,"group","74.1","Specialised design activities",163.0
+512,"group","74.2","Photographic activities",163.0
+513,"group","74.3","Translation and interpretation activities",163.0
+514,"group","74.9","Other professional, scientific and technical activities n.e.c.",163.0
+515,"group","75","Veterinary activities",164.0
+516,"group","77.1","Rental and leasing of motor vehicles",165.0
+517,"group","77.2","Rental and leasing of personal and household goods",165.0
+518,"group","77.3","Rental and leasing of other machinery, equipment and tangible goods",165.0
+519,"group","77.4","Leasing of intellectual property and similar products, except copyrighted works",165.0
+520,"group","78.1","Activities of employment placement agencies",166.0
+521,"group","78.2","Temporary employment agency activities",166.0
+522,"group","78.3","Other human resources provision",166.0
+523,"group","79.1","Travel agency and tour operator activities",167.0
+524,"group","79.9","Other reservation service and related activities",167.0
+525,"group","8.1","Quarrying of stone, sand and clay",168.0
+526,"group","8.9","Mining and quarrying n.e.c.",168.0
+527,"group","80.1","Private security activities",169.0
+528,"group","80.2","Security systems service activities",169.0
+529,"group","80.3","Investigation activities",169.0
+530,"group","81.1","Combined facilities support activities",170.0
+531,"group","81.2","Cleaning activities",170.0
+532,"group","81.3","Landscape service activities",170.0
+533,"group","82.1","Office administrative and support activities",171.0
+534,"group","82.2","Activities of call centres",171.0
+535,"group","82.3","Organisation of conventions and trade shows",171.0
+536,"group","82.9","Business support service activities n.e.c.",171.0
+537,"group","84.1","Administration of the State and the economic and social policy of the community",172.0
+538,"group","84.2","Provision of services to the community as a whole",172.0
+539,"group","84.3","Compulsory social security activities",172.0
+540,"group","85.1","Pre-primary education",173.0
+541,"group","85.2","Primary education",173.0
+542,"group","85.3","Secondary education",173.0
+543,"group","85.4","Higher education",173.0
+544,"group","85.5","Other education",173.0
+545,"group","85.6","Educational support activities",173.0
+546,"group","86.1","Hospital activities",174.0
+547,"group","86.2","Medical and dental practice activities",174.0
+548,"group","86.9","Other human health activities",174.0
+549,"group","87.1","Residential nursing care activities",175.0
+550,"group","87.2","Residential care activities for mental retardation, mental health and substance abuse",175.0
+551,"group","87.3","Residential care activities for the elderly and disabled",175.0
+552,"group","87.9","Other residential care activities",175.0
+553,"group","88.1","Social work activities without accommodation for the elderly and disabled",176.0
+554,"group","88.9","Other social work activities without accommodation",176.0
+555,"group","9.1","Support activities for petroleum and natural gas extraction",177.0
+556,"group","9.9","Support activities for other mining and quarrying",177.0
+557,"group","90","Creative, arts and entertainment activities",178.0
+558,"group","91","Libraries, archives, museums and other cultural activities",179.0
+559,"group","92","Gambling and betting activities",180.0
+560,"group","93.1","Sports activities",181.0
+561,"group","93.2","Amusement and recreation activities",181.0
+562,"group","94.1","Activities of business, employers and professional membership organisations",182.0
+563,"group","94.2","Activities of trade unions",182.0
+564,"group","94.9","Activities of other membership organisations",182.0
+565,"group","95.1","Repair of computers and communication equipment",183.0
+566,"group","95.2","Repair of personal and household goods",183.0
+567,"group","96","Other personal service activities",184.0
+568,"group","97","Activities of households as employers of domestic personnel",185.0
+569,"group","98.1","Undifferentiated goods-producing activities of private households for own use",186.0
+570,"group","98.2","Undifferentiated service-producing activities of private households for own use",186.0
+571,"group","99","Activities of extraterritorial organisations and bodies",187.0
