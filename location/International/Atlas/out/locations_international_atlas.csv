@@ -70,7 +70,7 @@
 68,"EGY","country","","Egypt","Egipto (Republica Arabe De)","Egypt","Egipto",False,"EG",352.0,"Egypt",1.0,1.0,1.0,1.0,0.0
 69,"ERI","country","","Eritrea","Eritrea (Estado De)","Eritrea","Eritrea",False,"ER",352.0,"Eritrea",0.0,0.0,1.0,0.0,0.0
 70,"ESH","country","","Western Sahara","Sahara Occidental (Republica Arabe Saharavi Democratica)","Western Sahara","Sahara Occidental",False,"",352.0,"Western Sahara",0.0,0.0,0.0,0.0,0.0
-71,"ESP","country","","Spain","Espa̱a (Reino De)","Spain","Espa̱a",False,"ES",355.0,"Spain",1.0,1.0,1.0,1.0,0.0
+71,"ESP","country","","Spain","España (Reino De)","Spain","España",False,"ES",355.0,"Spain",1.0,1.0,1.0,1.0,0.0
 72,"EST","country","","Estonia","Estonia (Republica De)","Estonia","Estonia",False,"EE",355.0,"Estonia",1.0,1.0,1.0,1.0,0.0
 73,"ETH","country","","Ethiopia","Etiopia (Republica Democratica Federal)","Ethiopia","Etiopia",False,"ET",352.0,"Ethiopia",1.0,1.0,1.0,1.0,0.0
 74,"FIN","country","","Finland","Finlandia (Republica De)","Finland","Finlandia",False,"FI",355.0,"Finland",1.0,1.0,1.0,1.0,0.0
@@ -80,7 +80,7 @@
 78,"FRO","country","","Faroe Islands","","Faroe Islands","",True,"FO",355.0,"Faroe Islands",1.0,0.0,1.0,0.0,0.0
 79,"FSM","country","","Micronesia","Estado Federado De Micronesia","Micronesia","Micronesia",False,"FM",354.0,"Micronesia",0.0,0.0,1.0,0.0,0.0
 80,"GAB","country","","Gabon","Gabonesa (Republica)","Gabon","Gabonesa",False,"GA",352.0,"Gabon",1.0,1.0,1.0,0.0,0.0
-81,"GBR","country","UK","United Kingdom of Great Britain and Northern Ireland","Reino Unido De La Gran Breta̱a E Irlanda Del Norte","United Kingdom","Reino Unido",True,"GB",355.0,"United Kingdom of Great Britain and Northern Ireland",1.0,1.0,1.0,1.0,0.0
+81,"GBR","country","UK","United Kingdom of Great Britain and Northern Ireland","Reino Unido De La Gran Bretaña E Irlanda Del Norte","United Kingdom","Reino Unido",True,"GB",355.0,"United Kingdom of Great Britain and Northern Ireland",1.0,1.0,1.0,1.0,0.0
 82,"GEO","country","","Georgia","Georgia (Republica De)","Georgia","Georgia",False,"GE",353.0,"Georgia",0.0,1.0,1.0,1.0,0.0
 83,"GHA","country","","Ghana","Ghana (Republica De)","Ghana","Ghana",False,"GH",352.0,"Ghana",1.0,1.0,1.0,1.0,0.0
 84,"GIB","country","","Gibraltar","Gibraltar (R.U.)","Gibraltar","Gibraltar",False,"GI",355.0,"Gibraltar",0.0,0.0,0.0,0.0,0.0
