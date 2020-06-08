@@ -89,4 +89,3 @@ if __name__ == "__main__":
 
     c = Classification(parent_id_table, h)
     c.to_csv("out/locations_international_atlas.csv")
-    c.to_stata("out/locations_international_atlas.dta")
