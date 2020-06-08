@@ -43,10 +43,10 @@ CCK,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,TRUE,"Cocos (Keeling, Islas
 CHE,Switzerland,Switzerland,,FALSE,Suiza (Confederacion),Suiza,4,Switzerland
 CHL,Chile,Chile,,FALSE,Chile (Republica De),Chile,6,Chile
 CHN,China,China,,FALSE,China (Republica Popular),China,2,China
-CIV,C̫te d'Ivoire,C̫te d'Ivoire,,FALSE,Costa De Marfil (Republica De La),Costa De Marfil,1,C̫te d'Ivoire
+CIV,Côte d'Ivoire,Côte d'Ivoire,,FALSE,Costa De Marfil (Republica De La),Costa De Marfil,1,Côte d'Ivoire
 CMR,Cameroon,Cameroon,,FALSE,Camerun (Republica Del),Camerun,1,Cameroon
-COD,Democratic Republic of the Congo,Congo-Kinshasa,DRC,TRUE,Republica Popular Del Congo,Republica Popular Del Congo,1,Dem. Rep. of the Congo
-COG,Republic of the Congo,Congo-Brazzaville,ROC,TRUE,Congo (Republica Del),Congo,1,Congo
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,DRC,TRUE,Republica Popular Del Congo,Republica Popular Del Congo,1,Dem. Rep. of the Congo
+COG,Republic of the Congo,Republic of the Congo,ROC,TRUE,Congo (Republica Del),Congo,1,Congo
 COK,Cook Islands,Cook Islands,,TRUE,Cook (Islas),Cook (Islas),3,Cook Isds
 COL,Colombia,Colombia,,FALSE,Colombia (Republica De),Colombia,6,Colombia
 COM,Comoros,Comoros,,TRUE,Comoras (Islas),Comoras,1,Comoros
@@ -54,7 +54,7 @@ CPV,Cabo Verde,Cabo Verde,,FALSE,Cabo Verde (Republica De),Cabo Verde,1,Cabo Ver
 CRI,Costa Rica,Costa Rica,,FALSE,Costa Rica (Republica De),Costa Rica,5,Costa Rica
 CSK,Czechoslovakia,Czechoslovakia,,FALSE,,,4,Czechoslovakia
 CUB,Cuba,Cuba,,FALSE,Cuba (Republica De),Cuba,5,Cuba
-CUW,Cura̤ao,Cura̤ao,,FALSE,Curazao (Territorio Holandes De Ultramar),Curazao,5,Cura̤ao
+CUW,Curaçao,Curaçao,,FALSE,Curazao (Territorio Holandes De Ultramar),Curazao,5,Curaçao
 CXR,Christmas Island,Christmas Island,,TRUE,Navidad (Christmas) (Islas),Navidad (Christmas) (Islas),3,Christmas Isds
 CYM,Cayman Islands,Cayman Islands,,TRUE,Caiman (Islas),Caiman (Islas),5,Cayman Isds
 CYP,Cyprus,Cyprus,,FALSE,Chipre (Republica De),Chipre,2,Cyprus
@@ -183,7 +183,7 @@ PRY,Paraguay,Paraguay,,FALSE,Paraguay (Republica Del),Paraguay,6,Paraguay
 PSE,"Palestine, State of",Palestine,,FALSE,Palestina,Palestina,2,State of Palestine
 PYF,French Polynesia,French Polynesia,,FALSE,Polinesia Francesa,Polinesia Francesa,3,French Polynesia
 QAT,Qatar,Qatar,,FALSE,Qatar (Estado De),Qatar,2,Qatar
-REU,R̩union,R̩union,,FALSE,Reunion (Departamento De La) (Francia),Reunion,1,R̩union
+REU,Réunion,Réunion,,FALSE,Reunion (Departamento De La) (Francia),Reunion,1,Réunion
 ROU,Romania,Romania,,FALSE,Rumania,Rumania,4,Romania
 RUS,Russian Federation,Russia,,FALSE,Rusia (Federacion Rusa),Rusia,4,Russian Federation
 RWA,Rwanda,Rwanda,,FALSE,Republica Ruandesa,Republica Ruandesa,1,Rwanda

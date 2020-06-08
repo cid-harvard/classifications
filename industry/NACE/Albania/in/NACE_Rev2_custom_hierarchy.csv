@@ -1,0 +1,377 @@
+Level,Code,Parent,Description
+1,A,,AGRICULTURE AND FISHING
+1,B,,MINING AND QUARRYING
+1,C,,MANUFACTURING
+1,D,,UTILITIES
+1,F,,CONSTRUCTION
+1,G,,WHOLESALE AND RETAIL TRADE AND REPAIR SERVICES
+1,H,,TRANSPORTATION AND STORAGE
+1,I,,"TOURISM, HOTELS AND FOOD SERVICES"
+1,J,,COMMUNICATION SERVICES
+1,K,,BUSINESS SERVICES
+1,L,,REAL ESTATE ACTIVITIES
+1,M,,"ENGINEERING, SCIENCE AND TECHNICAL SERVICES"
+1,O,,PUBLIC ADMINISTRATION
+1,P,,EDUCATION & HEALTH SERVICES
+1,R,,"ARTS, ENTERTAINMENT AND RECREATION"
+1,T,,OTHER
+2,1,A,"Crop and animal production, hunting and related service activities"
+2,2,A,Forestry and logging
+2,3,A,Fishing and aquaculture
+2,5,B,Mining of coal and lignite
+2,6,B,Extraction of crude petroleum and natural gas
+2,7,B,Mining of metal ores
+2,8,B,Other mining and quarrying
+2,9,B,Mining support service activities
+2,10,C,Manufacture of food products
+2,11,C,Manufacture of beverages
+2,12,C,Manufacture of tobacco products
+2,13,C,Manufacture of textiles
+2,14,C,Manufacture of wearing apparel
+2,15,C,Manufacture of leather and related products
+2,16,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+2,17,C,Manufacture of paper and paper products
+2,18,C,Printing and reproduction of recorded media
+2,19,C,Manufacture of coke and refined petroleum products
+2,20,C,Manufacture of chemicals and chemical products
+2,21,C,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+2,22,C,Manufacture of rubber and plastic products
+2,23,C,Manufacture of other non-metallic mineral products
+2,24,C,Manufacture of basic metals
+2,25,C,"Manufacture of fabricated metal products, except machinery and equipment"
+2,26,C,"Manufacture of computer, electronic and optical products"
+2,27,C,Manufacture of electrical equipment
+2,28,C,Manufacture of machinery and equipment n.e.c.
+2,29,C,"Manufacture of motor vehicles, trailers and semi-trailers"
+2,30,C,Manufacture of other transport equipment
+2,31,C,Manufacture of furniture
+2,32,C,Other manufacturing
+2,33,C,Repair and installation of machinery and equipment
+2,35,D,"Electricity, gas, steam and air conditioning supply"
+2,36,D,"Water collection, treatment and supply"
+2,37,D,Sewerage
+2,38,D,"Waste collection, treatment and disposal activities; materials recovery"
+2,39,D,Remediation activities and other waste management services
+2,41,F,Construction of buildings
+2,42,F,Civil engineering
+2,43,F,Specialised construction activities
+2,45,G,Wholesale and retail trade and repair of motor vehicles and motorcycles
+2,46,G,"Wholesale trade, except of motor vehicles and motorcycles"
+2,47,G,"Retail trade, except of motor vehicles and motorcycles"
+2,49,H,Land transport and transport via pipelines
+2,50,H,Water transport
+2,51,H,Air transport
+2,52,H,Warehousing and support activities for transportation
+2,53,H,Postal and courier activities
+2,55,I,Accommodation
+2,56,I,Food and beverage service activities
+2,58,J,Publishing activities
+2,59,J,"Motion picture, video and television programme production, sound recording and music publishing activities"
+2,60,J,Programming and broadcasting activities
+2,61,J,Telecommunications
+2,62,K,"Computer programming, consultancy and related activities"
+2,63,K,Information service activities
+2,64,K,"Financial service activities, except insurance and pension funding"
+2,65,K,"Insurance, reinsurance and pension funding, except compulsory social security"
+2,66,K,Activities auxiliary to financial services and insurance activities
+2,68,L,Real estate activities
+2,69,K,Legal and accounting activities
+2,70,K,Activities of head offices; management consultancy activities
+2,71,M,Architectural and engineering activities; technical testing and analysis
+2,72,M,Scientific research and development
+2,73,K,Advertising and market research
+2,74,M,"Other professional, scientific and technical activities"
+2,75,M,Veterinary activities
+2,77,K,Rental and leasing activities
+2,78,K,Employment activities
+2,79,I,"Travel agency, tour operator and other reservation service and related activities"
+2,80,K,Security and investigation activities
+2,81,K,Services to buildings and landscape activities
+2,82,K,"Office administrative, office support and other business support activities"
+2,84,O,Public administration and defence; compulsory social security
+2,85,P,Education
+2,86,P,Human health activities
+2,87,P,Residential care activities
+2,88,P,Social work activities without accommodation
+2,90,R,"Creative, arts and entertainment activities"
+2,91,R,"Libraries, archives, museums and other cultural activities"
+2,92,R,Gambling and betting activities
+2,93,R,Sports activities and amusement and recreation activities
+2,94,T,Activities of membership organisations
+2,95,G,Repair of computers and personal and household goods
+2,96,T,Other personal service activities
+2,97,T,Activities of households as employers of domestic personnel
+2,98,T,Undifferentiated goods- and services-producing activities of private households for own use
+2,99,T,Activities of extraterritorial organisations and bodies
+3,1.1,1,Growing of non-perennial crops
+3,1.2,1,Growing of perennial crops
+3,1.3,1,Plant propagation
+3,1.4,1,Animal production
+3,1.5,1,Mixed farming
+3,1.6,1,Support activities to agriculture and post-harvest crop activities
+3,1.7,1,"Hunting, trapping and related service activities"
+3,2.1,2,Silviculture and other forestry activities
+3,2.2,2,Logging
+3,2.3,2,Gathering of wild growing non-wood products
+3,2.4,2,Support services to forestry
+3,3.1,3,Fishing
+3,3.2,3,Aquaculture
+3,5.1,5,Mining of hard coal
+3,5.2,5,Mining of lignite
+3,6.1,6,Extraction of crude petroleum
+3,6.2,6,Extraction of natural gas
+3,7.1,7,Mining of iron ores
+3,7.2,7,Mining of non-ferrous metal ores
+3,8.1,8,"Quarrying of stone, sand and clay"
+3,8.9,8,Mining and quarrying n.e.c.
+3,9.1,9,Support activities for petroleum and natural gas extraction
+3,9.9,9,Support activities for other mining and quarrying
+3,10.1,10,Processing and preserving of meat and production of meat products
+3,10.2,10,"Processing and preserving of fish, crustaceans and molluscs"
+3,10.3,10,Processing and preserving of fruit and vegetables
+3,10.4,10,Manufacture of vegetable and animal oils and fats
+3,10.5,10,Manufacture of dairy products
+3,10.6,10,"Manufacture of grain mill products, starches and starch products"
+3,10.7,10,Manufacture of bakery and farinaceous products
+3,10.8,10,Manufacture of other food products
+3,10.9,10,Manufacture of prepared animal feeds
+3,11,11,Manufacture of beverages
+3,12,12,Manufacture of tobacco products
+3,13.1,13,Preparation and spinning of textile fibres
+3,13.2,13,Weaving of textiles
+3,13.3,13,Finishing of textiles
+3,13.9,13,Manufacture of other textiles
+3,14.1,14,"Manufacture of wearing apparel, except fur apparel"
+3,14.2,14,Manufacture of articles of fur
+3,14.3,14,Manufacture of knitted and crocheted apparel
+3,15.1,15,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur"
+3,15.2,15,Manufacture of footwear
+3,16.1,16,Sawmilling and planing of wood
+3,16.2,16,"Manufacture of products of wood, cork, straw and plaiting materials"
+3,17.1,17,"Manufacture of pulp, paper and paperboard"
+3,17.2,17,Manufacture of articles of paper and paperboard
+3,18.1,18,Printing and service activities related to printing
+3,18.2,18,Reproduction of recorded media
+3,19.1,19,Manufacture of coke oven products
+3,19.2,19,Manufacture of refined petroleum products
+3,20.1,20,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+3,20.2,20,Manufacture of pesticides and other agrochemical products
+3,20.3,20,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
+3,20.4,20,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations"
+3,20.5,20,Manufacture of other chemical products
+3,20.6,20,Manufacture of man-made fibres
+3,21.1,21,Manufacture of basic pharmaceutical products
+3,21.2,21,Manufacture of pharmaceutical preparations
+3,22.1,22,Manufacture of rubber products
+3,22.2,22,Manufacture of plastic products
+3,23.1,23,Manufacture of glass and glass products
+3,23.2,23,Manufacture of refractory products
+3,23.3,23,Manufacture of clay building materials
+3,23.4,23,Manufacture of other porcelain and ceramic products
+3,23.5,23,"Manufacture of cement, lime and plaster"
+3,23.6,23,"Manufacture of articles of concrete, cement and plaster"
+3,23.7,23,"Cutting, shaping and finishing of stone"
+3,23.9,23,Manufacture of abrasive products and non-metallic mineral products n.e.c.
+3,24.1,24,Manufacture of basic iron and steel and of ferro-alloys
+3,24.2,24,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+3,24.3,24,Manufacture of other products of first processing of steel
+3,24.4,24,Manufacture of basic precious and other non-ferrous metals
+3,24.5,24,Casting of metals
+3,25.1,25,Manufacture of structural metal products
+3,25.2,25,"Manufacture of tanks, reservoirs and containers of metal"
+3,25.3,25,"Manufacture of steam generators, except central heating hot water boilers"
+3,25.4,25,Manufacture of weapons and ammunition
+3,25.5,25,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+3,25.6,25,Treatment and coating of metals; machining
+3,25.7,25,"Manufacture of cutlery, tools and general hardware"
+3,25.9,25,Manufacture of other fabricated metal products
+3,26.1,26,Manufacture of electronic components and boards
+3,26.2,26,Manufacture of computers and peripheral equipment
+3,26.3,26,Manufacture of communication equipment
+3,26.4,26,Manufacture of consumer electronics
+3,26.5,26,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks"
+3,26.6,26,"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+3,26.7,26,Manufacture of optical instruments and photographic equipment
+3,26.8,26,Manufacture of magnetic and optical media
+3,27.1,27,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus"
+3,27.2,27,Manufacture of batteries and accumulators
+3,27.3,27,Manufacture of wiring and wiring devices
+3,27.4,27,Manufacture of electric lighting equipment
+3,27.5,27,Manufacture of domestic appliances
+3,27.9,27,Manufacture of other electrical equipment
+3,28.1,28,Manufacture of general-purpose machinery
+3,28.2,28,Manufacture of other general-purpose machinery
+3,28.3,28,Manufacture of agricultural and forestry machinery
+3,28.4,28,Manufacture of metal forming machinery and machine tools
+3,28.9,28,Manufacture of other special-purpose machinery
+3,29.1,29,Manufacture of motor vehicles
+3,29.2,29,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+3,29.3,29,Manufacture of parts and accessories for motor vehicles
+3,30.1,30,Building of ships and boats
+3,30.2,30,Manufacture of railway locomotives and rolling stock
+3,30.3,30,Manufacture of air and spacecraft and related machinery
+3,30.4,30,Manufacture of military fighting vehicles
+3,30.9,30,Manufacture of transport equipment n.e.c.
+3,31,31,Manufacture of furniture
+3,32.1,32,"Manufacture of jewellery, bijouterie and related articles"
+3,32.2,32,Manufacture of musical instruments
+3,32.3,32,Manufacture of sports goods
+3,32.4,32,Manufacture of games and toys
+3,32.5,32,Manufacture of medical and dental instruments and supplies
+3,32.9,32,Manufacturing n.e.c.
+3,33.1,33,"Repair of fabricated metal products, machinery and equipment"
+3,33.2,33,Installation of industrial machinery and equipment
+3,35.1,35,"Electric power generation, transmission and distribution"
+3,35.2,35,Manufacture of gas; distribution of gaseous fuels through mains
+3,35.3,35,Steam and air conditioning supply
+3,36,36,"Water collection, treatment and supply"
+3,37,37,Sewerage
+3,38.1,38,Waste collection
+3,38.2,38,Waste treatment and disposal
+3,38.3,38,Materials recovery
+3,39,39,Remediation activities and other waste management services
+3,41.1,41,Development of building projects
+3,41.2,41,Construction of residential and non-residential buildings
+3,42.1,42,Construction of roads and railways
+3,42.2,42,Construction of utility projects
+3,42.9,42,Construction of other civil engineering projects
+3,43.1,43,Demolition and site preparation
+3,43.2,43,"Electrical, plumbing and other construction installation activities"
+3,43.3,43,Building completion and finishing
+3,43.9,43,Other specialised construction activities
+3,45.1,45,Sale of motor vehicles
+3,45.2,45,Maintenance and repair of motor vehicles
+3,45.3,45,Sale of motor vehicle parts and accessories
+3,45.4,45,"Sale, maintenance and repair of motorcycles and related parts and accessories"
+3,46.1,46,Wholesale on a fee or contract basis
+3,46.2,46,Wholesale of agricultural raw materials and live animals
+3,46.3,46,"Wholesale of food, beverages and tobacco"
+3,46.4,46,Wholesale of household goods
+3,46.5,46,Wholesale of information and communication equipment
+3,46.6,46,"Wholesale of other machinery, equipment and supplies"
+3,46.7,46,Other specialised wholesale
+3,46.9,46,Non-specialised wholesale trade
+3,47.1,47,Retail sale in non-specialised stores
+3,47.2,47,"Retail sale of food, beverages and tobacco in specialised stores"
+3,47.3,47,Retail sale of automotive fuel in specialised stores
+3,47.4,47,Retail sale of information and communication equipment in specialised stores
+3,47.5,47,Retail sale of other household equipment in specialised stores
+3,47.6,47,Retail sale of cultural and recreation goods in specialised stores
+3,47.7,47,Retail sale of other goods in specialised stores
+3,47.8,47,Retail sale via stalls and markets
+3,47.9,47,"Retail trade not in stores, stalls or markets"
+3,49.1,49,"Passenger rail transport, interurban"
+3,49.2,49,Freight rail transport
+3,49.3,49,Other passenger land transport
+3,49.4,49,Freight transport by road and removal services
+3,49.5,49,Transport via pipeline
+3,50.1,50,Sea and coastal passenger water transport
+3,50.2,50,Sea and coastal freight water transport
+3,50.3,50,Inland passenger water transport
+3,50.4,50,Inland freight water transport
+3,51.1,51,Passenger air transport
+3,51.2,51,Freight air transport and space transport
+3,52.1,52,Warehousing and storage
+3,52.2,52,Support activities for transportation
+3,53.1,53,Postal activities under universal service obligation
+3,53.2,53,Other postal and courier activities
+3,55.1,55,Hotels and similar accommodation
+3,55.2,55,Holiday and other short-stay accommodation
+3,55.3,55,"Camping grounds, recreational vehicle parks and trailer parks"
+3,55.9,55,Other accommodation
+3,56.1,56,Restaurants and mobile food service activities
+3,56.2,56,Event catering and other food service activities
+3,56.3,56,Beverage serving activities
+3,58.1,58,"Publishing of books, periodicals and other publishing activities"
+3,58.2,58,Software publishing
+3,59.1,59,"Motion picture, video and television programme activities"
+3,59.2,59,Sound recording and music publishing activities
+3,60.1,60,Radio broadcasting
+3,60.2,60,Television programming and broadcasting activities
+3,61.1,61,Wired telecommunications activities
+3,61.2,61,Wireless telecommunications activities
+3,61.3,61,Satellite telecommunications activities
+3,61.9,61,Other telecommunications activities
+3,62,62,"Computer programming, consultancy and related activities"
+3,63.1,63,"Data processing, hosting and related activities; web portals"
+3,63.9,63,Other information service activities
+3,64.1,64,Monetary intermediation
+3,64.2,64,Activities of holding companies
+3,64.3,64,"Trusts, funds and similar financial entities"
+3,64.9,64,"Other financial service activities, except insurance and pension funding"
+3,65.1,65,Insurance
+3,65.2,65,Reinsurance
+3,65.3,65,Pension funding
+3,66.1,66,"Activities auxiliary to financial services, except insurance and pension funding"
+3,66.2,66,Activities auxiliary to insurance and pension funding
+3,66.3,66,Fund management activities
+3,68.1,68,Buying and selling of own real estate
+3,68.2,68,Rental and operating of own or leased real estate
+3,68.3,68,Real estate activities on a fee or contract basis
+3,69.1,69,Legal activities
+3,69.2,69,"Accounting, bookkeeping and auditing activities; tax consultancy"
+3,70.1,70,Activities of head offices
+3,70.2,70,Management consultancy activities
+3,71.1,71,Architectural and engineering activities and related technical consultancy
+3,71.2,71,Technical testing and analysis
+3,72.1,72,Research and experimental development on natural sciences and engineering
+3,72.2,72,Research and experimental development on social sciences and humanities
+3,73.1,73,Advertising
+3,73.2,73,Market research and public opinion polling
+3,74.1,74,Specialised design activities
+3,74.2,74,Photographic activities
+3,74.3,74,Translation and interpretation activities
+3,74.9,74,"Other professional, scientific and technical activities n.e.c."
+3,75,75,Veterinary activities
+3,77.1,77,Rental and leasing of motor vehicles
+3,77.2,77,Rental and leasing of personal and household goods
+3,77.3,77,"Rental and leasing of other machinery, equipment and tangible goods"
+3,77.4,77,"Leasing of intellectual property and similar products, except copyrighted works"
+3,78.1,78,Activities of employment placement agencies
+3,78.2,78,Temporary employment agency activities
+3,78.3,78,Other human resources provision
+3,79.1,79,Travel agency and tour operator activities
+3,79.9,79,Other reservation service and related activities
+3,80.1,80,Private security activities
+3,80.2,80,Security systems service activities
+3,80.3,80,Investigation activities
+3,81.1,81,Combined facilities support activities
+3,81.2,81,Cleaning activities
+3,81.3,81,Landscape service activities
+3,82.1,82,Office administrative and support activities
+3,82.2,82,Activities of call centres
+3,82.3,82,Organisation of conventions and trade shows
+3,82.9,82,Business support service activities n.e.c.
+3,84.1,84,Administration of the State and the economic and social policy of the community
+3,84.2,84,Provision of services to the community as a whole
+3,84.3,84,Compulsory social security activities
+3,85.1,85,Pre-primary education
+3,85.2,85,Primary education
+3,85.3,85,Secondary education
+3,85.4,85,Higher education
+3,85.5,85,Other education
+3,85.6,85,Educational support activities
+3,86.1,86,Hospital activities
+3,86.2,86,Medical and dental practice activities
+3,86.9,86,Other human health activities
+3,87.1,87,Residential nursing care activities
+3,87.2,87,"Residential care activities for mental retardation, mental health and substance abuse"
+3,87.3,87,Residential care activities for the elderly and disabled
+3,87.9,87,Other residential care activities
+3,88.1,88,Social work activities without accommodation for the elderly and disabled
+3,88.9,88,Other social work activities without accommodation
+3,90,90,"Creative, arts and entertainment activities"
+3,91,91,"Libraries, archives, museums and other cultural activities"
+3,92,92,Gambling and betting activities
+3,93.1,93,Sports activities
+3,93.2,93,Amusement and recreation activities
+3,94.1,94,"Activities of business, employers and professional membership organisations"
+3,94.2,94,Activities of trade unions
+3,94.9,94,Activities of other membership organisations
+3,95.1,95,Repair of computers and communication equipment
+3,95.2,95,Repair of personal and household goods
+3,96,96,Other personal service activities
+3,97,97,Activities of households as employers of domestic personnel
+3,98.1,98,Undifferentiated goods-producing activities of private households for own use
+3,98.2,98,Undifferentiated service-producing activities of private households for own use
+3,99,99,Activities of extraterritorial organisations and bodies

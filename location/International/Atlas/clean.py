@@ -74,6 +74,12 @@ if __name__ == "__main__":
         services, left_on="code", right_index=True, how="left"
     )
 
+    former = pd.read_csv("./in/former_countries.csv", index_col="code")
+    former = former.astype(float)
+    parent_id_table = parent_id_table.merge(
+        former, left_on="code", right_index=True, how="left"
+    )
+
     # Services flags should be False in case of regions, per Huy's request
     parent_id_table.loc[parent_id_table.level == "region", "reported_serv"] = 0
     parent_id_table.loc[parent_id_table.level == "region", "reported_serv_recent"] = 0
@@ -83,4 +89,3 @@ if __name__ == "__main__":
 
     c = Classification(parent_id_table, h)
     c.to_csv("out/locations_international_atlas.csv")
-    c.to_stata("out/locations_international_atlas.dta")
