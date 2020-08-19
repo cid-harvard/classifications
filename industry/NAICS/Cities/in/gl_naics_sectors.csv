@@ -1,0 +1,22 @@
+code,title,child_code,child_title
+N,Natural resources and mining,11,"Agriculture, forestry, fishing and hunting"
+N,Natural resources and mining,21,Mining
+C,Construction and utilities,22,Utilities
+C,Construction and utilities,23,Construction
+M,Manufacturing,31-33,Manufacturing
+T,Trade and transportation,42,Wholesale trade
+T,Trade and transportation,44-45,Retail trade
+T,Trade and transportation,48-49,Transportation and warehousing
+F,Financial activities,52,Finance and insurance
+F,Financial activities,53,Real estate and rental and leasing
+P,Professional and business services,51,Information
+P,Professional and business services,54,"Professional, scientific, and technical services"
+P,Professional and business services,55,Management of companies and enterprises
+P,Professional and business services,56,Administrative and support and waste management and remediation services
+E,Education and health services,61,Education services
+E,Education and health services,62,Health care and social assistance
+L,Leisure and hospitality,71,"Arts, entertainment, and recreation"
+L,Leisure and hospitality,72,Accommodation and food services
+O,Other,81,"Other services, except public administration"
+O,Other,92,Public administration
+O,Other,99,Unclassified

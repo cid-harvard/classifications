@@ -1,12 +1,13 @@
 import pandas as pd
 import numpy as np
 
-INPUT_FILE = "./in/2017_naics_code.xlsx"
+INPUT_FILE = "./in/2017_naics_code.csv"
+SECTOR_FILE = "./in/gl_naics_sectors.csv"
 
 LEVEL_STARTS = {1: 1, 2: 50, 3: 100, 4: 500, 5: 1000, 6: 2000}
 
 # Load data and rename columns
-df = pd.read_excel(INPUT_FILE, usecols=2)
+df = pd.read_csv(INPUT_FILE)
 df = df[df.code.notna()]
 df.code = df.code.astype(str)
 
@@ -25,7 +26,22 @@ for i, row in df[df.code.str.contains("-")].iterrows():
     for n in range(int(start), int(end) + 1):
         df.loc[df.parent_code == str(n), "parent_code"] = f"{start}-{end}"
 
-df.loc[df.level == 2, "parent_code"] = None
+# Add in GL-created 1-digit sector level
+sector = pd.read_csv(SECTOR_FILE)
+sector["level"] = 1
+
+df = df.append(sector[["code", "title", "level"]].drop_duplicates())
+
+df = df.merge(
+    sector[["code", "child_code"]],
+    how="left",
+    left_on="code",
+    right_on="child_code",
+    suffixes=("", "_sector"),
+)
+
+df.loc[df.level == 2, "parent_code"] = df.code_sector
+df = df.drop(columns=["code_sector", "child_code"])
 
 # Assign id values based on level
 for i, g in df.groupby("level"):
@@ -85,7 +101,7 @@ df = df.merge(parents, on="parent_code", how="left")[
         "code_hierarchy",
         "naics_id_hierarchy",
     ]
-]
+].sort_values("naics_id")
 
 # Output cleaned files
 df.to_csv("./out/naics_2017.csv", index=False)
