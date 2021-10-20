@@ -4,7 +4,7 @@ import numpy as np
 INPUT_FILE = "./in/2017_naics_code.csv"
 SECTOR_FILE = "./in/gl_naics_sectors.csv"
 
-LEVEL_STARTS = {1: 1, 2: 50, 3: 100, 4: 500, 5: 1000, 6: 2000}
+LEVEL_STARTS = {1: 0, 2: 50, 3: 100, 4: 500, 5: 1000, 6: 2000}
 
 # Load data and rename columns
 df = pd.read_csv(INPUT_FILE)
@@ -43,7 +43,7 @@ df = df.merge(
 df.loc[df.level == 2, "parent_code"] = df.code_sector
 df = df.drop(columns=["code_sector", "child_code"])
 
-# Assign id values based on level
+# Assign naics_id values based on level
 for i, g in df.groupby("level"):
     c = LEVEL_STARTS.get(i)
     df.loc[g.index, "naics_id"] = g.code.sort_values().rank() + c - 1
@@ -84,24 +84,26 @@ for i in range(5):
         ]
     ]
 
-df = df.rename(columns={"code": "naics_code"})
-
-# Add parent_id in addition to parent_code
-parents = df[["naics_id", "naics_code"]].rename(
-    columns={"naics_id": "parent_id", "naics_code": "parent_code"}
+# Add parent_naics_id in addition to parent_code
+parents = df[["naics_id", "code"]].rename(
+    columns={"naics_id": "parent_id", "code": "parent_code"}
 )
-df = df.merge(parents, on="parent_code", how="left")[
-    [
-        "naics_id",
-        "naics_code",
-        "title",
-        "level",
-        "parent_id",
-        "parent_code",
-        "code_hierarchy",
-        "naics_id_hierarchy",
+df = (
+    df.merge(parents, on="parent_code", how="left")[
+        [
+            "naics_id",
+            "code",
+            "title",
+            "level",
+            "parent_id",
+            "parent_code",
+            "code_hierarchy",
+            "naics_id_hierarchy",
+        ]
     ]
-].sort_values("naics_id")
+    .sort_values("naics_id")
+    .rename(columns={"title": "name"})
+)
 
 # Output cleaned files
 df.to_csv("./out/naics_2017.csv", index=False)

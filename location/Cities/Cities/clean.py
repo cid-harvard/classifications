@@ -6,9 +6,10 @@ GHS_TAB = "Data"
 
 INCLUDED_CITIES_FILE = "./in/included_cities.csv"
 ATLAS_COUNTRIES_FILE = "../../International/Atlas/out/locations_international_atlas.csv"
+UN_REGIONS_FILE = "./in/UNSD — Methodology.csv"
 
 COLUMNS = {
-    "ID_HDC_G0": "id",
+    "ID_HDC_G0": "city_id",
     "UC_NM_MN": "name",
     "UC_NM_LST": "name_list",
     "CTR_MN_ISO": "country_iso",
@@ -18,8 +19,12 @@ COLUMNS = {
     "XBRDR": "cross_border",
     "XCTR_NBR": "num_countries",
     "XC_ISO_LST": "country_list",
-    "GRGN_L1": "region_major",
-    "GRGN_L2": "region_minor",
+}
+
+REGIONS_COLUMNS = {
+    "Region Name": "region_major",
+    "Sub-region Name": "region_minor",
+    "ISO-alpha3 Code": "iso_code",
 }
 
 if __name__ == "__main__":
@@ -27,28 +32,15 @@ if __name__ == "__main__":
         list(COLUMNS.values())
     ]
 
-    df = df[df.id.notna()]
-    df.id = df.id.astype(int)
+    df = df[df.city_id.notna()]
+    df.city_id = df.city_id.astype(int)
 
     # Included Cities
     included = pd.read_csv(INCLUDED_CITIES_FILE)
-    included.columns = ["id"]
+    included.columns = ["city_id"]
     included["included"] = 1
-    df = df.merge(included, on="id", how="left")
+    df = df.merge(included, on="city_id", how="left")
     df.included = df.included.fillna(0)
-
-    # Regions
-    regions = (
-        df[["region_major", "region_minor"]]
-        .drop_duplicates()
-        .sort_values(["region_major", "region_minor"])
-    ).reset_index(drop=True)
-    regions["region_id"] = regions.index
-    regions.to_csv("./out/region.csv")
-
-    df = df.merge(regions, on=["region_major", "region_minor"]).drop(
-        columns=["region_major", "region_minor"]
-    )
 
     # Countries
     ## Use Atlas country IDs
@@ -64,6 +56,42 @@ if __name__ == "__main__":
         left_on="country_iso",
         right_on="code",
     ).drop(columns=["country_iso", "code"])
+
+    # Regions
+    regions = pd.read_csv(UN_REGIONS_FILE)
+
+    regions = pd.read_csv(UN_REGIONS_FILE)[REGIONS_COLUMNS.keys()].rename(
+        columns=REGIONS_COLUMNS
+    )
+    regions = regions.merge(
+        countries[["country_id", "code"]],
+        left_on="iso_code",
+        right_on="code",
+        how="left",
+    ).drop(columns=["iso_code", "code"])
+
+    region_ids = (
+        regions[["region_major", "region_minor"]]
+        .drop_duplicates()
+        .sort_values(["region_major", "region_minor"])
+        .reset_index(drop=True)
+        .reset_index(drop=False)
+        .rename(columns={"index": "region_id"})
+    )
+
+    region_ids.to_csv("./out/region.csv", index=False)
+
+    # regions = (
+    #     df[["region_major", "region_minor"]]
+    #     .drop_duplicates()
+    #     .sort_values(["region_major", "region_minor"])
+    # ).reset_index(drop=True)
+    # regions["region_id"] = regions.index
+    # regions.to_csv("./out/region.csv", index=False)
+
+    # df = df.merge(regions, on=["region_major", "region_minor"]).drop(
+    #     columns=["region_major", "region_minor"]
+    # )
 
     ## Set country_list to NaN when num_countries == 1
     df.loc[df.num_countries == 1, "country_list"] = np.NaN
@@ -86,9 +114,9 @@ if __name__ == "__main__":
     )
 
     countries = countries.merge(country_regions, how="left", on="country_id")
-    countries.to_csv("./out/country.csv")
+    countries.to_csv("./out/country.csv", index=False)
 
     # Geometry
 
     # Save
-    df.to_csv("./out/city.csv")
+    df.to_csv("./out/city.csv", index=False)

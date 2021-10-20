@@ -304,7 +304,6 @@ class Classification(object):
 
         assert self.table.code.dtype == np.object_
         assert self.table.name.dtype == np.object_
-        assert self.table.level.dtype == np.object_
 
     def level(self, level):
         """Return only codes from a specific aggregation level."""
