@@ -24,18 +24,32 @@ def load(path):
     return Classification.from_csv(path)
 
 
-def parent_code_table_to_parent_id_table(df, hierarchy):
+def parent_code_table_to_parent_id_table(df, hierarchy, top_level=None):
     """From a classification that has parent_code, go to one that has
-    parent_id."""
+    parent_id (and optionally top_parent_code to top_parent_id)."""
 
     code_table = df[["code", "level"]].reset_index()
     code_table.columns = ["parent_id", "parent_code", "parent_level"]
 
     df["parent_level"] = df["level"].map(hierarchy.parent).fillna(value=pd.np.nan)
-
-    return df.merge(code_table, on=["parent_level", "parent_code"], how="left").drop(
+    df = df.merge(code_table, on=["parent_level", "parent_code"], how="left").drop(
         ["parent_code", "parent_level"], axis=1
     )
+
+    if top_level:
+        top_code_table = code_table[code_table.parent_level == top_level]
+        top_code_table.columns = [
+            "top_parent_id",
+            "top_parent_code",
+            "top_parent_level",
+        ]
+        df = df.merge(
+            top_code_table[["top_parent_id", "top_parent_code"]],
+            on="top_parent_code",
+            how="left",
+        )
+
+    return df
 
 
 def ordered_table_to_parent_code_table(df, hierarchy):
@@ -56,32 +70,40 @@ def ordered_table_to_parent_code_table(df, hierarchy):
     return df
 
 
-def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
+def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}, top_level=None):
     """
     Convert from the "merged" table format to a parent_id format, e.g.
 
-      level1  level0
-      cats    animals
-      dogs    animals
-      cod     fish
-      salmon  fish
+      level2    level1      level0
+      cats      mammals     animals
+      dogs      mammals     animals
+      cod       fish        animals
+      salmon    fish        animals
 
     into:
 
-      code    level   name
-      cats    level1  Cats
+      code    level   name  parent_code top_parent_code
+      cats    level2  Cats  mammals     animals
 
     and to do that, specify level_fields=
       {
           "level0": [],
-          "level1": []
+          "level1": [],
+          "level2": []
       }
+
+    and, optionally top_level="level0"
     """
 
     # Check there is a code and name field for every entry in the hierarchy
     for level in hierarchy:
         for field_name in level_fields[level]:
-            assert field_name in df.columns, "Missing field: {}".format(field_name)
+            assert field_name in df.columns, f"Missing field: {field_name}"
+
+    # If top_level is defined, assert that there is a code column for it
+    assert (
+        f"{top_level}_code" in df.columns
+    ), f"Missing top level field: {top_level}_code"
 
     # Check there are no duplicate codes for the same country + dept + muni
     # etc.
@@ -99,6 +121,9 @@ def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
 
             row_dict = {"code": code, "level": level, "parent_code": parent_codes[-1]}
 
+            if top_level:
+                row_dict["top_parent_code"] = row[f"{top_level}_code"]
+
             for field in level_fields[level]:
 
                 # Strip _section from the end
@@ -113,7 +138,6 @@ def repeated_table_to_parent_id_table(df, hierarchy, level_fields={}):
     new_df = pd.DataFrame(new_table)
     new_df = new_df[~new_df.duplicated()]
     new_df = new_df.reset_index(drop=True)
-    # new_df.level = new_df.level.astype("category")
 
     return new_df
 
@@ -132,7 +156,7 @@ def sort_by_code_and_level(parent_code_table, hierarchy):
     return parent_code_table
 
 
-def spread_out_entries(parent_id_table, level_starts, hierarchy):
+def spread_out_entries(parent_id_table, level_starts, hierarchy, top_level=None):
     """Given an id table, shift down ids so that the ids for each level group
     starts at the given id. This allows us to leave gap ids in case we need to
     add more."""
@@ -152,6 +176,9 @@ def spread_out_entries(parent_id_table, level_starts, hierarchy):
     assert (
         "new_parent_id" not in parent_id_table.columns
     ), "You already have a level named 'new_parent_id', please get rid of it."
+    assert (
+        "new_top_parent_id" not in parent_id_table.columns
+    ), "You already have a level named 'new_top_parent_id', please get rid of it."
 
     level_counts = parent_id_table.level.value_counts().to_dict()
     for i, level in enumerate(hierarchy):
@@ -192,6 +219,12 @@ def spread_out_entries(parent_id_table, level_starts, hierarchy):
             parent_id_table.loc[
                 parent_id_table.level == level, "new_parent_id"
             ] = new_parent_ids
+
+    # Set new top parent ids
+    if top_level:
+        parent_id_table["top_parent_id"] = (
+            parent_id_table["top_parent_id"] + level_starts[top_level]
+        )
 
     # Make sure there aren't any gaps left
     assert parent_id_table.new_index.isnull().any() == False

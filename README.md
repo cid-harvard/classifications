@@ -1,10 +1,10 @@
-# Harvard CID Repository of Classification Systems
-
-Classification systems that Harvard CID has cleaned, available for you as CSVs, sometimes along with how we generated them.
+# Repository of Classification Systems
+## by the Growth Lab at Harvard's Center for International Development
+This package is part of Harvard Growth Lab’s portfolio of software packages, digital products and interactive data visualizations. To browse our entire portfolio, please visit growthlab.app. To learn more about our research, please visit [Harvard Growth Lab’s home page](https://growthlab.cid.harvard.edu/).
 
 ## Background
 
-Over time at CID, we've come to know and work with a number of product, industry, occupation and location classification systems. While these are often international standards, there usually are regional variations, historical version differences and other factors that that complicate the life of a researcher. Oftentimes, the format these classification systems are delivered in are unsuitable for computer processing - often just dumped into a table in a website or in a PDF file or word document. We would like to provide to researchers and the general public the results of our efforts to clean this data.
+Over time at the Growth Lab, we've come to know and work with a number of product, industry, occupation and location classification systems. While these are often international standards, there usually are regional variations, historical version differences and other factors that that complicate the life of a researcher. Oftentimes, the format these classification systems are delivered in are unsuitable for computer processing - often just dumped into a table in a website or in a PDF file or word document. We would like to provide to researchers and the general public the results of our efforts to clean this data.
 
 ## Guidelines
 

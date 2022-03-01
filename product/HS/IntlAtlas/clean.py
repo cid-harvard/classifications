@@ -11,12 +11,15 @@ from classification import (
     Classification,
 )
 
+TOP_LEVEL = "section"
+
 
 def get_hs_services(file="./in/Services_Hierarchy.csv"):
     services = pd.read_csv(file, encoding="utf-8", dtype="str")
+    services["top_parent_id"] = 0
     # Spread out services similarly to each set of exports but buffered further
     service_starts = {"section": 10, "2digit": 400, "4digit": 4000, "6digit": 11000}
-    return spread_out_entries(services, service_starts, h)
+    return spread_out_entries(services, service_starts, h, top_level=TOP_LEVEL)
 
 
 if __name__ == "__main__":
@@ -31,13 +34,17 @@ if __name__ == "__main__":
     fields = {"section": [], "2digit": [], "4digit": [], "6digit": []}
 
     h = Hierarchy(["section", "2digit", "4digit", "6digit"])
-    parent_code_table = repeated_table_to_parent_id_table(hierarchy, h, fields)
+    parent_code_table = repeated_table_to_parent_id_table(
+        hierarchy, h, level_fields=fields, top_level=TOP_LEVEL
+    )
     parent_code_table = parent_code_table.merge(names, on=["code", "level"])
 
     # Sort by level order (not necessarily alphabetical)
     parent_code_table = sort_by_code_and_level(parent_code_table, h)
 
-    parent_id_table = parent_code_table_to_parent_id_table(parent_code_table, h)
+    parent_id_table = parent_code_table_to_parent_id_table(
+        parent_code_table, h, top_level=TOP_LEVEL
+    )
     parent_id_table["name"] = parent_id_table.name_en
 
     parent_id_table = parent_id_table[
@@ -50,13 +57,16 @@ if __name__ == "__main__":
             "name_short_en",
             "name_short_es",
             "parent_id",
+            "top_parent_id",
         ]
     ]
 
     # Decide what id each level should start from
     # Put ample space between each range of ids
     level_starts = {"section": 0, "2digit": 100, "4digit": 650, "6digit": 5000}
-    parent_id_table = spread_out_entries(parent_id_table, level_starts, h)
+    parent_id_table = spread_out_entries(
+        parent_id_table, level_starts, h, top_level=TOP_LEVEL
+    )
 
     # Append services to table
     services = get_hs_services()
