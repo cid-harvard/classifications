@@ -232,7 +232,7 @@ code	level	name_en	name_es	name_short_es	name_short_en
 2530	4digit	Mineral substances not elsewhere specified or included	Materias minerales no expresadas ni comprendidas en otra parte.	Materias minerales n.c.p.	Mineral substances n.e.c.
 2601	4digit	Iron ores and concentrates, including roasted iron pyrites	Minerales de hierro y sus concentrados, incluidas las piritas de hierro tostadas (cenizas de piritas).	Minerales de hierro	Iron ores and concentrates
 2602	4digit	Containing 47 percent or more by weight of manganese	Minerales de manganeso y sus concentrados, incluidos los minerales de manganeso ferruginosos y sus concentrados con un contenido de manganeso superior o igual al 20% en peso, sobre producto seco.	Minerales de manganeso	Manganese > 47% by weight
-2603	4digit	Gold content	Minerales de cobre y sus concentrados.	Minerales de cobre	Copper ore
+2603	4digit	Copper content	Minerales de cobre y sus concentrados.	Minerales de cobre	Copper ore
 2604	4digit	Other metal content	Minerales de níquel y sus concentrados.	Minerales de níquel	Nickel ore
 2605	4digit	Cobalt ores and concentrates	Minerales de cobalto y sus concentrados.	Minerales de cobalto	Cobalt ore
 2606	4digit	Aluminium ores and concentrates	Minerales de aluminio y sus concentrados.	Minerales de aluminio	Aluminum ore

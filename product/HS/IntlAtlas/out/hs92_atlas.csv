@@ -345,7 +345,7 @@
 880,"2530","Mineral substances not elsewhere specified or included","4digit","Mineral substances not elsewhere specified or included","Materias minerales no expresadas ni comprendidas en otra parte.","Mineral substances n.e.c.","Materias minerales n.c.p.",3,124.0,1,1
 881,"2601","Iron ores and concentrates, including roasted iron pyrites","4digit","Iron ores and concentrates, including roasted iron pyrites","Minerales de hierro y sus concentrados, incluidas las piritas de hierro tostadas (cenizas de piritas).","Iron ores and concentrates","Minerales de hierro",3,125.0,1,1
 882,"2602","Containing 47 percent or more by weight of manganese","4digit","Containing 47 percent or more by weight of manganese","Minerales de manganeso y sus concentrados, incluidos los minerales de manganeso ferruginosos y sus concentrados con un contenido de manganeso superior o igual al 20% en peso, sobre producto seco.","Manganese > 47% by weight","Minerales de manganeso",3,125.0,1,1
-883,"2603","Gold content","4digit","Gold content","Minerales de cobre y sus concentrados.","Copper ore","Minerales de cobre",3,125.0,1,1
+883,"2603","Copper content","4digit","Copper content","Minerales de cobre y sus concentrados.","Copper ore","Minerales de cobre",3,125.0,1,1
 884,"2604","Other metal content","4digit","Other metal content","Minerales de níquel y sus concentrados.","Nickel ore","Minerales de níquel",3,125.0,1,1
 885,"2605","Cobalt ores and concentrates","4digit","Cobalt ores and concentrates","Minerales de cobalto y sus concentrados.","Cobalt ore","Minerales de cobalto",3,125.0,1,1
 886,"2606","Aluminium ores and concentrates","4digit","Aluminium ores and concentrates","Minerales de aluminio y sus concentrados.","Aluminum ore","Minerales de aluminio",3,125.0,1,1
